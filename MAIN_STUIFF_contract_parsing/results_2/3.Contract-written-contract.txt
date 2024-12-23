@@ -1,0 +1,295 @@
+Entry:  CORPORATE MASTER SERVICE AGREEMENT
+Entry:  This Corporate Master Service Agreement (this “Agreement”) is dated as of February 19, 2020, but effective as of January 1, 2020 (the “Effective Date”) by and between CVR Services, LLC, a Delaware limited liability company (“Service Provider”), and the entities listed on Exhibit A attached hereto and incorporated herein, as it may be amended from time to time by written agreement of Service Provider and such entity (each a “Service Recipient” and collectively the “Service Recipients”). Service Provider and Service Recipients are referred to individually as a “Party” and collectively as the “Parties”.
+Entry:  RECITALS
+Entry:  WHEREAS, each Service Recipient wishes to obtain from Service Provider, and Service Provider wishes to provide to each Service Recipient, certain professional services as described herein (collectively, the “Services”); and
+Entry:  WHEREAS, all such Services are necessary for the operation of each Service Recipient’s businesses, and each Service Recipient desires to utilize such Services so as to better carry on the operation of its businesses; and
+Entry:  WHEREAS, CVR Energy and CVR Partners are owners of certain marks as indicated on Exhibit C attached hereto and incorporated herein (the “Marks”), and each desires to allow Service Provider and other Service Recipients the right to use the Marks on and in connection with their businesses and products (the “Business and Goods”).
+Entry:  NOW, THEREFORE, in consideration of the mutual covenants and agreements herein contained, the Parties, intending to be legally bound hereby, covenant and agree as follows:
+Entry:  AGREEMENT
+Entry:  1.SERVICES.
+Entry:  (a)The Services provided under this Agreement are described in Exhibit B attached hereto and incorporated herein, which exhibit may be updated from time to time by written agreement between the Parties.
+Entry:  (b)Each Service Recipient hereby engages Service Provider to provide the Services, and Service Provider, as requested by each Service Recipient, hereby agrees to render the Services to each Service Recipient.
+Entry:  (c)The Parties hereby agree that in discharging its obligations hereunder, Service Provider may engage any of its Affiliates or other Persons to perform the Services (or any part of the Services) on its behalf and that the performance of the Services (or any part of the Services) by any such Affiliate or other Person shall be treated as if Service Provider performed such Services itself. No such delegation by Service Provider to Affiliates or other Persons shall relieve Service Provider of its obligations hereunder.
+Entry:  2.CHARGE FOR SERVICES.
+Entry:  (a)Monthly Fee. Each Service Recipient shall pay Service Provider a monthly fee (the “Monthly Fee”), the amount of which shall be determined in January of each year during the Term by the Parties and which shall be equal to the amount of the direct or indirect expenses incurred by Service Provider in connection with the provision of the Services to such Service Recipient (the “Allocations”), determined as follows:
+Entry:  1
+Entry:  -|-|-|**EMPTY PARA**|-|-|-
+Entry:  i. A pro rata share of all Personnel Costs of Shared Personnel, as determined by Service Provider on a commercially reasonable basis, based on the estimated percent of total working time that such respective personnel are engaged in performing any of the Services taking into consideration the reasonableness of the most recently completed fiscal year actual allocations, current back office operations of Service Provider and other relevant factors deemed pertinent by Service Provider; plus
+Entry:  ii. A pro rata share of all general and administrative costs (excluding Personnel Costs) relating to such Service Recipient, as determined by Service Provider on a commercially reasonable basis, based on the estimated portion of such general and administrative services that are for the benefit of such Service Recipient taking into consideration the reasonableness of the most recently completed fiscal year actual allocations, current back office operations of Service Provider and other relevant factors deemed pertinent by Service Provider; plus
+Entry:  iii. For each Service Recipient, the reasonable and actual amount of any additional direct costs or expenses incurred by Service Provider or its Affiliates in connection with the Services; plus
+Entry:  iv. Any other cost or expense agreed to by the Parties, including those based on any Services added following the date hereof; minus
+Entry:  v. Any costs and expenses that are direct charged to such Service Recipient, such as commercial insurance costs.
+Entry:  (b)Annual True-Up. At least annually, Service Provider and each Service Recipient shall conduct a true-up under which Service Provider shall compare the Monthly Fee paid by such Service Recipient to the actual Allocations incurred by Service Provider or its Affiliates in connection with the provision of Services to such Service Recipient. Service Provider or such Service Recipient, as applicable, shall pay to the other Party the net amount owing as a result of any such true-up (the “True-Up Amount”), at such time and on such terms as may be agreed to by Service Provider and such Service Recipient. Notwithstanding the foregoing, Service Provider may, for any reason including upon request by any Service Recipient, in Service Provider’s sole discretion and at any time, perform such true-ups more frequently than annually.
+Entry:  (c)The Services which are being provided by Service Provider and for which each Service Recipient is being charged hereunder provide a direct benefit to such Service Recipient and are necessary to the generation of income by such Service Recipient or its Affiliates.
+Entry:  (d)There shall be no charge for services performed by Service Provider that merely duplicate a service that a Service Recipient is already performing for itself. Services which are provided under other agreements between Service Provider and each Service Recipient shall not be part of this Agreement.
+Entry:  3.REPORTS AND PAYMENTS.
+Entry:  (a)Each Service Recipient shall pay the Monthly Fee on such date as may be agreed to by the Parties, but no later than the 25th of each month. Any True-Up Amount shall be paid by Service Provider or Service Recipients, as applicable, within 30 days following written request of the Party entitled to receive a True-Up Amount hereunder. All payments shall be in immediately available US Dollars, unless otherwise agreed by Service Provider and such Service Recipient. Any undisputed amounts not paid within thirty days following the due date shall bear interest at the Default Rate.
+Entry:  2
+Entry:  -|-|-|**EMPTY PARA**|-|-|-
+Entry:  (b)Service Provider shall retain all accounting records and related work papers and documents supporting the Monthly Fee and any True-Up Amount (collectively, “Backup”) for a reasonable period of time consistent with Service Provider’s records retention policies, and shall provide access to such Backup upon the reasonable request of any Service Recipient.
+Entry:  (c)ANY SERVICE RECIPIENT MAY, WITHIN 30 DAYS AFTER RECEIPT OF A CHARGE FROM SERVICE PROVIDER, TAKE WRITTEN EXCEPTION TO SUCH CHARGE, ON THE GROUND THAT THE SAME WAS NOT A REASONABLE COST INCURRED BY SERVICE PROVIDER OR ITS AFFILIATES IN CONNECTION WITH THE SERVICES. SERVICE RECIPIENT WILL NEVERTHELESS PAY IN FULL WHEN DUE THE FULL PAYMENT AMOUNT OWED TO SERVICE PROVIDER. SUCH PAYMENT SHALL NOT BE DEEMED A WAIVER OF THE RIGHT OF SERVICE RECIPIENT TO RECOUP ANY CONTESTED PORTION OF ANY AMOUNT SO PAID. HOWEVER, IF THE AMOUNT AS TO WHICH SUCH WRITTEN EXCEPTION IS TAKEN, OR ANY PART THEREOF, IS ULTIMATELY DETERMINED NOT TO BE A REASONABLE COST INCURRED BY SERVICE PROVIDER IN CONNECTION WITH ITS PROVIDING THE SERVICES HEREUNDER, SUCH AMOUNT OR PORTION THEREOF (AS THE CASE MAY BE) WILL BE REFUNDED BY SERVICE PROVIDER TO SERVICE RECIPIENT TOGETHER WITH INTEREST THEREON AT THE DEFAULT RATE DURING THE PERIOD FROM THE DATE OF PAYMENT BY SERVICE RECIPIENT TO THE DATE OF REFUND BY SERVICE PROVIDER.
+Entry:  4.STANDARDS OF PERFORMANCE. Service Provider agrees to utilize ordinary care and diligence in rendering the Services provided for under this Agreement and to perform such Services in accordance with recognized practice in the industry. Without limiting the generality of any other provision hereof, it is not the intent of Service Provider or its Affiliates to render professional advice or opinions, whether with regard to tax, legal, treasury, finance, intellectual property, environmental, health and safety, employment or other matters; Service Recipients shall not rely on any Service rendered by or on behalf of Service Provider or its Affiliates for such professional advice or opinions; and notwithstanding a Service Recipient’s receipt of any proposal, recommendation or suggestion in any way relating to tax, legal, treasury, finance, intellectual property, environmental, health and safety, employment or any other subject matter, such Service Recipient shall seek all third-party professional advice and opinions as it may desire or need, and, in any event such Service Recipient shall be solely responsible for and assume all risks associated with the Services, except to the limited extent set forth herein.
+Entry:  5.GRANT OF LICENSE TO USE MARKS. CVR Energy and CVR Partners (each, a “Mark Owner”), as applicable, each grant to Service Provider and Service Recipients (each, a “Mark User”) a non-exclusive and non-transferable license to use the Marks on and in connection with the Business and Goods, with the right to sublicense subject to the following terms and conditions:
+Entry:  (a)Each Mark User agrees to use the Marks only in the form and manner and with appropriate legends as reasonably prescribed from time to time by Mark Owner, and not to use any other names, logos or marks in combination with the Marks without prior approval of Mark Owner, provided that such approval shall not be unreasonably withheld, conditioned or delayed;
+Entry:  (b)Each Mark User agrees that the nature and quality of the Business and Goods will conform to standards currently applied by Mark Owner;
+Entry:  (c)Each Mark User will permit reasonable inspection of its operations, and will supply Mark Owner with specimens of use of the Marks upon request;
+Entry:  3
+Entry:  -|-|-|**EMPTY PARA**|-|-|-
+Entry:  (d)Each Mark User acknowledges that Mark Owner owns all right, title and interest in and to the Marks, agrees that it will do nothing inconsistent with Mark Owner’s ownership of the Marks and that all use of the Marks by Mark User will inure to the benefit of and be on behalf of Mark Owner;
+Entry:  (e)Each Mark User agrees that nothing in this Agreement will give Mark User any right, title or interest in the Marks, other than the right to use the Marks in accordance with this Agreement and each Mark User agrees that it will not attack the title of Mark Owner to the Marks or attack the validity of the license granted hereunder; and
+Entry:  (f)Each Mark User agrees that Mark Owner will have the sole right and discretion, but not the obligation, to bring infringement or unfair competition proceedings involving the Marks.
+Entry:  6.NON-EXCLUSIVITY. The Parties agree expressly that this Agreement shall be non-exclusive with respect to each Party and that, accordingly, (a) Service Provider may from time to time render similar advice and services to other companies; and (b) any Service Recipient may from time to time retain similar advice and services from other parties.
+Entry:  7.CONFIDENTIALITY.
+Entry:  (a)Service Recipients and Service Provider each acknowledge and agree that all documents, instruments, records, reports and information (regardless of how embodied or conveyed) which are received from the other Party during the Term (collectively, “Confidential Information”) are highly confidential and shall be maintained in strict confidence. Accordingly, each of the Service Recipients and Service Provider agrees that it shall not, at any time during or after the expiration of this Agreement, use in a manner unauthorized by the disclosing Party, any Confidential Information of the disclosing Party or, without the prior written consent of the disclosing Party, directly or indirectly disclose any such Confidential Information to any other Person, other than to any Affiliate, provided that the receiving Party shall require the same agreement from such Affiliate to whom Confidential Information is disclosed.
+Entry:  (b)The term “Confidential Information” does not include any data or information which the receiving Party can establish is already known to the receiving Party at the time it was initially disclosed to the receiving Party. Furthermore, the term “Confidential Information” does not include any data or information which before being divulged by the receiving Party, the receiving Party can establish (a) has become generally known to the public through no wrongful act of the receiving Party or breach of its obligations under this Agreement; (b) has been rightfully received by the receiving Party from a third party without restriction on disclosure and without, to the knowledge of the receiving Party, a breach of an obligation of confidentiality running directly or indirectly to the disclosing Party; or (c) has been approved for release by a written authorization by the disclosing Party.
+Entry:  (c)In the event that the receiving Party is legally requested or required (by oral questions, interrogatories, requests for information or documents, subpoena, civil investigative demand or similar process, or, in the opinion of counsel for such Party, by federal or state securities or other statutes, regulations, or laws) to disclose any Confidential Information, such Party shall, to the extent practicable without violation of applicable legal requirements, promptly notify the disclosing Party of such requests or requirement prior to disclosure so that the disclosing Party may, at its expense, seek an appropriate protective order and/or waive compliance with the terms of this Agreement.
+Entry:  8.INDEMNIFICATION. Each Service Recipient shall indemnify, reimburse, defend and hold harmless Service Provider, its Affiliates and their respective successors and permitted assigns, together with their respective current and future employees, officers, members, managers, directors, agents and representatives (collectively the “Indemnified Parties”), from and against all losses, costs, damages, injuries, taxes, penalties, interests, expenses, obligations, claims and liabilities (joint or severable) of any
+Entry:  4
+Entry:  -|-|-|**EMPTY PARA**|-|-|-
+Entry:  kind or nature whatsoever, including for injury, sickness, disease or death to employees or other persons (collectively “Losses”) that are incurred by such Indemnified Parties in connection with, relating to or arising out of (i) the breach of any term or condition of this Agreement, or (ii) the performance of any Services hereunder; provided, however, that Service Recipients shall not be obligated to indemnify, reimburse, defend or hold harmless any Indemnified Party for any Losses incurred by such Indemnified Party in connection with, relating to or arising out of:
+Entry:  (a)the gross negligence, willful misconduct, bad faith or reckless disregard of such Indemnified Party in the performance of any Services hereunder; or
+Entry:  (b)fraudulent or dishonest acts of such Indemnified Party with respect to the Service Recipients.
+Entry:  Each Service Recipient’s obligation to indemnify, defend, reimburse and hold the Indemnified Parties harmless shall extend to and include, but not be limited to, claims, demands, judgments, liabilities and expenses resulting from the personal injury, sickness, disease or death of any persons, regardless of whether such Service Recipient has paid the person under the provisions of any workers’ compensation statute or law, or other similar federal or state legislation for the protection of employees.
+Entry:  The rights of any Indemnified Party referred to above are in addition to any rights that such Indemnified Party otherwise has at law or in equity. Without the prior written consent of the Service Recipients, no Indemnified Party may settle, compromise or consent to the entry of any judgment in, or otherwise seek to terminate any, claim, action, proceeding or investigation in respect of which indemnification could be sought hereunder unless (A) such Indemnified Party indemnifies the Service Recipients from any liabilities arising out of such claim, action, proceeding or investigation, (B) such settlement, compromise or consent includes an unconditional release of the Service Recipients and Indemnified Party from all liability arising out of such claim, action, proceeding or investigation and (C) the parties involved agree that the terms of such settlement, compromise or consent remain confidential. In the event that indemnification is provided for under any other agreements between CVR Energy or any of its Affiliates and any of the Service Recipients or any of their Affiliates, and such indemnification is for any particular Losses, then such indemnification (and any limitations thereon) as provided in such other agreement applies as to such particular Losses and will supersede and be in lieu of any indemnification that would otherwise apply to such particular Losses under this Agreement.
+Entry:  In the event that any indemnity provisions of this Agreement are contrary to the law governing this Agreement, then the indemnity obligations applicable hereunder will be construed to be to the fullest extent allowed by applicable law.
+Entry:  9.EXPRESS NEGLIGENCE. EXCEPT AS OTHERWISE EXPRESSED THEREIN, THE INDEMNITY, RELEASES AND LIMITATIONS ON DAMAGES, RECOURSE AND LIABILITIES IN THIS AGREEMENT (INCLUDING SECTION 8) ARE INTENDED TO BE ENFORCEABLE AGAINST THE PARTIES IN ACCORDANCE WITH THE EXPRESS TERMS AND SCOPE THEREOF, REGARDLESS OF CAUSE.
+Entry:  10.LIMITATION OF DUTIES AND LIABILITIES. The relationship of Service Provider to Service Recipient pursuant to this Agreement is as an independent contractor and nothing in this Agreement shall be construed to impose on Service Provider or its Affiliates, or on any of their respective successors and permitted assigns, or on their respective employees, officers, members, managers, directors, agents and representatives (each, a “Service Provider Party”), an express or implied fiduciary duty. No Service Provider Party shall be liable for, and Service Recipient shall not take, or permit to be taken, any action against any Service Provider Party to hold such Service Provider Party liable for, (a) any error of judgment or mistake of law or for any liability or loss suffered by Service Recipient in connection
+Entry:  5
+Entry:  -|-|-|**EMPTY PARA**|-|-|-
+Entry:  with the performance of any Services under this Agreement, except for a liability or loss resulting from gross negligence, willful misconduct, bad faith or reckless disregard in the performance of the Services, or (b) any fraudulent or dishonest acts with respect to Service Recipient. In no event, whether based on contract, indemnity, warranty, tort (including negligence), strict liability or otherwise, shall any Service Provider Party be liable for loss of profits or revenue or special, incidental, exemplary, punitive or consequential damages; provided, however, that the foregoing limitation does not preclude recourse to any insurance coverage maintained by the Parties pursuant to the requirements of this Agreement or otherwise.
+Entry:  11.TERM OF AGREEMENT/TERMINATION. This Agreement shall be effective from the Effective Date and shall continue in effect until January 1, 2025, and shall be automatically renewed for successive five-year terms (collectively, the “Term”), unless terminated by either Party at any time during the initial term or any renewal term by providing the other Party at least 90 days prior written notice of termination, or as otherwise agreed to by the Parties. Notwithstanding the foregoing, this Agreement shall automatically terminate as to a Party without any further action by any Party immediately prior to the time at which such Party ceases to be under common control (measured with respect to indirect equity ownership or, in the case of CVR Partners, ownership of its general partner) with the other Parties.
+Entry:  12.NOTICES. All notices, offers, acceptances, waivers and other communications under this Agreement shall be in writing and shall be deemed to have been given and received (i) upon receipt when delivered by hand, (ii) upon transmission, if sent by electronic mail transmission (in each case with receipt verified by electronic confirmation), or (iii) one business day after being sent by overnight courier or express delivery service; provided, that in each case the notice or other communication is sent to the address, electronic mail address set forth beneath the name of such Party below (or to such other address or electronic mail address as such Party shall have specified in a written notice given to the other Parties hereto):
+Entry:  (a)If to Service Provider:
+Entry:  CVR Services, LLC
+Entry:  2277 Plaza Drive, Suite 500
+Entry:  Sugar Land, Texas 77479
+Entry:  Attention: Chief Accounting Officer
+Entry:  Email: mwbley@CVREnergy.com
+Entry:  With a copy to the Office of the General Counsel at the above address
+Entry:  Email: LegalServices@CVREnergy.com
+Entry:  (b)If to any Service Recipient other than CVR Partners or one of its subsidiaries:
+Entry:  Service Recipient
+Entry:  2277 Plaza Drive, Suite 500
+Entry:  Sugar Land, Texas 77479
+Entry:  Attention: EVP & Chief Financial Officer
+Entry:  Email: tdjackson@CVREnergy.com
+Entry:  With a copy to the Office of the General Counsel at the above address
+Entry:  Email: LegalServices@CVREnergy.com
+Entry:  (c)If to any Service Recipient that is CVR Partners or one of its subsidiaries:
+Entry:  Service Recipient
+Entry:  2277 Plaza Drive, Suite 500
+Entry:  Sugar Land, Texas 77479
+Entry:  6
+Entry:  -|-|-|**EMPTY PARA**|-|-|-
+Entry:  Attention: President & Chief Executive Officer
+Entry:  Email: mpytosh@CVREnergy.com
+Entry:  With a copy to the Office of the General Counsel at the above address
+Entry:  Email: LegalServices@CVREnergy.com
+Entry:  13.ASSIGNMENT. This Agreement and all of the provisions hereof shall be binding upon and inure to the benefit of each of the Parties hereto and their respective successors and permitted assigns. Service Provider may not assign this Agreement or any rights, benefits or obligations set forth herein without the prior written consent of each Service Recipient. No Service Recipient may assign this Agreement or any rights, benefits or obligations set forth herein without the prior written consent of Service Provider.
+Entry:  14.ENTIRE AGREEMENT. This Agreement sets forth the entire agreement of the Parties and supersedes all prior representations, agreements and understandings, oral or written, between the Parties with respect to the matters contained herein. The Parties agree that all prior agreements between the Parties are hereby terminated to the extent they relate to Services.
+Entry:  15.NO THIRD PARTY BENEFICIARIES. The Parties each acknowledge and agree that there are no third party beneficiaries, including any employees of Service Provider or any Service Recipient, having rights under or with respect to this Agreement.
+Entry:  16.MODIFICATION AND AMENDMENT. This Agreement may be modified or amended only by a writing that is signed by both Parties and which expresses an intention to modify or amend this Agreement.
+Entry:  17.GOVERNING LAW AND VENUE. This Agreement shall be governed by and construed in accordance with the internal laws of the State of Texas, without regard to conflict of law principles (whether of the State of Texas or any other jurisdiction) that would cause the application of the laws of any jurisdiction other than the State of Texas. Each Party hereby submits to the exclusive jurisdiction of the state and federal courts in the State of Texas and to venue in Houston, Texas, and hereby waives any objection thereto.
+Entry:  18.COUNTERPARTS. This Agreement may be executed in one or more counterparts, any one of which may be by facsimile, and all of which taken together shall constitute one and the same instrument. The exchange of copies of this Agreement and of signature pages by electronic transmission, including by electronic mail in portable document format (“.pdf”), or by any other electronic means intended to preserve the original graphic and pictorial appearance of a document, or by a combination of such means, shall constitute effective execution and delivery of this Agreement as to the Parties and may be used in lieu of an original Agreement for all purposes. Signatures of the Parties transmitted by facsimile or other electronic transmission shall be deemed to be original signatures for all purposes.
+Entry:  19.ATTORNEY-CLIENT PRIVILEGE. In connection with the Services, no Party waives, or shall be construed to have waived, the attorney-client, attorney work product or similar privileges and protections, and such privileges and protections are hereby extended to and shared between Service Provider and Service Recipients in all respects.
+Entry:  20.DEFINITIONS.
+Entry:  (a)“Affiliate” means with respect to any Person, any other Person that directly or indirectly through one or more intermediaries, controls, is controlled by, or is under common control with, such specified Person. For purposes of this definition, “control” when used with respect to any Person means the power to direct the management and policies of such Person, directly or indirectly, through the
+Entry:  7
+Entry:  -|-|-|**EMPTY PARA**|-|-|-
+Entry:  ownership of voting securities, by contract or otherwise (provided that, solely for purposes of this Agreement, the Service Recipients shall not be deemed Affiliates of Service Provider). Notwithstanding anything herein to the contrary, no Person may be an Affiliate of either Service Recipient or Service Provider unless such Person is CVR Energy, Inc. or a wholly-owned subsidiary of CVR Energy, Inc.
+Entry:  (b)“Agreement” has the meaning set forth in the preamble.
+Entry:  (c)“Allocations” has the meaning set forth in Section 2(a).
+Entry:  (d)“Backup” has the meaning set forth in Section 3(b).
+Entry:  (e)“Business and Goods” has the meaning set forth in the Recitals.
+Entry:  (f)“Confidential information” has the meaning set forth in Section 7(a).
+Entry:  (g)“Default Rate” means an interest rate (which in no event will be higher than the rate permitted by applicable law) equal to 300 basis points over LIBOR.
+Entry:  (h)“Effective Date” has the meaning set forth in the preamble.
+Entry:  (i)“Indemnified Party” has the meaning set forth in Section 8.
+Entry:  (j)“Losses” has the meaning set forth in Section 8.
+Entry:  (k)“Marks” has the meaning set forth in the Recitals.
+Entry:  (l)“Mark Owner” has the meaning set forth in Section 5.
+Entry:  (m)“Mark User” has the meaning set forth in Section 5.
+Entry:  (n)“Monthly Fee” shall have the meaning set forth in Section 2(a).
+Entry:  (o)“Party” has the meaning set forth in the preamble.
+Entry:  (p)“Person” means an individual, corporation, partnership, joint venture, trust, limited liability company, unincorporated organization or other entity.
+Entry:  (q)“Personnel Costs” means all compensation costs incurred by an employer in connection with the employment by such employer of applicable personnel, including all payroll and benefits but excluding any share-based compensation costs.
+Entry:  (r)“Service Provider” has the meaning set forth in the preamble.
+Entry:  (s)“Service Provider Party” has the meaning set forth in Section 10.
+Entry:  (t)“Service Recipient” has the meaning set forth in the preamble.
+Entry:  (u)“Services” has the meaning set forth in the Recitals.
+Entry:  (v)“Shared Personnel” means individuals who are employed by Service Provider or any of its Affiliates and provided on a part-time basis to the Service Recipients in connection with provision of the Services.
+Entry:  (w)“Term” has the meaning set forth in Section 11.
+Entry:  8
+Entry:  -|-|-|**EMPTY PARA**|-|-|-
+Entry:  (x)“True-Up Amount” has the meaning set forth in Section 2(b).
+Entry:  [Remainder of page intentionally left blank. Signature page follows.]
+Entry:  9
+Entry:  -|-|-|**EMPTY PARA**|-|-|-
+Entry:  IN WITNESS WHEREOF, the Parties have executed this Agreement on the date set forth below, to be effective as of the date first written above.
+Entry:  CVR SERVICES, LLC
+Entry:  By: /s/ Matthew W. Bley 
+Entry:          Name:  Matthew W. Bley
+Entry:          Title:  Chief Accounting Officer
+Entry:          Date:  February 19, 2020 
+Entry:  WYNNEWOOD ENERGY COMPANY, LLC
+Entry:  By: /s/ Tracy D. Jackson 
+Entry:          Name: Tracy D. Jackson
+Entry:          Title: EVP & Chief Financial Officer
+Entry:          Date:  February 19, 2020
+Entry:  WYNNEWOOD REFINING COMPANY, LLC
+Entry:  By: /s/ Tracy D. Jackson  
+Entry:          Name: Tracy D. Jackson
+Entry:          Title: EVP & Chief Financial Officer
+Entry:          Date:  February 19, 2020
+Entry:  COFFEYVILLE RESOURCES REFINING & MARKETING, LLC
+Entry:  By: /s/ Tracy D. Jackson 
+Entry:          Name: Tracy D. Jackson
+Entry:          Title: EVP & Chief Financial Officer
+Entry:          Date:  February 19, 2020
+Entry:  COFFEYVILLE RESOURCES CRUDE TRANSPORTATION, LLC
+Entry:  By: /s/ Tracy D. Jackson 
+Entry:          Name: Tracy D. Jackson
+Entry:          Title: EVP & Chief Financial Officer
+Entry:          Date:  February 19, 2020
+Entry:  Signature Page to Corporate Master Service Agreement
+Entry:  -|-|-|**EMPTY PARA**|-|-|-
+Entry:  COFFEYVILLE RESOURCES TERMINAL, LLC
+Entry:  By: /s/ Tracy D. Jackson 
+Entry:          Name: Tracy D. Jackson
+Entry:          Title: EVP & Chief Financial Officer
+Entry:          Date:  February 19, 2020
+Entry:  COFFEYVILLE RESOURCES PIPELINE, LLC
+Entry:  By: /s/ Tracy D. Jackson 
+Entry:          Name: Tracy D. Jackson
+Entry:          Title: EVP & Chief Financial Officer
+Entry:          Date:  February 19, 2020
+Entry:  CVR REFINING, LP
+Entry:  By: CVR Refining GP, LLC, its general partner
+Entry:  By: /s/ Tracy D. Jackson 
+Entry:          Name: Tracy D. Jackson
+Entry:          Title: EVP & Chief Financial Officer 
+Entry:  Date:  February 19, 2020
+Entry:  CVR REFINING GP, LLC
+Entry:  By: /s/ Tracy D. Jackson 
+Entry:          Name: Tracy D. Jackson
+Entry:          Title: EVP & Chief Financial Officer
+Entry:          Date:  February 19, 2020
+Entry:  CVR REFINING, LLC
+Entry:  By: /s/ Tracy D. Jackson 
+Entry:          Name: Tracy D. Jackson
+Entry:          Title: EVP & Chief Financial Officer
+Entry:          Date:  February 19, 2020
+Entry:  Signature Page to Corporate Master Service Agreement
+Entry:  -|-|-|**EMPTY PARA**|-|-|-
+Entry:  COFFEYVILLE RESOURCES NITROGEN FERTILIZER, LLC
+Entry:  By: /s/ Mark A. Pytosh 
+Entry:          Name: Mark A. Pytosh
+Entry:          Title: President & Chief Executive Officer
+Entry:          Date:  February 19, 2020
+Entry:  EAST DUBUQUE NITROGEN FERTILIZER, LLC
+Entry:  By: /s/ Mark A. Pytosh 
+Entry:          Name: Mark A. Pytosh
+Entry:          Title: President & Chief Executive Officer
+Entry:          Date:  February 19, 2020
+Entry:  CVR NITROGEN HOLDINGS, LLC
+Entry:  By: /s/ Mark A. Pytosh 
+Entry:          Name: Mark A. Pytosh
+Entry:          Title: President & Chief Executive Officer
+Entry:          Date:  February 19, 2020
+Entry:  CVR NITROGEN, LLC
+Entry:  By: /s/ Mark A. Pytosh 
+Entry:          Name: Mark A. Pytosh
+Entry:          Title: President & Chief Executive Officer
+Entry:          Date:  February 19, 2020
+Entry:  CVR NITROGEN, LP
+Entry:  By: CVR Nitrogen GP, LLC, its general partner
+Entry:  By: /s/ Mark A. Pytosh 
+Entry:          Name: Mark A. Pytosh
+Entry:          Title: President & Chief Executive Officer
+Entry:          Date:  February 19, 2020
+Entry:  Signature Page to Corporate Master Service Agreement
+Entry:  -|-|-|**EMPTY PARA**|-|-|-
+Entry:  CVR NITROGEN FINANCE CORPORATION
+Entry:  By: /s/ Mark A. Pytosh 
+Entry:          Name: Mark A. Pytosh
+Entry:          Title: President & Chief Executive Officer
+Entry:          Date:  February 19, 2020
+Entry:  CVR PARTNERS, LP
+Entry:  By CVR GP, LLC, its general partner
+Entry:  By: /s/ Mark A. Pytosh 
+Entry:          Name: Mark A. Pytosh
+Entry:          Title: President & Chief Executive Officer
+Entry:          Date:  February 19, 2020
+Entry:  CVR GP, LLC
+Entry:  By: /s/ Mark A. Pytosh 
+Entry:          Name: Mark A. Pytosh
+Entry:          Title: President & Chief Executive Officer
+Entry:          Date:  February 19, 2020
+Entry:  CVR ENERGY, INC.
+Entry:  By: /s/ Tracy D. Jackson 
+Entry:          Name: Tracy D. Jackson
+Entry:          Title: EVP & Chief Financial Officer
+Entry:          Date:  February 19, 2020
+Entry:  WYNNEWOOD INSURANCE CORPORATION
+Entry:  By: /s/ Tracy D. Jackson 
+Entry:          Name: Tracy D. Jackson
+Entry:          Title: EVP & Chief Financial Officer
+Entry:          Date:  February 19, 2020
+Entry:  Signature Page to Corporate Master Service Agreement
+Entry:  -|-|-|**EMPTY PARA**|-|-|-
+Entry:  CVR AVIATION, LLC
+Entry:  By: /s/ Tracy D. Jackson 
+Entry:          Name: Tracy D. Jackson
+Entry:          Title: EVP & Chief Financial Officer
+Entry:          Date:  February 19, 2020
+Entry:  CVR ENERGY HOLDINGS, INC.
+Entry:  By: /s/ Tracy D. Jackson 
+Entry:          Name: Tracy D. Jackson
+Entry:          Title: EVP & Chief Financial Officer 
+Entry:  Date:  February 19, 2020
+Entry:  Signature Page to Corporate Master Service Agreement
+Entry:  -|-|-|**EMPTY PARA**|-|-|-
+Entry:  EXHIBIT A
+Entry:  Service Recipients
+Entry:  1.Wynnewood Energy Company, LLC a Delaware limited liability company
+Entry:  2.Wynnewood Refining Company, LLC, a Delaware limited liability company
+Entry:  3.Coffeyville Resources Refining & Marketing, LLC, a Delaware limited liability company
+Entry:  4.Coffeyville Resources Crude Transportation, LLC, a Delaware limited liability company
+Entry:  5.Coffeyville Resources Terminal, LLC, a Delaware limited liability company
+Entry:  6.Coffeyville Resources Pipeline, LLC, a Delaware limited liability company
+Entry:  7.CVR Refining, LP, a Delaware limited partnership
+Entry:  8.CVR Refining GP, LLC, a Delaware limited liability company
+Entry:  9.CVR Refining, LLC, a Delaware limited liability company
+Entry:  10.Coffeyville Resources Nitrogen Fertilizer, LLC, a Delaware limited liability company
+Entry:  11.East Dubuque Nitrogen Fertilizer, LLC, a Delaware limited liability company
+Entry:  12.CVR Nitrogen Holdings, LLC, a Delaware limited liability company
+Entry:  13.CVR Nitrogen, LLC, a Delaware limited liability company
+Entry:  14.CVR Nitrogen, LP, a Delaware limited partnership
+Entry:  15.CVR Nitrogen Finance Corporation, a Delaware corporation
+Entry:  16.CVR Partners, LP, a Delaware limited partnership (“CVR Partners”)
+Entry:  17.CVR GP, LLC
+Entry:  18.CVR Energy, Inc., a Delaware corporation (“CVR Energy”)
+Entry:  19.Wynnewood Insurance Corporation, a Delaware corporation
+Entry:  20.CVR Aviation, LLC, a Delaware limited liability company
+Entry:  21.CVR Energy Holdings, Inc., a Delaware corporation
+Entry:  Exhibit A
+Entry:  -|-|-|**EMPTY PARA**|-|-|-
+Entry:  EXHIBIT B
+Entry:  The following comprise the Services to be provided by Service Provider to Service Recipient under this Agreement:
+Entry:  1.Executive Services. Services in capacities equivalent to the capacities of corporate executive officers, except that the persons serving in such capacities will serve in such capacities as Shared Personnel on a shared, part-time basis only, unless and to the extent otherwise agreed by Services Provider.
+Entry:  2.Information Technology (“IT”) Management Services. Management of IT resources to facilitate business of Service Recipients.
+Entry:  3.SOX Compliance. Consultation, audit and other services relating to compliance with the Sarbanes-Oxley Act of 2002, as amended (“SOX”), including maintenance of a control environment structure sufficient to satisfy any Service Recipient’s obligations under and compliance with SOX.
+Entry:  4.Accounting, Analysis and Audit Services. Accounting services including establishing and maintaining books and records of Service Recipients in accordance with customary practice and generally accepted accounting principles and performance of external reporting, including filings with the Securities and Exchange Commission. Coordination of external audit services. Financial analysis including forecasting, annual budgeting and business analytics and reporting.
+Entry:  5.Tax Services. Tax services including attending to the timely calculation and payment of taxes, the filing of all tax returns due, and assistance with tax audits and other tax documentation or needs encountered by Service Recipients.
+Entry:  6.Treasury and Investor Relations Services. Treasury services including liquidity and capital resources management, credit and related activities, risk management relating to credit activities, debt compliance activities and capital structure services including recommending to the board of directors or other governing authority of any Service Recipient (a) capital raising activities, including the issuance of debt or equity securities of Service Recipient, the entry into credit facilities or other credit arrangements, structured financings or other capital market transactions, or (b) changes or other modifications in the capital structure of Service Recipient, including repurchases. Services relating to engagement with investors, participation in investor conferences and related services.
+Entry:  7.Legal Services. Legal services relating to contracts, regulatory matters, finance, corporate governance, mergers and acquisitions and all other legal matters of the Service Recipients including management and oversight of litigation, administrative or regulatory proceedings, investigations or any other reviews of Service Recipients’ business or operations that may arise in the ordinary course of business or otherwise, subject to the approval of the board of directors or other governing authority of such Service Recipient to the extent necessary in connection with the settlement, compromise, consent to the entry of an order or judgment or other agreement resolving any of the foregoing.
+Entry:  8.Corporate Compliance and Enterprise Risk Management Services. Administration of corporate compliance and enterprise risk management functions including maintenance and administration of whistleblower hotlines, enterprise risk management and mapping, monitoring of emerging enterprise risks and related activities.
+Entry:  9.Business Development Services. Corporate planning and business development including mergers and acquisitions activity and related services.
+Entry:  Exhibit B
+Entry:  -|-|-|**EMPTY PARA**|-|-|-
+Entry:  10.Environmental, Health, Safety & Security (“EHS&S”) Advisory Services. Corporate oversight over certain EHS&S compliance programs including management of corporate audits, facility support, engagement with regulators, periodic reporting and related services, provided that no EHS&S services provided hereunder shall replace or impair the sole responsibility of each facility for EHS&S at each such facility.
+Entry:  11.Corporate Affairs Services. Government affairs services including advocacy and lobbying; corporate communications services including employee engagement, media engagement and public relations; charitable giving services including management of community impact committees and related activities; and advertising and sponsorship services.
+Entry:  12.Human Resources (“HR”) Services. Corporate HR services including management and administration of investment and benefits committees, employee services, labor relations management, and other related activities.
+Entry:  13.Insurance Services. Corporate insurance and related services including establishing and maintaining appropriate insurance policies with respect to Service Recipients’ business and operations, management of claims and other insurance-related risk management services.
+Entry:  14.Consultant Services. Services relating to the engagement or recommendation to Service Recipients of agents, consultants or other third-party service providers, including accountants, lawyers or experts, in each case, as may be necessary or appropriate from time to time.
+Entry:  15.Other Services. Any other services as may be agreed to between Service Provider and Service Recipient from time to time.

@@ -1,0 +1,286 @@
+Paragraph 1:
+Type(s): Technical Assistance
+Content: CONSULTING SERVICES AGREEMENT
+--------------------------------------------------------------------------------
+Paragraph 2:
+Type(s): Technical Assistance
+Content: This Consulting Services Agreement (the “Agreement”) is entered into effective as of [](the “Effective Date”) by and between [], a [] (the “Company”) and []  (the “Consultant”). Each of the Company and the Consultant are hereinafter a “Party” and collectively the “Parties.”
+--------------------------------------------------------------------------------
+Paragraph 3:
+Type(s): Technical Assistance, Acceptance
+Content: WHEREAS, the Company desires to retain the services of the Consultant and the Consultant is desirous and willing to accept such service arrangement and render such services, all upon and subject to the terms and conditions contained in this Agreement,
+--------------------------------------------------------------------------------
+Paragraph 4:
+Type(s): Other
+Content: NOW, THEREFORE, in consideration of the promises and the mutual covenants set forth in this Agreement, and intending to be legally bound, the Company and the Consultant agree as follows:
+--------------------------------------------------------------------------------
+Paragraph 5:
+Type(s): Technical Assistance
+Content: Engagement.  The Company hereby engages and retains the Consultant and the Consultant hereby agrees to render services upon the terms and conditions hereinafter set forth.
+--------------------------------------------------------------------------------
+Paragraph 6:
+Type(s): Termination
+Content: Term.  This Agreement shall be for a term commencing on the Effective Date and terminating 18 months after the Effective Date (the “Term”), unless sooner terminated in accordance with the provisions of Section 6.
+--------------------------------------------------------------------------------
+Paragraph 7:
+Type(s): Technical Assistance
+Content: Services.  During the Term, the Consultant shall act as a strategic advisor providing educational, business and financial advice services to the Company (the “Services”). Without limiting the foregoing, the Services shall include the following:
+--------------------------------------------------------------------------------
+Paragraph 8:
+Type(s): Other
+Content: []
+--------------------------------------------------------------------------------
+Paragraph 9:
+Type(s): Other
+Content: []
+--------------------------------------------------------------------------------
+Paragraph 10:
+Type(s): Other
+Content: []
+--------------------------------------------------------------------------------
+Paragraph 11:
+Type(s): Confidentiality, Non-Exclusive, Confidentiality and Non-Disclosure, Technical Assistance, Non-Compete
+Content: The Consultant shall devote up to []  hours per month. The Consultant shall use its best efforts to perform the Services pursuant to this Agreement competently, carefully, faithfully and shall devote sufficient time and energies necessary to perform the Services.  The Consultant’s Services shall be performed on a non-exclusive basis, but may not be performed during the Term, whether directly or indirectly, for any direct competitor of the Company or its subsidiary.  For the avoidance of doubt, a direct competitor shall be deemed to be any online university or Internet-based postsecondary education company or the providing of any services to a college or university relating to online education.
+--------------------------------------------------------------------------------
+Paragraph 12:
+Type(s): Payment Terms, Liquidated Damages
+Content: Compensation/Expenses.
+--------------------------------------------------------------------------------
+Paragraph 13:
+Type(s): Technical Assistance, Payment Terms, Liquidated Damages
+Content: Cash Compensation.  In consideration for the Services to be rendered by the Consultant under this Agreement, the Company shall pay the Consultant a sum equal to []  (the “Cash Compensation”).
+--------------------------------------------------------------------------------
+Paragraph 14:
+Type(s): Technical Assistance, Payment Terms, Liquidated Damages
+Content: Expenses.  In addition to any compensation received under this Section 4, the Company shall reimburse the Consultant for all reasonable travel, lodging, meals, and other prior approved out-of-pocket expenses incurred or paid by the Consultant in connection with the performance of its Services under this Agreement; provided, however, any such expenses over []shall be approved by the Company in writing in advance.  All other expenditures shall be the sole responsibility of the Consultant.
+--------------------------------------------------------------------------------
+Paragraph 15:
+Type(s): Relationship of Parties
+Content: Independent Contractor Relationship; Appointment to Board of Directors.
+--------------------------------------------------------------------------------
+Paragraph 16:
+Type(s): Representations and Warranties, Relationship of Parties
+Content: (a)The Consultant acknowledges that it is an independent contractor and that no employee of the Consultant shall be considered an employee of the Company. The Consultant acknowledges that it is not the legal representative or agent of the Company, nor does it have the power to obligate the Company, for any purpose other than specifically provided in this Agreement.
+--------------------------------------------------------------------------------
+Paragraph 17:
+Type(s): Termination
+Content: Termination.
+--------------------------------------------------------------------------------
+Paragraph 18:
+Type(s): Delivery, Termination for Cause, Termination, Notices
+Content: In the event of a material default under this Agreement by either party, the other party may terminate this Agreement if such default is not cured within  [] days following delivery of written notice specifying and detailing the default complained of and demanding its cure.   Notwithstanding the preceding, in the event of a violation by the Consultant of Section 7, the Company may terminate this Agreement immediately upon written notice to the Consultant.
+--------------------------------------------------------------------------------
+Paragraph 19:
+Type(s): Remedies, Termination
+Content: Upon termination of this Agreement, the Company shall reimburse the Consultant for any reasonable expenses previously incurred for which the Consultant had not been reimbursed prior to the effective date of termination, provided that the requirements of Section 4(c) have been satisfied.  Any and all other rights granted to the Consultant under this Agreement shall terminate as of the date of such termination.
+--------------------------------------------------------------------------------
+Paragraph 20:
+Type(s): Confidentiality, Confidentiality and Non-Disclosure, Trade Secrets
+Content: Non-Disclosure of Confidential Information.
+--------------------------------------------------------------------------------
+Paragraph 21:
+Type(s): Inspection and Testing, Governing Regulations, Trade Secrets, Confidentiality, Ownership, Privacy, Notices, Technical Assistance, Liens, Audit Rights, Confidentiality and Non-Disclosure, Non-Solicitation, Publicity, Pricing and Fees
+Content: Confidential Information.  Confidential Information includes, but is not limited to, trade secrets as defined by the common law and statutes in [] or any future []statute, processes, policies, procedures, techniques including recruiting techniques, designs, drawings, know-how, show-how, technical information, specifications, computer software and source code, information and data relating to the development, research, testing, costs, marketing and uses of the Company’s products and services, the Company’s budgets and strategic plans, and the identity and special needs of students, databases, data, all technology relating to the Company’s businesses, systems, methods of operation, student lists, student information, solicitation leads, marketing and advertising materials, methods and manuals and forms, all of which pertain to the activities or operations of the Company, names, home addresses and all telephone numbers and e-mail addresses of the Company’s employees, former employees, clients and former clients. In addition, Confidential Information also includes the identity of students and the identity of and telephone numbers, e-mail addresses and other addresses of employees or agents of students who are the persons with whom the Company’s employees and agents communicate in the ordinary course of business.  For purposes of this Agreement, the following will not constitute Confidential Information (i) information which is or subsequently becomes generally available to the public through no act or omission of the Consultant, (ii) information set forth in the written records of the Consultant prior to disclosure to the Consultant by or on behalf of the Company, which information is given to the Company in writing as of or prior to the date of this Agreement, and (iii) information which is lawfully obtained by the Consultant in writing from a third party (excluding any affiliates of the Consultant) who was legally entitled to disclose the information.
+--------------------------------------------------------------------------------
+Paragraph 22:
+Type(s): Confidentiality, Trade Secrets, Confidentiality and Non-Disclosure, Relationship of Parties
+Content: Legitimate Business Interests.  The Consultant recognizes that the Company has legitimate business interests to protect and as a consequence, the Consultant agrees to the restrictions contained in this Agreement because they further the Company’s legitimate business interests.  These legitimate business interests include, but are not limited to (i) trade secrets and valuable confidential business or professional information that otherwise does not qualify as trade secrets, including all Confidential Information; (ii) substantial relationships with specific prospective or existing students; (iii) student goodwill associated with the Company’s business; and (iv) specialized training relating to the Company’s business, technology, methods and procedures.
+--------------------------------------------------------------------------------
+Paragraph 23:
+Type(s): Background Checks, Trade Secrets, Privacy, Confidentiality, Audit Rights, Amendments, Confidentiality and Non-Disclosure, Technical Assistance
+Content: Confidentiality.  The Confidential Information shall be held by the Consultant in the strictest confidence and shall not, without the prior written consent of the Company, be disclosed to any person other than in connection with the Consultant’s Services to the Company.  The Consultant further acknowledges that such Confidential Information as is acquired and used by the Company is a special, valuable and unique asset.  The Consultant shall exercise all due and diligence precautions to protect the integrity of the Company’s Confidential Information and to keep it confidential whether it is in written form, on electronic media or oral.  The Consultant shall not copy any Confidential Information except to the extent necessary to perform its Services hereunder nor remove any Confidential Information or copies thereof from the Company’s premises except to the extent necessary to provide its Services and then only with the authorization of an officer of the Company.  All records, files, materials and other Confidential Information obtained by the Consultant in the course of its Services to the Company are confidential and proprietary and shall remain the exclusive property of the Company or its students, as the case may be.  The Consultant shall not, except in connection with and as required by its performance of the Services under this Agreement, for any reason use for his own benefit or the benefit of any person or entity with which he may be associated or disclose any such Confidential Information to any person, firm, corporation, association or other entity for any reason or purpose whatsoever without the prior written consent of an officer of the Company.
+--------------------------------------------------------------------------------
+Paragraph 24:
+Type(s): Publicity, Relationship of Parties
+Content: Prior Approval.  Neither Party shall issue any public statements or press release concerning this Agreement or the Parties’ relationship without the other Party’s prior approval unless otherwise required by law.
+--------------------------------------------------------------------------------
+Paragraph 25:
+Type(s): Governing Law, Security, Termination for Cause, Ownership, Dispute Resolution, Environmental Compliance, Technical Assistance, Non-Compete
+Content: Equitable Relief.  The Company and the Consultant recognize that the Services to be rendered under this Agreement by the Consultant are special, unique and of extraordinary character, and that in the event of the breach by the Consultant of the terms and conditions of this Agreement or if the Consultant shall cease to provide the Services to the Company for any reason and take any action in violation of Section 7, the Company shall be entitled to institute and prosecute proceedings in any court of competent jurisdiction to enjoin the Consultant from breaching the provisions of Section 7.  In such action, the Company shall not be required to plead or prove irreparable harm or lack of an adequate remedy at law or post a bond or any security.
+--------------------------------------------------------------------------------
+Paragraph 26:
+Type(s): Termination, Survival
+Content: Survival.  Sections 7, 8 and 12 through 18 shall survive termination of this Agreement.
+--------------------------------------------------------------------------------
+Paragraph 27:
+Type(s): Remedies, Amendments, Assignment, Obligations of the Parties
+Content: Assignability.  The rights and obligations of the Company under this Agreement shall inure to the benefit of and be binding upon the successors and assigns of the Company.  This Agreement may not be assigned by the Consultant without the prior written consent of the Company and any attempt to do so shall be void.
+--------------------------------------------------------------------------------
+Paragraph 28:
+Type(s): Compliance with Laws, Governing Law, Severability
+Content: Severability.  If any provision of this Agreement otherwise is deemed to be invalid or unenforceable or is prohibited by the laws of the state or jurisdiction where it is to be performed, this Agreement shall be considered divisible as to such provision and such provision shall be inoperative in such state or jurisdiction and shall not be part of the consideration moving from either of the Parties to the other.  The remaining provisions of this Agreement shall be valid and binding and of like effect as though such provisions were not included. If any restriction set forth in this Agreement is deemed unreasonable in scope, it is the Parties’ intent that it shall be construed in such a manner as to impose only those restrictions that are reasonable in light of the circumstances and as are necessary to assure the Company the benefits of this Agreement.
+--------------------------------------------------------------------------------
+Paragraph 29:
+Type(s): Delivery, Acceptance, Notices
+Content: Notices and Addresses.  All notices, offers, acceptance and any other acts under this Agreement (except payment) shall be in writing, and shall be sufficiently given if delivered to the addressees in person, by or similar overnight delivery, as follows:
+--------------------------------------------------------------------------------
+Paragraph 30:
+Type(s): Other
+Content: If to the Company: []
+--------------------------------------------------------------------------------
+Paragraph 31:
+Type(s): Delivery, Notices
+Content: If to the Consultant: [] or to such other address as either of them, by notice to the other may designate from time to time.  Time shall be counted to, or from, as the case may be, the delivery in person or by mailing.
+--------------------------------------------------------------------------------
+Paragraph 32:
+Type(s): Counterparts
+Content: Counterparts.  This Agreement may be executed in one or more counterparts, each of which shall be deemed an original but all of which together shall constitute one and the same instrument.  The execution of this Agreement may be by actual, facsimile or pdf signature.
+--------------------------------------------------------------------------------
+Paragraph 33:
+Type(s): Governing Law, Security, Termination for Cause, Indemnification, Compliance with Laws
+Content: Governing Law.  All claims relating to or arising out of this Agreement, or the breach thereof, whether sounding in contract, tort, or otherwise, shall also be governed by the laws of the [] without regard to choice of law considerations.
+--------------------------------------------------------------------------------
+Paragraph 34:
+Type(s): Governing Law, Waiver
+Content: Exclusive Jurisdiction and Venue. Any action brought by either party against the other concerning the transactions contemplated by or arising under this Agreement shall be brought only in the  [] and venue shall be in [] or the [] .  The Parties to this Agreement hereby irrevocably waive any objection to jurisdiction and venue of any action instituted hereunder and shall not assert any defense based on lack of jurisdiction or venue or based upon forum non conveniens.
+--------------------------------------------------------------------------------
+Paragraph 35:
+Type(s): Termination, Entire Agreement, Waiver
+Content: Entire Agreement.  This Agreement constitutes the entire agreement between the Parties and supersedes all prior oral and written agreements between the Parties hereto with respect to the subject matter hereof.  Neither this Agreement nor any provision hereof may be changed, waived, discharged or terminated orally, except by a statement in writing signed by the party or Parties against whom enforcement or the change, waiver discharge or termination is sought.
+--------------------------------------------------------------------------------
+Paragraph 36:
+Type(s): Obligations of the Parties
+Content: Additional Documents.  The Parties hereto shall execute such additional instruments as may be reasonably required by their counsel in order to carry out the purpose and intent of this Agreement and to fulfil the obligations of the Parties hereunder.
+--------------------------------------------------------------------------------
+Paragraph 37:
+Type(s): Headings
+Content: Section and Paragraph Headings.  The section and paragraph headings in this Agreement are for reference purposes only and shall not affect the meaning or interpretation of this Agreement.
+--------------------------------------------------------------------------------
+Paragraph 38:
+Type(s): Other
+Content: IN WITNESS WHEREOF, the Company and the Consultant have executed this Agreement as of the date written above.
+--------------------------------------------------------------------------------
+Paragraph 39:
+Type(s): Other
+Content: Annexure A: Scope of Work
+--------------------------------------------------------------------------------
+Paragraph 40:
+Type(s): Other
+Content: Description of Work
+--------------------------------------------------------------------------------
+Paragraph 41:
+Type(s): Technical Assistance
+Content: The following describes the project expectations and specifications; Vendor activities; and reporting requirements for: Work, Services, handling of Microsoft Products, and/or other items or materials that Vendor will perform and/or deliver to Microsoft under this SOW and in accordance with the Agreement (collectively, the “Work”). If the parties agree that any of the Work should be designated “work for hire,” the parties will make the designation in writing.
+--------------------------------------------------------------------------------
+Paragraph 42:
+Type(s): Other
+Content: Product Specifications
+--------------------------------------------------------------------------------
+Paragraph 43:
+Type(s): Non-Solicitation, Technical Assistance
+Content: With the launch of Microsoft Online Services (such as Microsoft Dynamics CRM Online), Microsoft now sells directly to corporate customers as well as through its extensive network of partners. Microsoft Dynamics is part of Microsoft’s Business Division (MBD) which also includes Microsoft Office, Microsoft Exchange and Microsoft Office SharePoint Server.
+--------------------------------------------------------------------------------
+Paragraph 44:
+Type(s): Other
+Content: Products within the Microsoft’s Business Division
+--------------------------------------------------------------------------------
+Paragraph 45:
+Type(s): Other
+Content: Microsoft Business Division (MBD) Products
+--------------------------------------------------------------------------------
+Paragraph 46:
+Type(s): Other
+Content: • 2007 Microsoft Office system
+--------------------------------------------------------------------------------
+Paragraph 47:
+Type(s): Other
+Content: Microsoft Small Business Center
+--------------------------------------------------------------------------------
+Paragraph 48:
+Type(s): Other
+Content: • Exchange Server
+--------------------------------------------------------------------------------
+Paragraph 49:
+Type(s): Other
+Content: Microsoft Small Business Financials
+--------------------------------------------------------------------------------
+Paragraph 50:
+Type(s): Other
+Content: • InfoPath 2007
+--------------------------------------------------------------------------------
+Paragraph 51:
+Type(s): Notices
+Content: Office Communications Server 2007
+--------------------------------------------------------------------------------
+Paragraph 52:
+Type(s): Other
+Content: • Live Meeting
+--------------------------------------------------------------------------------
+Paragraph 53:
+Type(s): Other
+Content: OneNote 2007
+--------------------------------------------------------------------------------
+Paragraph 54:
+Type(s): Other
+Content: • Microsoft Dynamics AX
+--------------------------------------------------------------------------------
+Paragraph 55:
+Type(s): Other
+Content: Project 2007
+--------------------------------------------------------------------------------
+Paragraph 56:
+Type(s): Other
+Content: • Microsoft Dynamics CRM
+--------------------------------------------------------------------------------
+Paragraph 57:
+Type(s): Other
+Content: Publisher 2007
+--------------------------------------------------------------------------------
+Paragraph 58:
+Type(s): Other
+Content: • Microsoft Dynamics Enterprise Reporting
+--------------------------------------------------------------------------------
+Paragraph 59:
+Type(s): Other
+Content: • Microsoft Dynamics GP
+--------------------------------------------------------------------------------
+Paragraph 60:
+Type(s): Other
+Content: Visio 2007
+--------------------------------------------------------------------------------
+Paragraph 61:
+Type(s): Other
+Content: • Microsoft Dynamics NAV
+--------------------------------------------------------------------------------
+Paragraph 62:
+Type(s): Other
+Content: Microsoft Dynamics RMS
+--------------------------------------------------------------------------------
+Paragraph 63:
+Type(s): Other
+Content: • Microsoft Dynamics SL
+--------------------------------------------------------------------------------
+Paragraph 64:
+Type(s): Other
+Content: Microsoft Next Gen Authoring Tools
+--------------------------------------------------------------------------------
+Paragraph 65:
+Type(s): Other
+Content: • Microsoft Office Communicator 200
+--------------------------------------------------------------------------------
+Paragraph 66:
+Type(s): Other
+Content: Microsoft Dynamics Product Portfolio ERP & CRM
+--------------------------------------------------------------------------------
+Paragraph 67:
+Type(s): Other
+Content: Locations - Facilities - Vendor shall perform the Work under this SOW at the following Site(s) (owned or leased by Vendor)
+--------------------------------------------------------------------------------
+Paragraph 68:
+Type(s): Confidentiality, Confidentiality and Non-Disclosure
+Content: Vendor Provided Standard Roles and Levels
+--------------------------------------------------------------------------------
+Paragraph 69:
+Type(s): Technical Assistance
+Content: Vendor will staff the telesales function with personnel who possess the following characteristics and minimum credentials and qualifications; Inside Sales Specialist Online (ISS Online. The CRM Inside Sales Specialist Online (ISS Online) is a telephone-based resource contacting each new Dynamics CRM Online Trial customer with the objective of conducting customer profiling and basic needs discovery to ensure that each customer is supported in the most appropriate way during their Dynamics CRM Online Trial. The ISS Online will validate customer profile information and understand why the customer has chosen to sign up for the trial. The ISS Online will have targets set
+--------------------------------------------------------------------------------
+Paragraph 70:
+Type(s): Other
+Content: Ongoing training topic
+--------------------------------------------------------------------------------
+Paragraph 71:
+Type(s): Pricing and Fees, Representations and Warranties
+Content: Microsoft will provide as needed and/or as requested training for the telesales representatives on relevant topics. These trainings will be conducted via Live Meeting. Microsoft is responsible for providing the subject matter experts. Train the Trainer sessions may take place at Microsoft locations, as well as at the Vendor location; in such event, Microsoft will cover/reimburse the costs for all associated travel. As deemed necessary by Microsoft, Microsoft shall provide readiness plans and Train the Trainer programs for new products, program launches and tools enhancements or rollouts, or if there is a significant change to current products or processes/initiatives. This shall include training materials and documentation as appropriate.
+--------------------------------------------------------------------------------
+
+====================================================================================================

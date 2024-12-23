@@ -1,0 +1,1213 @@
+Results for 5.Contract-written-contract.txt
+Clause: 'MASTER SERVICE AGREEMENT'
+Legal-BERT Prediction: counterparts (Confidence: 0.09047526866197586)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0546782985329628)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'This MASTER SERVICE AGREEMENT (this “Agreement”) is made and entered into as of January 8, 2021 (the “Effective Date”) by and between Humanigen, Inc., a Delaware corporation (“Client”), and EVERSANA Life Science Services, LLC, and its affiliates, a Wisconsin limited liability company (“EVERSANA”). Client and EVERSANA may each be referred to herein as a “party” or collectively as the “parties”.'
+Legal-BERT Prediction: termination (Confidence: 0.07144160568714142)
+Legal-RoBERTa Prediction: limitation of liability (Confidence: 0.09158962965011597)
+Final Prediction: limitation of liability
+================================================================================
+
+Clause: 'RECITALS'
+Legal-BERT Prediction: counterparts (Confidence: 0.0836561769247055)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05439211055636406)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'A.       Client is a clinical stage biopharmaceutical company, developing an COVID-19, immunology, immuno-oncology portfolio of monoclonal antibodies.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.0673421323299408)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.2164052575826645)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'B.       EVERSANA, either directly or through subcontractors, is in the business of furnishing services including, but not limited to patient services, compliance services, product channel distribution, professional services, marketing and market access services, data and analytics, HEOR/RWE and field solution services (“Services”).'
+Legal-BERT Prediction: non-competition (Confidence: 0.08159240335226059)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.18343108892440796)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'C.       Client desires to have EVERSANA furnish certain Services described in this Agreement, and EVERSANA desires to perform such Services upon the terms and conditions set forth in this Agreement.'
+Legal-BERT Prediction: further assurance (Confidence: 0.07647841423749924)
+Legal-RoBERTa Prediction: further assurance (Confidence: 0.13748997449874878)
+Final Prediction: further assurance
+================================================================================
+
+Clause: 'AGREEMENT'
+Legal-BERT Prediction: counterparts (Confidence: 0.08771365880966187)
+Legal-RoBERTa Prediction: amendment (Confidence: 0.04662970453500748)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'NOW, THEREFORE, in consideration of the recitals, mutual covenants and conditions herein contained and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows.'
+Legal-BERT Prediction: entire agreement (Confidence: 0.09275900572538376)
+Legal-RoBERTa Prediction: entire agreement (Confidence: 0.0933883860707283)
+Final Prediction: entire agreement
+================================================================================
+
+Clause: '1.DEFINITIONS. For purposes of this Agreement, the following words shall have the meanings set forth below:'
+Legal-BERT Prediction: counterparts (Confidence: 0.05912184342741966)
+Legal-RoBERTa Prediction: severability (Confidence: 0.10597395151853561)
+Final Prediction: severability
+================================================================================
+
+Clause: 'Page 1 of 23'
+Legal-BERT Prediction: amendment (Confidence: 0.09215142577886581)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05230396240949631)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'B.“PHI” means Protected Health Information and “e-PHI” means Electronic Protected Health Information.'
+Legal-BERT Prediction: amendment (Confidence: 0.07487664371728897)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.08976917713880539)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: 'C.“Products” means all of the biologic products manufactured, distributed, or marketed by Client which Client distributes or desires to distribute.'
+Legal-BERT Prediction: non-competition (Confidence: 0.07728681713342667)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1652437448501587)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'D.“Work Product” means all inventions, products, designs, drawings, notes, documents, data, user statistics, analysis, information, documentation, works of authorship, processes, techniques, know-how, algorithms, specifications, biological or chemical specimens or samples, hardware, circuits, computer programs, databases, user interfaces, encoding techniques, and other materials of any kind that EVERSANA may make, conceive, develop or reduce to practice, alone or jointly with others, as a direct result of performing the Services, or that are specifically related to such Services, whether or not they are eligible for patent, copyright, mask work, trade secret, trademark or other legal protection.'
+Legal-BERT Prediction: intellectual property (Confidence: 0.1052251011133194)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.156978577375412)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: 'GENERAL TERMS AND CONDITIONS'
+Legal-BERT Prediction: amendment (Confidence: 0.08519094437360764)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.13198068737983704)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: '1.SERVICES.'
+Legal-BERT Prediction: amendment (Confidence: 0.07823769748210907)
+Legal-RoBERTa Prediction: termination (Confidence: 0.08123262971639633)
+Final Prediction: termination
+================================================================================
+
+Clause: 'Available Services and additional terms and conditions applicable to each such Service are outlined in the Exhibits to this Agreement. Statement(s) of Work and/or Exhibits (“SOW”) will set forth the Services to be provided by EVERSANA to Client and the fees to be paid by Client to EVERSANA in connection therewith.'
+Legal-BERT Prediction: joint and several liability (Confidence: 0.06069609522819519)
+Legal-RoBERTa Prediction: notice (Confidence: 0.10427416861057281)
+Final Prediction: notice
+================================================================================
+
+Clause: '2.FEES.'
+Legal-BERT Prediction: amendment (Confidence: 0.07722166925668716)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05818630009889603)
+Final Prediction: amendment
+================================================================================
+
+Clause: '2.1       Fees and Expenses. As compensation for EVERSANA’s performance of the Services, Client shall pay fees and expenses (“Fees”) in accordance with the applicable SOW, including any initial one-time set- up fee as described in the applicable SOW. Client shall reimburse EVERSANA for reasonable and properly documented out-of-pocket expenses necessarily incurred in performing Services under this Agreement as the same shall be set forth in a SOW.'
+Legal-BERT Prediction: costs (Confidence: 0.1533871442079544)
+Legal-RoBERTa Prediction: costs (Confidence: 0.32142502069473267)
+Final Prediction: costs
+================================================================================
+
+Clause: '2.2       Fee Increases. On each twelve-month anniversary of the Effective Date, EVERSANA shall have the right to unilaterally increase any then-current transaction or monthly fees for the Services provided under a SOW by [***] percent ([***]%).'
+Legal-BERT Prediction: termination (Confidence: 0.09062173962593079)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.12147501856088638)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '2.4       Disputed Fees. Notwithstanding the foregoing, if Client disputes any charges or amounts on any invoice, and such dispute cannot be resolved promptly through good faith discussions between Client and EVERSANA, then Client will pay the amount of the invoice less the disputed amount, provided that Client shall diligently proceed to work with EVERSANA to resolve any such disputed amount. Any sums withheld pursuant to this paragraph shall not accrue service charges, but if the contested invoice is later determined to be valid in amount, Client shall pay the amount withheld.'
+Legal-BERT Prediction: joint and several liability (Confidence: 0.07216691970825195)
+Legal-RoBERTa Prediction: costs (Confidence: 0.09667755663394928)
+Final Prediction: costs
+================================================================================
+
+Clause: '3.TERM AND TERMINATION.'
+Legal-BERT Prediction: amendment (Confidence: 0.07880766689777374)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.07129655033349991)
+Final Prediction: amendment
+================================================================================
+
+Clause: '3.1       Termination for Lack of Approval. Notwithstanding the foregoing, in the event the FDA does not approve an EUA for the Product by April 30, 2021 or such later date as to which the parties otherwise may agree, either party may terminate the Agreement immediately. In the event of a termination pursuant to this Section 3.1, EVERSANA shall cancel the Initial Invoice and Client shall not be required to pay any of the Deferred Fees.'
+Legal-BERT Prediction: termination (Confidence: 0.1469729244709015)
+Legal-RoBERTa Prediction: termination (Confidence: 0.250895231962204)
+Final Prediction: termination
+================================================================================
+
+Clause: '3.2       Change in Law. This Agreement may be terminated by either party giving written notice of termination to the other party if there is any change in the law that makes operation of the Services as contemplated in this Agreement illegal or commercially impractical.'
+Legal-BERT Prediction: termination (Confidence: 0.1501234471797943)
+Legal-RoBERTa Prediction: termination (Confidence: 0.15594607591629028)
+Final Prediction: termination
+================================================================================
+
+Clause: '3.3       Material Breach. This Agreement may be terminated by the non-breaching party giving written notice of such termination to the other party if the other party breaches a material provision of this Agreement and such breach remains uncured for thirty (30) days.'
+Legal-BERT Prediction: termination (Confidence: 0.11493296921253204)
+Legal-RoBERTa Prediction: termination (Confidence: 0.20125091075897217)
+Final Prediction: termination
+================================================================================
+
+Clause: '3.4       Insolvency. Immediately upon notification or at any time thereafter, either party may terminate this Agreement in the event that:'
+Legal-BERT Prediction: termination (Confidence: 0.1482543796300888)
+Legal-RoBERTa Prediction: termination (Confidence: 0.2284824699163437)
+Final Prediction: termination
+================================================================================
+
+Clause: '(i)the other party shall file any petition under any bankruptcy, reorganization, insolvency or moratorium laws, or any other law or laws for the relief of or in relation to the relief of debtors;'
+Legal-BERT Prediction: termination (Confidence: 0.06878300756216049)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.09753067791461945)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '(ii)there shall be filed against the other party any involuntary petition under any bankruptcy statute or a receiver or trustee shall be appointed to take possession of all or substantial part of the assets of the party which has not been dismissed or terminated within ninety'
+Legal-BERT Prediction: termination (Confidence: 0.08200489729642868)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.1036948561668396)
+Final Prediction: assignment
+================================================================================
+
+Clause: '(90) days of the date of such filing or appointment;'
+Legal-BERT Prediction: counterparts (Confidence: 0.0863204225897789)
+Legal-RoBERTa Prediction: notice (Confidence: 0.0910060778260231)
+Final Prediction: notice
+================================================================================
+
+Clause: '(iii)the other party shall make a general assignment for the benefit of creditors or shall become unable or admit in writing its inability to meet its obligations as they mature; or'
+Legal-BERT Prediction: termination (Confidence: 0.08133729547262192)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.16322647035121918)
+Final Prediction: assignment
+================================================================================
+
+Clause: '(iv)the other party shall institute any proceedings for liquidation or the winding up of its business other than for purposes of reorganization, consolidation or merger.'
+Legal-BERT Prediction: termination (Confidence: 0.06756799668073654)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.07384665310382843)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '3.5       Effect of Termination. Termination or expiration of this Agreement for any reason provided herein does not relieve either party from its obligation to perform up to the effective date of such termination or expiration or to perform such obligations as may survive termination or expiration of this Agreement. If payments attributable to Services performed before the termination or expiration remain unpaid upon the termination or expiration of the Agreement, Client shall make such payments promptly after the termination or expiration of this Agreement. In the event of termination, EVERSANA will use reasonable efforts to terminate work being performed by firms outside of EVERSANA (e.g. subcontracted resources) and other related commitments entered into by EVERSANA but Client will be responsible for all costs incurred by EVERSANA from such other firms and such other commitments approved by Client that could not be terminated. Client will be responsible for all EVERSANA time and expenses for Services performed up to date of termination. Upon the termination or expiration of this Agreement or any SOW, EVERSANA shall provide reasonable transition services, for a period not to exceed [***] days, as requested by the Client to facilitate the orderly transfer of Services to Client or another services provider. EVERSANA shall provide the transition services on a time and materials basis at the rates set forth [***].'
+Legal-BERT Prediction: termination (Confidence: 0.19981315732002258)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.09907770156860352)
+Final Prediction: termination
+================================================================================
+
+Clause: '3.6       Survival. The rights and obligations of the parties under Sections 2, 3.5, 6-9, 12, 14-15, 21-23 and 25 will survive the expiration or termination of this Agreement.'
+Legal-BERT Prediction: termination (Confidence: 0.1439257115125656)
+Legal-RoBERTa Prediction: termination (Confidence: 0.12353383004665375)
+Final Prediction: termination
+================================================================================
+
+Clause: '4.NON-ASSIGNMENT.'
+Legal-BERT Prediction: amendment (Confidence: 0.11149679124355316)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.07061663269996643)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Neither Client nor EVERSANA shall assign this Master Services Agreement or any of their rights and obligations under this Master Services Agreement to another party without the prior written consent of the other party; provided, however, that in the event of a Change in Control (as defined above), either party may assign its rights and obligations hereunder, by no less than thirty (30) days written notice to the other party, to a successor or transferee (whether by merger, consolidation, purchase or otherwise) of either all or substantially all of the assets of such party or any part of the business to which it pertains. This contract will inure for the benefit of and be binding upon Client and EVERSANA and their respective successors and permitted assigns including, without limitation, any acquirer of either Client or EVERSANA.'
+Legal-BERT Prediction: assignment (Confidence: 0.3013696074485779)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.4475805163383484)
+Final Prediction: assignment
+================================================================================
+
+Clause: '5.FORCE MAJEURE.'
+Legal-BERT Prediction: amendment (Confidence: 0.09009747207164764)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.07416419684886932)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Neither party shall be deemed in default in the performance of its obligations under the Agreement to the extent such performance is temporarily prevented or delayed because of war, hostilities, riots, acts of terrorism, civil commotion, epidemic, earthquake, accident, fire, wind, flood, strike or comparable labor shutdowns outside of the reasonable control of the party, or any other act of God; provided that prompt notice of such Force Majeure shall be given by such party to the other party followed within a reasonable time by written confirmation. In such event, the noticing party shall be temporarily relieved of its obligations during the period of such event to the extent such event prevents its performance. If the Force Majeure event continues for one or more related periods of at least sixty (60) days, the other party shall have the unilateral right to terminate this Agreement by fourteen (14) days prior written notice.'
+Legal-BERT Prediction: termination (Confidence: 0.07612442225217819)
+Legal-RoBERTa Prediction: termination (Confidence: 0.0794157087802887)
+Final Prediction: termination
+================================================================================
+
+Clause: '6.CONFIDENTIAL INFORMATION.'
+Legal-BERT Prediction: amendment (Confidence: 0.09050814062356949)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.10791639238595963)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'As used in this Agreement, the term “Confidential Information” shall mean any and all trade secrets and other confidential information disclosed by a party or its affiliates, agents, employees and representatives (the “Disclosing Party”). “Confidential Information” shall include, without limitation, any information concerning the Disclosing Party’s business plan, processes and methods, product or process specifications and designs, inventions, technical know-how, trade secrets, business and marketing plans, financial information, customer data, research and development activities and other materials or information relating to its business or activities which are not generally known to the public, all confidential information of third-parties in the possession of the Disclosing Party; and all reports, notes, analyses, compilations, studies, summaries, memoranda and other material prepared by or for the Disclosing Party containing, reflecting or based, in whole or in part, on any information included in the foregoing. For the avoidance of doubt, the parties acknowledge and agree that information and data gathered by the parties relating to patients, including, without limitation, patient numbers, locations and the manner in which Client identified such patients, shall be Client’s Confidential Information and EVERSANA shall be deemed to be the Receiving Party of such Confidential Information regardless of the party that discloses the Confidential Information hereunder. The term “Confidential Information” shall not include any information that is (i) publicly known or becomes publicly known through no breach of this Agreement by the party receiving or accessing the Confidential Information (the “Receiving Party”) or on the Receiving Party’s behalf, (ii) rightfully received from a third party without an obligation of confidentiality to the Disclosing Party with respect to the information received, or (iii) approved by the Disclosing Party for disclosure.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.24339713156223297)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.46918871998786926)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '7.NON-DISCLOSURE.'
+Legal-BERT Prediction: amendment (Confidence: 0.10238248109817505)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.0754939615726471)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'During the Term of this Agreement and for a period of [***] years (or such longer period if required by law) thereafter, the Receiving Party shall keep the Disclosing Party’s Confidential Information in the strictest confidence (whether such Confidential Information was disclosed to the Receiving Party before, on or after the Effective Date) and shall not disclose, or permit the disclosure of, any Confidential Information to any third party without the prior consent of the Disclosing Party. The Receiving Party shall not use, or permit the use of, any Confidential Information, without the prior consent of the Disclosing Party, for any purpose other than in connection with the proper performance of the Receiving Party’s obligations under this Agreement. The Receiving Party shall use its best efforts to prevent any inadvertent disclosure or unauthorized reproduction or use of the Confidential Information. The Receiving Party shall protect the Disclosing Party’s Confidential Information with no less than the same degree of care as the Receiving Party would protect its own Confidential Information, and in any event, no less than a reasonable degree of care. The Receiving Party shall be liable for breach of its obligations under this Section 7 by its employees and contractors. The Receiving Party will immediately advise the Disclosing Party in writing if the Receiving Party becomes aware of any misappropriation or misuse by any person of the Disclosing Party’s Confidential Information. Notwithstanding the foregoing, the Receiving Party may disclose the Confidential Information of the other party to the extent such Confidential Information is required to be disclosed pursuant to a requirement of a Regulatory Authority or law, provided that: (a) the Receiving Party has given the Disclosing Party prior written notice of such disclosure and takes all available steps to maintain the confidentiality of the information disclosed; and (b) to the extent legally permitted, the Disclosing Party has been afforded a reasonable opportunity to contest the necessity and scope of such disclosure. The Receiving Party acknowledges and agrees that the Disclosing Party considers the Confidential Information to be valuable, confidential and a trade secret. Unless otherwise required by law, the Receiving Party shall, at Disclosing Party’s election, destroy (unless prohibited by applicable law) or promptly return to the Disclosing Party, in good order, the originals and all copies of Confidential Information, regardless of the medium in which they are stored, upon the termination or expiration of this Agreement or at any other time upon the reasonable request of the Disclosing Party except for:'
+Legal-BERT Prediction: confidentiality (Confidence: 0.3243420124053955)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.43606483936309814)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'a.archival electronic information that is electronically archived in the normal course and not in general use;'
+Legal-BERT Prediction: amendment (Confidence: 0.08184441179037094)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.11765241622924805)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'b.information which must otherwise be maintained as a requirement of law or regulation; and'
+Legal-BERT Prediction: amendment (Confidence: 0.07231532037258148)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.17034435272216797)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'c.one (1) copy of the Confidential Information to the extent reasonable to permit the Receiving Party to keep evidence that it has performed its obligations under this Agreement'
+Legal-BERT Prediction: confidentiality (Confidence: 0.17929838597774506)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.2313140630722046)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'provided, in each case of clause 7(a) to 7(c), that the confidentiality and non-use restrictions set out in clause 7, shall continue to apply to such Confidential Information, except that the Receiving Party shall not make any further use or disclosure of the Confidential Information.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.229505255818367)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.3471682369709015)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '8.INTELLECTUAL PROPERTY'
+Legal-BERT Prediction: counterparts (Confidence: 0.07659188657999039)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07274916768074036)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '8.1       Client Property. EVERSANA understands and agrees that all rights to the intellectual property, information and materials of Client that are provided in connection with this Agreement, including, without limitation, the Products or Client Confidential Information, are owned solely by Client (“Client Property”). Client hereby grants EVERSANA a non-exclusive, world-wide, non-transferable, non-sublicensable, royalty-free, fully paid up license to use the Client Property for the purpose of performing the Services hereunder or pursuant to any SOW, and only for so long as the Services are being performed by EVERSANA pursuant to the applicable SOW. Neither EVERSANA nor any of EVERSANA’s employees, contractors or agents shall reverse engineer, disassemble or decompile any prototypes, software, algorithms, or other tangible or intangible objects which are embodied in Client Property or Client’s Confidential Information and which are made available to EVERSANA and its employees, contractors or agents hereunder. EVERSANA shall not (i) modify, translate, or otherwise create derivative works based on Client Property, or (ii) use, analyze, transcribe or transmit any Client Property. EVERSANA shall not remove or alter any proprietary rights notices in or on the original Client Property or Client’s Confidential Information. EVERSANA shall immediately notify Client in the event of any unauthorized use or disclosure of Client Property of which EVERSANA becomes aware and shall indemnify Client for any violations of this Section by EVERSANA or its employees, contractors or agents.'
+Legal-BERT Prediction: damages (Confidence: 0.07414505630731583)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.17876046895980835)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: '8.4       Treatment of EVERSANA Property. Neither Client nor any of Client’s employees, contractors or agents shall reverse engineer, disassemble or decompile any prototypes, software, algorithms, or other tangible or intangible objects which are embodied in EVERSANA Property or EVERSANA Confidential Information and which are made available to Client and its employees, contractors or agents hereunder. Except as expressly set forth under Section 8.2, Client shall not (i) modify, translate, or otherwise create derivative works based on EVERSANA Property, or (ii) use, analyze, transcribe or transmit any EVERSANA Property. Client shall not use or disclose any EVERSANA Property either by itself or in coordination with other third parties, to offer or perform services substantially similar to those offered and/or provided by EVERSANA hereunder, or that are competitive, directly or indirectly, to the business of EVERSANA. Client shall not remove or alter any proprietary rights notices in or on the original EVERSANA Property or Confidential Information. Client shall immediately notify EVERSANA in the event of any unauthorized use or disclosure of EVERSANA Property of which Client becomes aware and shall indemnify EVERSANA for any violations of this Section by Client or its employees, contractors or agents.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.14465005695819855)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.18763020634651184)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '8.5       Priority. To the extent any of the provisions in this Section 8 conflict with those in a specific Exhibit hereto, the provisions of that Exhibit shall prevail with respect to the Services described in said Exhibit.'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.08299094438552856)
+Legal-RoBERTa Prediction: severability (Confidence: 0.3879348337650299)
+Final Prediction: severability
+================================================================================
+
+Clause: '9.NON-SOLICITATION.'
+Legal-BERT Prediction: amendment (Confidence: 0.09536323696374893)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.08699609339237213)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'During the Term of this Agreement and for a period of twelve (12) months thereafter, without the prior written consent of EVERSANA, Client shall not, directly or indirectly, in any manner solicit or induce for employment, or hire or engage the Services of, any employee of EVERSANA or its affiliates who performed any work under this Agreement. A general advertisement or notice of a job listing or opening or other similar general publication of a job search or availability to fill employment positions, including on the internet, shall not be construed as a solicitation or inducement for the purposes of this provision so long as the circumstances indicate that the same was not targeted or directed at EVERSANA employees.'
+Legal-BERT Prediction: non-solicitation (Confidence: 0.2750258445739746)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.34956932067871094)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: 'If Client breaches this provision, Client shall pay to EVERSANA a sum equal to one year’s base salary that was payable by EVERSANA to that employee, plus the recruitment costs incurred by EVERSANA in replacing such individual.'
+Legal-BERT Prediction: costs (Confidence: 0.11894313246011734)
+Legal-RoBERTa Prediction: costs (Confidence: 0.14455963671207428)
+Final Prediction: costs
+================================================================================
+
+Clause: '10.GOVERNING LAW; INTERPRETATION.'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.12354743480682373)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.0992150530219078)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: 'This Agreement shall be governed by and interpreted in accordance with the internal laws of the State of Delaware, United States of America.'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.2633325159549713)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.6219961643218994)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: '11.NOTICE.'
+Legal-BERT Prediction: counterparts (Confidence: 0.09792765974998474)
+Legal-RoBERTa Prediction: notice (Confidence: 0.06608548015356064)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'All notices and other communications that may be or are required to be given hereunder shall be in writing and delivered via electronic mail; shall be deemed to have been duly given on the date of delivery; and shall be addressed as follows:'
+Legal-BERT Prediction: notice (Confidence: 0.19299469888210297)
+Legal-RoBERTa Prediction: notice (Confidence: 0.4524112641811371)
+Final Prediction: notice
+================================================================================
+
+Clause: 'If to EVERSANA:'
+Legal-BERT Prediction: amendment (Confidence: 0.08712807297706604)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.053066618740558624)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'General Counsel'
+Legal-BERT Prediction: counterparts (Confidence: 0.08672215789556503)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06277387589216232)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'EVERSANA Life Science Services, LLC 190 N. Milwaukee Street'
+Legal-BERT Prediction: amendment (Confidence: 0.08386367559432983)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08733515441417694)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Milwaukee, WI 53202 E-mail:'
+Legal-BERT Prediction: amendment (Confidence: 0.07390061765909195)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07474961131811142)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Page 7 of 23'
+Legal-BERT Prediction: amendment (Confidence: 0.08945346623659134)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05173380672931671)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'If to Client:'
+Legal-BERT Prediction: amendment (Confidence: 0.0737239196896553)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06672318279743195)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Chief Executive Officer'
+Legal-BERT Prediction: counterparts (Confidence: 0.08329270035028458)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.056964073330163956)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Humanigen, Inc.'
+Legal-BERT Prediction: counterparts (Confidence: 0.10301201790571213)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05211522430181503)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '533 Airport Blvd., Suite 400'
+Legal-BERT Prediction: amendment (Confidence: 0.07803109288215637)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06363680213689804)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Burlingame, CA 94010'
+Legal-BERT Prediction: counterparts (Confidence: 0.07535755634307861)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.052441321313381195)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'E-mail: cdurrant@humanigen.com'
+Legal-BERT Prediction: counterparts (Confidence: 0.12276627868413925)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07758329063653946)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'With a copy, which shall not constitute notice hereunder, to:'
+Legal-BERT Prediction: counterparts (Confidence: 0.16569246351718903)
+Legal-RoBERTa Prediction: notice (Confidence: 0.21596692502498627)
+Final Prediction: notice
+================================================================================
+
+Clause: 'Chief Commercial Officer Humanigen, Inc.'
+Legal-BERT Prediction: counterparts (Confidence: 0.08451095968484879)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10225143283605576)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '533 Airport Blvd., Suite 400'
+Legal-BERT Prediction: amendment (Confidence: 0.07803109288215637)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06363680213689804)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Burlingame, CA 94010'
+Legal-BERT Prediction: counterparts (Confidence: 0.07535755634307861)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.052441321313381195)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'E-mail: ejordan@humanigen.com'
+Legal-BERT Prediction: counterparts (Confidence: 0.09702689945697784)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08027011156082153)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Either party may change its address for purposes of notice pursuant to this Agreement by notifying the other party of such change of address in the manner set forth above, except that notices for changes of address are effective only upon receipt by the other party.'
+Legal-BERT Prediction: notice (Confidence: 0.1369040459394455)
+Legal-RoBERTa Prediction: notice (Confidence: 0.36761313676834106)
+Final Prediction: notice
+================================================================================
+
+Clause: '12.ATTORNEYS’ FEES.'
+Legal-BERT Prediction: costs (Confidence: 0.09578912705183029)
+Legal-RoBERTa Prediction: costs (Confidence: 0.14303889870643616)
+Final Prediction: costs
+================================================================================
+
+Clause: 'The prevailing party in any suit, proceeding or other action brought against the other party to enforce the terms of this Agreement or any rights or obligations hereunder shall be entitled to receive reimbursement of its reasonable costs, expenses and disbursements (including court costs and attorneys’ fees) incurred in connection with such enforcement.'
+Legal-BERT Prediction: costs (Confidence: 0.1730593889951706)
+Legal-RoBERTa Prediction: costs (Confidence: 0.49940454959869385)
+Final Prediction: costs
+================================================================================
+
+Clause: '14.INDEMNIFICATION.'
+Legal-BERT Prediction: counterparts (Confidence: 0.08644310384988785)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05996501073241234)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Client shall reimburse EVERSANA for all of the out-of-pocket costs and expenses (including, reasonable attorneys’ fees) incurred by EVERSANA in connection with any of the following events or occurrences, except to the extent that such events or occurrences are caused by gross negligence, bad faith or reckless or intentional misconduct by EVERSANA or a breach by EVERSANA of its express obligations contained in this Agreement: (i) any directed inspection, investigation or inquiry by any regulatory authority attributable to Client or its Products or business practices; or (ii) any court or regulatory authority order, subpoena, interrogatory, demand, request for admission or other process of law directed to EVERSANA and specifically attributable to Client or its Products or business practices; or (iii) any request by Client to produce documentation or information, or give testimony or other services in connection with either (i) or (ii) above.'
+Legal-BERT Prediction: indemnity (Confidence: 0.14656658470630646)
+Legal-RoBERTa Prediction: costs (Confidence: 0.20078803598880768)
+Final Prediction: costs
+================================================================================
+
+Clause: 'The parties hereto acknowledge that EVERSANA has not had and will not have any role in the manufacture, labeling, or packaging of Products and that, as between the parties, Client shall have the sole liability for any product liability or similar claims (regardless of the legal theory upon which such claims may be brought) with respect to Products.'
+Legal-BERT Prediction: joint and several liability (Confidence: 0.08279378712177277)
+Legal-RoBERTa Prediction: joint and several liability (Confidence: 0.1549503356218338)
+Final Prediction: joint and several liability
+================================================================================
+
+Clause: '(i)Any defect(s) in the manufacture of any Product, inherent safety risks of any Product or dangerous side effects of any Product;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.11693630367517471)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.08305425196886063)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '(ii)The manufacturing, labeling, and packaging of any Product;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.06956026703119278)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.13947318494319916)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '(iii)Marketing practices of Client, off-label usage of any Product or the promotion of off-label usage, fraud, criminal or civil investigation, inspection or inquiry by or on behalf of any regulatory agency or other entity in connection with any Product, Client, its business or its representatives;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.10248718410730362)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.16687420010566711)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '(iv)Any actual or asserted violation of the Federal Food, Drug and Cosmetic Act or any other Law by virtue of which any Product is alleged or determined to be adulterated, misbranded, mislabeled or otherwise not in full compliance with such law;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.18150074779987335)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.2644663155078888)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '(v)Any actual or asserted infringement or violation of any patent, trademark, trade name, copyright or other intellectual or proprietary rights of any third party with respect to any Product or information relating to any such Product (excluding the Work Product or other hardware, software, data, or materials provided by EVERSANA under this Agreement); or'
+Legal-BERT Prediction: intellectual property (Confidence: 0.19655343890190125)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.2505596876144409)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: '(vi)EVERSANA’s use of or reliance upon any information, documents, direction or instruction provided, supplied or approved by Client or its representatives regarding any Product, Client, or its business.'
+Legal-BERT Prediction: indemnity (Confidence: 0.07110404223203659)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.11034496873617172)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: '15.LIMITATION OF CERTAIN DAMAGES; NO OTHER WARRANTIES.'
+Legal-BERT Prediction: entire agreement (Confidence: 0.0807134211063385)
+Legal-RoBERTa Prediction: costs (Confidence: 0.11509250104427338)
+Final Prediction: costs
+================================================================================
+
+Clause: 'Except in circumstances of gross negligence, bad faith or reckless or intentional misconduct by a party or its affiliates or subcontractors, or with respect to a party’s indemnity obligations under this Agreement, a party’s confidentiality obligations under this Agreement, a party’s violation of law, or third party claims, in no event shall either party, its affiliates or their respective shareholders, managers, directors, officers, employees and agents be liable for any indirect, special, exemplary, punitive or consequential damages (including lost profits), whether or not contemplated or foreseeable, whether a claim is brought at law or in equity and regardless of whether any claim is based upon contract, tort or other principles.'
+Legal-BERT Prediction: indemnity (Confidence: 0.1000017374753952)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.2524775564670563)
+Final Prediction: indemnity
+================================================================================
+
+Clause: 'Page 9 of 23'
+Legal-BERT Prediction: amendment (Confidence: 0.08335746079683304)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.051393553614616394)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Except in circumstances of negligence, bad faith or reckless or intentional misconduct by a party or its affiliates or subcontractors, or with respect to a party’s indemnity obligations under this Agreement, a party’s confidentiality obligations under this Agreement, a party’s violation of law, or third party claims, each party acknowledges and agrees that each party’s maximum liability to the other party arising out of any claim under this Agreement shall in no event exceed [***] dollars ($[***]) during the twelve (12) months following the Effective Date and [***] dollars ($[***]) thereafter.'
+Legal-BERT Prediction: joint and several liability (Confidence: 0.09273327142000198)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.27745234966278076)
+Final Prediction: indemnity
+================================================================================
+
+Clause: 'EVERSANA represents and warrants to the Client that (i) it will use qualified personnel to perform the Services in a professional and workmanlike manner consistent with commercially reasonable standards, (ii) it will perform the Services in compliance with all applicable laws, rules, and regulations, (iii) no Work Product or EVERSANA Property provided by EVERSANA under this Agreement infringes or misappropriates any third party’s Intellectual Property, and (iv) it has the full power and authority to grant the Intellectual Property and other rights granted in this Agreement without the further consent of any third party.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.14985965192317963)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.187114417552948)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'Except as expressly set forth in this Agreement, EVERSANA makes no other representations, warranties or promises, express or implied, including any warranty of merchantability or fitness for a particular purpose.'
+Legal-BERT Prediction: entire agreement (Confidence: 0.1450684368610382)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.1156080886721611)
+Final Prediction: entire agreement
+================================================================================
+
+Clause: '16.ENTIRE AGREEMENT.'
+Legal-BERT Prediction: amendment (Confidence: 0.07476931065320969)
+Legal-RoBERTa Prediction: entire agreement (Confidence: 0.12926393747329712)
+Final Prediction: entire agreement
+================================================================================
+
+Clause: 'This Agreement, together with the Exhibits and SOWs attached hereto, contains the entire understanding between the parties and supersedes and cancels any and all prior agreements, written or oral, between them regarding the within subject matter. There are no representations, agreements, arrangements or understandings, oral or written, between or among the parties hereto relating to the subject matter of this Agreement that are not fully expressed herein.'
+Legal-BERT Prediction: entire agreement (Confidence: 0.3172437846660614)
+Legal-RoBERTa Prediction: entire agreement (Confidence: 0.41873785853385925)
+Final Prediction: entire agreement
+================================================================================
+
+Clause: '17.SEVERABILITY.'
+Legal-BERT Prediction: counterparts (Confidence: 0.09214940667152405)
+Legal-RoBERTa Prediction: limitation of liability (Confidence: 0.08054471760988235)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'If any provision of this Agreement is held invalid or unenforceable by a court of competent jurisdiction, the remaining provisions of this Agreement will remain in full force and effect, and the provision affected will be construed so as to be enforceable to the maximum extent permissible by law.'
+Legal-BERT Prediction: severability (Confidence: 0.25427693128585815)
+Legal-RoBERTa Prediction: severability (Confidence: 0.5738689303398132)
+Final Prediction: severability
+================================================================================
+
+Clause: '18.WAIVER.'
+Legal-BERT Prediction: counterparts (Confidence: 0.09619155526161194)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.08431190252304077)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'The failure by either party to enforce any provision of this Agreement will not constitute a waiver of future enforcement of that or any other provision.'
+Legal-BERT Prediction: waiver (Confidence: 0.33670762181282043)
+Legal-RoBERTa Prediction: waiver (Confidence: 0.35191625356674194)
+Final Prediction: waiver
+================================================================================
+
+Clause: '19.EQUAL OPPORTUNITY EMPLOYER.'
+Legal-BERT Prediction: amendment (Confidence: 0.06974002718925476)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.09154319018125534)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'EVERSANA provides equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, handicap, disability, or status as a Vietnam- era or special disabled veteran in accordance with applicable state or federal laws.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07326209545135498)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.07195930182933807)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '20.COUNTERPARTS.'
+Legal-BERT Prediction: counterparts (Confidence: 0.08140844851732254)
+Legal-RoBERTa Prediction: joint and several liability (Confidence: 0.06947604566812515)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'This Agreement may be signed by the parties in separate counterparts, which shall together constitute one and the same agreement. Facsimile signatures shall have the same effect as originals.'
+Legal-BERT Prediction: counterparts (Confidence: 0.45374560356140137)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.5297642350196838)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '21.DISPUTE RESOLUTION.'
+Legal-BERT Prediction: counterparts (Confidence: 0.0786593034863472)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.08244110643863678)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'Except to the extent necessary to prevent irreparable harm or preserve rights or remedies, if any dispute between the parties arises out of or relates to this Agreement, or the alleged breach thereof, the parties agree to the following mandatory, binding alternative dispute resolution procedures in lieu of litigation:'
+Legal-BERT Prediction: severability (Confidence: 0.08289436995983124)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.06289303302764893)
+Final Prediction: severability
+================================================================================
+
+Clause: '(i)Within five (5) business days of receipt by one party of a written claim or notice of dispute by the other party, the parties shall commence good faith negotiations to settle the dispute.'
+Legal-BERT Prediction: counterparts (Confidence: 0.0719204992055893)
+Legal-RoBERTa Prediction: notice (Confidence: 0.1689031571149826)
+Final Prediction: notice
+================================================================================
+
+Clause: '(ii)If the dispute cannot be settled through negotiation after thirty (30) days, any remaining controversy'
+Legal-BERT Prediction: termination (Confidence: 0.0769716277718544)
+Legal-RoBERTa Prediction: termination (Confidence: 0.08853629976511002)
+Final Prediction: termination
+================================================================================
+
+Clause: 'or claim shall be settled and determined by arbitration administered by the American Arbitration'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.1380627155303955)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.08004564046859741)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: '(iii)The arbitrator also shall determine which is the prevailing party and shall include in the award or'
+Legal-BERT Prediction: joint and several liability (Confidence: 0.05938093736767769)
+Legal-RoBERTa Prediction: notice (Confidence: 0.06674928218126297)
+Final Prediction: notice
+================================================================================
+
+Clause: 'relief the reasonable attorney's fees and costs of such prevailing party in the arbitration. The arbitrator'
+Legal-BERT Prediction: costs (Confidence: 0.17931129038333893)
+Legal-RoBERTa Prediction: costs (Confidence: 0.5224091410636902)
+Final Prediction: costs
+================================================================================
+
+Clause: 'shall make his or her decision based upon the applicable legal principles and upon the evidence presented by the parties, and at the request of any party prior to conclusion of the hearing, shall provide a written reasoned decision which shall include findings of fact and conclusions of law supporting the decision. This Section does not limit either party’s right to provisional or ancillary remedies from a court of competent jurisdiction, and the exercise of any such remedy does not waive either party’s right to arbitration. Judgment on an arbitration award may be entered by any court with competent jurisdiction.'
+Legal-BERT Prediction: waiver (Confidence: 0.0740431398153305)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.09552176296710968)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: '22.SUB-CONTRACTING.'
+Legal-BERT Prediction: amendment (Confidence: 0.0763668566942215)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.08076243102550507)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'In the event that EVERSANA contracts with a subcontractor any of its obligations hereunder, Eversana shall (i) remain liable for the performance of such obligations and will be responsible for the acts and omissions of its subcontractors, (ii) require its permitted subcontractors to agree in writing to be bound by the obligations of this Agreement, and (iii) remain Client’s sole point of contact regarding the Services provided hereunder (including any deliverables), including with respect to payment.'
+Legal-BERT Prediction: joint and several liability (Confidence: 0.09101323038339615)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.25517037510871887)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '23.RECORDS AND AUDITS.'
+Legal-BERT Prediction: counterparts (Confidence: 0.06837835907936096)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.09177117794752121)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'Each party shall keep full, complete and accurate records in connection with its provision of the Services and use of the Services during the Term of this Agreement and for a period of three years thereafter, or for such periods as are required to comply with applicable laws (if longer). Following conclusion of the Services transfer of such records by EVERSANA to Client shall relieve EVERSANA of any further obligation under this provision. Each party shall have the right, upon not less than fourteen (14) days advance written notice and during normal business hours, to inspect or audit, or have inspected or audited at its cost, all such records, including records stored electronically, for the purpose of verifying fees or compliance with other terms and conditions of this Agreement. Any such inspection shall not last more than one (1) business day or eight (8) total hours, whichever is less, and audit may not be performed more often than once in any twelve (12) month period.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.10039635747671127)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.18944589793682098)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '24.AGREEMENT MODIFICATIONS.'
+Legal-BERT Prediction: amendment (Confidence: 0.08766913414001465)
+Legal-RoBERTa Prediction: termination (Confidence: 0.06860630959272385)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'No modification of this Agreement shall be effective unless it is in writing and signed by an authorized representative of each party.'
+Legal-BERT Prediction: amendment (Confidence: 0.15507550537586212)
+Legal-RoBERTa Prediction: amendment (Confidence: 0.30127280950546265)
+Final Prediction: amendment
+================================================================================
+
+Clause: '25.COMPLIANCE WITH LAW.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.08188144862651825)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.1780150681734085)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'Both Client and EVERSANA shall obtain and maintain all applicable material, professional and institutional licenses and certifications required by federal and state laws and professional boards having jurisdiction over the Services to be provided hereunder. In providing the product and performing the Services, as applicable, both Client and EVERSANA will comply with all applicable federal, state and local laws, including without limitation, all applicable regulations and rules relating to Health Insurance Portability and Accountability Act of 1996 (“HIPAA”), as well as drug manufacturing, pharmacy, health care provider and insurance laws. The parties shall execute one or more business associate or other agreements with respect to HIPAA compliance and certain other data governance and security matters, in each such case in mutually agreeable form.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.12571796774864197)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.4465957581996918)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '26.PUBLICITY.'
+Legal-BERT Prediction: amendment (Confidence: 0.07508793473243713)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.09602001309394836)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'Neither party shall directly or indirectly publish, approve or issue any press release or public statement relating to the relationship of the parties to this Agreement or any products furnished or Services performed by EVERSANA for Client (each, a “Press Release”), without the prior written consent of the other party as to both content and timing of such Press Release, which approval may not be unreasonably withheld, delayed or conditioned by the non-publishing party.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.09078392386436462)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.1686735451221466)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '27.[INTENTIONALLY OMITTED].'
+Legal-BERT Prediction: amendment (Confidence: 0.08152980357408524)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06149454787373543)
+Final Prediction: amendment
+================================================================================
+
+Clause: '28.INSURANCE.'
+Legal-BERT Prediction: amendment (Confidence: 0.07316511124372482)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.10615042597055435)
+Final Prediction: insurance
+================================================================================
+
+Clause: '28.1Insurance by Client. Client shall maintain during the Term the following insurance coverage:'
+Legal-BERT Prediction: insurance (Confidence: 0.09046586602926254)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.35017257928848267)
+Final Prediction: insurance
+================================================================================
+
+Clause: '(iii)Upon request, Client shall provide EVERSANA with a Certificate of Insurance which shall indicate all insurance coverage required by this provision herein and that EVERSANA will be provided with notice prior to substantial modification or cancellation of such policies in accordance with policy provisions. Notwithstanding the foregoing, Client will be responsible for providing EVERSANA with no less than thirty (30) days’ notice of any substantial change or cancellation of Client’s insurance.'
+Legal-BERT Prediction: insurance (Confidence: 0.144248366355896)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.21120989322662354)
+Final Prediction: insurance
+================================================================================
+
+Clause: '28.2       Insurance by EVERSANA. EVERSANA shall maintain during the Term the following insurance coverage:'
+Legal-BERT Prediction: insurance (Confidence: 0.10859981179237366)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.3523387014865875)
+Final Prediction: insurance
+================================================================================
+
+Clause: '(i)Warehouseman’s legal liability insurance in the amount of at least $5,000,000. Client acknowledges that such warehouseman’s legal liability insurance also insures property in the possession of EVERSANA other than products of Client.'
+Legal-BERT Prediction: insurance (Confidence: 0.14575588703155518)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.3331674337387085)
+Final Prediction: insurance
+================================================================================
+
+Clause: '(ii)Worker’s Compensation insurance as required by law.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07890180498361588)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.21274994313716888)
+Final Prediction: insurance
+================================================================================
+
+Clause: '(iii)Commercial general liability insurance and umbrella insurance having a combined limit of not less than $1,000,000 per occurrence and $10,000,000 annual aggregate. Such insurance shall be written on an ISO claims made form CG 00 02 1204 (or a substitute for providing equivalent coverage).'
+Legal-BERT Prediction: insurance (Confidence: 0.1651354432106018)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.340656042098999)
+Final Prediction: insurance
+================================================================================
+
+Clause: '(iv)Professional Liability and Errors and Omissions Liability insurance covering liability for loss or damage due to an act, error or negligence having a limit of $10,000,000 annual aggregate.'
+Legal-BERT Prediction: insurance (Confidence: 0.09635413438081741)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.19587361812591553)
+Final Prediction: indemnity
+================================================================================
+
+Clause: 'Upon request, EVERSANA shall provide Client with a Certificate of Insurance which shall indicate all insurance coverage required by this provision herein and that Client will be provided with notice prior to substantial modification or cancellation of such policies in accordance with policy provisions. Notwithstanding the foregoing, EVERSANA will be responsible for providing Client with no less than thirty (30) days’ notice of any substantial change or cancellation of EVERSANA’s insurance. Such insurance coverage, or the failure or inability to obtain such insurance coverage or its application, shall not relieve, limit, or decrease a party’s responsibilities under this Agreement for any Losses including Losses in excess of insurance limits or otherwise.'
+Legal-BERT Prediction: insurance (Confidence: 0.27423095703125)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.27602043747901917)
+Final Prediction: insurance
+================================================================================
+
+Clause: '29.AUTHORITY.'
+Legal-BERT Prediction: counterparts (Confidence: 0.08892939239740372)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.0637933686375618)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Each party represents and warrants to the other, as of the Effective Date, that (i) such party has the full right, power and authority to enter into this Agreement; (ii) the execution, delivery and performance by such party of this Agreement are within its powers and have been duly authorized by all necessary action; (iii) the execution of this Agreement by such party and the performance by such party of its obligations and duties hereunder do not and will not violate any agreement, applicable law, judgment, injunction, order or decree to which it is a party or by which it is otherwise bound; and (iv) when executed and delivered by it, this Agreement shall constitute the legal, valid and binding obligation of such party, enforceable against such party in accordance with its terms.'
+Legal-BERT Prediction: intellectual property (Confidence: 0.10837077349424362)
+Legal-RoBERTa Prediction: further assurance (Confidence: 0.08982011675834656)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: 'Page 13 of 23'
+Legal-BERT Prediction: amendment (Confidence: 0.08459382504224777)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.052156947553157806)
+Final Prediction: amendment
+================================================================================
+
+Clause: '30.DEBARMENT.'
+Legal-BERT Prediction: amendment (Confidence: 0.09137433022260666)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.06626943498849869)
+Final Prediction: amendment
+================================================================================
+
+Clause: '(Signature Page Follows)'
+Legal-BERT Prediction: amendment (Confidence: 0.10405545681715012)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.05771711841225624)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Page 14 of 23'
+Legal-BERT Prediction: amendment (Confidence: 0.08549047261476517)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05218083783984184)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'This agreement has been entered into as of the Effective Date.'
+Legal-BERT Prediction: counterparts (Confidence: 0.0820918157696724)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.10992342978715897)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'EVERSANA Life Science Services, LLC Humanigen, Inc.    By: /s/ Edgar Gutierrez By: /s/ Edward JordanName: Edgar Gutierrez Name: Edward JordanTitle:  Director, Contracts Title: Chief Commercial OfficerDate:  1/9/2021 Date: 1/9/2021'
+Legal-BERT Prediction: costs (Confidence: 0.07632780075073242)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1753334403038025)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Page 15 of 23'
+Legal-BERT Prediction: amendment (Confidence: 0.08543906360864639)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.051102351397275925)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Exhibit AMarketing and Market Access'
+Legal-BERT Prediction: amendment (Confidence: 0.07716592401266098)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08645005524158478)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Recitals'
+Legal-BERT Prediction: counterparts (Confidence: 0.0836561769247055)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.061536628752946854)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'A Master Services Agreement (“Agreement”) was entered into by and between EVERSANA and Client effective January 8, 2021.'
+Legal-BERT Prediction: termination (Confidence: 0.08598601073026657)
+Legal-RoBERTa Prediction: amendment (Confidence: 0.10037574172019958)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Pursuant to Section 1 of the Agreement, the parties now enter into this Exhibit A for the purposes of setting forth additional terms and conditions applicable to the specific market access services to be provided by EVERSANA to Client.'
+Legal-BERT Prediction: counterparts (Confidence: 0.06857869774103165)
+Legal-RoBERTa Prediction: entire agreement (Confidence: 0.0808919295668602)
+Final Prediction: entire agreement
+================================================================================
+
+Clause: 'Services'
+Legal-BERT Prediction: counterparts (Confidence: 0.08404390513896942)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04711904004216194)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'A.       Client desires to have EVERSANA furnish Marketing and Market Access services (“Marketing and Market Access Services”).'
+Legal-BERT Prediction: non-solicitation (Confidence: 0.06323543936014175)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.18385538458824158)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'B.       These Marketing and Market Access Services are more fully described in the primary SOW executed by the Parties. The primary SOW shall set forth a detailed description of the Marketing and Market Access Services to be provided by EVERSANA to Client and the fees to be paid to EVERSANA by Client in connection therewith. This Exhibit B sets forth additional terms and conditions applicable to the Parties in connection with the Market Access Services described in a SOW executed by the parties.'
+Legal-BERT Prediction: further assurance (Confidence: 0.07574603706598282)
+Legal-RoBERTa Prediction: notice (Confidence: 0.10212178528308868)
+Final Prediction: notice
+================================================================================
+
+Clause: 'Additional Terms and Conditions'
+Legal-BERT Prediction: amendment (Confidence: 0.08778909593820572)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.0618315264582634)
+Final Prediction: amendment
+================================================================================
+
+Clause: '2          Trade Secrets. It is the policy of Client to respect the trade secrets of all other parties, including EVERSANA, and to comply with all relevant state and federal laws regarding trade secrets. EVERSANA hereby warrants that, to the best of its knowledge, it does not employ any information-gathering methods that violate state or federal laws governing trade secrets, and that it will not employ any information- gathering methods that violate state or federal laws governing trade secrets in the performance of this Agreement. EVERSANA further warrants that it will not, during its performance under this Agreement, seek to learn any trade secret of any third party, and that it will not at any time disclose to Client any trade secrets belonging to any third party. EVERSANA hereby indemnifies Client and holds Client harmless for any violations of state or federal laws regarding trade secrets arising out of EVERSANA’s activities under this Agreement.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.15072126686573029)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.15151098370552063)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '3.Working Arrangements'
+Legal-BERT Prediction: amendment (Confidence: 0.07501624524593353)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05551649257540703)
+Final Prediction: amendment
+================================================================================
+
+Clause: '3.1       All Marketing and Market Access Services shall be performed at EVERSANA’s premises or another site mutually agreed by the parties. Client shall provide the items set forth in each SOW. Upon receipt of notice from Client that a consultant is not suitable, EVERSANA shall remove such consultant from the performance of Market Access Services, and will provide a qualified replacement as quickly as possible.'
+Legal-BERT Prediction: termination (Confidence: 0.10920796543359756)
+Legal-RoBERTa Prediction: notice (Confidence: 0.12953275442123413)
+Final Prediction: notice
+================================================================================
+
+Clause: '3.2       Client will ensure that all Client personnel who may be necessary or appropriate for the successful performance of the Marketing and Market Access Services will, on reasonable notice: (i) be available to assist EVERSANA personnel by answering business, technical and operational questions and providing requested documents, guidelines and procedures in a timely manner; (ii) reasonably cooperate in the Market Access Services as reasonably necessary for performance under a SOW; and (iii) be available to assist EVERSANA with any other activities or tasks required to complete the Market Access Services in accordance with the SOW.'
+Legal-BERT Prediction: further assurance (Confidence: 0.08918346464633942)
+Legal-RoBERTa Prediction: notice (Confidence: 0.10710931569337845)
+Final Prediction: notice
+================================================================================
+
+Clause: '4.         EVERSANA Personnel. Neither EVERSANA nor its personnel are or shall be deemed to be employees of Client. EVERSANA shall be responsible for the compensation of its personnel, in addition to any applicable employment taxes, workmen's compensation and any other taxes, insurance or provisions associated with the employment of personnel.'
+Legal-BERT Prediction: non-competition (Confidence: 0.07700146734714508)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.10934099555015564)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '5.Fees.'
+Legal-BERT Prediction: counterparts (Confidence: 0.08647975325584412)
+Legal-RoBERTa Prediction: costs (Confidence: 0.0800618976354599)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '5.1       When EVERSANA contracts with broadcast or print media for Marketing and Market Access Services performed under this Agreement (“Media Buys”), EVERSANA will, wherever practicable, contract on behalf of Client in a format substantially similar to that promulgated by the American Association of Advertising Agencies (“AAAA”). EVERSANA will use commercially reasonable efforts to guard against loss to Client through failure of media suppliers to properly execute their commitments; however, under no circumstance shall EVERSANA be responsible for the acts or omissions of media suppliers. Media Buys will be subject to EVERSANA’s standard mark-up, as referenced on the applicable SOW, and will be invoiced by EVERSANA upon issuance of the insertion order.'
+Legal-BERT Prediction: costs (Confidence: 0.08906951546669006)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.1261506974697113)
+Final Prediction: insurance
+================================================================================
+
+Clause: '5.2       When EVERSANA contracts with broadcast or print media for Marketing and Market Access Services performed under the SOW, EVERSANA will guard against loss to Client through failure of media suppliers to properly execute their commitments. EVERSANA will secure for Client’s account all credits and adjustments due to Client from media by reason of the publication or broadcast of any of Client’s advertising not in accordance with the contract specifications or trade custom. In addition, EVERSANA will either credit or pay to Client, at Client’s sole option, the proportionate share of EVERSANA’s total rebates, credits or other adjustments which EVERSANA receives from media in a ration equal to the percentage that Client’s business bears to EVERSANA’s total business.'
+Legal-BERT Prediction: costs (Confidence: 0.10197038948535919)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.17014600336551666)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '5.3       Sales, use and other similar taxes by a governmental authority will be reimbursed by Client in a similar manner to other expenses associated with each Project. All pass-through costs invoiced to Client will be at actual cost with no mark-up.'
+Legal-BERT Prediction: costs (Confidence: 0.09607382118701935)
+Legal-RoBERTa Prediction: costs (Confidence: 0.3290143609046936)
+Final Prediction: costs
+================================================================================
+
+Clause: 'Page 17 of 23'
+Legal-BERT Prediction: amendment (Confidence: 0.08246847987174988)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05132131651043892)
+Final Prediction: amendment
+================================================================================
+
+Clause: '6.0Third Party Approvals'
+Legal-BERT Prediction: amendment (Confidence: 0.08060745894908905)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.07967478036880493)
+Final Prediction: amendment
+================================================================================
+
+Clause: '6.1       Each SOW submitted to Client by EVERSANA is subject to the review and written approval of Client prior to the time EVERSANA incurs liability to third parties in connection with the projects contained in such SOW. Furthermore, all drafts of any deliverables prepared by EVERSANA including but not limited to, proposed journal advertisements, training materials, media copy, advertisements or other promotional material used to promote the products (collectively, the “Promotional Material”) will be prepared by EVERSANA using commercially reasonable efforts to ensure compliance with all applicable laws, rules and regulations, and will be submitted to Client for review and approval prior to publication or use. Client is responsible for reviewing all deliverables (including Promotional Material) prepared by EVERSANA and, for ensuring such deliverables comply with all applicable laws, rules and regulations. Client will have the right to make any editorial changes it desires prior to publication or use; provided, however, that Client must notify EVERSANA in writing of either its approval or disapproval and/or required editing of Promotional Material as promptly as practicable, but in no event less than 48-hours prior to the planned publication or use. Client shall be responsible for all cancellation fees.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.07752961665391922)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.09609955549240112)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'Page 18 of 23'
+Legal-BERT Prediction: amendment (Confidence: 0.08208145946264267)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.051045168191194534)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Exhibit B'
+Legal-BERT Prediction: counterparts (Confidence: 0.0869639664888382)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0450468435883522)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Field Solution Services'
+Legal-BERT Prediction: counterparts (Confidence: 0.08830494433641434)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05461597442626953)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Recitals'
+Legal-BERT Prediction: counterparts (Confidence: 0.0836561769247055)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.061536628752946854)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'A Master Services Agreement (“Agreement”) was entered into by and between EVERSANA and Client effective January 8, 2021.'
+Legal-BERT Prediction: termination (Confidence: 0.08598601073026657)
+Legal-RoBERTa Prediction: amendment (Confidence: 0.10037574172019958)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Pursuant to Section 1 of the Agreement, the parties now enter into this Exhibit B for the purposes of setting forth additional terms and conditions applicable to the specific field solution services to be provided by EVERSANA to Client.'
+Legal-BERT Prediction: counterparts (Confidence: 0.06832211464643478)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08106394112110138)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Services'
+Legal-BERT Prediction: counterparts (Confidence: 0.08404390513896942)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04711904004216194)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'A.Client desires to have EVERSANA provide Field Solution services (the “Field Solution Services”).'
+Legal-BERT Prediction: non-solicitation (Confidence: 0.06617730855941772)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.13177505135536194)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'B.  The Field Solution Services are more fully described in the primary SOW executed by the Parties, and include the provision of Field Sales, Market Access and Medical Affairs teams to include all supporting services. The primary SOW shall set forth a detailed description of the Field Solution Services to be provided by EVERSANA to Client and the fees to be paid to EVERSANA by Client in connection therewith. This Exhibit D sets forth additional terms and conditions applicable to the Parties in connection with the Field Solution Services described in a SOW executed by the parties.'
+Legal-BERT Prediction: further assurance (Confidence: 0.08892950415611267)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.09466887265443802)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Additional Terms and Conditions'
+Legal-BERT Prediction: amendment (Confidence: 0.08778909593820572)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.0618315264582634)
+Final Prediction: amendment
+================================================================================
+
+Clause: '1.Representations and Warranties Specific to the Field Solution Services'
+Legal-BERT Prediction: amendment (Confidence: 0.07054571807384491)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10932960361242294)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1EVERSANA represents warrants and covenants that:'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.08956237137317657)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.10400917381048203)
+Final Prediction: insurance
+================================================================================
+
+Clause: '1.1.1       EVERSANA shall perform the Field Solution Services in a professional, workmanlike manner and in accordance with those specifications and timelines which are agreed to in advance and in writing by EVERSANA and Client;'
+Legal-BERT Prediction: non-competition (Confidence: 0.08138129115104675)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.12251175194978714)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '1.1.2       the personnel assigned to perform the Field Solution Services shall be capable professionally to perform the Field Solution Services in accordance with any agreed upon hiring profile that may be set forth in a SOW;'
+Legal-BERT Prediction: termination (Confidence: 0.06971081346273422)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.13693568110466003)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.4       EVERSANA is not a party to any agreement which would prevent it from fulfilling its obligations under a Field Solution Services SOW and that during the term thereof, it will not enter into any agreement to provide services which would prevent it from performing the Field Solution Services to Client under an executed SOW.'
+Legal-BERT Prediction: non-solicitation (Confidence: 0.11477646976709366)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1385563313961029)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Page 19 of 23'
+Legal-BERT Prediction: amendment (Confidence: 0.0797300860285759)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.052871931344270706)
+Final Prediction: amendment
+================================================================================
+
+Clause: '1.2Client represents warrants and covenants that:'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.0804595798254013)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.09222178906202316)
+Final Prediction: insurance
+================================================================================
+
+Clause: '1.2.1       Client will act in good faith to provide EVERSANA with the necessary materials, information, product training, and assistance reasonably required to enable EVERSANA to perform the Field Solution Services in compliance with all applicable law. Certain Client obligations and responsibilities unique to a specific SOW may be specified within a SOW;'
+Legal-BERT Prediction: further assurance (Confidence: 0.1063503548502922)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.10399795323610306)
+Final Prediction: further assurance
+================================================================================
+
+Clause: '1.2.2       Client either owns the product(s) that is the subject of a SOW, or has received all lawful authority from a third party necessary to grant EVERSANA the right to provide the Field Solution Services described in a SOW. Client’s patents, copyrights, trademarks, trade names and trade dress do not infringe on any intellectual property or product rights of any third party;'
+Legal-BERT Prediction: intellectual property (Confidence: 0.24868878722190857)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.2635990083217621)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: '1.2.3       Client is responsible for reviewing and approving Client’s product promotional materials and literature and for ensuring all such materials comply with applicable laws;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.09103744477033615)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.22085310518741608)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '1.2.4       the program(s) pursuant to which EVERSANA is performing the Field Solution Services is a Client program that is being implemented by EVERSANA and as such, Client is responsible for ensuring that the program set forth in a SOW adheres to applicable law;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.08162089437246323)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.1566014140844345)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '1.2.5Client is responsible for complying with all state and county drug disposal'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.11724748462438583)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.2889658510684967)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'ordinances;'
+Legal-BERT Prediction: counterparts (Confidence: 0.08727502077817917)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.0752204954624176)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '1.2.6       Client is responsible for all decisions concerning the marketing, planning, strategy and detailing of its Product, and shall have the sole right and responsibility for establishing and modifying the terms and conditions of the sale of its Product, including without limitation, terms and conditions such as the price at which the Product will be sold, whether the Product shall be subject to any discounts, the distribution of the Product, and whether credit is to be granted or refused in connection with the sale of any Product; and'
+Legal-BERT Prediction: assignment (Confidence: 0.0702512189745903)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.11129577457904816)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.2.8       Except as set forth in Section 4 of this Exhibit, Client is responsible for any severance payments, if any, due to any of the EVERSANA sales representatives or other field service employees, for any sales representative that is terminated by EVERSANA as a result of a termination request made by Client.'
+Legal-BERT Prediction: termination (Confidence: 0.09110523015260696)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.11704925447702408)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: '(i)       the balance due for any un-cancellable expenses or future financial obligations directly related to the promotion of the Client’s Product; and'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.0862044170498848)
+Legal-RoBERTa Prediction: costs (Confidence: 0.19259843230247498)
+Final Prediction: costs
+================================================================================
+
+Clause: 'Page 20 of 23'
+Legal-BERT Prediction: amendment (Confidence: 0.08580730110406876)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05124717205762863)
+Final Prediction: amendment
+================================================================================
+
+Clause: '(ii)       any severance payments due any of the EVERSANA sales representatives or other field service employees, if any, terminated by EVERSANA as a result of the termination of the Field Solution SOW.'
+Legal-BERT Prediction: non-solicitation (Confidence: 0.10131195187568665)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.14532756805419922)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: '(b)       In the event EVERSANA employees were provided with use of a fleet automobile, a one-time fee per leased vehicle as a lease early termination fee (if any) would apply; and'
+Legal-BERT Prediction: costs (Confidence: 0.07530346512794495)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1245051771402359)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '(i)       a vehicle disposal fee in the amount equal to the net loss to EVERSANA on such fleet vehicles determined by deducting the net sale proceeds from the remaining book value or each fleet vehicle, as of date the fleet vehicle is returned to EVERSANA’s fleet vehicle provider (the “Vehicle Disposal Calculation”), plus costs to transport vehicle for remarketing and all costs and auction fees to prepare the fleet vehicle for sale and remarket; and'
+Legal-BERT Prediction: non-competition (Confidence: 0.07980267703533173)
+Legal-RoBERTa Prediction: costs (Confidence: 0.27143388986587524)
+Final Prediction: costs
+================================================================================
+
+Clause: '(ii)     all remaining interest obligations, management fee changes and depreciation payments due between the month the fleet vehicle lease is terminated and the 24-month anniversary of the fleet vehicle lease;'
+Legal-BERT Prediction: termination (Confidence: 0.10832542181015015)
+Legal-RoBERTa Prediction: termination (Confidence: 0.1167449802160263)
+Final Prediction: termination
+================================================================================
+
+Clause: '3.Conversion'
+Legal-BERT Prediction: counterparts (Confidence: 0.07832639664411545)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04997577518224716)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '(a)       Notwithstanding Section 8 of the Agreement, during the Term of the Field Solution SOW, Client may solicit, employ or retain one or more EVERSANA sales representatives performing Services hereunder (a “Conversion”) provided that: (i) such hiring may not occur prior to the first anniversary of date the sales representative commenced provision of the Field Solution Services (the “Deployment Date”) and (ii) Client provides at least ninety (90) days prior written notice to EVERSANA of any Conversion. In the event Client wishes to implement a Conversion prior to the first anniversary of the applicable Deployment Date, Client shall pay EVERSANA a fee of [***] Fees per sales representative . There shall be no Conversion fee due thereafter.'
+Legal-BERT Prediction: non-solicitation (Confidence: 0.1295730173587799)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.2186083197593689)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '(b)       Client understands and agrees that EVERSANA cannot guaranty that any sales representative will agree to participate in a Conversion.'
+Legal-BERT Prediction: non-solicitation (Confidence: 0.07364939153194427)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.09197735786437988)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: '(c)       In the event Client implements a Conversion, the parties agree that any and all training materials made available to the sales representatives will be returned to EVERSANA, it being understood and agreed that the EVERSANA proprietary training modules constitutes valuable and proprietary information of EVERSANA and is subject to the confidentiality obligations set forth in Sections 6 and 7 of the Agreement.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.1710326373577118)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.4072318375110626)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'Page 21 of 23'
+Legal-BERT Prediction: amendment (Confidence: 0.08511964976787567)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05187022686004639)
+Final Prediction: amendment
+================================================================================
+
+Clause: '4.Performance of the Field Solution Services'
+Legal-BERT Prediction: counterparts (Confidence: 0.08447904884815216)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0808132216334343)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '5.2       EVERSANA is, and at all times shall remain, solely responsible for the human resource and performance management functions of all EVERSANA personnel provided to perform the Field Solution Services. EVERSANA shall be solely responsible for all disciplinary, probationary and termination actions taken by it, and for the formulation, content and dissemination of all employment policies and rules (including written disciplinary, probationary and termination policies) applicable to its employees, agents and contractors (individually, an “EVERSANA Employee” and collectively, the “EVERSANA Employees”).'
+Legal-BERT Prediction: non-competition (Confidence: 0.10027315467596054)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.10106604546308517)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: 'Page 22 of 23'
+Legal-BERT Prediction: amendment (Confidence: 0.08195879310369492)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05073072016239166)
+Final Prediction: amendment
+================================================================================
+
+Clause: '5.3       EVERSANA shall obtain and maintain worker’s compensation insurance and other insurances required for EVERSANA Employees performing the Field Solution Services and acknowledges that Client does not, and shall not obtain or maintain such insurances, all of which shall be EVERSANA’s sole responsibility.'
+Legal-BERT Prediction: insurance (Confidence: 0.12552565336227417)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.3676224946975708)
+Final Prediction: insurance
+================================================================================
+
+Clause: '5.5       Except as otherwise set out in this Agreement or in a SOW, Client shall have no responsibility to EVERSANA or any EVERSANA Employee for any compensation, expense reimbursements or benefits (including, without limitation, vacation and holiday remuneration, healthcare coverage or insurance, life insurance, pension or profit-sharing benefits and disability benefits), payroll-related or withholding taxes, or any governmental charges or benefits (including, without limitation, unemployment and disability insurance contributions or benefits and workers compensation contributions or benefits) that may be imposed upon or be related to the performance by EVERSANA or its employees, agents or contractors of the obligations under this Agreement or any SOW, all of which shall be the sole responsibility of EVERSANA. To clarify, Client will not withhold any income tax or payroll tax of any kind on behalf of EVERSANA.'
+Legal-BERT Prediction: non-competition (Confidence: 0.10312548279762268)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.16110818088054657)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '5.6       Limitations. Notwithstanding anything to the contrary in this Section 5, EVERSANA shall have no obligation or responsibility for any damages, liability, loss and costs, including but not limited to attorney’s fees (collectively, “Liability”) to the extent such Liability is attributed to either. discriminatory and/or intentional acts of Client, its employees, agents or contractors.'
+Legal-BERT Prediction: indemnity (Confidence: 0.09397895634174347)
+Legal-RoBERTa Prediction: costs (Confidence: 0.22180192172527313)
+Final Prediction: costs
+================================================================================
+
+Clause: '6.Training Obligations of the Parties'
+Legal-BERT Prediction: amendment (Confidence: 0.08614598214626312)
+Legal-RoBERTa Prediction: limitation of liability (Confidence: 0.06918341666460037)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'The training responsibilities of the parties are as follows:'
+Legal-BERT Prediction: amendment (Confidence: 0.06649016588926315)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0745694488286972)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '(a)       EVERSANA shall train all EVERSANA sales representatives concerning: selling skills, compliance with applicable laws, use of sales force automation software, expense management policies, EVERSANA human resource policies, procedures and administration and other applicable EVERSANA internal human resource and general compliance policies and procedures, and recruiting/onboarding. Client shall have the opportunity to review all training materials used by EVERSANA in advance of such training and may require revisions as deemed appropriate by the Client. Client may assist EVERSANA personnel in such training.'
+Legal-BERT Prediction: non-solicitation (Confidence: 0.0726415365934372)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1368330866098404)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '(b)       Client shall provide all training content and sales and training objectives, including but not limited to, clinical studies, regulatory documents, Product-specific information including Product complaint-handling procedures, applicable specific Client health care compliance policies and Client customer service policies and procedures, orientation to Clients’ businesses, and adverse event reporting policies and procedures to EVERSANA (the “Training Material”). EVERSANA shall train all EVERSANA sales representatives in accordance with the sales and training objectives provided by Client and described in the Training Materials. The parties agree to work together to mutually determine if, when, and at what cost additional training shall be provided.'
+Legal-BERT Prediction: non-competition (Confidence: 0.08316853642463684)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1572655290365219)
+Final Prediction: non-competition
+================================================================================
+

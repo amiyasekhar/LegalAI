@@ -1,0 +1,2623 @@
+Results for 8.Contract-written-contract.txt
+Clause: 'BROOKFIELD CORPORATION'
+Legal-BERT Prediction: counterparts (Confidence: 0.08129196614027023)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05125926434993744)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '- and -'
+Legal-BERT Prediction: counterparts (Confidence: 0.08620429784059525)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.059346750378608704)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'BROOKFIELD RENEWABLE PARTNERS L.P.'
+Legal-BERT Prediction: counterparts (Confidence: 0.09945224970579147)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06066090241074562)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '- and -'
+Legal-BERT Prediction: counterparts (Confidence: 0.08620429784059525)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.059346750378608704)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'BROOKFIELD RENEWABLE ENERGY L.P.'
+Legal-BERT Prediction: counterparts (Confidence: 0.10157710313796997)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.058568309992551804)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '- and -'
+Legal-BERT Prediction: counterparts (Confidence: 0.08620429784059525)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.059346750378608704)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'BROOKFIELD ASSET MANAGEMENT PRIVATE INSTITUTIONAL CAPITAL ADVISER (CANADA), L.P.'
+Legal-BERT Prediction: termination (Confidence: 0.08513429760932922)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1364395022392273)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '- and -'
+Legal-BERT Prediction: counterparts (Confidence: 0.08620429784059525)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.059346750378608704)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'BROOKFIELD CANADA RENEWABLE MANAGER LP'
+Legal-BERT Prediction: counterparts (Confidence: 0.08606913685798645)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07501836866140366)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '- and -'
+Legal-BERT Prediction: counterparts (Confidence: 0.08620429784059525)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.059346750378608704)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'BROOKFIELD RENEWABLE ENERGY GROUP LLC'
+Legal-BERT Prediction: counterparts (Confidence: 0.09285478293895721)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05955866351723671)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '- and -'
+Legal-BERT Prediction: counterparts (Confidence: 0.08620429784059525)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.059346750378608704)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'BROOKFIELD GLOBAL RENEWABLE ENERGY ADVISOR LIMITED'
+Legal-BERT Prediction: counterparts (Confidence: 0.11495832353830338)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08892712742090225)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '- and -'
+Legal-BERT Prediction: counterparts (Confidence: 0.08620429784059525)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.059346750378608704)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'BROOKFIELD PRIVATE CAPITAL (DIFC) LIMITED'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07672394812107086)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06616710871458054)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '- and -'
+Legal-BERT Prediction: counterparts (Confidence: 0.08620429784059525)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.059346750378608704)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'each of the Holding Entities that has executed this Agreement on Schedule A hereto'
+Legal-BERT Prediction: amendment (Confidence: 0.09974589943885803)
+Legal-RoBERTa Prediction: amendment (Confidence: 0.08350912481546402)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'May 5, 2023'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.0697680339217186)
+Legal-RoBERTa Prediction: termination (Confidence: 0.04837934300303459)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'TABLE OF CONTENTS'
+Legal-BERT Prediction: counterparts (Confidence: 0.07361921668052673)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.0471753366291523)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '-i-'
+Legal-BERT Prediction: amendment (Confidence: 0.07572529464960098)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05092392489314079)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'TABLE OF CONTENTS'
+Legal-BERT Prediction: counterparts (Confidence: 0.07361921668052673)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.0471753366291523)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '(continued)'
+Legal-BERT Prediction: amendment (Confidence: 0.07064072787761688)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04903245344758034)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'PageARTICLE 6   INFORMATION AND RECORDS176.1Books and Records176.2Examination of Records by the Service Recipients176.3Access to Information by Service Provider Group186.4Additional Information18   ARTICLE 7   FEES AND EXPENSES197.1Net Base Management Fee and Base Management Fee Adjustment197.2Maximum Fees Payable by Service Recipients197.3Currency197.4Computation and Payment of Net Base Management Fee197.5Expenses207.6Governmental Charges217.7Computation and Payment of Expenses and Governmental Charges21   ARTICLE 8   BROOKFIELD’S OBLIGATION AND CONSENT RIGHT228.1Provision of Services to the Service Recipients228.2Consent to Issuance of Class A Shares22   ARTICLE 9   REPRESENTATIONS AND WARRANTIES OF THE SERVICE PROVIDERS AND THE SERVICE RECIPIENTS229.1Representations and Warranties of the Service Providers229.2Representations and Warranties of the Service Recipients23   ARTICLE 10   LIABILITY AND INDEMNIFICATION2410.1Indemnity2410.2Limitation of Liability2510.3Benefit to all Indemnified Parties2610.4No Waiver26   ARTICLE 11   TERM AND TERMINATION2611.1Term2611.2Termination by the Service Recipients26'
+Legal-BERT Prediction: termination (Confidence: 0.07385718077421188)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.09206194430589676)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: '-ii-'
+Legal-BERT Prediction: counterparts (Confidence: 0.07001487910747528)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04759291186928749)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'TABLE OF CONTENTS'
+Legal-BERT Prediction: counterparts (Confidence: 0.07361921668052673)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.0471753366291523)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '(continued)'
+Legal-BERT Prediction: amendment (Confidence: 0.07064072787761688)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04903245344758034)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Page   11.3Termination by the Service Providers2711.4Survival Upon Termination2811.5Action Upon Termination2811.6Release of Money or other Property Upon Written Request28   ARTICLE 12   ARBITRATION2912.1Dispute2912.2Arbitration2912.3Continued Performance30   ARTICLE 13   GENERAL PROVISIONS3013.1Limited Liability of Limited Partners of BEP and BRELP3013.2Assignment3013.3Failure to Pay When Due3113.4Enurement3113.5Notices3113.6Further Assurances3313.7Counterparts3313.8Other Holding Entities33'
+Legal-BERT Prediction: termination (Confidence: 0.11089266836643219)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.08284903317689896)
+Final Prediction: termination
+================================================================================
+
+Clause: '-iii-'
+Legal-BERT Prediction: counterparts (Confidence: 0.07449354976415634)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04971417784690857)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'THIS AGREEMENT made as of the 5th day of May, 2023.'
+Legal-BERT Prediction: amendment (Confidence: 0.07238762080669403)
+Legal-RoBERTa Prediction: termination (Confidence: 0.07670969516038895)
+Final Prediction: termination
+================================================================================
+
+Clause: 'A M O N G:'
+Legal-BERT Prediction: amendment (Confidence: 0.06933218985795975)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05384493246674538)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'BROOKFIELD CORPORATION (formerly Brookfield Asset Management Inc.) (“Brookfield”), a corporation existing under the laws of the Province of Ontario'
+Legal-BERT Prediction: termination (Confidence: 0.09274794906377792)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10515044629573822)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '- and -'
+Legal-BERT Prediction: counterparts (Confidence: 0.08620429784059525)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.059346750378608704)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'BROOKFIELD RENEWABLE PARTNERS L.P. (formerly Brookfield Renewable Energy Partners L.P.) (“BEP”), an exempted partnership existing under the laws of Bermuda'
+Legal-BERT Prediction: termination (Confidence: 0.07845582067966461)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.12507903575897217)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '- and -'
+Legal-BERT Prediction: counterparts (Confidence: 0.08620429784059525)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.059346750378608704)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'BROOKFIELD RENEWABLE ENERGY L.P. (“BRELP”), an exempted partnership existing under the laws of Bermuda'
+Legal-BERT Prediction: termination (Confidence: 0.07411801069974899)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10366233438253403)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '- and -'
+Legal-BERT Prediction: counterparts (Confidence: 0.08620429784059525)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.059346750378608704)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'BROOKFIELD ASSET MANAGEMENT PRIVATE INSTITUTIONAL CAPITAL ADVISER (CANADA), L.P. (the “Canadian Service Provider”), a limited partnership existing under the laws of the Province of Manitoba'
+Legal-BERT Prediction: termination (Confidence: 0.07934718579053879)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.16218061745166779)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '- and -'
+Legal-BERT Prediction: counterparts (Confidence: 0.08620429784059525)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.059346750378608704)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'BROOKFIELD CANADA RENEWABLE MANAGER LP (the “Canadian Service Provider II”), a limited partnership governed by the laws of the Province of Ontario'
+Legal-BERT Prediction: termination (Confidence: 0.08462581783533096)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.13620729744434357)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '- and -'
+Legal-BERT Prediction: counterparts (Confidence: 0.08620429784059525)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.059346750378608704)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'BROOKFIELD RENEWABLE ENERGY GROUP LLC (the “US Service Provider” and the “International Service Provider”), a limited liability company existing under the laws of the State of Delaware'
+Legal-BERT Prediction: termination (Confidence: 0.08005134016275406)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10469673573970795)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '- and -'
+Legal-BERT Prediction: counterparts (Confidence: 0.08620429784059525)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.059346750378608704)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'BROOKFIELD GLOBAL RENEWABLE ENERGY ADVISOR LIMITED (the “UK Service Provider”), a company existing under the laws of England'
+Legal-BERT Prediction: termination (Confidence: 0.07499208301305771)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1220846176147461)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '- and -'
+Legal-BERT Prediction: counterparts (Confidence: 0.08620429784059525)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.059346750378608704)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'BROOKFIELD PRIVATE CAPITAL (DIFC) LIMITED (the “Dubai Service Provider”), a private company existing under the laws of Dubai International Financial Centre'
+Legal-BERT Prediction: termination (Confidence: 0.08173039555549622)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.13564898073673248)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '- and -'
+Legal-BERT Prediction: counterparts (Confidence: 0.08620429784059525)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.059346750378608704)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'each of the Holding Entities (as defined below)'
+Legal-BERT Prediction: termination (Confidence: 0.07745683193206787)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.08411949127912521)
+Final Prediction: assignment
+================================================================================
+
+Clause: 'RECITALS:'
+Legal-BERT Prediction: counterparts (Confidence: 0.0857212021946907)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05533226579427719)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'A.            The Service Recipients (as defined below) indirectly hold interests in the Power Operations.'
+Legal-BERT Prediction: termination (Confidence: 0.08293015509843826)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.18239226937294006)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '-2-'
+Legal-BERT Prediction: counterparts (Confidence: 0.07627301663160324)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04722500592470169)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'D.            BRP Energy Group L.P. has executed an acknowledgement dated the date hereof that it is no longer a party to the Current Agreement.'
+Legal-BERT Prediction: termination (Confidence: 0.0883733406662941)
+Legal-RoBERTa Prediction: termination (Confidence: 0.07597445696592331)
+Final Prediction: termination
+================================================================================
+
+Clause: 'NOW THEREFORE in consideration of the mutual covenants and agreements contained in this Agreement and other good and valuable consideration (the receipt and sufficiency of which are hereby acknowledged), the parties hereto agree as follows:'
+Legal-BERT Prediction: entire agreement (Confidence: 0.09065257012844086)
+Legal-RoBERTa Prediction: entire agreement (Confidence: 0.11046472191810608)
+Final Prediction: entire agreement
+================================================================================
+
+Clause: 'ARTICLE 1'
+Legal-BERT Prediction: counterparts (Confidence: 0.08636089414358139)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05530454218387604)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'INTERPRETATION'
+Legal-BERT Prediction: counterparts (Confidence: 0.09244592487812042)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05632231757044792)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '1.1Definitions'
+Legal-BERT Prediction: amendment (Confidence: 0.088974229991436)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05067986994981766)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'In this Agreement, except where the context otherwise requires, the following terms will have the following meanings:'
+Legal-BERT Prediction: entire agreement (Confidence: 0.06885531544685364)
+Legal-RoBERTa Prediction: severability (Confidence: 0.08625089377164841)
+Final Prediction: severability
+================================================================================
+
+Clause: '1.1.2           “Act” has the meaning assigned thereto in Section 12.2.1;'
+Legal-BERT Prediction: amendment (Confidence: 0.07306462526321411)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07258214056491852)
+Final Prediction: amendment
+================================================================================
+
+Clause: '1.1.3           “Affiliate” means, with respect to a Person, any other Person that, directly or indirectly, through one or more intermediaries, Controls or is Controlled by such Person, or is under common Control of a third Person;'
+Legal-BERT Prediction: termination (Confidence: 0.0732390359044075)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.15339961647987366)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.5           “Arbitration” has the meaning assigned thereto in Section 12.2.1;'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.08409535139799118)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.09393708407878876)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.6           “Arbitrator” has the meaning assigned thereto in Section 12.2.3;'
+Legal-BERT Prediction: amendment (Confidence: 0.08072259277105331)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.09358692169189453)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.7           “Base Management Fee” means the base management fee, calculated quarterly in arrears, in an aggregate amount equal to the sum of (i) 25% per Quarter of the Fee Amount, plus (ii) 0.3125% of the Total Capitalization Value Increase for the preceding Quarter;'
+Legal-BERT Prediction: termination (Confidence: 0.08232973515987396)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10049165040254593)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.8           “Base Management Fee Adjustment” has the meaning assigned thereto in Section 7.1.2;'
+Legal-BERT Prediction: termination (Confidence: 0.07882417738437653)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.09713312983512878)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '-3-'
+Legal-BERT Prediction: counterparts (Confidence: 0.0835799053311348)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05031153932213783)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '1.1.9           “BRELP” has the meaning assigned thereto in the preamble;'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.07512912899255753)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07170374691486359)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: '1.1.10         “BRELP General Partner” means BRP Bermuda GP Limited (successor to 2288508 Ontario Inc.), which is the general partner of the BRELP GP LP;'
+Legal-BERT Prediction: termination (Confidence: 0.08168254047632217)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.18021860718727112)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.11         “BRELP GP LP” means BREP Holding L.P., which is the general partner of BRELP;'
+Legal-BERT Prediction: termination (Confidence: 0.07365986704826355)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1663612574338913)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.12         “BRELP Units” means the limited partnership units of BRELP;'
+Legal-BERT Prediction: amendment (Confidence: 0.06475977599620819)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.13684561848640442)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.13         “BEP” has the meaning assigned thereto in the preamble;'
+Legal-BERT Prediction: amendment (Confidence: 0.07603911310434341)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0663846880197525)
+Final Prediction: amendment
+================================================================================
+
+Clause: '1.1.14         “BEP Group” means BEP, BRELP, the Holding Entities, the Operating Entities and any other direct or indirect Subsidiary of a Holding Entity;'
+Legal-BERT Prediction: non-competition (Confidence: 0.0831376388669014)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1384713500738144)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.15         “BEP Indemnified Party” has the meaning assigned thereto in Section 10.1.2;'
+Legal-BERT Prediction: termination (Confidence: 0.08054941147565842)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.07447566837072372)
+Final Prediction: termination
+================================================================================
+
+Clause: '1.1.16         “BEPC” means Brookfield Renewable Corporation;'
+Legal-BERT Prediction: termination (Confidence: 0.08189602196216583)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1386004090309143)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.17         “Brookfield” has the meaning assigned thereto in the preamble;'
+Legal-BERT Prediction: termination (Confidence: 0.07487326860427856)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.061456963419914246)
+Final Prediction: termination
+================================================================================
+
+Clause: '1.1.18         “Brookfield Group” means Brookfield and its Affiliates, other than any member of the BEP Group;'
+Legal-BERT Prediction: termination (Confidence: 0.08910635113716125)
+Legal-RoBERTa Prediction: limitation of liability (Confidence: 0.09790446609258652)
+Final Prediction: limitation of liability
+================================================================================
+
+Clause: '1.1.19         “Business” means the business carried on from time to time by the BEP Group;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.08058665692806244)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.22705014050006866)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.20         “Business Day” means every day except a Saturday or Sunday, or a day which is a statutory or civic holiday in Bermuda, the Province of Ontario, or the State of New York;'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.10581345856189728)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.09276588261127472)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: '1.1.21         “Canadian Service Provider” has the meaning assigned thereto in the preamble;'
+Legal-BERT Prediction: termination (Confidence: 0.08725301921367645)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0717957615852356)
+Final Prediction: termination
+================================================================================
+
+Clause: '1.1.22         “Canadian Service Provider II” has the meaning assigned thereto in the preamble;'
+Legal-BERT Prediction: termination (Confidence: 0.08258257061243057)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07748164236545563)
+Final Prediction: termination
+================================================================================
+
+Clause: '1.1.23         “Capital Commitment” means, with respect to any Operating Entity, at any time, the amount that a Service Recipient has committed at such time to contribute (either as debt or equity) to such Operating Entity as set forth in the terms of the subscription agreement or other underlying documentation with respect to such Operating Entity at or prior to such time;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.0639641284942627)
+Legal-RoBERTa Prediction: limitation of liability (Confidence: 0.13531383872032166)
+Final Prediction: limitation of liability
+================================================================================
+
+Clause: '1.1.24         “Capital Contribution” means, with respect to any Operating Entity, at any time, the amount of capital that a Service Recipient has contributed (either as debt or equity) to such Operating Entity at or prior to such time;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.09070795774459839)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1089002713561058)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '-4-'
+Legal-BERT Prediction: counterparts (Confidence: 0.07744931429624557)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04943547397851944)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '1.1.27         “Claims” has the meaning assigned thereto in Section 10.1.1;'
+Legal-BERT Prediction: amendment (Confidence: 0.07863464951515198)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06492731720209122)
+Final Prediction: amendment
+================================================================================
+
+Clause: '1.1.28         “Compensation Charges” has the meaning assigned thereto in Section 5.2.1;'
+Legal-BERT Prediction: termination (Confidence: 0.08378413319587708)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08087127655744553)
+Final Prediction: termination
+================================================================================
+
+Clause: '1.1.29         “Control” means the control by one Person of another Person in accordance with the following: a Person (“A”) controls another Person (“B”) where A has the power to determine the management and policies of B by contract or status (for example the status of A being the general partner of B) or by virtue of beneficial ownership of or control over a majority of the voting interests in B; and, for certainty and without limitation, if A owns or has control over shares to which are attached more than 50% of the votes permitted to be cast in the election of directors to the Governing Body of B or A is the general partner of B, a limited partnership, then in each case A Controls B for this purpose, and the term “Controlled” has the corresponding meaning;'
+Legal-BERT Prediction: non-competition (Confidence: 0.0886727124452591)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1944616585969925)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.31         “Current Agreement” has the meaning assigned thereto in the recitals;'
+Legal-BERT Prediction: amendment (Confidence: 0.07666487991809845)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07358267158269882)
+Final Prediction: amendment
+================================================================================
+
+Clause: '1.1.32         “Dispute” has the meaning assigned thereto in Section 12.1;'
+Legal-BERT Prediction: amendment (Confidence: 0.07895226031541824)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0856427550315857)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.33         “Dubai Service Provider” has the meaning assigned thereto in the preamble;'
+Legal-BERT Prediction: termination (Confidence: 0.07798057049512863)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.09297370165586472)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.34         “Exchangeable Shares” means exchangeable subordinate voting shares of BEPC;'
+Legal-BERT Prediction: termination (Confidence: 0.08189825713634491)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1091194823384285)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.35         “Expenses” has the meaning assigned thereto in Section 7.5.2;'
+Legal-BERT Prediction: termination (Confidence: 0.07583821564912796)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0728924497961998)
+Final Prediction: termination
+================================================================================
+
+Clause: '1.1.36         “Fair Market Value” means, with respect to any Unit or Security, (i) if such Unit or Security is listed on a stock exchange or public quotation system, the Trading Price of such Unit or Security, as applicable, or (ii) if such Unit or Security is not listed on a stock exchange or public quotation system, the fair market value of such Unit or Security, as applicable, determined by the Governing Body of the Managing General Partner; provided that if the Units are listed on a stock exchange or public quotation system, the Fair Market Value of any BRELP Unit shall be deemed to be the Trading Price of a Unit;'
+Legal-BERT Prediction: termination (Confidence: 0.056623149663209915)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.1181776374578476)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: '1.1.37         “Fee Amount” means an amount equal to $20 million, which amount shall be adjusted for inflation annually at the Inflation Factor;'
+Legal-BERT Prediction: confidentiality (Confidence: 0.06296563148498535)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08261148631572723)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.38         “Governing Body” means (i) with respect to a corporation or limited company, the board of directors of such corporation or limited company, (ii) with respect to a limited liability company, the manager(s) or managing partner(s) of such limited liability company, (iii) with respect to a limited partnership, the board, committee or other body of the general partner of such partnership that serves a similar function (or if any such general partner is itself a limited partnership, the board, committee or other body of such general partner’s general partner that serves a similar function) and (iv) with respect to any other Person, the body of such Person that serves a similar function, and in the case of each of (i) through (iv) includes any committee or other subdivision of such body and any Person to whom such body has delegated any power or authority, including any officer and managing director;'
+Legal-BERT Prediction: insurance (Confidence: 0.08904128521680832)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.2101462483406067)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '-5-'
+Legal-BERT Prediction: counterparts (Confidence: 0.0859338641166687)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04895586520433426)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '1.1.39         “Governing Instruments” means (i) the memorandum of association and bye-laws in the case of the Managing General Partner and BRELP General Partner; (ii) the certificate of incorporation, amalgamation or continuance, as applicable, and bylaws in the case of a corporation, (iii) the memorandum and articles of association in the case of a limited company, (iv) the partnership agreement in the case of a partnership, (v) the articles of formation and operating agreement in the case of a limited liability company, (vi) the trust instrument in the case of a trust and (vii) any other similar governing document under which an entity was organized, formed or created and/or operates, including any conflict guidelines or protocols in place from time to time;'
+Legal-BERT Prediction: intellectual property (Confidence: 0.11285524815320969)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1255638152360916)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.40         “Governmental Authority” means any (i) international, national, multinational, federal, provincial, state, regional, municipal, local or other government, governmental or public department, central bank, court, tribunal, arbitral body, commission, board, bureau, agency or instrumentality, domestic or foreign, including ISO/RTOs, (ii) self-regulatory organization or stock exchange, (iii) subdivision, agent, commission, board, or authority of any of the foregoing, or (iv) quasi-governmental or private body exercising any regulatory, expropriation or taxing authority under or for the account of any of the foregoing;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.113736093044281)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.22004485130310059)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '1.1.41         “Governmental Charges” has the meaning assigned thereto in Section 7.6;'
+Legal-BERT Prediction: amendment (Confidence: 0.07251867651939392)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.09481845051050186)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.42         “Holding Entities” means the entities that have executed this Agreement on Schedule A hereto and any direct wholly-owned Subsidiary of BRELP created or acquired on or after the date of this Agreement, excluding, for greater certainty, any Operating Entities;'
+Legal-BERT Prediction: non-competition (Confidence: 0.08209507912397385)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.08935713022947311)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: '1.1.44         “Indemnified Party” means a Person making a claim for indemnification pursuant to Article 10;'
+Legal-BERT Prediction: costs (Confidence: 0.06074828281998634)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.1498730480670929)
+Final Prediction: insurance
+================================================================================
+
+Clause: '1.1.45         “Indemnifying Party” means a Person against whom a claim for indemnification is asserted pursuant to Article 10;'
+Legal-BERT Prediction: damages (Confidence: 0.07336702942848206)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.15314170718193054)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '1.1.47         “Inflation Factor” means, at any time, the fraction obtained where the numerator is the Consumer Price Index for the United States of America (all items) for the then current year and the denominator is the Consumer Price Index for the United States of America (all items) for the year immediately preceding the then current year, with appropriate mathematical adjustment made to ensure that both the numerator and the denominator have been prepared on the same basis;'
+Legal-BERT Prediction: non-competition (Confidence: 0.06458613276481628)
+Legal-RoBERTa Prediction: notice (Confidence: 0.06817153841257095)
+Final Prediction: notice
+================================================================================
+
+Clause: '-6-'
+Legal-BERT Prediction: counterparts (Confidence: 0.08989961445331573)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.049535121768713)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '1.1.48         “Interest Rate” means, for any day, the rate of interest equal to the overnight U.S. dollar London interbank offered rate on such day;'
+Legal-BERT Prediction: entire agreement (Confidence: 0.06354149430990219)
+Legal-RoBERTa Prediction: termination (Confidence: 0.09460189193487167)
+Final Prediction: termination
+================================================================================
+
+Clause: '1.1.49         “International Service Provider” has the meaning assigned thereto in the preamble;'
+Legal-BERT Prediction: termination (Confidence: 0.07863648980855942)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07217509299516678)
+Final Prediction: termination
+================================================================================
+
+Clause: '1.1.52         “Laws” means any and all applicable (i) laws, constitutions, treaties, statutes, codes, ordinances, principles of common and civil law and equity, rules, regulations and municipal by-laws whether domestic, foreign or international, (ii) judicial, arbitral, administrative, ministerial, departmental and regulatory judgments, orders, writs, injunctions, decisions, and awards of any Governmental Authority, and (iii) policies, practices and guidelines of any Governmental Authority which, although not actually having the force or law, are considered by such Governmental Authority as requiring compliance as if having the force of law, and the term “applicable”, with respect to such Laws and in the context that refers to one or more Persons, means such Laws that apply to such Person or Persons or its or their business, undertaking, property or securities at the relevant time and that emanate from a Governmental Authority having jurisdiction over the Person or Persons or its or their business, undertaking, property or securities;'
+Legal-BERT Prediction: intellectual property (Confidence: 0.10140427947044373)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.25431588292121887)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '1.1.53         “Liabilities” has the meaning assigned thereto in Section 10.1.1;'
+Legal-BERT Prediction: termination (Confidence: 0.07201629877090454)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07895362377166748)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.54         “Licensing Agreement” means the licensing agreement between Brookfield Global Asset Management Inc., BEP and BRELP dated as of November 28, 2011 pursuant to which BEP and BRELP have been granted a non-exclusive, royalty-free license to use the “Brookfield” name and the Brookfield logo;'
+Legal-BERT Prediction: intellectual property (Confidence: 0.11911667883396149)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.12429455667734146)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.55         “Managing General Partner” means Brookfield Renewable Partners Limited (successor to 2288509 Ontario Inc.), which is BEP’s general partner;'
+Legal-BERT Prediction: termination (Confidence: 0.09032389521598816)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.19619660079479218)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.56         “Marketing Plan” means a generation and marketing plan and related budget for the Power Operations;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.08275774121284485)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.16903093457221985)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.57         “Net Base Management Fee” means the Base Management Fee, as adjusted pursuant to Section 7.1.2;'
+Legal-BERT Prediction: termination (Confidence: 0.07607941329479218)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08827731013298035)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.58         “Opening Total Capitalization Value” means $8,093,033,167;'
+Legal-BERT Prediction: entire agreement (Confidence: 0.06602001935243607)
+Legal-RoBERTa Prediction: termination (Confidence: 0.06535656005144119)
+Final Prediction: entire agreement
+================================================================================
+
+Clause: '-7-'
+Legal-BERT Prediction: counterparts (Confidence: 0.09352338314056396)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04932700842618942)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '1.1.59         “Operating Entities” means, from time to time, the Persons that (i) directly hold the Power Operations, or (ii) indirectly hold the Power Operations but all of the interests of which are not held by the Service Recipients including, in the case of each of (i) and (ii), any joint ventures, partnerships and consortium arrangements;'
+Legal-BERT Prediction: non-competition (Confidence: 0.09567690640687943)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.138443723320961)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.60         “Operational and Other Services” means any services provided by any member of the Brookfield Group to the Operating Entities, including financial advisory, operations and maintenance, energy marketing, agency, development, operating management and other services;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07689888030290604)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.24102380871772766)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.61         “Operating Plan” means a plan setting out the operating costs and budget for the Power Operations and shall include incorporation of the Marketing Plan and scheduled maintenance outages;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.10000784695148468)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1149151548743248)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.62         “Partnership Capital” means any Capital Commitment and/or (as the context requires) any Capital Contribution;'
+Legal-BERT Prediction: entire agreement (Confidence: 0.06457678973674774)
+Legal-RoBERTa Prediction: limitation of liability (Confidence: 0.15308777987957)
+Final Prediction: limitation of liability
+================================================================================
+
+Clause: '1.1.63         “Permit” means any consent, license, approval, registration, permit or other authorization granted by any Governmental Authority;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.16534604132175446)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.13972628116607666)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '1.1.65         “Power Operations” means the operations or developments directly or indirectly held or acquired by members of the BEP Group from time to time;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.08991669118404388)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.2365904599428177)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.66         “Principal Exchange” means the principal stock exchange or public quotation system (determined on the basis of aggregate trading volume for the prior four months) on which the Units or such Security, as applicable, are listed;'
+Legal-BERT Prediction: non-competition (Confidence: 0.07196444272994995)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.09632844477891922)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: '1.1.69         “Rights Agreement” has the meaning assigned thereto in Section 7.5.3;'
+Legal-BERT Prediction: termination (Confidence: 0.08112139999866486)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0817791074514389)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.70         “SEC” means the U.S. Securities and Exchange Commission;'
+Legal-BERT Prediction: amendment (Confidence: 0.07552879303693771)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.10918883979320526)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '1.1.71         “Security” means, with respect to each Service Recipient, any issued and outstanding security of such Service Recipient (other than, in the case of BEP, the Units) that is not held by any member of the BEP Group;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.09090122580528259)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.1128544807434082)
+Final Prediction: insurance
+================================================================================
+
+Clause: '-8-'
+Legal-BERT Prediction: counterparts (Confidence: 0.08315969258546829)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04966212809085846)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '1.1.72         “Service Agreement” means any agreement or arrangement entered into pursuant to Section 2.4 between any Service Recipient and any member of the Service Provider Group pursuant to which Services are provided;'
+Legal-BERT Prediction: termination (Confidence: 0.08722497522830963)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.11248389631509781)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.74         “Service Provider Group” means the Service Providers and any member of the Brookfield Group that any Service Provider has arranged to provide the Services to any Service Recipient;'
+Legal-BERT Prediction: termination (Confidence: 0.09099333733320236)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.1290847212076187)
+Final Prediction: insurance
+================================================================================
+
+Clause: '1.1.75         “Service Provider Indemnified Parties” has the meaning assigned thereto in Section 10.1.1;'
+Legal-BERT Prediction: termination (Confidence: 0.09073395282030106)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.07745551317930222)
+Final Prediction: termination
+================================================================================
+
+Clause: '1.1.76         “Service Providers” means the Canadian Service Provider, the Canadian Service Provider II, the US Service Provider, the International Service Provider, the UK Service Provider and the Dubai Service Provider;'
+Legal-BERT Prediction: termination (Confidence: 0.09243573248386383)
+Legal-RoBERTa Prediction: notice (Confidence: 0.10002724081277847)
+Final Prediction: notice
+================================================================================
+
+Clause: '1.1.77         “Service Recipient” means BEP, BRELP, the Holding Entities and, at the option of the Holding Entities, the Operating Entities;'
+Legal-BERT Prediction: termination (Confidence: 0.09258053451776505)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10856222361326218)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.78         “Services” has the meaning assigned thereto in Section 3.1;'
+Legal-BERT Prediction: termination (Confidence: 0.07968777418136597)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08611027151346207)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.79         “Subsidiary” means, with respect to any Person, (i) any other Person that is directly or indirectly Controlled by such Person, (ii) any trust in which such Person holds all of the beneficial interests or (iii) any partnership, limited liability company or similar entity in which such Person holds all of the interests other than the interests of any general partner, managing member or similar Person;'
+Legal-BERT Prediction: non-competition (Confidence: 0.06951980292797089)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.17532449960708618)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.80         “Third Party Claim” has the meaning assigned thereto in Section 10.1.3;'
+Legal-BERT Prediction: amendment (Confidence: 0.07110718637704849)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07036568224430084)
+Final Prediction: amendment
+================================================================================
+
+Clause: '1.1.81         “Total Capitalization Value” means, in any Quarter, the sum of (i) the Fair Market Value of a Unit multiplied by the number of Units issued and outstanding on the last trading day of the Quarter (assuming full conversion of any limited partnership interests held by any member of the Brookfield Group in BRELP into Units), plus (ii) for each class or series of Security, the Fair Market Value of a Security of such class or series multiplied by the number of Securities of such class or series issued and outstanding on the last trading day of the Quarter (calculated on a fully-diluted basis), plus (iii) the principal amount of all debt not captured by paragraph (ii) of this Section 1.1.81 owed by each Service Recipient (excluding for this purpose any Operating Entity) on the last trading day of the Quarter to any Person that is not a member of the BEP Group, which debt has recourse to any Service Recipient, less any amount of cash held by all Service Recipients (excluding for this purpose any Operating Entity) on such day;'
+Legal-BERT Prediction: insurance (Confidence: 0.10607276856899261)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.1026218831539154)
+Final Prediction: insurance
+================================================================================
+
+Clause: '1.1.82         “Total Capitalization Value Increase” means, in any Quarter, an amount equal to the difference between (i) the Total Capitalization Value for such Quarter, and (ii) the Opening Total Capitalization Value; provided, however, that if the difference between (i) and (ii) in any Quarter is a negative number, the Total Capitalization Value Increase in such Quarter shall be deemed to be nil;'
+Legal-BERT Prediction: non-competition (Confidence: 0.06978689134120941)
+Legal-RoBERTa Prediction: notice (Confidence: 0.0728413537144661)
+Final Prediction: notice
+================================================================================
+
+Clause: '-9-'
+Legal-BERT Prediction: counterparts (Confidence: 0.08910392224788666)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.049780767410993576)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '1.1.84         “Transaction Fees” means fees paid or payable by the Service Recipients, which are on market terms, with respect to financial advisory services ordinarily carried out by investment banks in the context of mergers and acquisitions transactions;'
+Legal-BERT Prediction: termination (Confidence: 0.0943402498960495)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.20788930356502533)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.85         “Units” means the limited partnership units of BEP;'
+Legal-BERT Prediction: amendment (Confidence: 0.08001672476530075)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.12928690016269684)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.86         “UK Service Provider” has the meaning assigned thereto in the preamble; and'
+Legal-BERT Prediction: termination (Confidence: 0.07643808424472809)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07674869894981384)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.1.87         “US Service Provider” has the meaning assigned thereto in the preamble.'
+Legal-BERT Prediction: termination (Confidence: 0.08122865855693817)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07456705719232559)
+Final Prediction: termination
+================================================================================
+
+Clause: '1.2Headings and Table of Contents'
+Legal-BERT Prediction: amendment (Confidence: 0.09352153539657593)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.08704479038715363)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'The inclusion of headings and a table of contents in this Agreement are for convenience of reference only and will not affect the construction or interpretation hereof.'
+Legal-BERT Prediction: entire agreement (Confidence: 0.10972582548856735)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.1773340106010437)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '1.3Interpretation'
+Legal-BERT Prediction: amendment (Confidence: 0.09797955304384232)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.052428800612688065)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'In this Agreement, unless the context otherwise requires:'
+Legal-BERT Prediction: amendment (Confidence: 0.0751643255352974)
+Legal-RoBERTa Prediction: amendment (Confidence: 0.1062120571732521)
+Final Prediction: amendment
+================================================================================
+
+Clause: '1.3.2        the words “include”, “includes”, “including”, or any variations thereof, when following any general term or statement, are not to be construed as limiting the general term or statement to the specific items or matters set forth or to similar items or matters, but rather as referring to all other items or matters that could reasonably fall within the broadest possible scope of the general term or statement;'
+Legal-BERT Prediction: entire agreement (Confidence: 0.11260690540075302)
+Legal-RoBERTa Prediction: severability (Confidence: 0.08682592213153839)
+Final Prediction: entire agreement
+================================================================================
+
+Clause: '1.3.3         references to any Person include such Person’s successors and permitted assigns;'
+Legal-BERT Prediction: assignment (Confidence: 0.10051697492599487)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.09979087859392166)
+Final Prediction: assignment
+================================================================================
+
+Clause: '-10-'
+Legal-BERT Prediction: counterparts (Confidence: 0.08578723669052124)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.051838044077157974)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '1.3.6        in the event that any day on which any amount is to be determined or any action is required to be taken hereunder is not a Business Day, then such amount shall be determined or such action shall be required to be taken at or before the requisite time on the next succeeding day that is a Business Day; and'
+Legal-BERT Prediction: severability (Confidence: 0.0644720047712326)
+Legal-RoBERTa Prediction: notice (Confidence: 0.11015595495700836)
+Final Prediction: notice
+================================================================================
+
+Clause: '1.3.7        except where otherwise expressly provided, all amounts in this Agreement are stated and shall be paid in U.S. currency.'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.06645787507295609)
+Legal-RoBERTa Prediction: notice (Confidence: 0.10008621960878372)
+Final Prediction: notice
+================================================================================
+
+Clause: '1.4Actions by the Service Providers or the Service Recipients'
+Legal-BERT Prediction: amendment (Confidence: 0.07338568568229675)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.09856802970170975)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'Unless the context requires otherwise, where the consent of or a determination is required by any Service Provider or Service Recipient hereunder, the parties shall be entitled to conclusively rely upon it having been given or taken, as applicable, if, such Service Provider or Service Recipient, as applicable, has communicated the same in writing.'
+Legal-BERT Prediction: waiver (Confidence: 0.10484015196561813)
+Legal-RoBERTa Prediction: notice (Confidence: 0.1266564130783081)
+Final Prediction: notice
+================================================================================
+
+Clause: '1.5Generally Accepted Accounting Principles'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.062391068786382675)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.06070194020867348)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'In this Agreement, references to “generally accepted accounting principles” mean the generally accepted accounting principles used by BEP in preparing its financial statements from time to time.'
+Legal-BERT Prediction: entire agreement (Confidence: 0.06748582422733307)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.06966778635978699)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '1.6Invalidity of Provisions'
+Legal-BERT Prediction: counterparts (Confidence: 0.0989878922700882)
+Legal-RoBERTa Prediction: severability (Confidence: 0.07723650336265564)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '1.7Entire Agreement'
+Legal-BERT Prediction: amendment (Confidence: 0.08895007520914078)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.08133422583341599)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'This Agreement constitutes the entire agreement between the parties pertaining to the subject matter of this Agreement. There are no warranties, conditions, or representations (including any that may be implied by statute) and there are no agreements in connection with such subject matter except as specifically set forth or referred to in this Agreement. No reliance is placed on any warranty, representation, opinion, advice or assertion of fact made either prior to, contemporaneous with, or after entering into this Agreement, by any party to this Agreement or its directors, officers, employees or agents, to any other party to this Agreement or its directors, officers, employees or agents, except to the extent that the same has been reduced to writing and included as a term of this Agreement, and none of the parties to this Agreement has been induced to enter into this Agreement by reason of any such warranty, representation, opinion, advice or assertion of fact. Accordingly, there will be no liability, either in tort or in contract, assessed in relation to any such warranty, representation, opinion, advice or assertion of fact, except to the extent contemplated above.'
+Legal-BERT Prediction: entire agreement (Confidence: 0.1712873876094818)
+Legal-RoBERTa Prediction: waiver (Confidence: 0.16933412849903107)
+Final Prediction: entire agreement
+================================================================================
+
+Clause: '-11-'
+Legal-BERT Prediction: counterparts (Confidence: 0.09031715244054794)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.052093494683504105)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '1.9Governing Law'
+Legal-BERT Prediction: amendment (Confidence: 0.10509821027517319)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06966360658407211)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'This Agreement will be governed by and interpreted and enforced in accordance with the laws of the Province of Ontario and the federal laws of Canada applicable therein.'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.27187222242355347)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.5813016891479492)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: 'ARTICLE 2'
+Legal-BERT Prediction: counterparts (Confidence: 0.08648120611906052)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05223774164915085)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'APPOINTMENT OF THE SERVICE PROVIDERS'
+Legal-BERT Prediction: amendment (Confidence: 0.07723979651927948)
+Legal-RoBERTa Prediction: notice (Confidence: 0.06502511352300644)
+Final Prediction: amendment
+================================================================================
+
+Clause: '2.1Appointment and Acceptance'
+Legal-BERT Prediction: amendment (Confidence: 0.10487332940101624)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08053654432296753)
+Final Prediction: amendment
+================================================================================
+
+Clause: '2.1.1             Subject to and in accordance with the terms, conditions and limitations in this Agreement, the Service Recipients hereby appoint the Service Providers to provide or arrange for other members of the Service Provider Group to provide the Services to the Service Recipients. This appointment will be subject to each Service Recipient’s Governing Body’s supervision of the Service Providers and obligation to manage and control the affairs of such Service Recipient.'
+Legal-BERT Prediction: limitation of liability (Confidence: 0.07286370545625687)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.0982871800661087)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: '2.1.2             The Service Providers hereby accept the appointment provided for in Section 2.1.1 and agree to act in such capacity and to provide or arrange for other members of the Service Provider Group to provide the Services to the Service Recipients upon the terms, conditions and limitations in this Agreement.'
+Legal-BERT Prediction: costs (Confidence: 0.08904438465833664)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.1063230037689209)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: '2.2Other Holding Entities'
+Legal-BERT Prediction: counterparts (Confidence: 0.09656976908445358)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05535731092095375)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'The parties acknowledge that any Holding Entity that is not a party to this Agreement will execute a counterpart of this Agreement agreeing to be bound by the terms of this Agreement.'
+Legal-BERT Prediction: amendment (Confidence: 0.08999254554510117)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.10439623892307281)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: '2.3Other Service Providers'
+Legal-BERT Prediction: counterparts (Confidence: 0.08803391456604004)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.08444593846797943)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Any Service Provider, may from time to time, appoint an Affiliate of Brookfield to act as a new Service Provider under this Agreement, effective upon the execution of a joinder agreement by the new Service Provider in the form set forth on Schedule B hereto.'
+Legal-BERT Prediction: termination (Confidence: 0.09963137656450272)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.10038335621356964)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: '-12-'
+Legal-BERT Prediction: counterparts (Confidence: 0.09861025214195251)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.0501975491642952)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '2.4Subcontracting and Other Arrangements'
+Legal-BERT Prediction: costs (Confidence: 0.07319440692663193)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.058836739510297775)
+Final Prediction: costs
+================================================================================
+
+Clause: 'Any Service Provider may subcontract to any other member of the Service Provider Group or any of its other Affiliates, or arrange for the provision of any or all of the Services to be provided by it under this Agreement by any other member of the Service Provider Group or any other of its Affiliates, and the Service Recipients hereby consent to any such subcontracting or arrangement; provided that the Service Providers shall remain responsible to the Service Recipients for any Services provided by such other member of the Service Provider Group or Affiliate.'
+Legal-BERT Prediction: limitation of liability (Confidence: 0.0805496871471405)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.07953640073537827)
+Final Prediction: limitation of liability
+================================================================================
+
+Clause: 'ARTICLE 3'
+Legal-BERT Prediction: counterparts (Confidence: 0.0853104218840599)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05354629084467888)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'SERVICES AND POWERS OF THE SERVICE PROVIDERS'
+Legal-BERT Prediction: counterparts (Confidence: 0.09498681128025055)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.08109521120786667)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '3.1Services'
+Legal-BERT Prediction: counterparts (Confidence: 0.08467908948659897)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.054928865283727646)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'The Service Providers will provide or arrange for the provision by other members of the Service Provider Group of, and will have the exclusive power and authority to provide or arrange for the provision by other members of the Service Provider Group of, the following services (the “Services”) to the Service Recipients:'
+Legal-BERT Prediction: termination (Confidence: 0.06297901272773743)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10056088119745255)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '3.1.1          causing or supervising the carrying out of all day to day management, secretarial, accounting, banking, treasury, administrative, liaison, representative, regulatory and reporting functions and obligations;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.06412701308727264)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.1719154566526413)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '3.1.2          providing overall strategic advice to the Holding Entities in relation to the Business, including advising with respect to the expansion of the Business into new markets;'
+Legal-BERT Prediction: non-competition (Confidence: 0.11431229114532471)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.19612601399421692)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '3.1.3          establishing and maintaining or supervising the establishment and maintenance of books and records;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07302217185497284)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.17652367055416107)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '-13-'
+Legal-BERT Prediction: counterparts (Confidence: 0.09805267304182053)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.051204580813646317)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '3.1.12        supervising the timely calculation and payment of taxes payable, and the filing of all tax returns due, by each Service Recipient;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.11691327393054962)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.17856445908546448)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '3.1.13        causing or supervising the preparation of the Service Recipients’ annual consolidated financial statements, quarterly interim financial statements and other public disclosure;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07870102673768997)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.17719747126102448)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '3.1.15        arranging for individuals to carry out the functions of the principal executive, accounting and financial officers for BEP only for purposes of applicable securities laws;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.0721469596028328)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.13124321401119232)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '3.1.16        providing individuals to act as senior officers of Holding Entities as agreed from time to time, subject to the approval of the relevant Governing Body;'
+Legal-BERT Prediction: termination (Confidence: 0.08432604372501373)
+Legal-RoBERTa Prediction: amendment (Confidence: 0.08123023808002472)
+Final Prediction: termination
+================================================================================
+
+Clause: '3.1.17        advising the Service Recipients regarding the maintenance of compliance with applicable Laws and other obligations; and'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.12335853278636932)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.2739362418651581)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '3.1.18        providing all such other services as may from time to time be agreed with the Service Recipients that are reasonably related to the Service Recipient’s day to day operations.'
+Legal-BERT Prediction: further assurance (Confidence: 0.07616418600082397)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07170197367668152)
+Final Prediction: further assurance
+================================================================================
+
+Clause: 'Notwithstanding any provision herein to the contrary, all Investment Advisory Services shall (i) be provided solely to BRELP and (ii) be provided by a Service Provider that is registered with the SEC as an investment adviser (or through such a Service Provider by participating affiliates thereof relying on the SEC’s Uniao de Bancos de Brasileiros S.A. no action letter dated July 28, 1992 and the subsequent letters related thereto).'
+Legal-BERT Prediction: termination (Confidence: 0.08491254597902298)
+Legal-RoBERTa Prediction: notice (Confidence: 0.14919975399971008)
+Final Prediction: notice
+================================================================================
+
+Clause: '3.2Responsibility for Certain Services'
+Legal-BERT Prediction: costs (Confidence: 0.08886273205280304)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.09103643149137497)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'Notwithstanding any provision herein to the contrary:'
+Legal-BERT Prediction: entire agreement (Confidence: 0.07814569771289825)
+Legal-RoBERTa Prediction: amendment (Confidence: 0.11178819835186005)
+Final Prediction: amendment
+================================================================================
+
+Clause: '-14-'
+Legal-BERT Prediction: counterparts (Confidence: 0.09539268165826797)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.052265554666519165)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '3.2.1         the US Service Provider, the International Service Provider and, subject to the remainder of this Section 3.2, the UK Service Provider shall be responsible for the provision of Services to BEP and BRELP and no entity resident in Canada shall be responsible for the provision of, nor shall it provide, any Services to BEP and BRELP;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07345938682556152)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.11187175661325455)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: '3.2.2         the US Service Provider and the International Service Provider shall be responsible for the provision of the Services described in Sections 3.1.1, 3.1.3, 3.1.5, 3.1.9-3.1.13 and 3.1.18 to BEP and BRELP and the UK Service Provider shall not be responsible for the provision of, nor shall it provide, any such Services;'
+Legal-BERT Prediction: costs (Confidence: 0.08368276804685593)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.08995626121759415)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '3.2.3         the US Service Provider and the International Service Provider shall be responsible for the provision of the Services to any Service Recipient that is not (i) an Affiliate of the UK Service Provider, or (ii) acting as principal, and the UK Service Provider shall not be responsible for the provision of, nor shall it provide, any such Services;'
+Legal-BERT Prediction: non-competition (Confidence: 0.07788113504648209)
+Legal-RoBERTa Prediction: notice (Confidence: 0.08756402134895325)
+Final Prediction: notice
+================================================================================
+
+Clause: '3.2.4         any Services provided to BRELP in connection with any securities, whether equity or debt, of Brookfield BRP Holdings (Canada) Inc. that are held by BRELP shall be provided by the US Service Provider or the International Service Provider or an Affiliate of either the US Service Provider or the International Service Provider that is not resident in Canada with whom the US Service Provider or the International Service Provider, as the case may be, has made arrangements for the provision of such Services or to whom the US Service Provider or the International Service Provider, as the case may be, has subcontracted the provision of such Services; and'
+Legal-BERT Prediction: non-competition (Confidence: 0.0990837961435318)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.12737597525119781)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '3.2.5         if any Service provided by the Dubai Service Provider requires the valuation of any asset(s), then such valuation shall be carried out by the Dubai Service Provider in accordance with any applicable valuation policy in effect from time to time.'
+Legal-BERT Prediction: termination (Confidence: 0.0710134357213974)
+Legal-RoBERTa Prediction: notice (Confidence: 0.08268846571445465)
+Final Prediction: notice
+================================================================================
+
+Clause: 'provided, however, that nothing in this Section 3.2 shall restrict the provision of Investment Advisory Services to BRELP in accordance with Section 3.1.'
+Legal-BERT Prediction: termination (Confidence: 0.09963236004114151)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08875557035207748)
+Final Prediction: termination
+================================================================================
+
+Clause: '3.3Supervision of Service Providers’ Activities'
+Legal-BERT Prediction: amendment (Confidence: 0.08344394713640213)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.10886618494987488)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '3.3.1        The Service Providers shall, at all times, be subject to the supervision of the relevant Service Recipient’s Governing Body and shall only provide or arrange for the provision of such Services as such Governing Body may request from time to time and provided that the relevant Governing Body shall remain responsible for all investment and divestment decisions made by the Service Recipient.'
+Legal-BERT Prediction: non-competition (Confidence: 0.10544634610414505)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.08015172928571701)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '3.3.2         With respect to any Service provided to a Service Recipient, the Dubai Service Provider will, at all times, comply with and be subject to the direction of the relevant Service Recipient’s Governing Body in relation to the following (without limitation):'
+Legal-BERT Prediction: non-competition (Confidence: 0.09111326932907104)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.18035688996315002)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '3.3.2.1  investment parameters;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07337632775306702)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07810279726982117)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '3.3.2.2  the arrangements for providing notice to the relevant Service Recipient or its Governing Body, as the case may be, of transactions executed on behalf of the relevant Service Recipient; and'
+Legal-BERT Prediction: termination (Confidence: 0.07435721158981323)
+Legal-RoBERTa Prediction: notice (Confidence: 0.22061960399150848)
+Final Prediction: notice
+================================================================================
+
+Clause: '-15-'
+Legal-BERT Prediction: counterparts (Confidence: 0.08271491527557373)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0517711266875267)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '3.3.2.3  whether and when the Dubai Service Provider may act as principal in any given transaction.'
+Legal-BERT Prediction: joint and several liability (Confidence: 0.06679818034172058)
+Legal-RoBERTa Prediction: joint and several liability (Confidence: 0.0659889206290245)
+Final Prediction: joint and several liability
+================================================================================
+
+Clause: '3.3.3       Instructions by or on behalf of a Service Recipient to the Dubai Service Provider may be given orally or in writing, but shall be given or confirmed in writing (by letter or email) if so requested by the Dubai Service Provider.'
+Legal-BERT Prediction: notice (Confidence: 0.1222735196352005)
+Legal-RoBERTa Prediction: notice (Confidence: 0.18687811493873596)
+Final Prediction: notice
+================================================================================
+
+Clause: '3.4Restrictions on the Service Providers'
+Legal-BERT Prediction: amendment (Confidence: 0.08782630413770676)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08731178939342499)
+Final Prediction: amendment
+================================================================================
+
+Clause: '3.4.1        The Service Providers shall, and shall cause any other member of the Service Provider Group to, refrain from taking any action that is not in compliance with or would violate any Laws or that otherwise would not be permitted by the Governing Instruments of the Service Recipients. If any Service Provider or any member of the Service Provider Group is instructed to take any action that is not in such compliance by a Service Recipient’s Governing Body, such person will promptly notify such Governing Body of its judgment that such action would not comply with or violate any such Laws or otherwise would not be permitted by such Governing Instrument.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.2077750414609909)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.3224909007549286)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '3.4.2        In performing its duties under this Agreement, each member of the Service Provider Group shall be entitled to rely in good faith on qualified experts, professionals and other agents (including on accountants, appraisers, consultants, legal counsel and other, professional advisors) and shall be permitted to rely in good faith upon the direction of a Service Recipient’s Governing Body to evidence any approvals or authorizations that are required under this Agreement. All references in this Agreement to the Service Recipients or Governing Body for the purposes of instructions, approvals and requests to the Service Providers will refer to the Governing Body.'
+Legal-BERT Prediction: further assurance (Confidence: 0.08864099532365799)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.10197524726390839)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '3.4.3        The Dubai Service Provider hereby acknowledge and agrees that it does not owe, at any time nor in any circumstances, a duty of best execution to any of the Service Recipients.'
+Legal-BERT Prediction: limitation of liability (Confidence: 0.0654875636100769)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.1460760086774826)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '3.5Errors and Omissions Insurance'
+Legal-BERT Prediction: costs (Confidence: 0.07152391225099564)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.12895169854164124)
+Final Prediction: insurance
+================================================================================
+
+Clause: 'Each of the Service Providers shall, and shall cause any other member of the Service Provider Group to, at all times during the term of this Agreement maintain “errors and omissions” insurance coverage and other insurance coverage which is customarily carried by Persons performing functions that are similar to those performed by the members of the Service Provider Group under this Agreement and in an amount which is comparable to that which is customarily maintained by such other Persons.'
+Legal-BERT Prediction: insurance (Confidence: 0.18682299554347992)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.3890064060688019)
+Final Prediction: insurance
+================================================================================
+
+Clause: 'ARTICLE 4'
+Legal-BERT Prediction: counterparts (Confidence: 0.07707563042640686)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05306781083345413)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'RELATIONSHIP BETWEEN THE SERVICE PROVIDERS AND THE SERVICE RECIPIENTS'
+Legal-BERT Prediction: costs (Confidence: 0.07145486772060394)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.0797770619392395)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: '4.1Other Activities'
+Legal-BERT Prediction: amendment (Confidence: 0.06941583752632141)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.09477866441011429)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'Subject to the terms of the Relationship Agreement, no member of the Service Provider Group (and no Affiliate, director, officer, member, partner, shareholder or employee of any member of the Service Provider Group) shall be prohibited from engaging in other business activities or sponsoring, or providing services to, third parties that compete directly or indirectly with the Service Recipients.'
+Legal-BERT Prediction: non-solicitation (Confidence: 0.1738680899143219)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.2716419994831085)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '-16-'
+Legal-BERT Prediction: counterparts (Confidence: 0.0903385654091835)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05037646368145943)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '4.2Exclusivity'
+Legal-BERT Prediction: costs (Confidence: 0.06985464692115784)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05895986780524254)
+Final Prediction: costs
+================================================================================
+
+Clause: 'Except as expressly provided for herein, the Service Recipients shall not, during the term of this Agreement, engage any other Person to provide any services comparable to the Services without the prior written consent of the Service Providers, which may be withheld in the absolute discretion of the Service Providers.'
+Legal-BERT Prediction: non-solicitation (Confidence: 0.13485001027584076)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.13685059547424316)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: 'ARTICLE 5'
+Legal-BERT Prediction: counterparts (Confidence: 0.0881180465221405)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05333650857210159)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'MANAGEMENT AND EMPLOYEES'
+Legal-BERT Prediction: counterparts (Confidence: 0.07566340267658234)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.07082674652338028)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '5.1Management and Employees'
+Legal-BERT Prediction: amendment (Confidence: 0.0751127377152443)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08886981755495071)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '5.1.1        The Service Providers shall arrange, or shall arrange for another member of the Service Provider Group to arrange, for such qualified personnel and support staff to be available to carry out the Services. Such personnel and support staff shall devote such of their time to the provision of the Services to the Service Recipients as the relevant member of the Service Provider Group reasonably deems necessary and appropriate in order to fulfill its obligations hereunder. Such personnel and support staff need not have as their primary responsibility the provision of the Services to the Service Recipients or be dedicated exclusively to the provision of the Services to the Service Recipients.'
+Legal-BERT Prediction: further assurance (Confidence: 0.10684549063444138)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.0909699946641922)
+Final Prediction: further assurance
+================================================================================
+
+Clause: '5.1.2        Each of the Service Recipients shall do all things reasonably necessary on its part as requested by any member of the Service Provider Group consistent with the terms of this Agreement to enable the members of the Service Provider Group to fulfill their obligations, covenants and responsibilities and to exercise their rights pursuant to this Agreement, including making available to the Service Provider Group, and granting the Service Provider Group access to, the employees and contractors of the Service Recipients as any member of the Service Provider Group may from time to time request.'
+Legal-BERT Prediction: further assurance (Confidence: 0.1346936821937561)
+Legal-RoBERTa Prediction: further assurance (Confidence: 0.1084858700633049)
+Final Prediction: further assurance
+================================================================================
+
+Clause: '5.1.3        The Service Providers covenant and agree to exercise the power and discharge the duties conferred under this Agreement honestly and in good faith, and shall exercise the degree of care, diligence and skill that a reasonably prudent person would exercise in comparable circumstances, subject to, and after taking into account, the terms and conditions of the Relationship Agreement.'
+Legal-BERT Prediction: further assurance (Confidence: 0.10197199881076813)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.12311045080423355)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '-17-'
+Legal-BERT Prediction: counterparts (Confidence: 0.09873366355895996)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05038858577609062)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '5.2Compensation Charges'
+Legal-BERT Prediction: counterparts (Confidence: 0.07587742805480957)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.07403018325567245)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '5.2.1        The parties acknowledge and agree that, at the request of BEP, it may be desirable for employees and other personnel of any member of the BEP Group to receive long-term incentive compensation pursuant to one or more programs or other arrangements offered by any member of the Brookfield Group. In these cases, all or a portion of such long-term incentive compensation (including cash, options or other security-based compensation) paid or payable by the Brookfield Group to such employees or other personnel of the BEP Group shall be allocated to the applicable member of the BEP Group (a “Compensation Charge”).'
+Legal-BERT Prediction: costs (Confidence: 0.094390369951725)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1829112023115158)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '5.2.2        The amount of any Compensation Charge allocated to a member of the BEP Group shall be reported to the Nominating and Governance Committee of the Managing General Partner on an annual basis.'
+Legal-BERT Prediction: termination (Confidence: 0.0731690302491188)
+Legal-RoBERTa Prediction: notice (Confidence: 0.0725318044424057)
+Final Prediction: termination
+================================================================================
+
+Clause: 'ARTICLE 6'
+Legal-BERT Prediction: counterparts (Confidence: 0.0852421373128891)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05376400053501129)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'INFORMATION AND RECORDS'
+Legal-BERT Prediction: counterparts (Confidence: 0.09067772328853607)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.09281845390796661)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '6.1Books and Records'
+Legal-BERT Prediction: counterparts (Confidence: 0.07729433476924896)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.07141340523958206)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '6.1.1        The Service Providers shall, or shall cause any other member of the Service Provider Group to, as applicable, maintain proper books, records and documents in which complete, true and correct entries, in conformity in all material respects with generally accepted accounting principles and all requirements of applicable Laws, will be made.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.15586881339550018)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.22842513024806976)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '6.1.2        The Service Recipients shall maintain proper books, records and documents in which complete, true and correct entries, in conformity in all material respects with generally accepted accounting principles and all requirements of applicable Laws, will be made.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.1307191103696823)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.18745344877243042)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '6.2Examination of Records by the Service Recipients'
+Legal-BERT Prediction: counterparts (Confidence: 0.07883024960756302)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.09100864827632904)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'Upon reasonable prior notice by the Service Recipients to the relevant member of the Service Provider Group, the relevant member of the Service Provider Group will make available to the Service Recipients and their authorized representatives, for examination during normal business hours on any Business Day, all books, records and documents required to be maintained under Section 6.1.1. In addition, the Service Provider Group will make available to the Service Recipients or their authorized representatives such financial and operating data in respect of the performance of the Services under this Agreement as may be in existence and as the Service Recipients or their authorized representatives will from time to time reasonably request, including for the purposes of conducting any audit in respect of expenses of the Service Recipients or other matters necessary or advisable to be audited in order to conduct an audit of the financial affairs of the Service Recipients. Any examination of records will be conducted in a manner which will not unduly interfere with the conduct of the Service Recipients’ activities or of the Service Provider Group’s business in the ordinary course.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.11223206669092178)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.2641175091266632)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '-18-'
+Legal-BERT Prediction: counterparts (Confidence: 0.09557914733886719)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.052332598716020584)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '6.3Access to Information by Service Provider Group'
+Legal-BERT Prediction: amendment (Confidence: 0.07226969301700592)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.08483090996742249)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '6.3.1         The Service Recipients shall:'
+Legal-BERT Prediction: amendment (Confidence: 0.08701469749212265)
+Legal-RoBERTa Prediction: notice (Confidence: 0.08981917798519135)
+Final Prediction: notice
+================================================================================
+
+Clause: '6.3.1.1        grant, or cause to be granted, to the Service Provider Group full access to all documentation and information, including all of the books, records, and documents required to be maintained under Section 6.1.2, necessary in order for the Service Provider Group to perform its obligations, covenants and responsibilities pursuant to the terms hereof and to enable the Service Provider Group to provide the Services; and'
+Legal-BERT Prediction: further assurance (Confidence: 0.10605122894048691)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.28683432936668396)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '6.4Additional Information'
+Legal-BERT Prediction: counterparts (Confidence: 0.0787682980298996)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.06304825842380524)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'The parties acknowledge and agree that conducting the activities and providing the Services contemplated herein may have the incidental effect of providing additional information which may be utilized with respect to, or may augment the value of, business interests and related assets in which any of member of the Service Provider Group or any of its Affiliates has an interest and that, subject to compliance with this Agreement, none of the members of the Service Provider Group or any of their respective Affiliates will be liable to account to the Service Recipients with respect to such activities or results; provided, however, that the relevant member of the Service Provider Group will not (and will cause its Affiliates not to), in making any use of such additional information, do so in any manner that the relevant member of the Service Provider Group or its Affiliates knows, or ought reasonably to know, would cause or result in a breach of any confidentiality provision of agreements to which any Service Recipient is a party or is bound.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.12429767102003098)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.2529209852218628)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'ARTICLE 7'
+Legal-BERT Prediction: counterparts (Confidence: 0.08853092789649963)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.054009463638067245)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'FEES AND EXPENSES'
+Legal-BERT Prediction: costs (Confidence: 0.0895586833357811)
+Legal-RoBERTa Prediction: costs (Confidence: 0.25259628891944885)
+Final Prediction: costs
+================================================================================
+
+Clause: '7.1Net Base Management Fee and Base Management Fee Adjustment'
+Legal-BERT Prediction: amendment (Confidence: 0.06727409362792969)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.06727034598588943)
+Final Prediction: amendment
+================================================================================
+
+Clause: '7.1.1        BRELP hereby agrees to pay as provided by this Article 7, during the term of this Agreement, the Net Base Management Fee, quarterly in arrears.'
+Legal-BERT Prediction: termination (Confidence: 0.10261870920658112)
+Legal-RoBERTa Prediction: joint and several liability (Confidence: 0.09332381188869476)
+Final Prediction: termination
+================================================================================
+
+Clause: '7.1.2        The amount of the Net Base Management Fee payable hereunder for any Quarter will be equal to the amount of the Base Management Fee reduced (the “Base Management Fee Adjustment”) by the following amounts, to the extent that such amounts have not previously reduced the amount of the Base Management Fee as a result of the application of the Base Management Fee Adjustment in a previous Quarter:'
+Legal-BERT Prediction: costs (Confidence: 0.0652911365032196)
+Legal-RoBERTa Prediction: costs (Confidence: 0.09278825670480728)
+Final Prediction: costs
+================================================================================
+
+Clause: '-19-'
+Legal-BERT Prediction: counterparts (Confidence: 0.0955994501709938)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05051625892519951)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '7.1.2.1        any Service Agreement Fees paid in or payable for that Quarter; and'
+Legal-BERT Prediction: termination (Confidence: 0.0828000009059906)
+Legal-RoBERTa Prediction: costs (Confidence: 0.11945892125368118)
+Final Prediction: costs
+================================================================================
+
+Clause: '7.1.2.2        any Creditable Operating Entity Payments paid in or payable for that Quarter.'
+Legal-BERT Prediction: costs (Confidence: 0.07331927865743637)
+Legal-RoBERTa Prediction: joint and several liability (Confidence: 0.08016427606344223)
+Final Prediction: joint and several liability
+================================================================================
+
+Clause: '7.1.3        For greater certainty, the Base Management Fee will not be reduced by operation of this Agreement by the amount of any (i) Incentive Distribution paid or payable by any Service Recipient or Operating Entity to any member of the Brookfield Group; (ii) any fees for Operational and Other Services that are paid or payable by any Operating Entity to any member of the Brookfield Group; or (iii) any Transaction Fees.'
+Legal-BERT Prediction: costs (Confidence: 0.08167799562215805)
+Legal-RoBERTa Prediction: costs (Confidence: 0.10697466880083084)
+Final Prediction: costs
+================================================================================
+
+Clause: '7.2Maximum Fees Payable by Service Recipients'
+Legal-BERT Prediction: costs (Confidence: 0.1095309928059578)
+Legal-RoBERTa Prediction: costs (Confidence: 0.14080928266048431)
+Final Prediction: costs
+================================================================================
+
+Clause: 'In no event shall BRELP, or any of the Service Recipients, be obligated under this Agreement and the Service Agreements to pay, in the aggregate in respect of any Quarter, any amount exceeding the Base Management Fee payable for that Quarter, after giving effect to any reductions for Creditable Operating Entity Payments contemplated by Section 7.1.2.'
+Legal-BERT Prediction: termination (Confidence: 0.06802038848400116)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.13435009121894836)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '7.3Currency'
+Legal-BERT Prediction: counterparts (Confidence: 0.07967282831668854)
+Legal-RoBERTa Prediction: termination (Confidence: 0.056061550974845886)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'For the purposes of Section 7.1.2 hereof, if a payment giving rise to a Base Management Fee Adjustment was denominated in a currency other than the U.S. dollar, the amount of such payment will be deemed to be equal to the amount in U.S. dollars into which such payment could have been converted on the last day of the relevant Quarter using the exchange rate between such other currency and the U.S. dollars published in the “Exchange Rates” table of the Wall Street Journal on such date or, in the event that the “Exchange Rates” table of the Wall Street Journal was not published on such date, the closest date immediately preceding the date of such payment on which the “Exchange Rates” table of the Wall Street Journal was published.'
+Legal-BERT Prediction: limitation of liability (Confidence: 0.061164312064647675)
+Legal-RoBERTa Prediction: notice (Confidence: 0.11566908657550812)
+Final Prediction: notice
+================================================================================
+
+Clause: '7.4Computation and Payment of Net Base Management Fee'
+Legal-BERT Prediction: costs (Confidence: 0.10553093254566193)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.08827909082174301)
+Final Prediction: costs
+================================================================================
+
+Clause: '-20-'
+Legal-BERT Prediction: counterparts (Confidence: 0.08826204389333725)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.050567738711833954)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '7.4.3             If BRELP elects to pay all or any portion of the Net Base Management Fee for any Quarter in Units or BRELP Units, the Service Recipients shall take or cause to be taken all appropriate action to issue such Units or BRELP Units, as applicable, including any action required to ensure that such Units or BRELP Units, as applicable, are issued in accordance with applicable Laws and listed on any applicable stock exchanges and public quotation systems.'
+Legal-BERT Prediction: costs (Confidence: 0.0847591906785965)
+Legal-RoBERTa Prediction: notice (Confidence: 0.1177719384431839)
+Final Prediction: notice
+================================================================================
+
+Clause: '7.5Expenses'
+Legal-BERT Prediction: amendment (Confidence: 0.08383853733539581)
+Legal-RoBERTa Prediction: costs (Confidence: 0.06988292187452316)
+Final Prediction: amendment
+================================================================================
+
+Clause: '7.5.1             The Service Providers acknowledge and agree that the Service Recipients will not be required to reimburse any member of the Service Provider Group for the salaries and other remuneration of the management, personnel or support staff who provide the Services to such Service Recipients or overhead for such persons.'
+Legal-BERT Prediction: costs (Confidence: 0.13252557814121246)
+Legal-RoBERTa Prediction: costs (Confidence: 0.12181428074836731)
+Final Prediction: costs
+================================================================================
+
+Clause: '7.5.2            Each of the Service Recipients shall reimburse the relevant member of the Service Provider Group for all out-of-pocket fees, costs and expenses, including those of any third party (other than those contemplated by Section 7.5.1) (“Expenses”), incurred by the relevant member of the Service Provider Group in connection with the provision of the Services. Such Expenses are expected to include, among other things:'
+Legal-BERT Prediction: costs (Confidence: 0.13194046914577484)
+Legal-RoBERTa Prediction: costs (Confidence: 0.3614616394042969)
+Final Prediction: costs
+================================================================================
+
+Clause: '7.5.2.1            fees, costs and expenses relating to any debt or equity financing;'
+Legal-BERT Prediction: costs (Confidence: 0.1697314828634262)
+Legal-RoBERTa Prediction: costs (Confidence: 0.41754502058029175)
+Final Prediction: costs
+================================================================================
+
+Clause: '7.5.2.2            fees, costs and expenses incurred in connection with the general administration of any Service Recipient;'
+Legal-BERT Prediction: costs (Confidence: 0.20593056082725525)
+Legal-RoBERTa Prediction: costs (Confidence: 0.4831804633140564)
+Final Prediction: costs
+================================================================================
+
+Clause: '7.5.2.3            taxes, licenses and other statutory fees or penalties levied against or in respect of a Service Recipient in respect of Services;'
+Legal-BERT Prediction: costs (Confidence: 0.10254988074302673)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.216684952378273)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '7.5.2.4            amounts paid by the relevant member of the Service Provider Group under indemnification, contribution or similar arrangements;'
+Legal-BERT Prediction: costs (Confidence: 0.10723794251680374)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.1404544562101364)
+Final Prediction: insurance
+================================================================================
+
+Clause: '7.5.2.5            fees, costs and expenses relating to financial reporting, regulatory filings and investor relations and the fees, costs and expenses of agents, advisors and other Persons who provide Services to a Service Recipient;'
+Legal-BERT Prediction: costs (Confidence: 0.18103398382663727)
+Legal-RoBERTa Prediction: costs (Confidence: 0.4386692941188812)
+Final Prediction: costs
+================================================================================
+
+Clause: '-21-'
+Legal-BERT Prediction: counterparts (Confidence: 0.09337325394153595)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.049803610891103745)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '7.5.2.6            any other fees, costs and expenses incurred by the relevant member of the Service Provider Group that are reasonably necessary for the performance by the relevant member of the Service Provider Group of its duties and functions under this Agreement or any Service Agreement; and'
+Legal-BERT Prediction: costs (Confidence: 0.2024783045053482)
+Legal-RoBERTa Prediction: costs (Confidence: 0.4271327257156372)
+Final Prediction: costs
+================================================================================
+
+Clause: '7.5.2.7            fees, expenses and costs incurred in connection with the investigation, acquisition, holding or disposal of any asset or business that is made or that is proposed to be made.'
+Legal-BERT Prediction: costs (Confidence: 0.172136127948761)
+Legal-RoBERTa Prediction: costs (Confidence: 0.40984907746315)
+Final Prediction: costs
+================================================================================
+
+Clause: '7.6Governmental Charges'
+Legal-BERT Prediction: counterparts (Confidence: 0.07477225363254547)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.08257915079593658)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'Without limiting Section 7.5, the Service Recipients shall pay or reimburse the relevant member of the Service Provider Group for all sales taxes, use taxes, value added taxes, goods and services taxes, harmonized sales taxes, withholding taxes or other similar taxes, customs duties or other governmental charges (“Governmental Charges”) that are levied or imposed by any Governmental Authority by reason of this Agreement, any Service Agreement or any other agreement contemplated by this Agreement, or the fees or other amounts payable hereunder or thereunder, except for any income taxes, corporation taxes, capital taxes or other similar taxes payable by any member of the Service Provider Group which are personal to such member of the Service Provider Group. Any failure by the Service Provider Group to collect monies on account of these Governmental Charges shall not constitute a waiver of the right to do so.'
+Legal-BERT Prediction: costs (Confidence: 0.11571451276540756)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.13842056691646576)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '7.7Computation and Payment of Expenses and Governmental Charges'
+Legal-BERT Prediction: costs (Confidence: 0.16003668308258057)
+Legal-RoBERTa Prediction: costs (Confidence: 0.1767641007900238)
+Final Prediction: costs
+================================================================================
+
+Clause: 'From time to time the Service Providers shall, or shall cause the other members of the Service Provider Group to, prepare statements (each an “Expense Statement”) documenting the Expenses and Governmental Charges to be reimbursed pursuant to this Article 7 and shall deliver such statements to the relevant Service Recipient. All Expenses and Governmental Charges reimbursable pursuant to this Article 7 shall be reimbursed by the relevant Service Recipient no later than the date which is 30 days after receipt of an Expense Statement. The provisions of this Section 7.7 shall survive the termination of this Agreement.'
+Legal-BERT Prediction: termination (Confidence: 0.07732438296079636)
+Legal-RoBERTa Prediction: notice (Confidence: 0.15577742457389832)
+Final Prediction: notice
+================================================================================
+
+Clause: 'ARTICLE 8'
+Legal-BERT Prediction: counterparts (Confidence: 0.08330752700567245)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05370490998029709)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'BROOKFIELD’S OBLIGATION AND CONSENT RIGHT'
+Legal-BERT Prediction: amendment (Confidence: 0.07882548123598099)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.07366513460874557)
+Final Prediction: amendment
+================================================================================
+
+Clause: '8.1Provision of Services to the Service Recipients'
+Legal-BERT Prediction: counterparts (Confidence: 0.10672523081302643)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08824144303798676)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Brookfield’s sole obligation pursuant to this Agreement shall be to cause the members of the Service Provider Group to provide Services to the Service Recipients in accordance with the terms of this Agreement.'
+Legal-BERT Prediction: costs (Confidence: 0.08032897859811783)
+Legal-RoBERTa Prediction: notice (Confidence: 0.09268254041671753)
+Final Prediction: notice
+================================================================================
+
+Clause: '-22-'
+Legal-BERT Prediction: counterparts (Confidence: 0.09754844009876251)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04963131994009018)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '8.2Consent to Issuance of Class A Shares'
+Legal-BERT Prediction: amendment (Confidence: 0.07339848577976227)
+Legal-RoBERTa Prediction: termination (Confidence: 0.07056795060634613)
+Final Prediction: amendment
+================================================================================
+
+Clause: '8.2.1             Except as set forth in Section 8.2.2, prior to the issuance by BEPC of any Exchangeable Shares, BEPC shall obtain the written consent of Brookfield, which consent shall be provided or withheld in Brookfield’s sole discretion, provided that Brookfield shall deliver its written decision on whether or not to provide such consent within 10 Business Days of receiving a written request from BEPC, in respect of such issuance. Brookfield shall be entitled to such consent right for as long as Brookfield is a party to the Rights Agreement.'
+Legal-BERT Prediction: termination (Confidence: 0.09318078309297562)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.14812473952770233)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '8.2.2             Notwithstanding Section 8.2.1, Brookfield’s consent right does not apply to the issuance by BEPC of any Exchangeable Shares in satisfaction of BEPC’s restricted stock unit awards.'
+Legal-BERT Prediction: termination (Confidence: 0.09616632014513016)
+Legal-RoBERTa Prediction: limitation of liability (Confidence: 0.09863905608654022)
+Final Prediction: limitation of liability
+================================================================================
+
+Clause: 'ARTICLE 9'
+Legal-BERT Prediction: counterparts (Confidence: 0.08343280106782913)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05393163859844208)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'REPRESENTATIONS AND WARRANTIES'
+Legal-BERT Prediction: counterparts (Confidence: 0.0784965455532074)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.09919149428606033)
+Final Prediction: indemnity
+================================================================================
+
+Clause: 'OF THE SERVICE PROVIDERS AND THE SERVICE RECIPIENTS'
+Legal-BERT Prediction: counterparts (Confidence: 0.10067186504602432)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.06963114440441132)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '9.1Representations and Warranties of the Service Providers'
+Legal-BERT Prediction: amendment (Confidence: 0.06739632785320282)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.09636850655078888)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'Each of the Service Providers hereby represents and warrants to the Service Recipients that:'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07105182111263275)
+Legal-RoBERTa Prediction: notice (Confidence: 0.08361425995826721)
+Final Prediction: notice
+================================================================================
+
+Clause: '9.1.1          it is validly organized and existing under the Laws governing its formation and existence;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.113264299929142)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.133767232298851)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '9.1.2          it, or another member of the Service Provider Group, holds such Permits necessary to perform its obligations hereunder and is not aware of any reason why such Permits might be cancelled;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.19867907464504242)
+Legal-RoBERTa Prediction: notice (Confidence: 0.13762618601322174)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '9.1.3          it has the power, capacity and authority to enter into this Agreement and to perform its obligations hereunder;'
+Legal-BERT Prediction: counterparts (Confidence: 0.09840409457683563)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.07324769347906113)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '9.1.4          it has taken all necessary action to authorize the execution, delivery and performance of this Agreement;'
+Legal-BERT Prediction: counterparts (Confidence: 0.13234582543373108)
+Legal-RoBERTa Prediction: further assurance (Confidence: 0.1347542256116867)
+Final Prediction: further assurance
+================================================================================
+
+Clause: '9.1.5          the execution and delivery of this Agreement by it and the performance by it of its obligations hereunder do not and will not contravene, breach or result in any default under its Governing Instruments, or under any mortgage, lease, agreement or other legally binding instrument, Permit or applicable Law to which it is a party or by which it or any of its properties or assets may be bound;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.21712279319763184)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.11415775865316391)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '9.1.6          no authorization, consent or approval, or filing with or notice to any Person is required in connection with the execution, delivery or performance by it of this Agreement; and'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.15939970314502716)
+Legal-RoBERTa Prediction: notice (Confidence: 0.08355768024921417)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '9.1.7          this Agreement constitutes a valid and legally binding obligation of it enforceable against it in accordance with its terms, subject to (i) applicable bankruptcy, insolvency, moratorium, fraudulent conveyance, reorganization and other laws of general application limiting the enforcement of creditors’ rights and remedies generally and (ii) general principles of equity, including standards of materiality, good faith, fair dealing and reasonableness, equitable defenses and limits as to the availability of equitable remedies, whether such principles are considered in a proceeding at law or in equity.'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.07425952702760696)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.14306877553462982)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: '-23-'
+Legal-BERT Prediction: counterparts (Confidence: 0.09339455515146255)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.052043430507183075)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '9.2Representations and Warranties of the Service Recipients'
+Legal-BERT Prediction: counterparts (Confidence: 0.07045888900756836)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.10765749216079712)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: 'Each of the Service Recipients hereby represents and warrants to the Service Providers that:'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07160161435604095)
+Legal-RoBERTa Prediction: notice (Confidence: 0.0838548094034195)
+Final Prediction: notice
+================================================================================
+
+Clause: '9.2.1          it (and, if applicable, its general partner) is validly organized and existing under the Laws governing its formation and existence;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.12409336119890213)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.09972723573446274)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '9.2.2          it, or the relevant Operating Entity, holds such Permits necessary to own and operate the Power Operations that it directly or indirectly owns or operates from time to time and is not aware of any reason why such Permits might be cancelled;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.157395601272583)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.1429104506969452)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '9.2.3          it (or, as applicable, its general partner on its behalf) has the power, capacity and authority to enter into this Agreement and to perform its duties and obligations hereunder;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.10334214568138123)
+Legal-RoBERTa Prediction: relationship (Confidence: 0.06889381259679794)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '9.2.4          it (or, as applicable, its general partner) has taken all necessary action to authorize the execution, delivery and performance of this Agreement;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.11360440403223038)
+Legal-RoBERTa Prediction: further assurance (Confidence: 0.15049201250076294)
+Final Prediction: further assurance
+================================================================================
+
+Clause: '9.2.5          the execution and delivery of this Agreement by it (or, as applicable, its general partner on its behalf) and the performance by it of its obligations hereunder do not and will not contravene, breach or result in any default under its Governing Instruments (or, if applicable, the Governing Instruments of its general partner), or under any mortgage, lease, agreement or other legally binding instrument, Permit or applicable Law to which it is a party or by which any of its properties or assets may be bound;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.20748822391033173)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.08818935602903366)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '9.2.6          no authorization, consent or approval, or filing with or notice to any Person is required in connection with the execution, delivery or performance by it (or, as applicable, its general partner on its behalf) of this Agreement; and'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.1723971962928772)
+Legal-RoBERTa Prediction: notice (Confidence: 0.09319136291742325)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '9.2.7          this Agreement constitutes a valid and legally binding obligation of it enforceable against it in accordance with its terms, subject to: (i) applicable bankruptcy, insolvency, moratorium, fraudulent conveyance, reorganization and other laws of general application limiting the enforcement of creditors’ rights and remedies generally; and (ii) general principles of equity, including standards of materiality, good faith, fair dealing and reasonableness, equitable defenses and limits as to the availability of equitable remedies, whether such principles are considered in a proceeding at law or in equity.'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.0750134289264679)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.14081048965454102)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: 'ARTICLE 10'
+Legal-BERT Prediction: counterparts (Confidence: 0.08865316957235336)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05268578976392746)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'LIABILITY AND INDEMNIFICATION'
+Legal-BERT Prediction: costs (Confidence: 0.0726192444562912)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.06484892219305038)
+Final Prediction: costs
+================================================================================
+
+Clause: '10.1Indemnity'
+Legal-BERT Prediction: amendment (Confidence: 0.06599829345941544)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.07662425935268402)
+Final Prediction: insurance
+================================================================================
+
+Clause: '10.1.1      The Service Recipients hereby jointly and severally agree, to the fullest extent permitted by applicable Laws, to indemnify and hold harmless each member of the Service Provider Group, any of its Affiliates (other than any member of the BEP Group) and any directors, officers, agents, subcontractors, delegates, members, partners, shareholders, employees and other representatives of each of the foregoing (each, a “Service Provider Indemnified Party”) from and against any claims, liabilities, losses, damages, costs or expenses (including legal fees) (“Liabilities”) incurred by them or threatened in connection with any and all actions, suits, investigations, proceedings or claims of any kind whatsoever, whether arising under statute or action of a Governmental Authority or otherwise or in connection with the business, investments and activities of the Service Recipients or in respect of or arising from this Agreement or the Services provided hereunder (“Claims”), including any Claims arising on account of the Governmental Charges contemplated by Section 7.6; provided that no Service Provider Indemnified Party shall be so indemnified with respect to any Claim to the extent that such Claim is finally determined by a final and non-appealable judgment entered by a court of competent jurisdiction, or pursuant to a settlement agreement agreed to by such Service Provider Indemnified Party, to have resulted from such Service Provider Indemnified Party’s bad faith, fraud, wilful misconduct, gross negligence or, in the case of a criminal matter, conduct undertaken with knowledge that the conduct was unlawful.'
+Legal-BERT Prediction: indemnity (Confidence: 0.23888006806373596)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.44085070490837097)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '-24-'
+Legal-BERT Prediction: counterparts (Confidence: 0.08668931573629379)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05194231867790222)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '10.1.2         The Service Providers hereby jointly and severally agree, to the fullest extent permitted by applicable Laws, to indemnify and hold harmless each of the Service Recipients, any of its Affiliates (other than any member of the Service Provider Group), and any directors, officers, agents, members, partners, shareholders, employees and other representatives of each of the foregoing (each, a “BEP Indemnified Party”) from and against any Liabilities resulting from any member of the Service Provider Group’s bad faith, fraud, wilful misconduct, gross negligence and, in the case of a criminal matter, conduct undertaken with the knowledge that the conduct was unlawful.'
+Legal-BERT Prediction: indemnity (Confidence: 0.14027781784534454)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.38890841603279114)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '10.1.3         If any action, suit, investigation, proceeding or claim is made or brought by any third party with respect to which an Indemnifying Party is obligated to provide indemnification under this Agreement (a “Third Party Claim”), the Indemnified Party will have the right to employ its own counsel in connection therewith, and the reasonable fees and expenses of such counsel, as well as the reasonable costs (excluding an amount reimbursed to such Indemnified Party for the time spent in connection therewith) and out-of-pocket expenses incurred in connection therewith will be paid by the Indemnifying Party in such case, as incurred but subject to recoupment by the Indemnifying Party if ultimately it is not liable to pay indemnification hereunder.'
+Legal-BERT Prediction: costs (Confidence: 0.08460633456707001)
+Legal-RoBERTa Prediction: costs (Confidence: 0.34107813239097595)
+Final Prediction: costs
+================================================================================
+
+Clause: '10.1.4         The Indemnified Party and the Indemnifying Party agree that, promptly after the receipt of notice of the commencement of any Third Party Claim, the Indemnified Party in such case will notify the Indemnifying Party in writing of the commencement of such Third Party Claim (provided that any accidental failure to provide any such notice will not prejudice the right of any such Indemnified Party hereunder) and, throughout the course of such Third Party Claim, such Indemnified Party will use its best efforts to provide copies of all relevant documentation to such Indemnifying Party and will keep the Indemnifying Party apprised of the progress thereof and will discuss with the Indemnifying Party all significant actions proposed.'
+Legal-BERT Prediction: costs (Confidence: 0.0852893814444542)
+Legal-RoBERTa Prediction: notice (Confidence: 0.26487112045288086)
+Final Prediction: notice
+================================================================================
+
+Clause: '10.1.5         The parties hereto expressly acknowledge and agree that the right to indemnity provided in this Section 10.1 shall be in addition to and not in derogation of any other liability which the Indemnifying Party in any particular case may have or of any other right to indemnity or contribution which any Indemnified Party may have by statute or otherwise at law.'
+Legal-BERT Prediction: entire agreement (Confidence: 0.07936456054449081)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.22435465455055237)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '-25-'
+Legal-BERT Prediction: counterparts (Confidence: 0.09221398085355759)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05287860706448555)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '10.2  Limitation of Liability'
+Legal-BERT Prediction: costs (Confidence: 0.07039851695299149)
+Legal-RoBERTa Prediction: limitation of liability (Confidence: 0.06671123951673508)
+Final Prediction: costs
+================================================================================
+
+Clause: '10.2.2         The Service Recipients hereby agree that no Service Provider Indemnified Party will be liable to a Service Recipient, a Service Recipient’s Governing Body (including, for greater certainty, a director or officer of a Service Recipient or another individual with similar function or capacity) or any security holder or partner of a Service Recipient for any Liabilities that may occur as a result of any acts or omissions by the Service Provider Indemnified Party pursuant to or in accordance with this Agreement, except to the extent that such Liabilities are finally determined by a final and non-appealable judgment entered by a court of competent jurisdiction to have resulted from the Service Provider Indemnified Party’s bad faith, fraud, wilful misconduct, gross negligence, or in the case of a criminal matter, conduct undertaken with knowledge that the conduct was unlawful.'
+Legal-BERT Prediction: indemnity (Confidence: 0.15729686617851257)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.3289986550807953)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '10.3 Benefit to all Indemnified Parties'
+Legal-BERT Prediction: costs (Confidence: 0.0992586761713028)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.07467139512300491)
+Final Prediction: costs
+================================================================================
+
+Clause: '10.3.1        The Service Recipients hereby constitute the Service Providers as trustees for each of the Service Provider Indemnified Parties of the covenants of the Service Recipients under this Article 10 with respect to such Service Provider Indemnified Parties and the Service Providers hereby accept such trust and agree to hold and enforce such covenants on behalf of the Indemnified Parties.'
+Legal-BERT Prediction: limitation of liability (Confidence: 0.18696463108062744)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.12741822004318237)
+Final Prediction: limitation of liability
+================================================================================
+
+Clause: '10.3.2       The Service Providers hereby constitute the Service Recipients as trustees for each of the BEP Indemnified Parties of the covenants of the Service Providers under this Article 10 with respect to such BEP Indemnified Parties and the Service Recipients hereby accept such trust and agree to hold and enforce such covenants on behalf of the BEP Indemnified Parties.'
+Legal-BERT Prediction: limitation of liability (Confidence: 0.1989668905735016)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.1302565336227417)
+Final Prediction: limitation of liability
+================================================================================
+
+Clause: '-26-'
+Legal-BERT Prediction: counterparts (Confidence: 0.08997125923633575)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05200381949543953)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '10.4No Waiver'
+Legal-BERT Prediction: counterparts (Confidence: 0.0825553834438324)
+Legal-RoBERTa Prediction: waiver (Confidence: 0.10219423472881317)
+Final Prediction: waiver
+================================================================================
+
+Clause: 'U.S. federal and state securities laws impose liabilities under certain circumstances on Persons who act in good faith; nothing herein shall constitute a waiver or limitation of any rights which the Service Recipients may have, if any, under any applicable U.S. federal and state securities laws.'
+Legal-BERT Prediction: costs (Confidence: 0.07231245189905167)
+Legal-RoBERTa Prediction: waiver (Confidence: 0.13847525417804718)
+Final Prediction: waiver
+================================================================================
+
+Clause: 'ARTICLE 11'
+Legal-BERT Prediction: counterparts (Confidence: 0.08611683547496796)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.053626082837581635)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'TERM AND TERMINATION'
+Legal-BERT Prediction: amendment (Confidence: 0.09331262856721878)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.06427347660064697)
+Final Prediction: amendment
+================================================================================
+
+Clause: '11.1Term'
+Legal-BERT Prediction: amendment (Confidence: 0.09211946278810501)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05685814097523689)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'This Agreement shall continue in full force and effect, in perpetuity, until terminated in accordance with Section 11.2 or Section 11.3.'
+Legal-BERT Prediction: termination (Confidence: 0.205919086933136)
+Legal-RoBERTa Prediction: termination (Confidence: 0.16674140095710754)
+Final Prediction: termination
+================================================================================
+
+Clause: '11.2Termination by the Service Recipients'
+Legal-BERT Prediction: counterparts (Confidence: 0.09646229445934296)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.10950883477926254)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '11.2.1        The Service Recipients may, subject to Section 11.2.2, terminate this Agreement effective upon written notice of termination to the Service Providers without payment of any termination fee if:'
+Legal-BERT Prediction: termination (Confidence: 0.19178380072116852)
+Legal-RoBERTa Prediction: termination (Confidence: 0.20595945417881012)
+Final Prediction: termination
+================================================================================
+
+Clause: '11.2.1.2       any of the Service Providers engages in any act of fraud, misappropriation of funds or embezzlement against any Service Recipient that results in material harm to the Service Recipients;'
+Legal-BERT Prediction: non-competition (Confidence: 0.09892257302999496)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.12729498744010925)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '11.2.1.3       there is an event of any gross negligence on the part of any of the Service Providers in the performance of its obligations under this Agreement and such gross negligence results in material harm to the Service Recipients; or'
+Legal-BERT Prediction: non-competition (Confidence: 0.09281060099601746)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.15790702402591705)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '11.2.1.4       each of the Service Providers makes a general assignment for the benefit of its creditors, institutes proceedings to be adjudicated voluntarily bankrupt, consents to the filing of a petition of bankruptcy against it, is adjudicated by a court of competent jurisdiction as being bankrupt or insolvent, seeks reorganization under any bankruptcy law or consents to the filing of a petition seeking such reorganization or has a decree entered against it by a court of competent jurisdiction appointing a receiver liquidator, trustee or assignee in bankruptcy or in insolvency.'
+Legal-BERT Prediction: termination (Confidence: 0.0794803723692894)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.09470092505216599)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: '-27-'
+Legal-BERT Prediction: counterparts (Confidence: 0.09269479662179947)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05080849677324295)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '11.3Termination by the Service Providers'
+Legal-BERT Prediction: amendment (Confidence: 0.0768592432141304)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.08686532080173492)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '11.3.1         The Service Providers may terminate this Agreement effective upon written notice of termination to the Service Recipients without payment of any termination fee if:'
+Legal-BERT Prediction: termination (Confidence: 0.17805075645446777)
+Legal-RoBERTa Prediction: termination (Confidence: 0.22144715487957)
+Final Prediction: termination
+================================================================================
+
+Clause: '11.3.1.2        any Service Recipient makes a general assignment for the benefit of its creditors, institutes proceedings to be adjudicated voluntarily bankrupt, consents to the filing of a petition of bankruptcy against it, is adjudicated by a court of competent jurisdiction as being bankrupt or insolvent, seeks reorganization under any bankruptcy law or consents to the filing of a petition seeking such reorganization or has a decree entered against it by a court of competent jurisdiction appointing a receiver liquidator, trustee or assignee in bankruptcy or in insolvency.'
+Legal-BERT Prediction: termination (Confidence: 0.07952654361724854)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.0964173972606659)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: '11.4Survival Upon Termination'
+Legal-BERT Prediction: termination (Confidence: 0.09700620174407959)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06049118563532829)
+Final Prediction: termination
+================================================================================
+
+Clause: 'If this Agreement is terminated pursuant to this Article 11, such termination will be without any further liability or obligation of any party hereto, except as provided in Section 6.4, Section 11.5, Section 11.6 and Section 13.3.'
+Legal-BERT Prediction: termination (Confidence: 0.1943621039390564)
+Legal-RoBERTa Prediction: termination (Confidence: 0.23682904243469238)
+Final Prediction: termination
+================================================================================
+
+Clause: '11.5Action Upon Termination'
+Legal-BERT Prediction: amendment (Confidence: 0.0780392661690712)
+Legal-RoBERTa Prediction: termination (Confidence: 0.09537238627672195)
+Final Prediction: termination
+================================================================================
+
+Clause: '11.5.1         From and after the effective date of the termination of this Agreement, the Service Providers shall not be entitled to receive the Base Management Fee for further Services under this Agreement, but will be paid all compensation accruing to and including the date of termination (including such day).'
+Legal-BERT Prediction: termination (Confidence: 0.17002633213996887)
+Legal-RoBERTa Prediction: termination (Confidence: 0.10153897851705551)
+Final Prediction: termination
+================================================================================
+
+Clause: '-28-'
+Legal-BERT Prediction: counterparts (Confidence: 0.08520476520061493)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.050807561725378036)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '11.5.2         Upon any termination of this Agreement, the Service Providers shall forthwith:'
+Legal-BERT Prediction: termination (Confidence: 0.2280094474554062)
+Legal-RoBERTa Prediction: termination (Confidence: 0.21544575691223145)
+Final Prediction: termination
+================================================================================
+
+Clause: '11.5.2.1        after deducting any accrued compensation and reimbursements for any Expenses to which it is then entitled, pay over to the Service Recipients all money collected and held for the account of the Service Recipients pursuant to this Agreement;'
+Legal-BERT Prediction: termination (Confidence: 0.10499358922243118)
+Legal-RoBERTa Prediction: costs (Confidence: 0.1431332528591156)
+Final Prediction: costs
+================================================================================
+
+Clause: '11.5.2.2        deliver to the Service Recipients’ Governing Bodies a full accounting, including a statement showing all payments collected by it and a statement of all money held by it, covering the period following the date of the last accounting furnished to the Governing Bodies with respect to the Service Recipients; and'
+Legal-BERT Prediction: termination (Confidence: 0.06501326709985733)
+Legal-RoBERTa Prediction: notice (Confidence: 0.12989431619644165)
+Final Prediction: notice
+================================================================================
+
+Clause: '11.5.2.3        deliver to the Service Recipients’ Governing Bodies all property and documents of the Service Recipients then in the custody of the Service Provider Group.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07810969650745392)
+Legal-RoBERTa Prediction: notice (Confidence: 0.17670179903507233)
+Final Prediction: notice
+================================================================================
+
+Clause: '11.6Release of Money or other Property Upon Written Request'
+Legal-BERT Prediction: counterparts (Confidence: 0.10607854276895523)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.09879635274410248)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'The Service Providers hereby agree that any money or other property of the Service Recipients or their Subsidiaries held by the Service Provider Group under this Agreement shall be held by the relevant member of the Service Provider Group as custodian for such Person, and the relevant member of the Service Provider Group’s records shall be appropriately marked clearly to reflect the ownership of such money or other property by such Person. Upon the receipt by the relevant member of the Service Provider Group of a written request signed by a duly authorized representative of a Service Recipient requesting the relevant member of the Service Provider Group to release to the Service Recipient any money or other property then held by the relevant member of the Service Provider Group for the account of such Service Recipient under this Agreement, the relevant member of the Service Provider Group shall release such money or other property to the Service Recipient within a reasonable period of time, but in no event later than 60 days following such request. The relevant member of the Service Provider Group shall not be liable to any Service Recipient, a Service Recipient’s Governing Body or any other Person for any acts performed or omissions to act by a Service Recipient in connection with the money or other property released to the Service Recipient in accordance with the second sentence of this Section 11.6. Each Service Recipient shall indemnify and hold harmless the relevant member of the Service Provider Group, any of its Affiliates (other than any member of the BEP Group) and any directors, officers, agents, subcontractors, delegates, members, partners, shareholders and employees and other representatives of each of the foregoing from and against any and all Liabilities which arise in connection with the relevant member of the Service Provider Group’s release of such money or other property to the Service Recipient in accordance with the terms of this Section 11.6. Indemnification pursuant to this provision shall be in addition to any right of such Persons to indemnification under Section 10.1 hereof. For the avoidance of doubt, the provisions of this Section 11.6 shall survive termination of this Agreement. The Service Recipients hereby constitute the Service Providers as trustees for each Person entitled to indemnification pursuant to this Section 11.6 of the covenants of the Service Recipients under this Section 11.6 with respect to such Persons and the Service Providers hereby accept such trust and agree to hold and enforce such covenants on behalf of such Persons.'
+Legal-BERT Prediction: indemnity (Confidence: 0.1196870505809784)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.17188642919063568)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '-29-'
+Legal-BERT Prediction: counterparts (Confidence: 0.09673953056335449)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05035810172557831)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'ARTICLE 12'
+Legal-BERT Prediction: counterparts (Confidence: 0.0883510634303093)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05200430378317833)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'ARBITRATION'
+Legal-BERT Prediction: counterparts (Confidence: 0.08795156329870224)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.049488238990306854)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '12.1Dispute'
+Legal-BERT Prediction: amendment (Confidence: 0.09692814201116562)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06266704946756363)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Any dispute or disagreement of any kind or nature between the parties arising out of or in connection with this Agreement (a “Dispute”) shall be resolved in accordance with this Article 12, to the extent permitted by applicable Laws.'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.14316251873970032)
+Legal-RoBERTa Prediction: entire agreement (Confidence: 0.0835757851600647)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: '12.2Arbitration'
+Legal-BERT Prediction: amendment (Confidence: 0.11025696247816086)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.06898251175880432)
+Final Prediction: amendment
+================================================================================
+
+Clause: '12.2.1         Any Dispute shall be submitted to arbitration (the “Arbitration”) by one Arbitrator pursuant to the procedure set forth in this Section 12.2 and pursuant to the arbitration rules set forth in the Arbitration Act, 1991 (Ontario) (the “Act”). If the provisions of this Section 12.2 are inconsistent with the provisions of the Act and to the extent of such inconsistency, the provisions of this Section 12.2 shall prevail in any Arbitration.'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.12808911502361298)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.0957452729344368)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: '12.2.3         Within thirty (30) days after any demand for Arbitration under Section 12.2.2, the parties shall have agreed on the designation of the Arbitrator or should the parties fail to do so, the Arbitrator may be appointed by a judge of the Ontario Superior Court of Justice upon motion of either party (in either case, the “Arbitrator”).'
+Legal-BERT Prediction: termination (Confidence: 0.10845150798559189)
+Legal-RoBERTa Prediction: amendment (Confidence: 0.0771651417016983)
+Final Prediction: termination
+================================================================================
+
+Clause: '12.2.4         The Arbitration hearings shall be held in a location in Ontario specified in the demand for Arbitration and shall commence no later than thirty (30) days after the determination of the Arbitrator under Section 12.2.3. The decision of the Arbitrator shall be made not later than sixty (60) days after its appointment. The decision of the Arbitrator, shall be final without appeal and binding on the parties.'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.0813995748758316)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.12769192457199097)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: '12.2.5         Each party shall bear the costs and expenses of all lawyers, consultants, advisors, witnesses and employees retained by it in any Arbitration. The expenses of the Arbitrator shall be paid equally by the parties unless the Arbitrator otherwise provides in its award.'
+Legal-BERT Prediction: costs (Confidence: 0.07099509984254837)
+Legal-RoBERTa Prediction: costs (Confidence: 0.4500528872013092)
+Final Prediction: costs
+================================================================================
+
+Clause: '12.3Continued Performance'
+Legal-BERT Prediction: amendment (Confidence: 0.0745847150683403)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.08007600158452988)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'During the conduct of Dispute resolution procedures pursuant to this Article 12, the parties shall continue to perform their respective obligations under this Agreement and neither party shall exercise any other remedies to resolve a Dispute.'
+Legal-BERT Prediction: joint and several liability (Confidence: 0.06226878613233566)
+Legal-RoBERTa Prediction: further assurance (Confidence: 0.09890537708997726)
+Final Prediction: further assurance
+================================================================================
+
+Clause: '-30-'
+Legal-BERT Prediction: counterparts (Confidence: 0.09212147444486618)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05099009349942207)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'ARTICLE 13'
+Legal-BERT Prediction: counterparts (Confidence: 0.08490606397390366)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.053266435861587524)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'GENERAL PROVISIONS'
+Legal-BERT Prediction: amendment (Confidence: 0.0722818449139595)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.056929152458906174)
+Final Prediction: amendment
+================================================================================
+
+Clause: '13.1Limited Liability of Limited Partners of BEP and BRELP'
+Legal-BERT Prediction: limitation of liability (Confidence: 0.08170557022094727)
+Legal-RoBERTa Prediction: joint and several liability (Confidence: 0.10778806358575821)
+Final Prediction: joint and several liability
+================================================================================
+
+Clause: '13.1.1      Each of the parties acknowledges that (i) each of BEP and BRELP is a limited partnership formed under the laws of Bermuda, a limited partner of which is liable for any liabilities or losses of the relevant partnership only to the extent of the amount that such limited partner has contributed, or agreed to contribute, to the capital of the relevant partnership and such limited partner’s pro rata share of any undistributed income; (ii) BRELP General Partner is the sole general partner of BRELP GP LP; BRELP GP LP is the sole general partner of BRELP; and the Managing General Partner is the sole general partner of BEP; and (iii) the only Person with whom such party has had dealings on behalf of BRELP is BRELP GP LP; the only Person with whom such party has had dealings on behalf of the BRELP GP LP is BRELP General Partner; and the only Person with whom such party has had dealings on behalf of BEP is the Managing General Partner.'
+Legal-BERT Prediction: limitation of liability (Confidence: 0.17211824655532837)
+Legal-RoBERTa Prediction: limitation of liability (Confidence: 0.14648418128490448)
+Final Prediction: limitation of liability
+================================================================================
+
+Clause: '13.2Assignment'
+Legal-BERT Prediction: counterparts (Confidence: 0.08269664645195007)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05034492164850235)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '13.2.2      Notwithstanding Section 13.2.1, this Agreement will not be assigned (within the meaning of the Advisers Act) by any Service Provider that is registered with the SEC as an investment adviser without the prior written consent of BEP.'
+Legal-BERT Prediction: termination (Confidence: 0.1112753376364708)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.1174563318490982)
+Final Prediction: assignment
+================================================================================
+
+Clause: '13.2.3     This Agreement shall not be assigned by any of the Service Recipients without the prior written consent of the Service Providers, except in the case of assignment by any such Service Recipient to a Person that is its successor by merger, consolidation or purchase of assets, in which case the successor shall be bound under this Agreement and by the terms of the assignment in the same manner as such Service Recipient is bound under this Agreement.'
+Legal-BERT Prediction: assignment (Confidence: 0.24517162144184113)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.387069970369339)
+Final Prediction: assignment
+================================================================================
+
+Clause: '13.2.4      Any purported assignment of this Agreement in violation of this Article 13 shall be null and void.'
+Legal-BERT Prediction: assignment (Confidence: 0.1437600702047348)
+Legal-RoBERTa Prediction: termination (Confidence: 0.1448114514350891)
+Final Prediction: termination
+================================================================================
+
+Clause: '13.3Failure to Pay When Due'
+Legal-BERT Prediction: amendment (Confidence: 0.06467156857252121)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.08782774955034256)
+Final Prediction: indemnity
+================================================================================
+
+Clause: 'Any amount payable by any Service Recipient to any member of the Service Provider Group hereunder which is not remitted when so due will remain due (whether on demand or otherwise) and interest will accrue on such overdue amounts (both before and after judgment) at a rate per annum equal to the Interest Rate.'
+Legal-BERT Prediction: joint and several liability (Confidence: 0.09008041769266129)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.09024893492460251)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '-31-'
+Legal-BERT Prediction: counterparts (Confidence: 0.09682417660951614)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.049762919545173645)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '13.4Enurement'
+Legal-BERT Prediction: amendment (Confidence: 0.09128958731889725)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06179571524262428)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'This Agreement will enure to the benefit of and be binding upon the parties hereto and their respective successors and permitted assigns.'
+Legal-BERT Prediction: assignment (Confidence: 0.2423183023929596)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.28209879994392395)
+Final Prediction: assignment
+================================================================================
+
+Clause: '13.5Notices'
+Legal-BERT Prediction: counterparts (Confidence: 0.08579043298959732)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.06782171130180359)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '13.5.1        if to BEP:'
+Legal-BERT Prediction: notice (Confidence: 0.07246236503124237)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07424579560756683)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Brookfield Renewable Partners Limited'
+Legal-BERT Prediction: counterparts (Confidence: 0.10372553020715714)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05228087678551674)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '73 Front Street, 5th FloorHamilton HM 12Bermuda'
+Legal-BERT Prediction: amendment (Confidence: 0.07050976902246475)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07589685916900635)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Attention: Secretary'
+Legal-BERT Prediction: counterparts (Confidence: 0.08794192224740982)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05893605947494507)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '13.5.2        if to BRELP:'
+Legal-BERT Prediction: amendment (Confidence: 0.07595451176166534)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.07243366539478302)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'BRP Bermuda GP Limited'
+Legal-BERT Prediction: counterparts (Confidence: 0.10801222920417786)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.051875002682209015)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '73 Front Street, 5th FloorHamilton HM 12Bermuda'
+Legal-BERT Prediction: amendment (Confidence: 0.07050976902246475)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07589685916900635)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Attention: Secretary'
+Legal-BERT Prediction: counterparts (Confidence: 0.08794192224740982)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05893605947494507)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '13.5.3        if to Brookfield:'
+Legal-BERT Prediction: amendment (Confidence: 0.08435676246881485)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08211167901754379)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Brookfield Corporation.'
+Legal-BERT Prediction: amendment (Confidence: 0.07566353678703308)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05199951305985451)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Suite 100, Brookfield Place'
+Legal-BERT Prediction: counterparts (Confidence: 0.0774584710597992)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05565501004457474)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '181 Bay Street, Box 762'
+Legal-BERT Prediction: counterparts (Confidence: 0.08561220020055771)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0586826428771019)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Toronto, Ontario M5J 2T3'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07168322056531906)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.052520330995321274)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'Attention: Chief Legal Officer'
+Legal-BERT Prediction: amendment (Confidence: 0.08223745226860046)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.09212273359298706)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '-32-'
+Legal-BERT Prediction: counterparts (Confidence: 0.0979001522064209)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05155280604958534)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '13.5.4        if to the Canadian Service Provider:'
+Legal-BERT Prediction: termination (Confidence: 0.08394156396389008)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.10478921234607697)
+Final Prediction: insurance
+================================================================================
+
+Clause: 'Brookfield Asset Management Private Institutional Capital Adviser (Canada), L.P.'
+Legal-BERT Prediction: termination (Confidence: 0.08513429760932922)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07170304656028748)
+Final Prediction: termination
+================================================================================
+
+Clause: 'Suite 100, Brookfield Place'
+Legal-BERT Prediction: counterparts (Confidence: 0.0774584710597992)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05565501004457474)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '181 Bay Street, Box 762'
+Legal-BERT Prediction: counterparts (Confidence: 0.08561220020055771)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0586826428771019)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Toronto, Ontario M5J 2T3'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07168322056531906)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.052520330995321274)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '13.5.5        if to the Canadian Service Provider II:'
+Legal-BERT Prediction: termination (Confidence: 0.09138915687799454)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.09547571837902069)
+Final Prediction: insurance
+================================================================================
+
+Clause: 'Brookfield Canada Renewable Manager LP'
+Legal-BERT Prediction: counterparts (Confidence: 0.08606913685798645)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.058386433869600296)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Suite 100, Brookfield Place'
+Legal-BERT Prediction: counterparts (Confidence: 0.0774584710597992)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05565501004457474)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '181 Bay Street, Box 762'
+Legal-BERT Prediction: counterparts (Confidence: 0.08561220020055771)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0586826428771019)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Toronto, Ontario M5J 2T3'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07168322056531906)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.052520330995321274)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '13.5.6if to the US Service Provider:'
+Legal-BERT Prediction: notice (Confidence: 0.07476547360420227)
+Legal-RoBERTa Prediction: notice (Confidence: 0.1644304245710373)
+Final Prediction: notice
+================================================================================
+
+Clause: 'Brookfield Renewable Energy Group LLC250 Vesey Street, 15th FloorNew York, NY 10281-1023'
+Legal-BERT Prediction: termination (Confidence: 0.0704316645860672)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.09898338466882706)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '13.5.7if to the International Service Provider:'
+Legal-BERT Prediction: notice (Confidence: 0.06727086007595062)
+Legal-RoBERTa Prediction: notice (Confidence: 0.142385795712471)
+Final Prediction: notice
+================================================================================
+
+Clause: 'Brookfield Renewable Energy Group LLC250 Vesey Street, 15th FloorNew York, NY 10281-1023'
+Legal-BERT Prediction: termination (Confidence: 0.0704316645860672)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.09898338466882706)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '13.5.8         if to the UK Service Provider:'
+Legal-BERT Prediction: notice (Confidence: 0.07148061692714691)
+Legal-RoBERTa Prediction: notice (Confidence: 0.14288781583309174)
+Final Prediction: notice
+================================================================================
+
+Clause: 'Brookfield Global Renewable Energy Advisor Limited'
+Legal-BERT Prediction: counterparts (Confidence: 0.11495832353830338)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.070589579641819)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'One Canada Square'
+Legal-BERT Prediction: counterparts (Confidence: 0.09884034097194672)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05384277552366257)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Level 25, Canary Wharf'
+Legal-BERT Prediction: amendment (Confidence: 0.06984289735555649)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05446720868349075)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'London E14 5AA'
+Legal-BERT Prediction: counterparts (Confidence: 0.09741432964801788)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0510837659239769)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'United Kingdom'
+Legal-BERT Prediction: counterparts (Confidence: 0.08145852386951447)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.04633602872490883)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '13.5.9         if to the Dubai Service Provider:'
+Legal-BERT Prediction: termination (Confidence: 0.07872257381677628)
+Legal-RoBERTa Prediction: notice (Confidence: 0.15679582953453064)
+Final Prediction: notice
+================================================================================
+
+Clause: 'Brookfield Private Capital (DIFC) Limited'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07672394812107086)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0632234588265419)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'Unit 24-00, Level 24'
+Legal-BERT Prediction: counterparts (Confidence: 0.09807252883911133)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04903692752122879)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'ICD Brookfield Place'
+Legal-BERT Prediction: counterparts (Confidence: 0.08251337707042694)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.057136137038469315)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Dubai International Financial Centre'
+Legal-BERT Prediction: amendment (Confidence: 0.07910062372684479)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06244008615612984)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Dubai'
+Legal-BERT Prediction: counterparts (Confidence: 0.08020693063735962)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0506560318171978)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'United Arab Emirates'
+Legal-BERT Prediction: amendment (Confidence: 0.08957324177026749)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.052028317004442215)
+Final Prediction: amendment
+================================================================================
+
+Clause: '13.5.10if to any new Service Provider appointed pursuant to Section 2.3, at the address listed in the joinder agreement executed by the new Service Provider; and'
+Legal-BERT Prediction: termination (Confidence: 0.08710024505853653)
+Legal-RoBERTa Prediction: notice (Confidence: 0.23419462144374847)
+Final Prediction: notice
+================================================================================
+
+Clause: '-33-'
+Legal-BERT Prediction: counterparts (Confidence: 0.09766693413257599)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05047232285141945)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '13.5.11if to any of the Holding Entities, at the applicable address listed on Schedule A hereto'
+Legal-BERT Prediction: notice (Confidence: 0.07972828298807144)
+Legal-RoBERTa Prediction: notice (Confidence: 0.23768962919712067)
+Final Prediction: notice
+================================================================================
+
+Clause: 'or to such other addresses as a party may from time to time notify the others in accordance with this Section 13.5.'
+Legal-BERT Prediction: notice (Confidence: 0.12622368335723877)
+Legal-RoBERTa Prediction: notice (Confidence: 0.35143986344337463)
+Final Prediction: notice
+================================================================================
+
+Clause: '13.6Further Assurances'
+Legal-BERT Prediction: amendment (Confidence: 0.07447553426027298)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.09681085497140884)
+Final Prediction: insurance
+================================================================================
+
+Clause: 'Each of the parties hereto will promptly do, make, execute or deliver, or cause to be done, made, executed or delivered, all such further acts, documents and things as the other party hereto may reasonably require from time to time for the purpose of giving effect to this Agreement and will use reasonable efforts and take all such steps as may be reasonably within its power to implement to their full extent the provisions of this Agreement.'
+Legal-BERT Prediction: further assurance (Confidence: 0.21744109690189362)
+Legal-RoBERTa Prediction: further assurance (Confidence: 0.34793105721473694)
+Final Prediction: further assurance
+================================================================================
+
+Clause: '13.7Counterparts'
+Legal-BERT Prediction: amendment (Confidence: 0.07863408327102661)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.0648595467209816)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'This Agreement may be signed in counterparts and each of such counterparts will constitute an original document and such counterparts, taken together, will constitute one and the same instrument.'
+Legal-BERT Prediction: counterparts (Confidence: 0.4739343822002411)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.6173952221870422)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '13.8Other Holding Entities'
+Legal-BERT Prediction: counterparts (Confidence: 0.09419740736484528)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.06980985403060913)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'The parties acknowledge that any Holding Entity that is not a party to this Agreement will execute a counterpart of this Agreement agreeing to be bound by the terms of this Agreement.'
+Legal-BERT Prediction: amendment (Confidence: 0.08999254554510117)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.10439623892307281)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: '[NEXT PAGE IS SIGNATURE PAGE]'
+Legal-BERT Prediction: amendment (Confidence: 0.08613888174295425)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.08288470655679703)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'IN WITNESS WHEREOF the parties have executed this Agreement as of the date first above written.'
+Legal-BERT Prediction: counterparts (Confidence: 0.09616872668266296)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.09642575681209564)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Schedule A'
+Legal-BERT Prediction: counterparts (Confidence: 0.07932661473751068)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05003264546394348)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'IN WITNESS WHEREOF the Holding Entities have executed this Agreement as of the date first above written.'
+Legal-BERT Prediction: counterparts (Confidence: 0.10252875089645386)
+Legal-RoBERTa Prediction: termination (Confidence: 0.0906081348657608)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'BROOKFIELD BRP HOLDINGS (CANADA) INC.'
+Legal-BERT Prediction: amendment (Confidence: 0.0743810161948204)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.055408649146556854)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Schedule B'
+Legal-BERT Prediction: counterparts (Confidence: 0.09351139515638351)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0477994941174984)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'JOINDER TO MASTER SERVICES AGREEMENT'
+Legal-BERT Prediction: amendment (Confidence: 0.081056609749794)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06192002445459366)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'RECITALS:'
+Legal-BERT Prediction: counterparts (Confidence: 0.0857212021946907)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05533226579427719)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'A.                The Master Services Agreement provides that any Service Provider may, from time to time, appoint an Affiliate of Brookfield to act as a new Service Provider under that agreement;'
+Legal-BERT Prediction: termination (Confidence: 0.12547607719898224)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.13576142489910126)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'B.                 The New Service Provider is an Affiliate of Brookfield; and'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.08506730198860168)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07617060095071793)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'C.                 The ■ Service Provider wishes to appoint the New Service Provider to act as a new Service Provider under the Master Services Agreement and the New Service Provider wishes to accept such appointment.'
+Legal-BERT Prediction: joint and several liability (Confidence: 0.06633856892585754)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.09745030850172043)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: 'NOW THEREFORE in consideration of good and valuable consideration (the receipt and sufficiency of which are hereby acknowledged), the New Service Provider agrees as follows:'
+Legal-BERT Prediction: costs (Confidence: 0.07407844066619873)
+Legal-RoBERTa Prediction: further assurance (Confidence: 0.07404918223619461)
+Final Prediction: costs
+================================================================================
+
+Clause: '1.                  Agreement to be Bound. The New Service Provider hereby agrees that upon execution of this Joinder, it shall become a party to the Master Services Agreement and acknowledges that it is fully bound by, and subject to, all of the covenants, representations, terms and conditions of this Joinder and of the Service Providers under the Master Services Agreement.'
+Legal-BERT Prediction: joint and several liability (Confidence: 0.09110190719366074)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.1797347217798233)
+Final Prediction: assignment
+================================================================================
+
+Clause: '3.                  Enurement. This Joinder will enure to the benefit of and be binding upon the parties hereto and their respective successors and permitted assigns.'
+Legal-BERT Prediction: assignment (Confidence: 0.24389810860157013)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.21738004684448242)
+Final Prediction: assignment
+================================================================================
+
+Clause: '4.                  Notices. Notices and other communications to the New Service Provider will be addressed as follows:'
+Legal-BERT Prediction: notice (Confidence: 0.12066546082496643)
+Legal-RoBERTa Prediction: notice (Confidence: 0.24445374310016632)
+Final Prediction: notice
+================================================================================
+
+Clause: '5.                  Counterparts. This Joinder may be signed in counterparts and each of such counterparts will constitute an original document and such counterparts, taken together, will constitute one and the same instrument.'
+Legal-BERT Prediction: counterparts (Confidence: 0.4666197597980499)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.5603872537612915)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '6.                  Governing Law. This Joinder will be governed by and interpreted and enforced in accordance with the laws of the Province of Ontario and the federal laws of Canada applicable therein.'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.27505120635032654)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.550724983215332)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: '[NEXT PAGE IS THE SIGNATURE PAGE]'
+Legal-BERT Prediction: amendment (Confidence: 0.08677063882350922)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.09002204239368439)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'IN WITNESS WHEREOF the parties have executed this Joinder as of the day and year first above written.'
+Legal-BERT Prediction: counterparts (Confidence: 0.11368267238140106)
+Legal-RoBERTa Prediction: notice (Confidence: 0.09179233759641647)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '[■ SERVICE PROVIDER]       By:   Name:  Title:       [NEW SERVICE PROVIDER]       By:   Name:  Title:'
+Legal-BERT Prediction: amendment (Confidence: 0.08245256543159485)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1471232920885086)
+Final Prediction: non-competition
+================================================================================
+

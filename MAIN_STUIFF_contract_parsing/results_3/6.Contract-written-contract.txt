@@ -1,0 +1,1365 @@
+Child 1 (p):
+MASTER SERVICE AGREEMENT
+
+Child 2 (p):
+This Master Service Agreement (this “Agreement”) is entered into as of May 31, 2014 (the “Effective Date”) by and between zulily, inc., a Delaware corporation (“zulily”), and IntelliSource, LLC, a Colorado limited liability company (“Provider”). Each of zulily and Provider may be referred to in this Agreement individually as a “Party” and together as the “Parties”. The Parties hereby agree as follows:
+
+Child 3 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 4 (p):
+1.    Services.
+
+Child 5 (tbl):
+1.1Scope. Provider will provide services (“Services”) to zulily at one or more fulfillment center facilities (a “Facility” and collectively the “Facilities”) located within Ohio in accordance with the terms and conditions of this Agreement as the Parties may agree and specify in one or more Statements of Work in the form attached as Exhibit A for permanently assigned personnel or in the form attached as Exhibit B for temporary labor used to handle peak volume or seasonal work (each, a “SOW”) executed by both Parties. Each SOW will contain a description and/or specifications of the Services to be performed and other terms and conditions as may be mutually agreed upon by the Parties. Each SOW will constitute a separate contract from any other SOW the Parties may execute. Provider will bill zulily separately for each SOW executed. During the term of this Agreement, if either: [*].
+
+Child 6 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 7 (tbl):
+1.2Management of Facilities. zulily shall own the management and operation of all Facilities. zulily agrees to provide Provider and its personnel with access to the Facilities, equipment and technology to permit Provider and its personnel to provide the Services. zulily agrees that Provider personnel will not be required, without Provider’s written consent which will not be unreasonably withheld, to: drive zulily vehicles; lift over fifty (50) pounds; handle chemicals; handle cash, credit card information or other valuables; operate unguarded machinery or perform any work above floor level, including elevated platforms, scaffolding, manlifts, ladders, etc. It is understood that Provider employees may be required to perform work on or at the mezzanine level.
+
+Child 8 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 9 (tbl):
+1.3Transition of Employees. Any employees hired by Provider to provide the Services (or those employees of Provider who are already providing Services to zulily under a previous agreement between the Parties) may be eligible for full-time employment with zulily, at zulily’s sole discretion and with Provider’s permission, which must be in writing and which will not be unreasonably withheld as long as (i) zulily is not in default under this Agreement or any SOW executed pursuant to this Agreement, (ii) the minimum headcounts and hour volumes identified in the SOW attached as Exhibit A hereto are met, (iii) the tenure requirements in this Section 1.3 are met, and (iv) such hiring is consistent with the provisions of Exhibit C attached hereto. Provider in its sole discretion may allow zulily to hire a Provider employee without meeting such conditions. Subject to zulily satisfying the foregoing conditions at the time of any hiring of Provider employees, zulily may begin to transition Provider’s employees to zulily effective June 1,
+
+Child 10 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 11 (p):
+1
+
+Child 12 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 13 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 14 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 15 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 16 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 17 (p):
+2
+
+Child 18 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 19 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 20 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 21 (p):
+required). Provider further agrees that it will comply with all other applicable federal, state or local laws or regulations applicable to Provider as an employer regarding compensation, hours of work or other conditions of employment.
+
+Child 22 (tbl):
+1.5zulily Employees. Subject to Section 1.3, nothing herein shall limit zulily’s right to recruit, screen and hire directly its own employees in its sole discretion. zulily shall be responsible for supervising its workforce in accordance with all applicable legal obligations. zulily retains the option to utilize any Provider time clock and interface in its discretion so long as such use is permitted by Provider’s agreement with the time clock provider and zulily pays all license fees and costs associated therewith. zulily will install time clocks and timekeeping systems to support zulily employees as needed. Provider will maintain applicable data feeds sufficient to support productivity management as reasonably required by zulily to operate its Facilities. zulily shall be solely responsible for its own labor relations with its employees, including any former Provider employees effective as of their respective dates of hire by zulily (except to the extent any labor problems relate to the employee’s previous employment with Provider, which shall remain Provider’s sole responsibility).
+
+Child 23 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 24 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 25 (tbl):
+1.7Onsite Accommodations Provided by zulily. zulily at its expense shall provide to Provider at the Facilities:
+
+Child 26 (p):
+A.    Office(s) with furniture for Provider’s employees;
+
+Child 27 (p):
+B.    Phones, voicemail, fax line and internet connection for Provider’s employees; and
+
+Child 28 (p):
+C.    Internet connection for timeclock.
+
+Child 29 (tbl):
+2.Provider Representations, Warranties and Covenants.
+
+Child 30 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 31 (tbl):
+2.1Representations and Warranties. Provider represents and warrants to zulily that: (a) it is duly organized and validly existing under the Laws (as defined below) of the jurisdiction of its incorporation or formation, and has full corporate or other power to enter into this Agreement and carry out the provisions hereof; (b) it is duly authorized to execute and deliver this Agreement and to perform its obligations hereunder and under any SOW, and the person or persons executing this Agreement on its behalf has been duly authorized to do so by all requisite action; (c) the execution, delivery and performance by it of this Agreement, and the consummation by it of the transactions contemplated hereby, does not and will not (i) violate any provision of its charter, bylaws or other organizational documents, (ii) conflict with, result in a breach of or constitute a default under any agreement or instrument to which it is a party or by which it is bound, or (iii) violate, result in a breach of or constitute a default under any judgment, injunction, decree, Law or other restriction
+
+Child 32 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 33 (p):
+3
+
+Child 34 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 35 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 36 (p):
+of any court or governmental authority to which it is subject; and (d) this Agreement is legally binding upon it, enforceable in accordance with its terms, subject to bankruptcy, insolvency, reorganization, moratorium, and similar Laws of general applicability relating to or affecting creditors’ rights and to general principles of equity.
+
+Child 37 (tbl):
+2.2Standards of Service. Subject to compliance by zulily with its obligations hereunder, Provider agrees that the Services will be performed to the commercially reasonable satisfaction of zulily. Without limiting the foregoing, Provider shall perform all Services in accordance with the performance criteria (“KPIs”) for the Services set forth in a SOW or as otherwise agreed by the Parties. zulily shall retain the right, with the prior written consent of Provider, to update or add to the list of KPIs. Any KPIs, including updated or additional KPIs, which materially impact the Services provided by Provider, shall constitute an Event of Change (as defined herein). Provider agrees to allow zulily a reasonable period of time after Services are performed to determine if the Services provided by Provider were performed in a satisfactory manner. Provider agrees to employ an adequate force of trained personnel who shall perform the Services substantially in accordance with any KPIs. To further assure that the Services will be performed to the commercially reasonable satisfaction of zulily, Provider agrees that the employees hired by Provider to perform the Services provided by Provider at a Facility pursuant to a SOW will be used by Provider solely at such Facility and will not be used by Provider at any other location or for any other customer without the prior written consent of zulily, which will not be unreasonably withheld. If zulily reasonably determines within a reasonable period of time after Services are performed that the Services provided by Provider personnel are not satisfactory, zulily shall so notify Provider. If necessary, Provider will provide corrective Services within a mutually agreed upon period of time. zulily may require Provider to replace the operations or account manager assigned to zulily, if zulily reasonably determines that a replacement will improve the quality of Services provided by Provider. The foregoing rights and remedies shall be zulily’s sole and exclusive remedies hereunder except for Provider’s indemnification obligations under Section 7. Other than as provided herein, Provider makes no other warranty of any kind with respect to the Services hereunder or otherwise. All other warranties, express or implied, are hereby disclaimed. Without limiting the foregoing, Provider shall have no liability for work product of Provider or its employees that is incorporated into zulily’s work product, processes or plans.
+
+Child 38 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 39 (tbl):
+2.3Additional Requirements. In the performance of the Services, (i) Provider will provide all equipment, software and supplies required to perform the Services, except as set forth in Section 1.7 or unless otherwise agreed; (ii) Provider and its personnel will comply, at Provider’s sole cost, with all applicable ordinances, codes, standards, laws, rules, regulations and orders (including those of any applicable stock exchange) (collectively, “Laws”), and will hold and fully comply with all required licenses, permits, certifications and approvals and (iii) Provider will ensure that all personnel are authorized to lawfully perform the Services pursuant to applicable immigration and work status Laws.
+
+Child 40 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 41 (tbl):
+2.4Designation of Manager. Provider will designate a manager in charge of the Services on a continuous basis with responsibility for providing adequate supervision or direction and having authority to take all action that may be required in performance of the Services.
+
+Child 42 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 43 (tbl):
+2.5Services on zulily Premises. Provider and any of its personnel will abide by all zulily’s rules, policies and procedures regarding such matters as safety, security, health, environmental and hazardous material management, misconduct, physical aggression,
+
+Child 44 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 45 (p):
+4
+
+Child 46 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 47 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 48 (p):
+harassment and theft (collectively, the “zulily Policies”), provided that zulily has provided copies of such policies to Provider, and at zulily’s request will remove any personnel performing Services who behave in a manner that is inconsistent with any such zulily Policies.
+
+Child 49 (tbl):
+2.6Records. Provider will, in accordance with generally accepted accounting principles (as it applies to financial records) and otherwise in compliance with Law, maintain and keep complete and accurate records of all matters relating to the Services that enable Provider to demonstrate compliance with its obligations under this Agreement and any SOW, including compliance with applicable Laws, during the Term and for seven years thereafter (collectively, regardless of form, the “Records”). The Records maintained by Provider will include time sheets, billing records, invoices, payment applications, payments of consultants and receipts relating to reimbursable expenses. zulily (or its designated representatives) may, upon reasonable notice and during normal business hours, examine and make copies of all Records. In addition, subject to the terms of this Agreement, Provider will, as requested by zulily and at zulily’s expense, provide information regarding Provider and its operations that, in zulily’s determination, will assist zulily in its efforts to ensure compliance with various Laws, such as interaction with government officials and data security controls.
+
+Child 50 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 51 (tbl):
+2.7Audits. Without limiting any other rights set forth in this Agreement, zulily’s internal or external accountants and auditors may, at zulily’s expense, not more frequently than [*], audit Provider’s Records solely with respect to the matters set forth in this Agreement at any time during the Term and for [*] thereafter, upon reasonable notice and during normal business hours. If any such audit reveals that Provider has overcharged zulily, zulily will provide written evidence thereof to Provider and Provider will, unless it reasonably disputes the findings of such audit, promptly reimburse zulily for such overcharge. In the event that such overcharge is an amount equal to or greater than [*]% of the amount that should have been charged under the terms of this Agreement and the applicable SOW, then Provider will promptly reimburse zulily for all reasonable costs and expenses incurred in connection with such audit.
+
+Child 52 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 53 (tbl):
+2.8Required Insurance. In addition to any specific insurance requirements set forth in any SOW, Provider agrees to maintain the following insurance coverage:
+
+Child 54 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 55 (tbl):
+(a)Provider will maintain commercial general liability insurance, on an occurrence basis, covering all operations by or on behalf of Provider against bodily injury (including death) and property damage (including loss of use), including premises/operations, personal and advertising injury, products/completed operations, and contractual liability. This commercial general liability insurance will be in limits of liability of not less than $1,000,000 per occurrence, combined single limit for bodily injury and property damage, with a $2,000,000 general aggregate. zulily will be included as an additional insured under such policy.
+
+Child 56 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 57 (tbl):
+(b)Provider will maintain business automobile liability insurance, including coverage for all owned, hired and non-owned automobiles. The amount of automobile insurance will not be less than $1,000,000 combined single limit for each accident for bodily injury and property damage. zulily will be included as an additional insured under such policy.
+
+Child 58 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 59 (p):
+5
+
+Child 60 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 61 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 62 (tbl):
+(c)Provider will maintain Workers’ Compensation insurance at all locations where Provider performs the Services. Further, Provider will obtain and maintain Employer’s Liability Insurance in an amount not less than $1,000,000.
+
+Child 63 (p):
+(d)    a commercially reasonable Fidelity Bond.
+
+Child 64 (tbl):
+(e)Provider will maintain an umbrella insurance policy, on an occurrence basis, providing coverage in excess of commercial general liability, business automobile liability, and employer’s liability, in an amount not less than $3,000,000 per occurrence, combined single limit for bodily injury and property damage. zulily will be included as an additional insured under such policy.
+
+Child 65 (p):
+zulily shall maintain at its expense commercially reasonable amounts of commercial general liability insurance for the Facilities provided hereunder and shall name Provider as an additional insured under such policy. zulily shall provide Provider with a certificate of insurance evidencing such insurance coverage. zulily will not cancel the policy without at least 30 days prior written notice to Provider.
+
+Child 66 (p):
+2.9    Certificates of Insurance; Insurer Qualifications; Subcontractors.
+
+Child 67 (tbl):
+(a)Provider will provide zulily with certificates of insurance evidencing all of the insurance coverage required by this Agreement prior to commencing work hereunder. The certificates of insurance will provide that the policies will not be cancelled or non-renewed without at least 30 days prior written notice to zulily.
+
+Child 68 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 69 (tbl):
+(b)All policies required by this Section 2 will be written by insurance companies licensed to issue policies in the state(s) where Services are being performed and that have an A.M. Best rating of no less than A+ or otherwise acceptable to zulily.
+
+Child 70 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 71 (tbl):
+(c)Provider will obtain contractual obligations from, and will enforce those obligations against, any subcontractor that Provider utilizes to perform obligations under this Agreement, which obligations will require such subcontractor to obtain and maintain insurance coverage and limits of liability of the same type and the same amount as are required to be obtained and maintained by Provider hereunder, except that Provider may request zulily’s waiver of such requirement for certain smaller subcontractors, which waiver will not be unreasonably withheld. Provider will obtain, prior to the commencement of each subcontractor’s work, certificates of insurance evidencing such subcontractor’s compliance with the insurance requirements contained herein.
+
+Child 72 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 73 (tbl):
+3.Fees; Payment.
+
+Child 74 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 75 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 76 (p):
+6
+
+Child 77 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 78 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 79 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 80 (p):
+[*]
+
+Child 81 (p):
+3.3    Taxes.
+
+Child 82 (tbl):
+(a)Each Party will be responsible for and pay all taxes, duties or charges of any kind (including withholding, value added or gross receipts taxes) imposed by any federal, state, or local governmental entity for any payments made to it or received by it under this Agreement. zulily may deduct or withhold any taxes that zulily determines it is obligated to withhold from any amounts payable to Provider under this Agreement, and payment to Provider as reduced by such deductions or withholdings will constitute full payment and settlement to Provider of such amounts.
+
+Child 83 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 84 (tbl):
+(b)The Parties will make reasonable attempts to determine whether none, some or all of the Services provided under any SOW are subject to sales tax under applicable state or local statutes. zulily may issue certificates of exemption to Provider when it believes a tax exemption, exception or exclusion applies which must be accepted by Provider when they are issued in good faith. [*].
+
+Child 85 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 86 (p):
+7
+
+Child 87 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 88 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 89 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 90 (p):
+[*]
+
+Child 91 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 92 (tbl):
+4.Term and Termination.
+
+Child 93 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 94 (p):
+4.2    Termination. This Agreement, or any applicable SOW, will be terminated as follows:
+
+Child 95 (tbl):
+(a)by the mutual written agreement of the Parties;
+
+Child 96 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 97 (tbl):
+(b)upon written notice by either Party, at its sole option:
+
+Child 98 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 99 (tbl):
+(i)immediately upon delivery of written notice to the other Party, if the other Party has ceased to do business, dissolved or elected to dissolve; or
+
+Child 100 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 101 (tbl):
+(ii)immediately upon delivery of written notice to the other Party, if the other Party is unable to pay its debts when due, becomes insolvent, makes an assignment for the benefit of creditors, or proceedings in bankruptcy or reorganization or for an appointment of a receiver or trustee for or over the other Party’s property are instituted by or against such Party in any court having jurisdiction thereof, and such proceedings be not vacated, set aside or stayed within 60 days thereof, or if the other Party attempts to enter into an arrangement or assignment with or for the benefit of its creditors;
+
+Child 102 (p):
+(c)    by either Party for any reason:
+
+Child 103 (tbl):
+(i)during the first year of the Agreement: one hundred and twenty (120) days after delivery of written notice; and
+
+Child 104 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 105 (tbl):
+(ii)after the first year of the Agreement: ninety (90) days after delivery of written notice.
+
+Child 106 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 107 (tbl):
+(d)either Party may terminate this Agreement for a material breach of this Agreement by giving not less than sixty (60) days written notice to the other party hereto; provided that Provider may terminate this Agreement or an applicable SOW immediately upon notice to zulily if any undisputed invoice aged over thirty (30) days remains unpaid. If zulily delivers notice to Provider of its intent to terminate under this provision, zulily shall include therein the reasons for such termination and Provider shall have thirty (30) days to rectify or modify
+
+Child 108 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 109 (p):
+8
+
+Child 110 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 111 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 112 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 113 (p):
+its performance, after which thirty (30) day period zulily shall revoke or affirm its termination.
+
+Child 114 (p):
+4.3    Effect of Termination. Upon termination of this Agreement:
+
+Child 115 (tbl):
+(a)zulily will only be liable to pay undisputed amounts for Services performed in accordance with this Agreement and the applicable SOW prior to expiration or termination; provided further that if zulily terminates under Section 4.2(d), zulily will be entitled to deduct from any such payment any damages incurred by zulily as a result of the cause for such termination (which will not be construed as a limit on zulily’s ability to recover any damages in excess of such payment amount).
+
+Child 116 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 117 (tbl):
+(b)Each Party will return to the other Party all Materials and Confidential Information in whatever form in that is in such Party’s possession.
+
+Child 118 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 119 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 120 (tbl):
+4.4Survival of Certain Provisions. Notwithstanding anything to the contrary in this Section 4, Sections 2.8, 3, 4.4, 5, 6, 7 and 9 will survive any expiration or termination of this Agreement.
+
+Child 121 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 122 (tbl):
+5.Proprietary Rights.
+
+Child 123 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 124 (tbl):
+5.1Proprietary Information. All intellectual property and other data of any nature furnished or disclosed by one Party (the “Disclosing Party”) to the other Party (the “Receiving Party”) in connection with this Agreement or otherwise may be used by the Receiving Party only in connection with this Agreement and will remain the property of the Disclosing Party. The Disclosing Party will retain all rights, title and interest in and to such materials, including all software, source codes, modifications, updates and enhancements thereof or any other aspect of its systems, its name or any derivatives thereof, and any other trademarks and logos that are owned or controlled by the Disclosing Party.
+
+Child 125 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 126 (tbl):
+5.2Materials. The Receiving Party and its personnel will not access, use, copy, or distribute any Materials without the Disclosing Party’s express permission. If the Disclosing Party provides the Receiving Party with access to or copies of any Materials, then the Disclosing Party thereby grants the Receiving Party a non-exclusive, temporary, revocable license to use those Materials solely in connection with this Agreement. The Receiving Party will treat all Materials as Confidential Information. “Materials” means any materials or information that zulily owns or licenses from a third party, including concepts, works, inventions, information, drawings, designs, templates, interfaces, programs, or software (in source code and object code form), as well as any related documentation and instructions.
+
+Child 127 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 128 (p):
+9
+
+Child 129 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 130 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 131 (tbl):
+6.Publicity; Confidentiality.
+
+Child 132 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 133 (tbl):
+6.1Publicity. Neither Party will use any trade name, trademark, service mark, logo, commercial symbol, or any other proprietary rights of the other Party or its affiliates (or any name, mark, logo, or commercial symbol confusingly similar thereto), in any manner (including any materials or in any form of publicity, marketing, promotion, advertisement, or press release), without such other Party’s prior written consent or as described in this Agreement. Neither Party will issue press releases or publicity relating to the other Party or this Agreement or reference such other Party or its affiliates in any brochures, advertisements, client lists or other promotional materials without such other Party’s prior written consent. Notwithstanding the foregoing, zulily may file this Agreement and any SOW as required by applicable law or stock exchange requirements.
+
+Child 134 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 135 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 136 (tbl):
+6.3Confidential Information. The term “Confidential Information” includes any confidential or proprietary information of either the Receiving or the Disclosing Party (whether oral, written, visual or fixed in any tangible medium of expression, including electronic or magnetic form), which (a) is identified by the relevant Party as being confidential or would be apparent to a reasonable person as constituting information of a confidential or proprietary nature, and (b) relates to either Party’s services, operations, systems, programs, data, unpublished research plans or results, protocols, methodologies, concepts, models, procedures, algorithms, methods, approaches, analyses, improvements, inventions, techniques, suppliers, employees, customers and prospective customers, customer lists and prospective customer lists, contact information for customers and prospective customers (e.g., names, titles, phone numbers, addresses, fax numbers, and email addresses), contractors, cost and pricing data, trade secrets, “know-how”, processes, plans, reports, designs, software, technology, IT infrastructure, workflows, and
+
+Child 137 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 138 (p):
+10
+
+Child 139 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 140 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 141 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 142 (tbl):
+6.4Compelled Disclosure. If the Receiving Party is requested or required by subpoena, civil investigative demand, any informal or formal investigation by any government or governmental agency or authority, Law, or other legal or governmental process, including oral questions, interrogatories, or requests for information or documents, to disclose any of the Confidential Information, the Receiving Party will notify the Disclosing Party promptly in writing so that the Disclosing Party may seek a protective order or other appropriate remedy or, in its sole discretion, waive compliance with the confidentiality obligations of this Agreement and authorize such disclosure. If no such protective order or other remedy is obtained, or the Disclosing Party waives compliance with the confidentiality obligations of this Agreement and authorizes such disclosure, the Receiving Party will furnish only that portion of the Confidential Information which it is advised by counsel is legally required and will exercise its reasonable efforts to obtain assurance that confidential treatment will be afforded to the Confidential Information.
+
+Child 143 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 144 (tbl):
+6.5Return of Confidential Information. Upon the earlier of (a) the expiration or termination of this Agreement or (b) the request of the Disclosing Party, the Receiving Party will return to the Disclosing Party all Confidential Information of the Disclosing Party in its possession in a manner mutually agreed upon by the Parties.
+
+Child 145 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 146 (tbl):
+7.Indemnification; Limitation of Liability.
+
+Child 147 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 148 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 149 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 150 (p):
+11
+
+Child 151 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 152 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 153 (p):
+becomes a zulily employee; provided, however, to the extent such claim relates to the employee’s previous employment with Provider it shall remain the responsibility of Provider) against Provider for any reason; (b) any claim by a Provider employee or former Provider employee against Provider arising out of or related to zulily’s recruitment, hiring or non-hiring of such employee, including without limitation zulily’s recruitment or hiring practices or policies with respect thereto; (c) any breach or alleged breach by zulily under this Agreement; (d) the negligence, recklessness, willful misconduct, fraud or bad faith of zulily; and (e) injury to or death of any person or damage to any property caused by zulily’s performance or non-performance of its obligations under this Agreement; provided that zulily shall not indemnify or hold harmless Provider Indemnified Parties to the extent any such Losses are caused by willful misconduct or the negligent or unlawful acts or omissions of Provider Indemnified Parties.
+
+Child 154 (tbl):
+7.3Joint Liability. If Losses are the result of the joint or concurrent negligence of Provider Indemnified Parties and zulily Indemnified Parties, Losses shall be apportioned between the Parties based on the relative negligence of the Parties.
+
+Child 155 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 156 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 157 (p):
+12
+
+Child 158 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 159 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 160 (tbl):
+7.5Limitation of Liabilities. EXCEPT AS EXPRESSLY PROVIDED IN THIS AGREEMENT, NEITHER PARTY WILL BE LIABLE TO THE OTHER PARTY UNDER ANY CIRCUMSTANCES FOR INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL (INCLUDING LOST OPPORTUNITIES OR PROFITS), OR PUNITIVE DAMAGES ARISING OUT OF ANY OF THE TERMS OR CONDITIONS OF THIS AGREEMENT OR WITH RESPECT TO ITS PERFORMANCE HEREUNDER. Notwithstanding the foregoing, the Parties will be liable for indirect, special, incidental, consequential (including lost opportunities or profits) and punitive damages to the extent arising out of (i) a breach of Section 5 or Section 6 of this Agreement, or (ii) such Party’s fraud or willful misconduct.
+
+Child 161 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 162 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 163 (tbl):
+9.General Provisions.
+
+Child 164 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 165 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 166 (tbl):
+9.2[*]. Except as expressly provided in Section 1.3 of this Agreement or a SOW, during the term of this Agreement and for [*] following the date of termination of this Agreement [*].
+
+Child 167 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 168 (tbl):
+9.3Notices. Any notice or information required or permitted to be given under this Agreement will be deemed given when (a) delivered personally, (b) one business day after deposit with an overnight courier, or (c) five days after mailing when sent by
+
+Child 169 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 170 (p):
+13
+
+Child 171 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 172 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 173 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 174 (p):
+registered or certified mail, postage prepaid, return receipt requested, addressed to the address set forth below:
+
+Child 175 (p):
+In the case of zulily:
+
+Child 176 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 177 (p):
+zulily, inc.     
+
+Child 178 (p):
+2601 Elliott Ave.    
+
+Child 179 (p):
+Seattle, WA 98121    
+
+Child 180 (p):
+Attention: Bob Spieth, COO
+
+Child 181 (p):
+cc: Legal
+
+Child 182 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 183 (p):
+With a copy via email (which will not constitute notice) to: bspieth@zulily.com, drunnette@zulily.com
+
+Child 184 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 185 (p):
+In the case of Provider:    
+
+Child 186 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 187 (p):
+IntelliSource, LLC     
+
+Child 188 (p):
+1899 Wynkoop Street, Ste. 900    
+
+Child 189 (p):
+Denver, CO 80202    
+
+Child 190 (p):
+Attention: Robyn Donahue    
+
+Child 191 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 192 (p):
+With a copy via email (which will not constitute notice) to: rdonahue@intellisource.com
+
+Child 193 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 194 (p):
+Either Party may change its notice address by giving notice in accordance with this Section 9.3.
+
+Child 195 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 196 (tbl):
+9.4Severability. If any provision of this Agreement is held by a court of competent jurisdiction to be invalid, void or unenforceable, the remaining provisions of this Agreement will remain in full force and effect. If a court finds that any provision of this Agreement is invalid or unenforceable, but that by limiting such provision it would become valid and enforceable, then such provision will be deemed to be written, construed, and enforced as so limited.
+
+Child 197 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 198 (tbl):
+9.5Waivers. The waiver of any breach or violation of any term or provision of this Agreement will not constitute a waiver of any subsequent breach or violation of the same or any other term or provision. No waiver of any right or remedy hereunder will occur unless such waiver is in writing.
+
+Child 199 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 200 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 201 (tbl):
+9.7Conflicts Among Documents. If there is any conflict or inconsistency between this Agreement and any SOW, the terms of this Agreement will control (unless the SOW
+
+Child 202 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 203 (p):
+14
+
+Child 204 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 205 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 206 (tbl):
+9.8No Third Party Beneficiaries. This Agreement will not be construed to confer any rights on any third party, except as otherwise expressly set forth in this Agreement.
+
+Child 207 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 208 (tbl):
+9.9Assignment and Subcontracting. Provider may not delegate or subcontract all or any portion of this Agreement without zulily’s prior written consent, which shall not be unreasonably withheld. This Agreement shall not be assigned by Provider without zulily’s prior written consent, which shall not be unreasonably withheld. zulily may not assign this Agreement without Provider’s prior written consent, which shall not be unreasonably withheld; provided, however, that zulily may assign this Agreement without Provider’s consent in cases of zulily’s merger or consolidation, sale of substantially all of its assets, or similar change in control event. This Agreement and the rights and obligations of either Party hereunder will be binding upon and will inure to the benefit of the Parties and their respective successors and permitted assigns.
+
+Child 209 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 210 (tbl):
+9.10Governing Law; Waiver of Jury Trial. This Agreement is governed by, and will be construed in accordance with, the Laws of the State of Washington, regardless of the conflict of laws principles thereof that would require the application of the Laws of another jurisdiction. The prevailing Party in any dispute between the Parties arising out of or relating to this Agreement will be entitled to recover its reasonable attorneys’ fees and costs incurred in connection with such dispute. THE PARTIES EACH IRREVOCABLY WAIVE THEIR RESPECTIVE RIGHTS TO JURY TRIAL OF ANY DISPUTE BASED UPON OR ARISING OUT OF THIS AGREEMENT OR ANY DEALINGS AMONG THEM RELATING TO THE TRANSACTIONS CONTEMPLATED HEREBY.
+
+Child 211 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 212 (tbl):
+9.11Disputes. Any controversy or dispute arising out of or relating to either Party’s rights or obligations under this Agreement or an SOW (each, a “Dispute”) will be resolved as follows:
+
+Child 213 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 214 (tbl):
+(a)For the first 30 days following the identification of a Dispute, the Parties will in good faith attempt to resolve such Dispute. Such efforts will not require either Party to involve its senior management in discussions with the other Party (but either Party may elect to do so voluntarily).
+
+Child 215 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 216 (tbl):
+(b)If the Parties are unable to resolve the Dispute during such 30-day period, then for an additional 30 days thereafter, representatives of the senior management of each Party will in good faith attempt to resolve such Dispute.
+
+Child 217 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 218 (tbl):
+(c)If the Parties are unable to resolve the Dispute during such additional 30-day period, then either Party may elect that the Dispute be resolved by binding arbitration in accordance with the then-current Commercial Arbitration Rules of the American Arbitration Association. The Parties will select a mutually acceptable arbitrator knowledgeable about issues relating to the subject matter of this Agreement. If the Parties are unable to agree to such a selection, each Party will select an arbitrator and the two arbitrators in turn will select a third arbitrator, all three of whom will preside jointly over the matter. The arbitration will take place in Seattle, Washington.
+
+Child 219 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 220 (p):
+15
+
+Child 221 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 222 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 223 (tbl):
+9.12Injunctive and Other Equitable Relief. The Parties each acknowledge that breach or threatened breach of Sections 5 or 6, could cause irreparable harm, the amount of which may be extremely difficult to estimate, thus making any remedy at law or in damages inadequate. Therefore, each Party has the right to seek injunctive or other equitable relief for any such breach or threatened breach of this Agreement, without any obligation to post a bond or other security.
+
+Child 224 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 225 (tbl):
+9.13Construction. The Parties have participated jointly in the negotiation of this Agreement, and each has had the advice of legal counsel to review, comment upon and draft this Agreement. Accordingly, the Parties agree that no rule of construction will apply against or in favor of any Party, and any uncertainty or ambiguity will not be interpreted against any one Party in favor of the other Party. For purposes of this Agreement, the terms “include,” “includes,” and “including” will be deemed to be followed by the words “without limitation.”
+
+Child 226 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 227 (tbl):
+9.14Further Assurances. Each Party will execute, acknowledge and deliver such further instruments, and do all such other acts, as may be necessary or appropriate in order to carry out the purposes and intent of this Agreement.
+
+Child 228 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 229 (tbl):
+9.15Counterparts; Signatures. This Agreement may be executed in two or more counterparts, each of which will be an original, and all of which together will constitute one and the same instrument. This Agreement may be executed by facsimile or electronically scanned signatures and such signatures will be deemed to bind each Party as if they were original signatures.
+
+Child 230 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 231 (tbl):
+9.16Remedies. All remedies and rights contained in this Agreement will be cumulative and none of them will be in limitation of any other remedy or right of either Party at law or in equity.
+
+Child 232 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 233 (tbl):
+9.17Headings. The headings in this Agreement are for reference purposes only and will not in any way affect the meaning or interpretation of this Agreement.
+
+Child 234 (p):
+[Signature page follows.]
+
+Child 235 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 236 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 237 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 238 (p):
+16
+
+Child 239 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 240 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 241 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 242 (p):
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.
+
+Child 243 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 244 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 245 (p):
+ZULILY, INC.                        
+
+Child 246 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 247 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 248 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 249 (p):
+By: /s/ Darrell Cavens                
+
+Child 250 (p):
+Name:    Darrell Cavens                
+
+Child 251 (p):
+Title:CEO                        
+
+Child 252 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 253 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 254 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 255 (p):
+PROVIDER:
+
+Child 256 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 257 (p):
+IntelliSource, LLC                        
+
+Child 258 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 259 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 260 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 261 (p):
+By: /s/ Robyn Donahue                    
+
+Child 262 (p):
+Name:    Robyn Donahue                 
+
+Child 263 (p):
+Title:    CEO        
+
+Child 264 (p):
+                
+
+Child 265 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 266 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 267 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 268 (p):
+[Signature Page to Master Service Agreement]
+
+Child 269 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 270 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 271 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 272 (p):
+EXHIBIT A
+
+Child 273 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 274 (p):
+STATEMENT OF WORK
+
+Child 275 (p):
+NUMBER [____]
+
+Child 276 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 277 (p):
+This Statement of Work (this “SOW”) is entered into as of MAY 31, 2014 (“SOW Effective Date”) and made a part of the Master Service Agreement (the “Agreement”) between zulily, inc., a Delaware corporation (“zulily”), and IntelliSource, LLC, a Colorado limited liability company (“Provider”). Each of zulily and Provider may be referred to in this SOW individually as a “Party” and together as the “Parties”. All capitalized terms not defined in this SOW have the respective meanings set forth in the Agreement.
+
+Child 278 (tbl):
+1.Scope and Location of Services.
+
+Child 279 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 280 (tbl):
+A.Services.
+
+Child 281 (p):
+Provider will provide the following Services at the Facility identified below during the term of the Agreement (references to “Services” in this SOW refer to the Services to be provided under this SOW):
+
+Child 282 (p):
+Provider will provide, supply and assign personnel comprising a workforce at the Facility [*]. The Parties understand, acknowledge and accept that conditions or events subsequent (e.g., injury, illness, rules violation, change of employer) may cause a change to the composition of the permanently assigned personnel, but that any such change will be followed by a new associate being permanently assigned to fill a position and contribute to the workforce of a minimum of [*] associates. Neither the workforce of a minimum of [*] associates cumulatively nor any of the personnel assigned individually constitute contingent or temporary labor to handle peak volume or seasonal work.
+
+Child 283 (p):
+Provider will serve as a primary point of entry for employees for zulily Facilities. Provider responsibilities under this SOW include recruiting, screening, onboarding and hiring processes, site management, benefits and PTO plans, retention strategies, site specific reporting, the maintenance of software data feeds (for IS workforce), the screening, management and billing of subcontractors when applicable, and ongoing access to Provider MARS and implementations teams as business needs dictate. Provider will partner with zulily on the execution and maintenance of onboarding, training, safety, productivity and quality programs and other strategic initiatives as appropriate for the Facility.
+
+Child 284 (p):
+Under separate SOW, Provider may also supply any contingent (temporary) workforce needed to handle peaks in volume.
+
+Child 285 (p):
+Provider will maintain adequate leadership in order to provide HR, legal, timekeeping support and supervision/counseling.
+
+Child 286 (p):
+zulily may choose to provide feedback and direction to Provider employees regarding performance related tasks, metrics and standards. Provider will maintain responsibility for all
+
+Child 287 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 288 (p):
+A-2
+
+Child 289 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 290 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 291 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 292 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 293 (p):
+HR activities including performance management, employee compensation and a progressive discipline process and associated tasks.
+
+Child 294 (p):
+[*].
+
+Child 295 (tbl):
+B.Location(s) Where Services Will be Provided.
+
+Child 296 (p):
+At zulily Facility: 3051 Creekside Parkway, Lockbourne, OH 43137.
+
+Child 297 (tbl):
+2.Personnel.
+
+Child 298 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 299 (tbl):
+A.Background Checks. Provider will pre-screen all Services personnel by conducting background checks. The background checks will include: (i) inquiry regarding past criminal convictions (covering all localities in which the candidate has lived or worked in the past seven years) and will be based on candidate social security numbers (or international equivalent); (ii) verification that the Services personnel are under no contractual or other restrictions that would prohibit or impair the ability of such personnel to perform the Services for zulily; and (iii) verification that performance of the Services by the personnel will not violate any federal or state law, statute or regulation of the jurisdiction in which such Services personnel may be providing the Services. Provider will obtain and maintain written results of all criminal background checks. Provider agrees that Services personnel who will have access to zulily Facilities will be thoroughly screened for convictions; individuals with theft and violence felony convictions may be excluded from providing Services, regardless of when the conviction occurred. In assessing any other potential Services personnel with a conviction, Provider will assess: (a) the nature and gravity of the offense or conduct, including the harm caused, the specific elements of the crime, and whether it was a felony or misdemeanor; (b) the time that has passed since the offense or conduct and/or completion of the sentence; and (c) the nature of the job held or sought.
+
+Child 300 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 301 (tbl):
+B.Drug Testing. Provider agrees to require all Services personnel or agent of Provider to submit to pre-employment, post-accident and reasonable cause drug and/or alcohol testing.
+
+Child 302 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 303 (tbl):
+C.Costs of Background Checks and Drug Testing. zulily agrees that the costs of any background checks and drug testing required by zulily which is not routinely performed by Provider as a part of its regular procedures (drug testing, credit checks, and criminal background checks are examples of non-routine screening) shall be paid or reimbursed by zulily. If any Services personnel are placed at the Facility before performance of background checks and/or drug testing required by zulily, zulily shall not be liable for any fees under Section 3 hereof for any such employees subsequently terminated due to a failed background check and/or drug test unless mutually agreed to by the Parties in advance.
+
+Child 304 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 305 (tbl):
+D.Nondisclosure Agreement.     Provider will cause each individual that provides Services to zulily pursuant to this SOW and that has access to zulily’s confidential information to execute a Nondisclosure Agreement in a form reasonably acceptable to zulily and will deliver each such validly executed individual Nondisclosure Agreement to zulily prior to, and as a condition precedent to such person having access to such confidential information.
+
+Child 306 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 307 (tbl):
+E.Disability Accommodation. Provider will handle all disability accommodation requests for its employees. zulily will cooperate with Provider’s efforts to make reasonable accommodations for Provider employees who have disabilities that can be reasonably accommodated without undue hardship on zulily, provided that Provider bears all costs of any such accommodations.
+
+Child 308 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 309 (tbl):
+3.Fees and Payment.
+
+Child 310 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 311 (p):
+A-3
+
+Child 312 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 313 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 314 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 315 (tbl):
+A.Provider Rates. The bill rate for DC/Fulfillment positions in 3051 Creekside Parkway, Lockbourne, OH 43137, will be calculated as follows:
+
+Child 316 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 317 (p):
+A-4
+
+Child 318 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 319 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 320 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 321 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 322 (p):
+SERVICES AND RATES
+
+Child 323 (p):
+Fees: The fees for Services in Lockbourne, Ohio will be [*]
+
+Child 324 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 325 (p):
+A-5
+
+Child 326 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 327 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 328 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 329 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 330 (p):
+[*]
+
+Child 331 (p):
+B.    Invoices; Payment.
+
+Child 332 (p):
+Provider shall submit to zulily a [*] invoice for Services performed during the previous [*] billing period. Invoices submitted hereunder shall be due and payable by zulily [*]. A [*] late fee will be charged for payments received after [*]. For added convenience, zulily may pay via wire transfer or standard ACH.
+
+Child 333 (p):
+C.    Sole Compensation.
+
+Child 334 (p):
+The payments set forth in this Section 3 represent the sole compensation to be paid by zulily for the Services.
+
+Child 335 (p):
+This SOW, including the scope of the Services to be provided hereunder, may not be changed orally, but only by an agreement in writing signed by both Parties and in the case of zulily, is binding only if signed by a Vice President or above of zulily.
+
+Child 336 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 337 (p):
+[Signature page follows.]
+
+Child 338 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 339 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 340 (p):
+A-6
+
+Child 341 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 342 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 343 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 344 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 345 (p):
+IN WITNESS WHEREOF, the Parties have executed this SOW as of the SOW Effective Date.
+
+Child 346 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 347 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 348 (p):
+ZULILY, INC.                        
+
+Child 349 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 350 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 351 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 352 (p):
+By: /s/ Darrell Cavens                    
+
+Child 353 (p):
+Name:Darrell Cavens                
+
+Child 354 (p):
+Title:CEO                        
+
+Child 355 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 356 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 357 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 358 (p):
+PROVIDER:
+
+Child 359 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 360 (p):
+IntelliSource, LLC                        
+
+Child 361 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 362 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 363 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 364 (p):
+By:/s/ Robyn Donahue                    
+
+Child 365 (p):
+Name:    Robyn Donahue                
+
+Child 366 (p):
+Title:    CEO        
+
+Child 367 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 368 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 369 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 370 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 371 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 372 (p):
+EXHIBIT B
+
+Child 373 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 374 (p):
+STATEMENT OF WORK
+
+Child 375 (p):
+NUMBER [____]
+
+Child 376 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 377 (p):
+This Statement of Work (this “SOW”) is entered into as of MAY 31, 2014 (“SOW Effective Date”) and made a part of the Master Service Agreement (the “Agreement”) between zulily, inc., a Delaware corporation (“zulily”), and IntelliSource, LLC, a Colorado limited liability company (“Provider”). Each of zulily and Provider may be referred to in this SOW individually as a “Party” and together as the “Parties”. All capitalized terms not defined in this SOW have the respective meanings set forth in the Agreement.
+
+Child 378 (tbl):
+1.Scope and Location of Services.
+
+Child 379 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 380 (tbl):
+A.Services.
+
+Child 381 (p):
+Provider will provide the following Services at the Facility identified below during the term of the Agreement (references to “Services” in this SOW refer to the Services to be provided under this SOW):
+
+Child 382 (p):
+Provider will supply any contingent (temporary) workforce needed to handle peaks in volume.
+
+Child 383 (p):
+Provider will serve as a primary point of entry for employees for zulily Facilities. Provider responsibilities under this SOW include recruiting, screening, onboarding and hiring processes, site management, retention strategies, site specific reporting, the maintenance of software data feeds (for IS workforce), the screening, management and billing of subcontractors when applicable, and ongoing access to Provider MARS and implementations teams as business needs dictate. Provider will partner with zulily on the execution and maintenance of onboarding, training, safety, productivity and quality programs and other strategic initiatives as appropriate for the Facility.
+
+Child 384 (p):
+Provider will maintain adequate leadership in order to provide HR, legal, timekeeping support and supervision/counseling.
+
+Child 385 (p):
+zulily may choose to provide feedback and direction to Provider employees regarding performance related tasks, metrics and standards. Provider will maintain responsibility for all HR activities including performance management, employee compensation and a progressive discipline process and associated tasks.
+
+Child 386 (p):
+[*].
+
+Child 387 (tbl):
+B.Location(s) Where Services Will be Provided.
+
+Child 388 (p):
+At zulily Facility: 3051 Creekside Parkway, Lockbourne, OH 43137.
+
+Child 389 (tbl):
+2.Personnel.
+
+Child 390 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 391 (tbl):
+A.Background Checks.
+
+Child 392 (p):
+Provider will pre-screen all Services personnel by conducting background checks. The background checks will include: (i) inquiry regarding past criminal convictions (covering all
+
+Child 393 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 394 (p):
+B-1
+
+Child 395 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 396 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 397 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 398 (p):
+localities in which the candidate has lived or worked in the past seven years) and will be based on candidate social security numbers (or international equivalent); (ii) verification that the Services personnel are under no contractual or other restrictions that would prohibit or impair the ability of such personnel to perform the Services for zulily; and (iii) verification that performance of the Services by the personnel will not violate any federal or state law, statute or regulation of the jurisdiction in which such Services personnel may be providing the Services. Provider will obtain and maintain written results of all criminal background checks. Provider agrees that Services personnel who will have access to zulily Facilities will be thoroughly screened for convictions; individuals with theft and violence felony convictions may be excluded from providing Services, regardless of when the conviction occurred. In assessing any other potential Services personnel with a conviction, Provider will assess: (a) the nature and gravity of the offense or conduct, including the harm caused, the specific elements of the crime, and whether it was a felony or misdemeanor; (b) the time that has passed since the offense or conduct and/or completion of the sentence; and (c) the nature of the job held or sought.
+
+Child 399 (tbl):
+B.Drug Testing.
+
+Child 400 (p):
+Provider agrees to require all Services personnel or agent of Provider to submit to pre-employment, post-accident and reasonable cause drug and/or alcohol testing.
+
+Child 401 (tbl):
+C.Costs of Background Checks and Drug Testing.
+
+Child 402 (p):
+zulily agrees that the costs of any background checks and drug testing required by zulily which is not routinely performed by Provider as a part of its regular procedures (drug testing, credit checks, and criminal background checks are examples of non-routine screening) shall be paid or reimbursed by zulily. If any Services personnel are placed at the Facility before performance of background checks and/or drug testing required by zulily, zulily shall not be liable for any fees under Section 3 hereof for any such employees subsequently terminated due to a failed background check and/or drug test unless mutually agreed to by the Parties in advance.
+
+Child 403 (tbl):
+D.Nondisclosure Agreement.
+
+Child 404 (p):
+Provider will cause each individual that provides Services to zulily pursuant to this SOW and that has access to zulily’s confidential information to execute a Nondisclosure Agreement in a form reasonably acceptable to zulily and will deliver each such validly executed individual Nondisclosure Agreement to zulily prior to, and as a condition precedent to such person having access to such confidential information.
+
+Child 405 (tbl):
+E.Disability Accommodation.
+
+Child 406 (p):
+Provider will handle all disability accommodation requests for its employees. zulily will cooperate with Provider’s efforts to make reasonable accommodations for Provider employees who have disabilities that can be reasonably accommodated without undue hardship on zulily, provided that Provider bears all costs of any such accommodations.
+
+Child 407 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 408 (p):
+B-1
+
+Child 409 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 410 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 411 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 412 (tbl):
+3.Fees and Payment.
+
+Child 413 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 414 (tbl):
+A.Provider Rates.
+
+Child 415 (p):
+The bill rate for DC/Fulfillment positions in 3051 Creekside Parkway, Lockbourne, OH 43137 will be calculated as follows:
+
+Child 416 (p):
+[*]
+
+Child 417 (p):
+B.    Invoices; Payment.
+
+Child 418 (p):
+Provider shall submit to zulily a [*] invoice for Services performed during the previous [*] billing period. Invoices submitted hereunder shall be due and payable by zulily [*]. A [*] late fee will be charged for payments received after [*]. For added convenience, zulily may pay via wire transfer or standard ACH.
+
+Child 419 (p):
+C.    Sole Compensation.
+
+Child 420 (p):
+The payments set forth in this Section 3 represent the sole compensation to be paid by zulily for the Services.
+
+Child 421 (p):
+This SOW, including the scope of the Services to be provided hereunder, may not be changed orally, but only by an agreement in writing signed by both Parties and in the case of zulily, is binding only if signed by a Vice President or above of zulily.
+
+Child 422 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 423 (p):
+[Signature page follows.]
+
+Child 424 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 425 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 426 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 427 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 428 (p):
+B-1
+
+Child 429 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 430 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 431 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 432 (p):
+IN WITNESS WHEREOF, the Parties have executed this SOW as of the SOW Effective Date.
+
+Child 433 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 434 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 435 (p):
+ZULILY, INC.                        
+
+Child 436 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 437 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 438 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 439 (p):
+By: /s/ Darrell Cavens                    
+
+Child 440 (p):
+Name:    Darrell Cavens            
+
+Child 441 (p):
+Title:CEO                        
+
+Child 442 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 443 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 444 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 445 (p):
+PROVIDER:
+
+Child 446 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 447 (p):
+IntelliSource, LLC                        
+
+Child 448 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 449 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 450 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 451 (p):
+By: /s/ Robyn Donahue                    
+
+Child 452 (p):
+Name:    Robyn Donahue                    
+
+Child 453 (p):
+Title:    CEO        
+
+Child 454 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 455 (p):
+***THIS IS AN EMPTY PARA***
+

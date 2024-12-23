@@ -1,0 +1,288 @@
+Entry:  MASTER SERVICES AGREEMENT          
+Entry:  This Master Services Agreement (“MSA”) is executed on this [-|-|-|**EMPTY PARA**|-|-|-] (hereinafter referred to as “Effective Date”).   
+Entry:  By and Between 
+Entry:  ABC India Private Limited, a company incorporated under the provisions of the Companies Act, 1956, having its registered office at [-|-|-|**EMPTY PARA**|-|-|-], hereinafter referred to as “ABC” (which expression shall unless repugnant to the context or contrary to the meaning thereof mean and include its successors and permitted assigns) of the FIRST PART.
+Entry:  AND 
+Entry:  XYZ Limited, a company incorporated under the provisions of the Companies Act, [-|-|-|**EMPTY PARA**|-|-|-], having its registered office at [-|-|-|**EMPTY PARA**|-|-|-], hereinafter referred to as “BSL” (which expression shall unless repugnant to the context or contrary to the meaning thereof mean and include its successors and permitted assigns) of the SECOND PART.
+Entry:  “ABC” and “BSL” hereto shall hereinafter be collectively referred to as the “Parties” and individually as a “Party”.  
+Entry:  WHEREAS 
+Entry:  ABC is a wholly owned subsidiary of MQZ Private Limited which is, one of the leading international companies in Information and Communications Technology (ICT).
+Entry:  BSL is engaged in the business of IT resource and staffing company which has 18+ years of rich experience with extensive and successful large global program delivery experience. 
+Entry:  ABC is currently providing IT services and undertaking offshore technical consultancy services to FGPQ Automotive Germany GmbH (“SEG”) and similar other clients on several enterprise level platforms.
+Entry:  Based on the representations of the BSL, ABC is keen to engage BSL for providing Contractual Services (defined below) and BSL has agreed to accept an engagement of ABC on the terms and conditions hereinafter contained.
+Entry:  Parties agrees to use this MSA for similar clients to the extent as possible.
+Entry:  NOW, THEREFORE, in consideration of the mutual promises herein, the Parties agree as follows:
+Entry:  DEFINITIONS
+Entry:  In this MSA, unless the context otherwise requires, the following expressions have the following meanings:
+Entry:  “Applicable Data Protection Laws” EU General Data Protection Laws, Information Technology Act, 2000, The Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules 2011 or any other statute, laws, regulations, ordinances, rules, determination, judgments, rule of law, orders, decrees, policies, guidelines to the extent applicable to the Parties of this MSA.
+Entry:  “Applicable Laws” means all Indian statutes, laws, regulations, ordinances, rules, determination, judgments, rule of law, orders, decrees, policies, guidelines, permits, approvals, concessions, grants, franchises, licenses, requirements, or any similar form of decision of, or any provision or condition of any permit, license or other operating authorization issued by any governmental authority having or asserting jurisdiction over the matter or matters in question, whether now or hereafter in effect, to the extent applicable to the Parties to this MSA.”
+Entry:  “Client Contract” means contractual arrangements made by ABC with SEG and such other clients.
+Entry:  “Confidential Information” means this MSA and all information obtained by one Party from the other, pursuant to this MSA, which is expressly marked as confidential or which is manifestly confidential or which is confirmed in writing to be confidential within 7 (seven) days of its disclosure, and each Party’s confidential information shall include without limitation all operational, business, commercial and financial information, business or trade secrets, personnel information, its products and/or prospective products, ideas, marketing information, technical and commercial know-how, tools, specifications, inventions, processes and initiatives that have been disclosed to the other Party, or the other Party becomes aware of, in the course of the MSA. 
+Entry:  “Consultants” means those employees and sub-contractors of BSL engaged from time to time in providing the Contractual Services and any employees of any such sub-contractors who are so engaged;
+Entry:  “Contractual Services” means the services to be provided by BSL pursuant to the engagement with SEG.
+Entry:  “Developed Works” means any and all works of authorship and materials developed, written or prepared by BSL, its employees, agents or sub-contractors in the course of providing the Contractual Services (whether individually, collectively or jointly with the ABC and on whatever media).
+Entry:  “Force Majeure Event” shall mean any unforeseen event which arises after the date of the MSA, which obstructs the MSA, and/or either Party from executing part or all of the its obligations under the MSA, and which by the exercise of reasonable diligence of the said Party is unable to prevent, including without limitation:  
+Entry:  Acts of God (such as, but not limited to, fires, explosions, storm, earthquakes, drought, tidal waves and floods), except to the extent that such an act of God is caused, or its effects contributed to, by the Party claiming force majeure, and/or
+Entry:  War, hostilities (whether declared or not), invasion, act of public or enemies, mobilization, requisition, or embargoes or other import restrictions, acts of terrorism, rebellion, revolution, insurrection, or military or usurped power, or civil war, and/or 
+Entry:  contamination by radioactivity from any nuclear fuel, or from any nuclear waste from the combustion of nuclear fuel, radio-active toxic explosive, or other hazardous properties of any explosive nuclear assembly or nuclear component of such assembly, and/or 
+Entry:  Riot, commotion, strikes, go slows, industrial disturbances, sabotage, lock outs or disorder, except where solely restricted to employees of the Party, or breakdown of or injury to any facilities used for production, and/or
+Entry:  change in governmental law and/or policies, government prohibitions, lockdown, epidemic, pandemic, strike and/or emergency, and/or
+Entry:  cyber-attack, cyber terrorism, and/or malicious damage.  
+Entry:  “Intellectual Property Rights” means patents, copyright and related rights, trademarks, trade names and domain names, rights in get-up, rights in goodwill or to sue for passing off, rights in designs, rights in computer software, database rights, rights in confidential information (including know-how and trade secrets) and any other intellectual property rights, in each case whether registered or unregistered and including all applications (or rights to apply) for, and renewals or extensions of, such rights and all similar or equivalent rights or forms of protection which may now or in the future subsist in any part of the world; 
+Entry:  INTERPRETATION
+Entry:  In this MSA:
+Entry:  reference to any statute or statutory provision includes a reference to that statute or statutory provision as from time to time amended, extended or re-enacted;
+Entry:  words importing the singular include the plural, words importing any gender include every gender and words importing persons include bodies corporate and unincorporate; and (in each case) vice versa;
+Entry:  any reference to a Party to this MSA includes a reference to his successors in title and permitted assigns;
+Entry:  the headings to the clauses are for ease of reference only and shall not affect the interpretation or construction of this MSA.
+Entry:  SCOPE OF MSA  
+Entry:  This MSA sets out overall framework for the provision of Contractual Services to be provided by BSL to ABC on a back to back arrangement pursuant to Client Contract.
+Entry:  The Parties shall, from time to time during the Term of this MSA, enter into individual agreements (“Purchase Order”) to set out the scope of Contractual Services to be performed by BSL under this MSA or Client Contract and consequent to any instructions given by SEG or any other similar clients. For the purpose of this MSA, SEG and such other clients shall be deemed to be as Principal Contractor.
+Entry:  Purchase Order shall be concluded on the basis of the template attached to this MSA as “Schedule A”. 
+Entry:  Unless otherwise agreed in writing as a specific variation to this MSA, this MSA shall apply to the provision of all Contractual Services performed by BSL under each Purchase Order.
+Entry:  TERM 
+Entry:  This MSA shall commence with effect from Effective Date and shall continue until terminated in accordance with Clause 15 (“Term”). 
+Entry:  REPRESENTATION AND WARRANTIES
+Entry:  Each Party represents that: 
+Entry:  It has the legal right and authority to enter into this MSA and is not barred by any agency or under Applicable Laws. 
+Entry:  All the information and disclosures made in respect to this MSA are true and accurate.
+Entry:  It has taken all necessary authorizations and approvals for the purpose of execution of this MSA.
+Entry:  BSL represents and warrants to ABC that:
+Entry:  it guarantees the functionality of the Developed Work under the Purchase Order. 
+Entry:  it has valid licenses, authorizations, permissions, consents, approvals required under Applicable Laws or otherwise and is under no conflicting obligations to enter into this arrangement and to render the Contractual Services and provide the deliverables in accordance with this MSA. 
+Entry:  in the event of any defect in Developed Work, BSL shall modify the Developed Work in accordance terms of the Purchase Order without any additional charge. 
+Entry:  there are no pending claims, actions, suits or proceedings against it or affecting any of its assets and there has been no event or occurrence which in each case, might reasonably be expected to have a material adverse effect on its ability to perform its obligations hereunder.
+Entry:  BSL and the Consultants will have the necessary skill and expertise to provide the Contractual Services on the terms set out in this MSA. 
+Entry:  the Developed Works will, so far as they do not comprise pre-existing material originating from the ABC, its employees, agents, third party or contractors, be original works of authorship and the use or possession thereof by the ABC or BSL will not subject the ABC or BSL to any claim for infringement of any proprietary rights of any third party;
+Entry:  the Contractual Services will be provided in a timely and professional manner with reasonable skill and care and on a best effort basis.
+Entry:  It shall, neither by itself nor through any persons employed or acting on its behalf (including employees, directors, agents, Consultants, or approved subcontractors) (i) give, offer, or promise to give, directly or indirectly, or accept, receive or agree to accept or receive anything of value (including, but not limited to, money, services, product samples, commissions, contributions, fees, gifts, bribes, rebates, payoffs, travel expenses, entertainment, influence payments, kickbacks or any other payment), regardless of form, to any person (including the professionals) to secure a business advantage, to obtain or retain business or to direct business to or away from any entity.
+Entry:  BSL will use its reasonable endeavours to achieve the estimated timescales in the Purchase Order and will conform to the standards generally observed in the industry for similar Contractual Services.
+Entry:  it owns all Intellectual Property Rights or has the right to use and assign such Intellectual Property Rights in the Developed Works. If BSL recognizes or must recognize that such breach is imminent there is a duty to inform ABC without any delay. In this context, ABC shall be provided with all information concerning the assertion of claims by third parties, in particular concerning the type and scope of the alleged infringement of Intellectual Property Rights.
+Entry:  to the extent necessary it shall ensure its employees, subcontractors and Consultants are fully aware of the terms of this MSA that relate to them and that they comply with the same.
+Entry:  any facts, opinions or property provided by BSL contained in any Developed Works, is accurate, is not misleading or defamatory, and otherwise complies with all Applicable Laws. 
+Entry:  in implementing Purchase Order BSL shall also use technical solutions that are produced on the basis of generally offered network platforms of BSL and third parties. If technical modifications are made to individual features of the Developed Work these changes must also be implemented in this MSA. BSL shall inform ABC to the extent technically possible, avoid any disadvantages for ABC. The conversion of Developed Work by BSL is generally free of charge for ABC.
+Entry:  upon ABC request BSL shall permit ABC to sublet its IT Infrastructure even in part or any other transfer of use to third parties.
+Entry:  for the purpose of providing Contractual Services, it shall adhere to all the provisions or guidelines set out in the Client Contract.
+Entry:   ABC represents to BSL that it shall:
+Entry:  ensure that its employees and any sub-contractors co-operate fully and promptly with BSL and the Consultants in relation to the provision of the Contractual Services and that such employees and any such sub-contractors will be qualified to carry out any tasks which they may be assigned; 
+Entry:  furnish BSL with such information and documents as it may reasonably requested for the proper performance of Contractual Services; 
+Entry:  ensure that its employees, subcontractors and consultants are fully aware of the terms of this MSA and any related document hereto and comply with the same. 
+Entry:  PERSONNEL
+Entry:  The Parties shall each appoint a representative who shall have full authority to take all necessary binding decisions regarding the provision of the Contractual Services including the written variation of this MSA (“Personnel”) and shall adhere to any confidentiality which may be required under the Client Contract. 
+Entry:  BSL shall ensure that, while any of the Consultants are on ABC’s premises, they will conform to the ABC’s normal codes of staff and security practice. 
+Entry:  RIGHTS OF USE TO SOFTWARE PROVIDED BY ABC/SEG
+Entry:  ABC on behalf of SEG may grant BSL the non-exclusive, non-transferable right, limited to the respective location of the IT infrastructure and limited in time to the Term of this MSA, to use the software used by the ABC on the IT infrastructure provided or individual elements thereof (this also includes, for example, photographs or trademarks) and the data and content stored by the ABC on the IT infrastructure provided as part of the performance of the contractual obligations, in particular to reproduce it. Duplications and the use of copies made may be made primarily for backup and security purposes.
+Entry:  To the extent that BSL hosts an Internet website for ABC it grants BSL the non-exclusive, non-transferable, worldwide right, limited in time and to Term of this MSA, to transmit the data and content, the website or individual elements of the website via the BSL communications link to the public in such a way that third parties may access them at any time and from any place they choose.
+Entry:  BSL shall not be entitled to use the software provided by ABC beyond the use permitted under this MSA or to have it used by other third parties. Furthermore, BSL shall not be entitled to make the software available to third parties or the public beyond the use permitted under this MSA. In particular, BSL shall not be permitted to sell the software or parts thereof or to make them available for a limited period of time, and in particular not to rent or lend them out.
+Entry:  OWNERSHIP OF INTELLECTUAL PROPERTY RIGHTS
+Entry:  In the absence of any provisions to the contrary in the Purchase Order, BSL irrevocably and unconditionally grants the exclusive, perpetual, worldwide and transferable right to use the Developed Work, without use restrictions, to ABC for the purpose of Client Contract. The right of use shall include, in particular, the right to, load, install, configure, access, execute, display, copy (including for back-up or archival purposes) and save the Developed Work, and to make the Developed Work available for use (also via network, e.g. by providing application services).
+Entry:  ABC is entitled to modify the Developed Work, at its own discretion, either itself or via third parties, and to use the modified Developed Work in the same manner as the original Developed Work.
+Entry:  ABC is entitled to transfer and/or sublicense rights of use in respect of the Developed Work.
+Entry:  The provisions of this Clause shall survive the expiration or termination of this MSA.
+Entry:  INTELLECTUAL PROPERTY INDEMNITY 
+Entry:  If a third party claims that the Developed Works infringes party’s Intellectual Property Rights, BSL shall indemnify, defend or hold harmless ABC and its employees, officers, and directors against that claim at BSL’s expense and pay all costs, damages, and reasonable fees that a court finally awards (or which BSL in any final settlement).
+Entry:  If such a claim is made or appears likely to be made, BSL shall use all reasonable endeavours to enable ABC to continue to use the Developed Works, or to modify them, or replace them with non-infringing Developed Works that are at least functionally equivalent. 
+Entry:  CHARGES AND INVOICE
+Entry:  ABC shall pay BSL the charges for the Contractual Services at such rates or fees as specified in the in the Purchase Order.  The charges payable under this MSA are inclusive of goods and services tax and any tax, which shall be paid by the ABC at the rate and in the manner for the time being prescribed by law. 
+Entry:  Unless otherwise specified in the Purchase Order, BSL shall render monthly itemised invoices to ABC in respect of the said charges and must provide a detailed and verifiable description of the Contractual Services performed under Purchase Order.  BSL grants ABC a payment term of sixty (60) working days after receipt of the invoice.  
+Entry:  Except for Force Majeure, if BSL fails to adhere to the timescale prescribed in Purchase Order for performing Contractual Services, BSL shall pay penalty to ABC for each week of delay amounting to [-|-|-|**EMPTY PARA**|-|-|-] % of the total charges for Contractual Services. If the delay is more than [-|-|-|**EMPTY PARA**|-|-|-]  weeks, ABC is entitled to forthwith terminate this MSA. Notwithstanding the foregoing, BSL shall still be responsible for penalty set forth in this MSA or Purchase Order.
+Entry:  RIGHT TO AUDIT
+Entry:  ABC shall have the right to audit the BSL's compliance with the contractual obligations.
+Entry:  BSL agrees and warrants that at the reasonable request of ABC and upon reasonable notice of seven (7) business days, to allow the ABC to conduct an audit of the BSL 's processes, systems, infrastructure and facilities that are used to manage the ABC’s data. 
+Entry:  ABC shall have the right to carry out the audit itself and/or select and appoint an external third party auditors.  ABC agrees to ensure that, and be responsible for, the members of the third party are bound by reasonable obligations of confidentiality in the event that they are required to conduct an audit.
+Entry:  CONFIDENTIAL INFORMATION  
+Entry:  Subject to Clause -|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|-12.2-|-|-|**EMPTY PARA**|-|-|-, neither Party shall use or divulge or communicate to any person (other than with the authority of the other Party or to such employees, agents and sub-contractors with a need to know) any Confidential Information of the other Party which may be disclosed or come to that Party’s knowledge in the course of providing the Contractual Services.
+Entry:  Each Party shall ensure that its employees, agents and sub-contractors are aware of and comply with the confidentiality and non-disclosure provisions contained in this Clause. Each Party shall be liable to the other for any breach of this Clause by such employees, agents and sub-contractors. 
+Entry:  If either Party becomes aware of any breach of confidence by any of its employees, agents or sub-contractors it shall promptly notify the other Party and give the other Party all reasonable assistance in connection with any proceedings which the other Party may institute against any such persons. Each Party shall be entitled to procure appropriate injunctive remedies and all such legal and contractual remedies in relation to such unauthorised use or disclosure of Confidential Information. 
+Entry:  The provisions of this Clause shall survive the expiration or termination of this MSA but the restrictions contained in sub-clause -|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|-12.1-|-|-|**EMPTY PARA**|-|-|- shall not apply to any Confidential Information which: 
+Entry:  comes into the public domain otherwise than through unauthorised disclosure by the disclosing party, its employees, agents or sub-contractors; 
+Entry:  is already known to the disclosing party prior to the commencement of the Contractual Services;
+Entry:  is independently developed by the disclosing party; 
+Entry:  is lawfully acquired from a third party who owes no duty of confidence to the disclosing party; or 
+Entry:  is required by any court of competent jurisdiction or by a governmental or regulatory authority to be disclosed or where there is a legal right, duty or requirement to disclose.
+Entry:  DATA PROTECTION AND INFORMATION SECURITY
+Entry:  Each Party shall, in its provision or use of the Contractual Services, comply with the requirements Applicable Data Protection Laws. 
+Entry:  The documents, knowledge and experience provided to the other Party shall be used exclusively for the purposes of this MSA. Furthermore, the Parties agree to maintain confidentiality about the content of this MSA and about the knowledge gained during its execution.
+Entry:  BSL shall ensure proper data processing and compliance with technical and organizational data security measures in accordance with Applicable Data Protection Laws. At request of ABC, BSL shall inform BSL in more detail about the measures.
+Entry:  ASSIGNMENT
+Entry:  Neither Party shall be entitled to assign or sub-contract any of its rights or obligations under this MSA without the consent in writing of the other Party, not to be unreasonably withheld or delayed.
+Entry:  TERMINATION
+Entry:  Either Party may terminate this MSA without cause at any time on giving 6 calendar months prior written notice to the other Party. 
+Entry:  ABC shall have right to terminate this MSA or Purchase Order in the event BSL materially breaches any of its duties and obligations in accordance with this MSA. A remedial notice of fifteen (15) calendar days shall be provided to cure such default, in the event that the failure is not cured by the BSL within the fifteen (15) calendar days period specified above. 
+Entry:  ABC shall be entitled to forthwith terminate this MSA or any Purchase Order upon occurrence of one or more following events:
+Entry:  If any insolvency or bankruptcy proceedings are initiated by and/or against the BSL, if a receiver is appointed over any of the BSL’s assets, and/or if BSL unable to pay its debts (if any) as and when they fall due, and/or
+Entry:  upon the occurrence of a change of control of BSL;  
+Entry:  In the event, any of the representations and warranties made by BSL is incorrect, false, fraudulent, negligent, incomplete or misleading or in any manner whatsoever;
+Entry:  if any Client Contract is terminated in accordance with the terms thereof.
+Entry:  ABC shall have the right to terminate this MSA prematurely for good cause shall remain unaffected.
+Entry:  EFFECT ON TERMINATION
+Entry:  -|-|-|**EMPTY PARA**|-|-|-   On the expiration or termination of this MSA:
+Entry:  all rights and obligations of the parties under this MSA shall automatically terminate except for such rights of action as shall have accrued prior thereto and any obligations which expressly or by implication are intended to come into or continue in force on or after such expiration or termination;
+Entry:  BSL shall refund any payments received but not yet earned on the date of termination (if any), including payment for services not rendered, work not performed, or goods not delivered, expenses forwarded,
+Entry:  BSL shall store all data to be backed up as part of the data backup for ABC. ABC shall inform BSL contact person in writing two working days prior to the collection who the person designated for collection is. On the failure of ABC to collect the data or download the data within the aforesaid period, BSL shall destroy the data. The data back of BSL shall end in any case upon the termination or expiration of this MSA. 
+Entry:  BSL shall promptly return any Confidential Information and/or copied thereof that are in its possession or destroy the same and by providing a certificate of compliance thereof to the ABC. 
+Entry:  each Party will return to the other any property of the other that it then has in its possession or control.
+Entry:  Upon written request from ABC, BSL shall assist ABC with a post termination transition of the Contractual Services (the “Transition Services”).
+Entry:  LIABILITY
+Entry:  BSL's liability, irrespective of the legal grounds, for all claims arising from and in connection with this MSA or Purchase Order shall be limited as follows:
+Entry:  In the event of damage caused by simple negligence, BSL shall be liable per individual Purchase Order up to an amount of 10 % of the respective individually agreed remuneration of the last 12 (twelve) months per event of damage within a 12 (twelve) month period, however, up to a maximum of 25 % of the individually agreed remuneration of the last 12 (twelve) months and up to a maximum of INR 9 Crore. 
+Entry:  In the event of gross negligence, BSL shall be liable per individual contract within a 12 (twelve) month period up to an amount of 30% of the remuneration agreed in the individual Purchase Order for the last 12 (twelve) months. In case of a contract duration of less than 2 months, the fee actually incurred shall replace the fee for the last 12 months. In the event of a loss occurring within the first 12 (twelve) month period after conclusion of the contract, the charges incurred up to that point shall be extrapolated to 12 (twelve) months.
+Entry:  In the event of personal injury caused by ordinary negligence, BSL shall be liable up to a maximum amount of INR 5 Crores per damaging event; in the event of gross negligence, BSL shall be liable without limitation.
+Entry:  Notwithstanding the foregoing, BSL shall be liable for actual amount of damages suffered by the ABC in case of:
+Entry:  breach of the confidentiality provisions;
+Entry:  infringement by BSL of a third party’s IPR; 
+Entry:  indirect damages, special damages and consequential damages;
+Entry:  any other liability that cannot be capped or excluded as a matter of Applicable Laws.
+Entry:  NOTICES
+Entry:  All notices required or permitted to be given under this MSA shall be in writing and shall be duly given if delivered by  hand  or  sent  by pre-paid  registered  post  to  the address of the applicable set  out below,  or to such other address as may  from time  to time be duly notified to  the other  party for  the purpose.  Notices may be duly given by email to the address so specified below, providing that such notice is also sent by hand or pre-paid registered post to the address below on the same day as the email is sent:   
+Entry:  If addressed to ABC
+Entry:  Name: [-|-|-|**EMPTY PARA**|-|-|-]
+Entry:  Designation: [-|-|-|**EMPTY PARA**|-|-|-]
+Entry:  Email: [-|-|-|**EMPTY PARA**|-|-|-]
+Entry:  If addressed to BSL 
+Entry:             
+Entry:  Name: [-|-|-|**EMPTY PARA**|-|-|-]
+Entry:  Designation: [-|-|-|**EMPTY PARA**|-|-|-]
+Entry:   Email: [-|-|-|**EMPTY PARA**|-|-|-]
+Entry:  FORCE MAJEURE
+Entry:  Neither Party shall be liable for any delay or non-performance of obligations under this MSA, to the extent it can establish that the performance of such obligations is prevented by any Force Majeure Event which arises after the date of the MSA, and which could not be reasonably foreseen at the date of the MSA. 
+Entry:  If a Party considers that a Force Majeure Event has occurred which has materially affected the performance of its obligations, then it shall forthwith notify the other in writing to that effect giving full details of the circumstances giving rise to the Force Majeure Event, and the causality between the Force Majeure Event and its obligations, no later than seven (7) days from the advent of the purported Force Majeure Event. The affected Party should notify (a) the steps taken to remedy the non-execution of their obligations and to limit the ensuing consequences on the completion of the supplied, (b) the predictable duration of the halt of activity or of its obstruction, (c) the possible effect of this event on the contractual schedule. 
+Entry:  If an affected Party is prevented by Force Majeure from fulfilling its obligations, this shall not be deemed to be a breach of contract, and the periods stipulated in or on the basis of the MSA or Purchase Order shall be reasonably extended in accordance with the duration of the impediment. The same shall apply if BSL is dependent on advance performance by third parties and such advance performance is delayed due to Force Majeure.
+Entry:  Affected Party shall do everything in its power to mitigate the extent of the consequences caused by the Force Majeure. The affected Party by the Force Majeure shall immediately notify the other Party in writing of the beginning and the end of the impediment.
+Entry:  As soon as it is established that Force Majeure lasts longer than 6 (six) months each Party is entitled to terminate the MSA or Purchase Order by giving a written notice of 30 days.
+Entry:  GOVERNING LAW, JURISDICTION & DISPUTES
+Entry:  This MSA shall be governed by Indian laws without any reference to its or any other jurisdiction conflict of laws principle. 
+Entry:  In the event of any dispute, controversy or claim arising out of or relating in any way to this MSA, including without limitation any dispute concerning the construction, validity, interpretation, enforceability or breach of this MSA, the complaining Party shall notify the other Party in writing about the said dispute, controversy, or claim, and within thirty (30) days of such notice, management level representatives of both Parties shall meet at an agreed location to attempt to resolve the dispute in good faith through amicable negotiations. 
+Entry:  Should the dispute not be resolved within thirty (30) days after such initiation of such negotiations, the complaining Party shall seek remedies exclusively through arbitration which shall be conducted in accordance with the Arbitration and Conciliation Act, 1996. The arbitration shall be conducted by sole arbitrator appointed in terms the Arbitration and Conciliation Act, 1996. While the venue for final hearings of the arbitration proceedings (through virtual or physical mode) can be mutually decided as per the convenience of the arbitral tribunal and Parties, the Parties shall endeavour to undertake all preliminary hearings through virtual mode only.  Irrespective of whether it is a virtual or physical hearing, the seat of the arbitration shall be deemed to be Pune, Maharashtra. 
+Entry:  Notwithstanding any dispute or controversy or claim referred under Clause 20.2., BSL shall continue performing Contractual Services during the pendency of the arbitration and shall continue to comply with their obligations under this MSA and/or Purchase Order.
+Entry:  MISCELLANEOUS 
+Entry:  No Relationship: Nothing in this MSA shall create or deem to create any special relationship between the Parties, including without limitation, partnership, agency, employer/employee relationship and joint venture. Neither Party has the authority to, and shall not, act as an agent of the other Party, or represent or bind the other Party in any manner whatsoever.
+Entry:  Severability: If any term, provision or part of this MSA is, becomes, or is held or declared to be, void, voidable, illegal, invalid or unenforceable under the Applicable Laws, such term, provision or part hereof shall be severed, and the remainder of the MSA shall remain in full force and effect.  The Parties shall negotiate in good faith in order to agree the terms of a mutually satisfactory substitution, to the severed term, provision or part of this MSA, which as nearly as possible gives effect to the Parties’ contractual intentions as expressed herein. 
+Entry:  Survivability: The sections & clauses in relation to confidentiality, indemnity, liability, representations and warranties, dispute resolution, data protection, and such other clauses which in their nature survive the expiration or termination of this MSA, shall survive expiration or termination of this MSA.  Such provisions shall be binding to each Party, affiliated companies and their successors.  Both Parties recognize and acknowledge that the breach of such provisions shall cause irreparable injury inadequately compensable in damages and that accordingly; the other Party may seek injunctive relief against a breach or threatened breach of the provisions contained in each paragraph, in addition to any other legal remedies under this MSA.
+Entry:  Further Assurances. Each of the Parties hereto shall from time to time execute and deliver all such further documents and instruments and do all acts and things as the other Party may reasonably require to effectively carry out or better evidence or perfect the full intent and meaning of this MSA or Client Contract.
+Entry:  Counterparts.  This MSA may be executed in counterparts, each of which so executed will be deemed to be an original and such counterparts together will constitute one and the same MSA.  Signatures sent by emailed to either Party in a pdf format shall be deemed original signatures under this MSA. 
+Entry:  Public Announcements/Publicity: ABC and BSL agree to cooperate regarding public relations activities, including public announcements, joint press releases, and other activities to be mutually agreed. Neither Party will perform such activities without the prior written consent of the other Party.  
+Entry:  Amendments: This MSA may be amended, modified or changed (in whole or in part) only upon the due execution of a formal, definitive written agreement mutually by the Parties, wherein there is express reference made to this MSA and the provision(s) intended to be amended, modified or changed (in whole or in part).
+Entry:  Compliance:  Each Party will comply with all Applicable Laws in the performance of obligations under this MSA. Each Party shall forthwith notify the other Party in relation to any of its non-compliance under this MSA.
+Entry:  Costs & Fees: Subject to any express provisions to the contrary in this MSA, each Party shall pay its own costs/ fees relating to the implementation and enforcement of this MSA.
+Entry:  Entire Agreement: This MSA, together with all attachments, schedules, exhibits, and other documents (if any) referenced hereunder, constitutes the entire agreement and final understanding of the Parties, supersedes any previous discussions, understandings and agreement between the Parties, contains all terms the Parties have agreed to, relating to the subject matter of this MSA or terms implied by usage. Notwithstanding the aforesaid, this clause shall limit or exclude any liability for fraud, misrepresentation or estoppel by representation.
+Entry:  IN WITNESS WHEREOF Each Party has executed this MSA on the dates written below:
+Entry:  Signed by:
+Entry:      _____________________________
+Entry:  Name: 
+Entry:  Designation: 
+Entry:   
+Entry:  FOR AND ON BEHALF OF
+Entry:  ABC
+Entry:  Signed by:
+Entry:    _______________________________
+Entry:             
+Entry:  Name: 
+Entry:  Designation: 
+Entry:  FOR AND ON BEHALF OF
+Entry:  BSL
+Entry:  -|-|-|**EMPTY PARA**|-|-|-
+Entry:           Schedule A 
+Entry:  (Template for a Purchase Order under the MSA for Contractual Services)
+Entry:  Purchase Order 
+Entry:  between
+Entry:  ABC India Private Limited, a company incorporated under the provisions of the Companies Act, 1956, having its registered office at [-|-|-|**EMPTY PARA**|-|-|-], hereinafter referred to as “ABC” (which expression shall unless repugnant to the context or contrary to the meaning thereof mean and include its successors and permitted assigns) of the FIRST PART.
+Entry:  AND 
+Entry:  XYZ Limited, a company incorporated under the provisions of the Companies Act, [-|-|-|**EMPTY PARA**|-|-|-], having its registered office at [-|-|-|**EMPTY PARA**|-|-|-], hereinafter referred to as “BSL” (which expression shall unless repugnant to the context or contrary to the meaning thereof mean and include its successors and permitted assigns) of the SECOND PART.
+Entry:  “ABC” and “BSL” hereto shall hereinafter be collectively referred to as the “Parties” and individually as a “Party”.  
+Entry:  WHEREAS
+Entry:  ABC is a wholly owned subsidiary of MQZ Private Limited which is, one of the leading international companies in Information and Communications Technology (ICT).
+Entry:  BSL is engaged in the business of IT resource and staffing company which has 18+ years of rich experience with extensive and successful large global program delivery experience. 
+Entry:  ABC and BSL concluded a Master Services Agreement (hereinafter referred to as "MSA ") on [-|-|-|**EMPTY PARA**|-|-|-].
+Entry:  Based on the representations of the BSL, ABC is keen to engage BSL in respect of infor clousuite services and BSL has agreed to accept an engagement of ABC on the terms and conditions hereinafter contained. 
+Entry:  Now, therefore, the Parties agree as follows:
+Entry:  Scope
+Entry:  The BSL shall perform the services for ABC pursuant to SEG Contract as set out in Appendix 1 (Service Specification) to this Purchase Order (hereinafter referred to as the "Contractual Services") for ABC. For the purpose of this Purchase Order, SEG shall be deemed to be as Principal Contractor. 
+Entry:  Deadlines and dates
+Entry:  The due dates to be met by the BSL and the individual project phases are set out:
+Entry:  -|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|-in the following milestone plan
+Entry:  Serial
+Entry:  no.
+Entry:  Description of milestone
+Entry:  Work results due
+Entry:  Due date for the provision of the milestone
+Entry:  Overall acceptance of the Contractual Services
+Entry:  -|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|-in Appendix 2 (Milestones).
+Entry:  Personnel
+Entry:  The coordination of the provision of the Contractual Services and the associated communication shall be organized exclusively via the appointed Personnel. 
+Entry:  ABC Personnel:
+Entry:  Name:
+Entry:  E-mail address:
+Entry:  BSL Personnel:
+Entry:  Name:
+Entry:  E-mail address:
+Entry:  Charges and Invoicing
+Entry:  Charges
+Entry:  The Parties agree on the charges set out in Appendix 3 (Charges).
+Entry:  Invoicing
+Entry:  The BSL shall invoice the remuneration as follows:
+Entry:  -|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|-monthly in arrears.
+Entry:  -|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|-after overall acceptance.
+Entry:  -|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|-following the acceptance of the milestones listed below:
+Entry:  Serial
+Entry:  no.
+Entry:  Milestone due date
+Entry:  Work results
+Entry:  Payments
+Entry:  Overall acceptance
+Entry:  The BSL shall send the invoice to the following address:  [-|-|-|**EMPTY PARA**|-|-|-]
+Entry:  Data protection
+Entry:  The Contractual Services to be performed by the BSL include the collection, processing and use of, or access to, Personal Data by the BSL and thus, may require the conclusion of a data processing agreement. 
+Entry:  -|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|-No.
+Entry:  -|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|-Yes. The separately signed data processing agreement is attached to this Master Agreement as Appendix 4 (Data Processing Agreement).
+Entry:  Term
+Entry:  Start date
+Entry:  This Purchase Order sets forth an agreement between the Parties and commenced on [-|-|-|**EMPTY PARA**|-|-|-]
+Entry:  End date
+Entry:  -|-|-|**EMPTY PARA**|-|-|-
+Entry:  This Purchase Order
+Entry:  -|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|-ends on____________.
+Entry:  -|-|-|**EMPTY PARA**|-|-|-
+Entry:  -|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|-ends with the performance and, where applicable, the acceptance of the Contractual Services.-|-|-|**EMPTY PARA**|-|-|-
+Entry:  Termination 
+Entry:  Either Party may terminate this Purchase Order without cause at any time on giving 6 calendar months prior written notice to the other Party. 
+Entry:  ABC shall have right to terminate this Purchase Order in the event BSL materially breaches any of its duties and obligations in accordance with this MSA or Purchase Order. A remedial notice of fifteen (15) calendar days shall be provided to cure such default, in the event that the failure is not cured by the BSL within the fifteen (15) calendar days period specified above. 
+Entry:  ABC shall be entitled to forthwith terminate this Purchase Order upon occurrence of one or more following events:
+Entry:  If any insolvency or bankruptcy proceedings are initiated by and/or against the BSL, if a receiver is appointed over any of the BSL’s assets, and/or if BSL unable to pay its debts (if any) as and when they fall due, and/or
+Entry:  upon the occurrence of a change of control of BSL;  
+Entry:  In the event, any of the representations and warranties made by BSL is incorrect, false, fraudulent, negligent, incomplete or misleading or in any manner whatsoever;
+Entry:  if SEG Contract is terminated in accordance with the terms thereof.
+Entry:  Final provisions
+Entry:  Inclusion of MSA 
+Entry:  The provisions of MSA form an integral part of this Purchase Order. 
+Entry:  Appendices to this Purchase Order 
+Entry:  The following Appendices form an integral part of this Purchase Order:
+Entry:  -|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|-Appendix 1: Service specification 
+Entry:  -|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|-Appendix 2: Milestones
+Entry:  -|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|-Appendix 3: Charges 
+Entry:  -|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|--|-|-|**EMPTY PARA**|-|-|-Appendix 4: Data Processing Agreement 
+Entry:  IN WITNESS WHEREOF Each Party has executed this MSA on the dates written below:
+Entry:  Signed by:
+Entry:   _____________________________
+Entry:  Name: 
+Entry:  Designation: 
+Entry:   
+Entry:  FOR AND ON BEHALF OF
+Entry:  ABC 
+Entry:  Signed by:
+Entry:    _______________________________
+Entry:             
+Entry:  Name: 
+Entry:  Designation: 
+Entry:  FOR AND ON BEHALF OF
+Entry:  BSL
+Entry:  -|-|-|**EMPTY PARA**|-|-|-
+Entry:  APPENDICES
+Entry:  Appendix 1: Service specification
+Entry:  [Insert details]
+Entry:  Appendix 2: Milestones
+Entry:  [Insert details]
+Entry:  Appendix 3: Charges
+Entry:  [Insert details]
+Entry:  Appendix 4 : Data Processing Agreement
+Entry:  [Insert details] 

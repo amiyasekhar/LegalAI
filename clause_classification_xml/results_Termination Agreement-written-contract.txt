@@ -1,0 +1,73 @@
+Results for Termination Agreement-written-contract.txt
+Clause: 'TERMINATION AGREEMENT'
+Legal-BERT Prediction: counterparts (Confidence: 0.0717535987496376)
+Legal-RoBERTa Prediction: amendment (Confidence: 0.07781766355037689)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'This Termination Agreement, dated as of [] (this “Agreement”), between [], a company incorporated under the laws of [] , and [] a company incorporated under the laws (the “Company”).'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.07978744059801102)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.10161309689283371)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: 'WHEREAS, the parties hereto have mutually agreed to terminate the [Name] Agreement, in each case pursuant to the terms thereof and this Agreement.'
+Legal-BERT Prediction: termination (Confidence: 0.11156818270683289)
+Legal-RoBERTa Prediction: termination (Confidence: 0.16692990064620972)
+Final Prediction: termination
+================================================================================
+
+Clause: 'Termination - The parties hereby agree to terminate (a) the [] Agreement pursuant to Clause [] thereof. Effective as of the date hereof (the “Termination Date”), each of the  [] Agreement shall terminate and be of no further force and effect. Notwithstanding any provision of the [] Agreement to the contrary, neither party shall have any further obligations thereunder or with respect thereto, except as specifically set forth herein.'
+Legal-BERT Prediction: termination (Confidence: 0.21553999185562134)
+Legal-RoBERTa Prediction: termination (Confidence: 0.18716159462928772)
+Final Prediction: termination
+================================================================================
+
+Clause: 'Effect of Termination - Effective as of the Termination Date, none of [] (or its Affiliates, directors, officers, employees, agents or other representatives), on the one hand, nor the Company (or its Affiliates or its directors, officers, employees, agents or other representatives), on the other hand, shall have any liability or obligation to each other under the [] Agreement, except that the provisions of, and any liability or obligation contemplated under, Clause [] of the [] Agreement shall continue in full force and effect in accordance with the terms of the [] Agreement.'
+Legal-BERT Prediction: termination (Confidence: 0.10664696246385574)
+Legal-RoBERTa Prediction: joint and several liability (Confidence: 0.07801809161901474)
+Final Prediction: termination
+================================================================================
+
+Clause: 'Due Authorization - Each party hereto hereby represents and warrants that the signature to this Agreement has been duly authorized by all necessary corporate action on its part and that the officer executing this Agreement on its behalf has the authority to execute the same and to bind it to the terms and conditions of this Agreement.'
+Legal-BERT Prediction: counterparts (Confidence: 0.13133929669857025)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.10609274357557297)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Severability - If any term or other provision of this Agreement is invalid, illegal or incapable of being enforced by any rule of law, or public policy, all other conditions and provisions of this Agreement shall nevertheless remain in full force and effect so long as the economic or legal substance of this Agreement is not affected in any manner adverse to any party. Upon such determination that any term or other provision is invalid, illegal or incapable of being enforced, the parties hereto shall negotiate in good faith to modify this Agreement so as to effect the original intent of the parties as closely as possible in a mutually acceptable manner.'
+Legal-BERT Prediction: severability (Confidence: 0.26164424419403076)
+Legal-RoBERTa Prediction: severability (Confidence: 0.5659984946250916)
+Final Prediction: severability
+================================================================================
+
+Clause: 'Counterparts - This Agreement may be executed and delivered (including by facsimile transmission) in one or more counterparts, and by the different parties hereto in separate counterparts, each of which when executed shall be deemed to be an original but all of which taken together shall constitute one and the same agreement.'
+Legal-BERT Prediction: counterparts (Confidence: 0.4637438654899597)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.5870276093482971)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Governing Law; Jurisdiction - This Agreement shall be governed by, and construed in accordance with, the laws of the []. All actions and proceedings arising out of or relating to this Agreement shall be heard and determined exclusively in any  []. The parties hereto hereby (a) submit to the exclusive jurisdiction to the court of [] for the purpose of any action or proceeding arising out of or relating to this Agreement brought by any party hereto, and (b) irrevocably waive, and agree not to assert by way of motion, defense, or otherwise, in any such action or proceeding, any claim that it is not subject personally to the jurisdiction of the above-named courts, that its property is exempt or immune from attachment or execution, that the action or proceeding is brought in an inconvenient forum, that the venue of the action or proceeding is improper, or that this Agreement may not be enforced in or by any of the above-named courts'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.16809862852096558)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.5718362331390381)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: 'IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be signed by their respective officers thereunto duly authorized, all as of the date first written above.'
+Legal-BERT Prediction: counterparts (Confidence: 0.15522901713848114)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.15815474092960358)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'By: Name: Title:'
+Legal-BERT Prediction: counterparts (Confidence: 0.07717288285493851)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06332068145275116)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'By: Name: Title:'
+Legal-BERT Prediction: counterparts (Confidence: 0.07717288285493851)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06332068145275116)
+Final Prediction: counterparts
+================================================================================
+

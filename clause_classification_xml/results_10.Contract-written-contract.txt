@@ -1,0 +1,559 @@
+Results for 10.Contract-written-contract.txt
+Clause: 'MASTER SERVICE AGREEMENT'
+Legal-BERT Prediction: counterparts (Confidence: 0.09047526866197586)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0546782985329628)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'This Master Service Agreement (this “Agreement”) made as of February 13, 2017 (the “Effective Date”) by and between Alamo Pharma Services, Inc., a Delaware corporation with offices at 77 N. Broad Street, Doylestown, PA 18901 (“Alamo”), and Napo Pharmaceuticals, Inc., a Delaware corporation with its principal place of business at 201 Mission Street, Ste. 2375, San Francisco, California 94105 (“Client”).  Alamo and Client may each be referred to herein as a “Party” and collectively, the “Parties.”'
+Legal-BERT Prediction: termination (Confidence: 0.08090545982122421)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.16260266304016113)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'RECITALS'
+Legal-BERT Prediction: counterparts (Confidence: 0.0836561769247055)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05439211055636406)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'A.                                    Alamo offers a wide range of services and offerings to clients in the pharmaceutical, medical device, diagnostic, life science and healthcare industries.'
+Legal-BERT Prediction: non-competition (Confidence: 0.07098425924777985)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.2355947345495224)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'B.                                    Client hereby engages Alamo, and Alamo hereby accepts such engagement, to provide various types of services pursuant to the terms hereof and one or more separate project agreements (each a “Project Agreement”) to be executed by the Parties.  Client and Alamo shall enter into a Project Agreement for each program they wish to be governed by the terms and conditions of this Agreement.'
+Legal-BERT Prediction: joint and several liability (Confidence: 0.07672995328903198)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.13814641535282135)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.                                      Interpretation and Construction'
+Legal-BERT Prediction: amendment (Confidence: 0.08704876154661179)
+Legal-RoBERTa Prediction: severability (Confidence: 0.07687637209892273)
+Final Prediction: amendment
+================================================================================
+
+Clause: '(a)                                 The Parties desire for the terms and conditions set forth in this Agreement to govern the relationship between the Parties.  Unless otherwise specifically set forth in a Project Agreement, in the event of a conflict or inconsistency between the terms and conditions set forth in this Agreement and the terms and conditions set forth in a Project Agreement, the terms and conditions set forth in this Agreement shall take precedence, govern and control.'
+Legal-BERT Prediction: entire agreement (Confidence: 0.11517475545406342)
+Legal-RoBERTa Prediction: entire agreement (Confidence: 0.19136105477809906)
+Final Prediction: entire agreement
+================================================================================
+
+Clause: '(b)                                 The Parties hereby acknowledge that the terms set forth in this Agreement shall be incorporated by reference into each Project Agreement, as if fully set forth at length therein.'
+Legal-BERT Prediction: entire agreement (Confidence: 0.15659113228321075)
+Legal-RoBERTa Prediction: entire agreement (Confidence: 0.1627289354801178)
+Final Prediction: entire agreement
+================================================================================
+
+Clause: '(c)                                  The Parties acknowledge that in addition to Alamo, certain of Alamo’s Affiliates (as defined below) may provide certain Services (as defined below) to Client, and may directly enter into a Project Agreement with Client, subject to Client’s prior written consent, pursuant to which such Alamo Affiliate shall provide services to Client, as forth in detail in said executed Project Agreement.  In such event, the Project Agreement shall confirm that this Agreement shall govern the relationship between Client and the particular Alamo Affiliate, and such parties agree to be bound by the terms set forth herein.  Client agrees that Alamo acts solely on its own behalf and shall not be liable, or otherwise responsible, for the acts and/or omissions of any Alamo Affiliate under any circumstances in connection with any Project Agreement that is not signed by Alamo.  Further, each Alamo Affiliate acts solely on its own behalf and shall not be liable, or otherwise responsible, for the acts and/or omissions of Alamo or any other Alamo Affiliate under any circumstances in connection with this Agreement or any Project Agreement that is not signed by that Alamo Affiliate.  As set forth above, the term “Affiliate” means any corporate or non-corporate business entity which controls, is controlled by, or is under common control with a Party to this Agreement.  A corporation or non-corporate business entity shall be regarded as in control of another corporation or entity: (i) if it owns or directly or indirectly controls at least fifty percent (50%) of the voting stock or interests of the other corporation or entity, or (ii) in the'
+Legal-BERT Prediction: confidentiality (Confidence: 0.07994252443313599)
+Legal-RoBERTa Prediction: limitation of liability (Confidence: 0.14676161110401154)
+Final Prediction: limitation of liability
+================================================================================
+
+Clause: '1'
+Legal-BERT Prediction: counterparts (Confidence: 0.09008417278528214)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.045040059834718704)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'absence of the ownership of at least fifty percent (50%) of the voting stock or interests of such corporation or entity, if it possesses directly or indirectly, the power to direct or cause the direction of the management and policies of such corporation or non-corporate business entity, as applicable.'
+Legal-BERT Prediction: non-competition (Confidence: 0.08317427337169647)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08204683661460876)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '2.                                      The Services'
+Legal-BERT Prediction: amendment (Confidence: 0.07651612162590027)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07766719907522202)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Client shall retain Alamo to provide the services (hereinafter the “Services”) as set forth in one or more Project Agreements.'
+Legal-BERT Prediction: termination (Confidence: 0.06820408999919891)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0798160657286644)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '3.                                      Representations and Warranties of the Parties'
+Legal-BERT Prediction: amendment (Confidence: 0.06574610620737076)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07741072028875351)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '(a)                                 Mutual Representations and Warranties.  Each Party hereby represents and warrants to the other Party that:'
+Legal-BERT Prediction: entire agreement (Confidence: 0.10190991312265396)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.07198698818683624)
+Final Prediction: entire agreement
+================================================================================
+
+Clause: '(i)                                     it shall comply with all statutes, federal and state applicable laws, ordinances, rules or regulations of any governmental or regulatory authority including (but not limited to) the OIG Compliance Program Guidance for Pharmaceutical Manufacturers, the PhRMA Code on Interactions with Healthcare Professionals, the Accreditation Council for Continuing Medical Education requirements for continuing medical education, the American Medical Association Ethical Guidelines on Gifts to Physicians from Industry, the Federal Food, Drug and Cosmetic Act (“FDCA”), the Medicare/Medicaid anti-kickback statute, the Prescription Drug Marketing Act (“PDMA”), the Health Insurance Portability and Accountability Act, and similar state laws, rules and regulations (collectively, “Applicable Law”);'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.19901961088180542)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.41834762692451477)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '(ii)                                  after reasonable inquiry neither it nor, to the extent applicable, any of its employees: (a) has been debarred by the FDA pursuant to its authority under Sections 306(a) and (b) of the U.S. Food, Drug, and Cosmetic Act (21 U.S.C. § 335(a), or (b) is the subject of any investigation or proceeding which may result in debarment by the FDA.  In addition, neither it or any of its employees is included in the List of Excluded Individuals/Entities (maintained by the U.S. Department of Health and Human Services Office of Inspector General) or the List of Parties Excluded from Federal Procurement and Nonprocurement maintained by the U.S. General Services Administration, or is the subject of any investigation or proceeding which may result in inclusion in any such list.  Each Party agrees to immediately notify the other Party if it becomes aware of any such debarment, exclusion, investigation or proceeding of it or, to the extent applicable, any of its employees;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.10108282417058945)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.12608899176120758)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: '(iii)                               it shall maintain in full force and effect all necessary licenses, permits, approvals (or waivers) and authorizations required by Applicable Law to carry out its obligations under this Agreement and any Project Agreement;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.17761628329753876)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.20087884366512299)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '(iv)                              it is not a party to any agreement which would prevent it from fulfilling its obligations under this Agreement and any Project Agreement and that during the term of this Agreement and any Project Agreement, it will not enter into any agreement which would in any way prevent or restrict it from performing its obligations set forth herein and any Project Agreement;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.10273329168558121)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07225524634122849)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '2'
+Legal-BERT Prediction: counterparts (Confidence: 0.09153002500534058)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04427765682339668)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '(v)                                 the execution, delivery and performance of this Agreement and the consummation of the transaction(s) contemplated hereby has been duly authorized by all requisite corporate action; that this Agreement constitutes the legal, valid, and binding obligation of each Party, enforceable in accordance with its terms (except to the extent enforcement is limited by bankruptcy, insolvency, reorganization or other laws affecting creditors’ rights generally and by general principles of equity); and that this Agreement and performance of the Services hereunder does not violate or constitute a breach under any organizational document of a Party or any contract, other form of agreement, or judgment or order to which a Party is bound;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.13179263472557068)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.07824213057756424)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '(b)                                 Alamo represents warrants and covenants that:'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.0740266963839531)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.08262073993682861)
+Final Prediction: insurance
+================================================================================
+
+Clause: '(i)                                     Alamo shall perform the Services in a professional, workmanlike manner and in accordance with those specifications and timelines which are agreed to in advance and in writing by Alamo and Client;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07912685722112656)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.09517757594585419)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '(iii)                               Alamo is not a party to any agreement which would prevent it from fulfilling its obligations under this Agreement and that during the term of this Agreement, it will not enter into any agreement to provide services which would prevent it from performing the Services to Client under an executed Project Agreement;'
+Legal-BERT Prediction: non-solicitation (Confidence: 0.11392191052436829)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.19958937168121338)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '(c)                                  Client represents warrants and covenants that:'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07070770859718323)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.08061758428812027)
+Final Prediction: insurance
+================================================================================
+
+Clause: '(i)                                     Client will act in good faith to provide Alamo with the necessary materials, information, product training, and assistance required to enable Alamo to perform the Services in compliance with all Applicable Law.  Certain Client obligations and responsibilities unique to a specific Project Agreement may be specified within a Project Agreement;'
+Legal-BERT Prediction: further assurance (Confidence: 0.08291175961494446)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.07765791565179825)
+Final Prediction: further assurance
+================================================================================
+
+Clause: '(ii)                                  Client either owns the product(s) that is the subject of a Project Agreement, or has received all lawful authority from a third party necessary to grant Alamo the right to provide the Services described in a Project Agreement.  To the best of its knowledge, effective the date of this Agreement Client’s patents, copyrights, trademarks, trade names and trade dress do not infringe on any intellectual property or product rights of any third party.  Client further represents and warrants that the marketing and promotion of any Client product by Alamo, as set forth in a Project Agreement, does not infringe on any intellectual property or product marketing rights of any third party;'
+Legal-BERT Prediction: intellectual property (Confidence: 0.23486998677253723)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.2982034385204315)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: '(iii)                               Client is solely responsible for reviewing and approving Client’s product promotional materials and literature and for ensuring all such materials comply with Applicable Law;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.08853514492511749)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.13941940665245056)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '(iv)                              the program(s) pursuant to which Alamo is performing the Services are Client’s marketing and promotional programs that are being implemented by Alamo and as such, Client is responsible for ensuring that each program set forth in a Project Agreement adheres to Applicable Law;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.09224769473075867)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.18765202164649963)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '3'
+Legal-BERT Prediction: counterparts (Confidence: 0.09091069549322128)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04575730115175247)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '(v)                                 Client is responsible for complying with all state and county drug disposal ordinances, including but not limited to the Alameda County Safe Drug Disposal Ordinance (http ://www. ac 2:0V. or viacel-ils afedisp osal/index htm);'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.1260651797056198)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.2948433756828308)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '(vi)                              Client is responsible for all decisions concerning the marketing, planning, strategy and detailing of the Product, and shall have the sole right and responsibility for establishing and modifying the terms and conditions of the sale of the Product, including without limitation, terms and conditions such as the price at which the Product will be sold, whether the Product shall be subject to any discounts, the distribution of the Product, and whether credit is to be granted or refused in connection with the sale of any Product; and'
+Legal-BERT Prediction: assignment (Confidence: 0.07323303818702698)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.12483793497085571)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '(b)                                 Alamo is, and at all times shall remain, solely responsible for the human resource and performance management functions of all Alamo personnel provided to perform the Services.  Alamo shall be solely responsible for all disciplinary, probationary and termination actions taken by it, and for the formulation, content and dissemination of all employment policies and rules (including written disciplinary, probationary and termination policies) applicable to its employees, agents and contractors (individually, an “Alamo Employee” and collectively, the “Alamo Employees”).'
+Legal-BERT Prediction: non-competition (Confidence: 0.09122800827026367)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.11140216886997223)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: '(c)                                  Alamo shall obtain and maintain worker’s compensation insurance and other insurances required for Alamo Employees performing the Services and acknowledges that Client does not, and shall not obtain or maintain such insurances, all of which shall be Alamo’s sole responsibility.'
+Legal-BERT Prediction: insurance (Confidence: 0.12365753948688507)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.36050647497177124)
+Final Prediction: insurance
+================================================================================
+
+Clause: '(e)                                  Except as otherwise set out in this Agreement or in a Project Agreement, Client shall have no responsibility to Alamo or any Alamo Employee for any compensation, expense reimbursements or benefits (including, without limitation, vacation and holiday remuneration,'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.06437069177627563)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.16711965203285217)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '4'
+Legal-BERT Prediction: counterparts (Confidence: 0.0868670791387558)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04607295244932175)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'healthcare coverage or insurance, life insurance, pension or profit-sharing benefits and disability benefits), payroll-related or withholding taxes, or any governmental charges or benefits (including, without limitation, unemployment and disability insurance contributions or benefits and workers compensation contributions or benefits) that may be imposed upon or be related to the performance by Alamo or its employees, agents or contractors of the obligations under this Agreement or any Project Agreement, all of which shall be the sole responsibility of Alamo.  To clarify, Client will not withhold any income tax or payroll tax of any kind on behalf of Alamo.'
+Legal-BERT Prediction: indemnity (Confidence: 0.07393504679203033)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.13446037471294403)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '(f)                                   Limitations.  Notwithstanding anything to the contrary in this Section 4, Alamo shall have no obligation or responsibility for any damages, liability, loss and costs, including but not limited to attorney’s fees (collectively, “Liability”) to the extent such Liability is attributed solely to discriminatory and/or intentional acts of Client, its employees, agents or contractors.'
+Legal-BERT Prediction: damages (Confidence: 0.09058994799852371)
+Legal-RoBERTa Prediction: costs (Confidence: 0.23689070343971252)
+Final Prediction: costs
+================================================================================
+
+Clause: '(g)                                  Nothing contained herein shall create a partnership or co-venture between Alamo and Client and neither Party will hold themselves out as the partner of the other.'
+Legal-BERT Prediction: relationship (Confidence: 0.07006663829088211)
+Legal-RoBERTa Prediction: relationship (Confidence: 0.12294664233922958)
+Final Prediction: relationship
+================================================================================
+
+Clause: '5.                                      Alamo Compensation'
+Legal-BERT Prediction: amendment (Confidence: 0.08237308263778687)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07609986513853073)
+Final Prediction: amendment
+================================================================================
+
+Clause: '(a)                                 In consideration of the performance of the Services, Client shall pay Alamo the fees, costs and expenses (collectively, the “Fees”) as set forth in each Project Agreement.  Alamo shall bill Client monthly in advance and invoices shall be sent by Alamo to Client on a monthly basis for the Fees for Services to be provided in the following month.'
+Legal-BERT Prediction: costs (Confidence: 0.10504695028066635)
+Legal-RoBERTa Prediction: costs (Confidence: 0.19434669613838196)
+Final Prediction: costs
+================================================================================
+
+Clause: '(b)                                 In addition to the Fees set forth in a Project Agreement, certain necessary and reasonable expenses will be charged to Client on a pass-through basis.  These expenses will be billed to Client at actual cost incurred by Alamo, without margin or mark-up.  Pass-through costs specific to a particular Service shall be set forth in the Project Agreement executed by the Parties.'
+Legal-BERT Prediction: costs (Confidence: 0.13106374442577362)
+Legal-RoBERTa Prediction: costs (Confidence: 0.2611166536808014)
+Final Prediction: costs
+================================================================================
+
+Clause: '(c)                                  Payments are due upon Client’s receipt of each applicable invoice from Alamo.  If an invoice is not paid within thirty (30) days of Client’s receipt, Alamo may, in its discretion, impose a finance charge of 1.0% per month of all amounts due that are not in dispute.  All invoices shall be accompanied by descriptions of the Services performed and expenses incurred in sufficient detail to allow an audit of amounts due.  Alamo shall retain a back-up copy of all support documentation for a period of 3 years.'
+Legal-BERT Prediction: costs (Confidence: 0.07206384837627411)
+Legal-RoBERTa Prediction: notice (Confidence: 0.15755723416805267)
+Final Prediction: notice
+================================================================================
+
+Clause: '6.                                      Confidentiality'
+Legal-BERT Prediction: counterparts (Confidence: 0.07873541861772537)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07412469387054443)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '(a)                                 During the performance of the Services contemplated by this Agreement, each Party may learn confidential, proprietary, and/or trade secret information of the other Party (“Confidential Information”).  The Party disclosing Confidential Information shall be referred to as the “Disclosing Party” and the Party receiving Confidential Information shall be referred to as the “Receiving Party.”'
+Legal-BERT Prediction: confidentiality (Confidence: 0.15801577270030975)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.37575235962867737)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '5'
+Legal-BERT Prediction: counterparts (Confidence: 0.08797793835401535)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04696935787796974)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '6'
+Legal-BERT Prediction: counterparts (Confidence: 0.09248616546392441)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04571327194571495)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '7.                                      Restrictions on Solicitation'
+Legal-BERT Prediction: counterparts (Confidence: 0.09319233894348145)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.0809563547372818)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '(b)                                 Client agrees during the Term of this Agreement and for one (1) year period following the expiration or earlier termination of this Agreement not to: (i) provide any contact information (including name, address, phone number or e-mail address) of any Alamo Employee to any third party which provides or proposes to provide Client with the same services being provided by Alamo pursuant to a Project Agreement, or (ii) to assist actively in any other way such a third party in employing or retaining such Alamo Employee.'
+Legal-BERT Prediction: non-solicitation (Confidence: 0.23798903822898865)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.24676039814949036)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: '8.                                      Indemnification'
+Legal-BERT Prediction: counterparts (Confidence: 0.08603636920452118)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.09021789580583572)
+Final Prediction: insurance
+================================================================================
+
+Clause: '7'
+Legal-BERT Prediction: counterparts (Confidence: 0.09440033882856369)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04591860994696617)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'requests by Client or by third parties pursuant to a subpoena or court order for the production by Alamo of documents, electronic documents or computer hard drives relating to Services provided by Alamo pursuant to a Project Agreement, or to interview or depose and/or obtain testimony from Alamo Employees regarding such Services (unless such subpoena or court order is caused by the negligent acts of Alamo or its employees); or (v) an allegation that Client’s products, product promotional literature or other Client documents and materials infringes any patent, trademark, copyright or other intellectual property rights of any third party, except to the extent that: (x) the allegedly infringing material was initially provided by Alamo, or (y) the alleged infringement is caused by Alamo’s modification or further development of documents and materials provided by Client.'
+Legal-BERT Prediction: non-solicitation (Confidence: 0.09165605157613754)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.19359318912029266)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: '9.                                      Limitation of Liability'
+Legal-BERT Prediction: counterparts (Confidence: 0.07561396062374115)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.07680921256542206)
+Final Prediction: insurance
+================================================================================
+
+Clause: '(a)                                 Neither Party shall be liable to the other Party with respect to any subject matter of this Agreement or any Project Agreement under any contract, tort, negligence, strict liability, breach of warranty (express or implied) or other theory for any indirect, incidental, special, exemplary, punitive, exemplary or consequential damages, nor for any loss of revenues or loss of profits, even if advised of the possibility of such damages.  Notwithstanding the above, the limitation of liability in this Section 9(a) shall not apply to the Parties’ indemnification obligations set forth in Section 8 above.'
+Legal-BERT Prediction: damages (Confidence: 0.08897754549980164)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.2550220787525177)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '(b)                                 The compensation to be paid by Client to Alamo as set forth in a Project Agreement, is based on the value of the Services provided by Alamo to Client and the comparative scope of liability being undertaken or assumed by the Parties.  Client acknowledges that while Alamo will carry out its duties under this Agreement in a commercially reasonable manner, Alamo makes no warranty, expressed or implied, that the Services that it will furnish to Client pursuant to one or more executed Project Agreements, will not result in monetary losses or other damages to Client.'
+Legal-BERT Prediction: costs (Confidence: 0.09724491834640503)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.14921055734157562)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '8'
+Legal-BERT Prediction: counterparts (Confidence: 0.08752930164337158)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04693767428398132)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '10.                               Intellectual Property; Ownership'
+Legal-BERT Prediction: counterparts (Confidence: 0.09326019138097763)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0858607143163681)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '(a)                                 Except as set forth in Sections 10(b) below, all documents, materials, reports and deliverables provided by Alamo to Client pursuant hereto whether or not patentable, copyrightable, or susceptible to any other form of legal protection which are made, conceived, reduced to practice or authored by Alamo, or Alamo’s employees, representatives or agents (if any) as a result of the performance of Services, or which are derived from use or possession of Client’s Confidential Information (collectively, the “Deliverables”) shall be the sole and exclusive property of Client.  Each Deliverable constituting an original work shall be considered a work made for hire under applicable copyright laws.  Subject to Section 10(b) below, Alamo hereby assigns and agrees to assign to Client all right, title and interest in all worldwide intellectual property rights in the Deliverables, including without limitation, patents, copyrights, and trade secrets.'
+Legal-BERT Prediction: indemnity (Confidence: 0.09358440339565277)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.22640803456306458)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: '11.                               Term'
+Legal-BERT Prediction: amendment (Confidence: 0.0841505378484726)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0651014894247055)
+Final Prediction: amendment
+================================================================================
+
+Clause: '12.                               Termination'
+Legal-BERT Prediction: counterparts (Confidence: 0.09259125590324402)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08331263810396194)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '(a)                                 This Agreement and any Project Agreement may be terminated by Alamo or Client upon giving written notice as follows:'
+Legal-BERT Prediction: termination (Confidence: 0.1507049947977066)
+Legal-RoBERTa Prediction: termination (Confidence: 0.2048044055700302)
+Final Prediction: termination
+================================================================================
+
+Clause: '(i)                                     by Alamo, if any undisputed payment to Alamo by Client is not made when due and such payment is still not made within thirty (30) days from the date of written notice from Alamo to Client advising of such nonpayment;'
+Legal-BERT Prediction: joint and several liability (Confidence: 0.06695453077554703)
+Legal-RoBERTa Prediction: notice (Confidence: 0.21103467047214508)
+Final Prediction: notice
+================================================================================
+
+Clause: '(ii)                                  by either Party, in the event that the other Party has committed a material breach of this Agreement and such breach has not been cured within thirty (30) days of receipt of written notice from the non-breaching Party of such breach (provided that, during the thirty (30) day cure period for termination due to breach, each Party will continue to perform its obligations under the Agreement);'
+Legal-BERT Prediction: termination (Confidence: 0.07142186164855957)
+Legal-RoBERTa Prediction: notice (Confidence: 0.08108700811862946)
+Final Prediction: notice
+================================================================================
+
+Clause: '9'
+Legal-BERT Prediction: counterparts (Confidence: 0.09090618789196014)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.0467899926006794)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '(iii)                               by either Party, in the event the other Party is either debarred from federal contracting or is a “Sanctioned Entity.” For purposes hereof, a Sanctioned Entity is an entity that:'
+Legal-BERT Prediction: non-competition (Confidence: 0.1065819039940834)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.14065374433994293)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '(A)                               Is currently under indictment or prosecution for, or has been convicted (as defined in 42 C.F.R. § 1001.2) of: (1) any offense related to the delivery of an item or service under the Medicare or Medicaid programs or any program funded under Title V or Title )0( of the Social Security Act (the Maternal and Child Health Services Program or the Block grants to States for Social Services programs, respectively), (2) a criminal offense relating to neglect or abuse of patients in connection with the delivery of a health care item or service, (3) fraud, theft, embezzlement, or other financial misconduct in connection with the delivery of a health care item or service, (4) obstructing an investigation of any crime referred to in (1) through (3) above, or (5) unlawful manufacture, distribution, prescription, or dispensing of a controlled substance; or'
+Legal-BERT Prediction: non-competition (Confidence: 0.09212584793567657)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.13246417045593262)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '(B)                               Has been required to pay any civil monetary penalty regarding false, fraudulent, or impermissible claims under, or payments to induce a reduction or limitation of health care services to beneficiaries of, any state or federal health care program, or is currently the subject of any investigation or proceeding which may result in such payment; or'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.12851879000663757)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.11023993045091629)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '(C)                               Has been excluded from participation in the Medicare, Medicaid, or Maternal and Child Health Services (Title V) program, or any program funded under the Block Grants to States for Social Services (Title II) program; or'
+Legal-BERT Prediction: insurance (Confidence: 0.07932272553443909)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08989125490188599)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '(iv)                              by either Party, in the event that the other Party has become insolvent or has been dissolved or liquidated, filed or has filed against it, a petition in bankruptcy and such petition is not dismissed within thirty (30) days of the filing, makes a general assignment for the benefit of creditors; or has a receiver appointed for a substantial portion of its assets.'
+Legal-BERT Prediction: termination (Confidence: 0.07850345969200134)
+Legal-RoBERTa Prediction: notice (Confidence: 0.08121204376220703)
+Final Prediction: notice
+================================================================================
+
+Clause: '(b)                                 Upon the effective date of such termination, the parties shall have no further obligation to each other (other than those set forth in Sections 4, 6, 7, 8, 9, 10, 13 and 15), except that Client shall pay the amounts set forth or provided for in any Project Agreement through the actual date of termination.'
+Legal-BERT Prediction: termination (Confidence: 0.16601118445396423)
+Legal-RoBERTa Prediction: joint and several liability (Confidence: 0.12300421297550201)
+Final Prediction: termination
+================================================================================
+
+Clause: '13.                               Venue and Jurisdiction'
+Legal-BERT Prediction: amendment (Confidence: 0.08936012536287308)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.14948788285255432)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: '14.                               Insurance'
+Legal-BERT Prediction: amendment (Confidence: 0.07378365844488144)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.1285424381494522)
+Final Prediction: insurance
+================================================================================
+
+Clause: '(a)                                 Each Party undertakes to maintain appropriate insurance in commercially reasonable amounts with financially capable carriers, including in the case of Client, Product Liability insurance in the amount of at least ten million dollars $10,000,000.  Each Party shall name the other Party as an additional insured on all liability insurance coverage.  In addition, upon written request, each Party will provide the other with evidence of coverage complying with this Section.  The Parties understand and agree that additional insurance requirements may'
+Legal-BERT Prediction: insurance (Confidence: 0.16416622698307037)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.43110498785972595)
+Final Prediction: insurance
+================================================================================
+
+Clause: '10'
+Legal-BERT Prediction: counterparts (Confidence: 0.09466385841369629)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.047082338482141495)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'be set forth in the Project Agreements.  Any additional program specific insurance requirements may be set forth in a Project Agreement.'
+Legal-BERT Prediction: amendment (Confidence: 0.096485435962677)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.12620043754577637)
+Final Prediction: insurance
+================================================================================
+
+Clause: '(b)                                 During the Term, Alamo shall maintain and provide confirmation of the following coverage: (i) Commercial General Liability insurance coverage for its operations and all of its employees and consultants, with a minimum limit of liability of not less than $1,000,000 per occurrence and in the aggregate; (ii) Business Automobile Liability insurance to cover all owned, hired and no owned automobiles providing a minimum combined single limit of $1,000,000; (iii) Workers’ Compensation insurance as required by the state hi which the salesperson is located and in amounts as may be required by applicable statute; (iv) Employer’s Liability insurance in an amount of at least $1,000,000 for bodily injury per accident, $1,000,000 for bodily injury per disease and $1,000,000 per policy limit; (v) umbrella liability insurance that follows form in excess of the limits as specified in sections (b) (i), (ii), and (iv) above, of no less than $3,000,000 per occurrence and in the aggregate; (vii) Crime Coverage in an amount of no less than $5,000,000 per occurrence; (viii) Employment Practices Liability including Third Party EPL in an amount of not less than $5,000,000 per occurrence.'
+Legal-BERT Prediction: insurance (Confidence: 0.2722398638725281)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.3474937379360199)
+Final Prediction: insurance
+================================================================================
+
+Clause: '(c)                                  Any company underwriting any of Alamo’s Insurance shall have, according to A.M. Best Insurance Guide, a Best’s rating of not less than A- and a Financial Size Category of not less than VIII.  All commercial general liability, business automobile liability and umbrella liability insurance policies shall name Client as an “additional insured”.'
+Legal-BERT Prediction: insurance (Confidence: 0.1551675796508789)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.32570090889930725)
+Final Prediction: insurance
+================================================================================
+
+Clause: '15.                               Audit.'
+Legal-BERT Prediction: amendment (Confidence: 0.07175375521183014)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07252422720193863)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '11'
+Legal-BERT Prediction: counterparts (Confidence: 0.0876869335770607)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.045968666672706604)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '16.                               Miscellaneous'
+Legal-BERT Prediction: counterparts (Confidence: 0.08308827131986618)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.08159040659666061)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '(a)                                 Neither Alamo nor Client may assign or transfer this Agreement or any Project Agreement or any of its rights, duties or obligations hereunder without the other Party’s prior written consent; provided, however, that either Alamo or Client may assign or transfer its rights, duties and obligations as part of an acquisition or purchase of Alamo or Client, without the prior written consent of the other Party when: (i) such assignment is to a successor-in-interest to all or substantially all of the ownerships interest or business assets of such Party whether in a merger, sale of stock, sale of assets or other similar transaction; and (ii) the successor is a financially capable business entity.  Any permitted successor or assignee of this Agreement and the rights and/or obligations hereunder, will in writing (satisfactory in form and substance) to the other Party, expressly assume this Agreement and any existing Project Agreement and the rights and obligations hereunder.  If such writing is not received, any proposed assignment or transfer need not be recognized and shall be null and void.'
+Legal-BERT Prediction: assignment (Confidence: 0.27386602759361267)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.3588006794452667)
+Final Prediction: assignment
+================================================================================
+
+Clause: '(b)                                 This Agreement supersedes all prior arrangements and understandings between Parties related to the subject matter hereof.'
+Legal-BERT Prediction: entire agreement (Confidence: 0.29143744707107544)
+Legal-RoBERTa Prediction: entire agreement (Confidence: 0.35205182433128357)
+Final Prediction: entire agreement
+================================================================================
+
+Clause: '(c)                                  Except for Client’s payment obligations, noncompliance with the obligations of this Agreement due to a state of force majeure, the laws or regulations of any government, regulatory or judicial authority, war, civil commotion, destruction of facilities and materials, fire, flood, earthquake or storm, shortage of materials, failure of public utilities or common carriers, and any other similar causes beyond the reasonable control of the applicable Party, shall not constitute a breach of contract.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07489459216594696)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.1578546166419983)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '(d)                                 If any provision of this Agreement is finally declared or found to be illegal or unenforceable by a court of competent jurisdiction, both Parties shall be relieved of all obligations arising under such provision, but, if capable of performance, the remainder of this Agreement shall not be affected by such declaration or finding.'
+Legal-BERT Prediction: severability (Confidence: 0.2561580240726471)
+Legal-RoBERTa Prediction: severability (Confidence: 0.5385984778404236)
+Final Prediction: severability
+================================================================================
+
+Clause: '12'
+Legal-BERT Prediction: counterparts (Confidence: 0.0926303043961525)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.045783620327711105)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '(g)                                  For the convenience of the Parties, this Agreement may be executed in counterparts and by facsimile or email exchange of pdf signatures, each of which counterpart shall be deemed to be an original, and both of which taken together, shall constitute one agreement binding on both Parties.'
+Legal-BERT Prediction: counterparts (Confidence: 0.4496746063232422)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.4567843973636627)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '(h)                                 Any notices required or permitted under this Agreement shall be given in person or sent by first class, certified mail to:'
+Legal-BERT Prediction: notice (Confidence: 0.16345921158790588)
+Legal-RoBERTa Prediction: notice (Confidence: 0.44234320521354675)
+Final Prediction: notice
+================================================================================
+
+Clause: 'To Client: To Alamo:Address: Address:Napo Pharmaceuticals, Inc. Alamo Pharma Services, Inc.201 Mission Street, Ste. 2375 77 N. Broad StreetSan Francisco, California 94105 Doylestown, PA 18901   Attention: Lisa Conte Attention: Pete MarchesiniFax: 415-371-8311 Fax: 215-489-9522   Copy To: J. Margolin Copy To:Legal Lee Cusenbary  General Counsel  Lee.Cusenbary@missionpharmacal.com'
+Legal-BERT Prediction: notice (Confidence: 0.08812256157398224)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.16144591569900513)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'or to such other address or to such other person as may be designated by written notice given from time to time during the term of this Agreement by one Party to the other.'
+Legal-BERT Prediction: notice (Confidence: 0.13518491387367249)
+Legal-RoBERTa Prediction: notice (Confidence: 0.38935694098472595)
+Final Prediction: notice
+================================================================================
+
+Clause: '(i)                                     Each of the Parties shall do, execute and perform and shall procure to be done and perform all such further acts deeds documents and things as the other Party may reasonably require from time to time giving full effect to the terms of this Agreement.'
+Legal-BERT Prediction: further assurance (Confidence: 0.21386133134365082)
+Legal-RoBERTa Prediction: further assurance (Confidence: 0.3460161089897156)
+Final Prediction: further assurance
+================================================================================
+
+Clause: '(j)                                    Except as otherwise expressly provided in this Agreement, each Party shall pay its own expenses and costs incidental to the preparation of this Agreement and to the consummation of the transactions contemplated by this Agreement or each Project Agreement.'
+Legal-BERT Prediction: costs (Confidence: 0.1669483780860901)
+Legal-RoBERTa Prediction: costs (Confidence: 0.4052290618419647)
+Final Prediction: costs
+================================================================================
+
+Clause: 'WHEREFORE, the Parties hereto have caused this Agreement to be executed by their duly authorized representatives as of the Effective Date.'
+Legal-BERT Prediction: counterparts (Confidence: 0.20809978246688843)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.11132439225912094)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'ALAMO PHARMA SERVICES, INC. NAPO PHARMACEUTICALS, INC.      By:/s/ Pete Marchesini By:/s/Lisa A. ConteName:Pete Marchesini Name:Lisa A. ConteTitle:Chief Operations Officer Title:Chief Executive Officer'
+Legal-BERT Prediction: counterparts (Confidence: 0.06166088208556175)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.15071122348308563)
+Final Prediction: non-competition
+================================================================================
+

@@ -1,0 +1,303 @@
+Child 1 (p):
+SALES AGREEMENT*
+
+Child 2 (p):
+     THIS AMMONIUM NITRATE SALES AGREEMENT (the "Agreement") is made and effective this [●] (the "Effective Date"), by and between  Buyer and  Seller. Buyer and Seller shall be collectively referred to throughout this Agreement as the "Parties."
+
+Child 3 (p):
+WITNESSETH THAT:
+
+Child 4 (p):
+     WHEREAS, Buyer conducts business related to the manufacture, distribution, sale and use of Ammonium Nitrate based explosives products and desires to purchase Ammonium Nitrate Solution "AN" from Seller for use in its operations; and
+
+Child 5 (p):
+     WHEREAS, Seller is engaged in the manufacture of AN and desires to sell such AN as required by Buyer, on the terms and conditions hereof;
+
+Child 6 (p):
+     NOW, THEREFORE, for and in consideration of the mutual promises and covenants contained herein, and other good and valuable consideration, the Parties agree as follows:
+
+Child 7 (p):
+ARTICLE IINTERPRETATION
+
+Child 8 (p):
+Section 1.01 Definitions
+
+Child 9 (p):
+     "AN" or "Products" means bulk Ammonium Nitrate solution on a 100% basis.
+
+Child 10 (p):
+     "Party" means either seller or buyer, as applicable.
+
+Child 11 (p):
+Section 1.02 Headings
+
+Child 12 (p):
+     The division of this Agreement into Articles and Sections and the insertion of headings are for convenience of reference only and will not affect the construction or interpretation of this Agreement. The terms "this Agreement," " hereof," "hereunder" and similar expressions refer to this Agreement and not to any particular Article, Section or other portion hereof and include any agreement supplemental hereto. Unless something in the subject matter or context is inconsistent therewith, references herein to Articles and Sections are to Articles and Sections of this Agreement.
+
+Child 13 (p):
+Section 1.03 Schedules
+
+Child 14 (p):
+     The following is the Schedule attached hereto and incorporated by reference and deemed to be part hereof:
+
+Child 15 (p):
+               Schedule A                                                  AN Specifications 
+
+Child 16 (p):
+ARTICLE IISUPPLY OF PRODUCTS
+
+Child 17 (p):
+Section 2.01 Products and Quantity.
+
+Child 18 (p):
+      During the term hereof, Seller agrees to manufacture and supply or cause to be manufactured and supplied, deliver and sell to Buyer, and Buyer agrees to purchase, accept and pay for, all AN required by Buyer's, AL emulsion plant at the prices and otherwise in accordance with the provisions of this Agreement.
+
+Child 19 (p):
+Section 2.02 Forecasts
+
+Child 20 (p):
+     Buyer shall provide to Seller, at least [●] days in advance, a forecast of Buyer's requirements of Product on a monthly basis broken out by week based on Buyer's best estimates.
+
+Child 21 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 22 (p):
+Section 2.03 Alternate Supply
+
+Child 23 (p):
+Section 2.04 Shipping, Title and Risk of Loss
+
+Child 24 (p):
+     In the event of any spilled product at points between the Seller meter and the Buyer meter, Buyer shall pay for 50% of any such product spilled. The amount of such spilled product shall be determined by the difference between the two meter readings.
+
+Child 25 (p):
+ARTICLE IIISPECIFICATIONS
+
+Child 26 (p):
+Section 3.01 Quality Control
+
+Child 27 (p):
+     Except as hereinafter provided, Seller will be responsible for supplying AN to Buyer that meets the Specifications as set forth in Schedule A attached hereto. Seller will promptly notify Buyer of any known material nonconformance to Specifications of AN and advise Buyer of the proposed corrective actions to be taken.
+
+Child 28 (p):
+Section 3.02 Failure of Product to Meet Specifications
+
+Child 29 (p):
+     (a)     Buyer shall have the right, exercisable upon written notice delivered within ten days from the date on which Buyer becomes aware of any material non-conformance to Specifications of any AN delivered to it, to notify Seller of any such non-conformance and to reject any such non-conforming AN.
+
+Child 30 (p):
+     (b)    Buyer may reject any non-conforming AN which it cannot use, after utilizing commercially reasonable efforts to do so. Buyer shall not be responsible for payment for any such rejected AN. Seller shall be responsible at its cost for reprocessing or disposal of any rejected AN. 
+
+Child 31 (p):
+     (c)     Buyer shall use commercially reasonable efforts to mitigate costs incurred as a result of non-conforming AN and shall assist Seller and cooperate as necessary to enable Seller to minimize its loss, including by retaining samples of such non-compliant AN. The Parties shall cooperate to reprocess or dispose of non-conforming AN in the most cost effective manner possible.
+
+Child 32 (p):
+ARTICLE IVTERM AND TERMINATION
+
+Child 33 (p):
+Section 4.01 Term
+
+Child 34 (p):
+     Unless earlier terminated in accordance with this Article IV, the term of this Agreement shall commence on the Effective Date of October 1, 2001 and shall continue for 5 years until September 30, 2006. Thereafter, this Agreement shall automatically renew for successive 1 year terms, unless cancelled by either party by providing written notice 1 year prior to September 30th of the succeeding contract year.
+
+Child 35 (p):
+Section 4.02 Discretionary Termination
+
+Child 36 (p):
+     (a)     Either Party may terminate this Agreement upon the occurrence of any of the following events:
+
+Child 37 (p):
+              (i)  subject to clause (b) hereof, material failure of performance by the other Party; or
+
+Child 38 (p):
+             (ii)  subject to clause (b) hereof, breach of a material term, condition or provision of the Agreement by the other Party.
+
+Child 39 (p):
+     (b)     If one of the events described in Section 4.02(a)(i) or 4.02(a)(ii) occurs, the terminating Party shall notify the other Party of its intent to terminate this Agreement, and shall specify in writing the basis for termination (a "Default Notice"). The Party receiving a Default Notice shall then have 30 days from receipt of the Default Notice to cure the failure of performance or breach. If such failure of performance or breach is timely cured, this Agreement shall remain in force and effect. If the Party receiving the Default Notice fails to timely cure the performance or breach, the notifying Party may terminate this Agreement effective on the 31st day following receipt of the Default Notice. Any dispute concerning whether a Party failed to perform or is in breach of this Agreement or whether any such breach has been cured shall be subject to the provisions of Section 9.01 of this Agreement.
+
+Child 40 (p):
+     (c)     This Agreement may be terminated at any time by mutual agreement of the Parties. 
+
+Child 41 (p):
+Section 4.03 Post Termination
+
+Child 42 (p):
+     Upon the termination of this Agreement, whether at the expiration of its term or earlier, Buyer will purchase, accept and pay for all AN ordered prior to the termination date by Buyer. Notwithstanding any termination of this Agreement, Articles VI, VII and VIII shall continue in force and effect.
+
+Child 43 (p):
+ARTICLE VPRICE
+
+Child 44 (p):
+Section 5.01 Pricing
+
+Child 45 (p):
+     (a)     The price billed to Buyer shall be calculated according to [●]
+
+Child 46 (p):
+     (b)     The price resulting from this formula shall be referred to as the "Base Price".
+
+Child 47 (p):
+               [●]
+
+Child 48 (p):
+ 
+
+Child 49 (p):
+  
+
+Child 50 (p):
+      (c)     Each shipment of AN shall constitute a separate sale, obligating Buyer to pay therefor, whether said shipment be in whole or only partial fulfilment of any order or confirmation issued in connection therewith. Buyer shall not be obligated to pay for any Product that is not shipped to it.
+
+Child 51 (p):
+Section 5.02 Payment and Settlement
+
+Child 52 (p):
+Section 5.03 Cost Adjustment
+
+Child 53 (p):
+     Seller shall make commercially reasonable efforts to reduce the cost figures and conversion factors comprising the Base Price. The parties shall meet on a quarterly basis to review the cost figures and conversion factors. Seller shall provide Buyer with the information necessary to allow informative discussion pertaining to these issues. After review of the cost figures and conversion factors, the Parties may agree on the adjustment, if any, to the variable items contained in the formula used to establish the Base Price.
+
+Child 54 (p):
+Section 5.04 Audits
+
+Child 55 (p):
+ARTICLE VILIMITED WARRANTIES; LIMITATION; DISCLAIMER
+
+Child 56 (p):
+Section 6.01 Limited Warranties
+
+Child 57 (p):
+     SELLER WARRANTS THAT ALL PRODUCT SOLD TO BUYER IS FREE AND CLEAR OF ALL LEINS AND ENCUMBRANCES, CLEAR TITLE EXISTS AS TO ALL PRODUCTS AND ALL PRODUCTS CONFORM TO THE SPECIFICATIONS SET FORTH IN SCHEDULE A. EXCEPT AS OTHERWISE EXPRESSLY STATED HEREIN, SELLER MAKES NO REPRESENTATION OR WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, AS TO MERCHANTIBILITY, FITNESS FOR A PARTICULAR PURPOSE, OR ANY OTHER MATTER WITH RESPECT TO THE PRODUCTS. CN SHALL NOT BE LIABLE TO BUYER FOR ANY INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY, OR PUNITIVE DAMAGES RESULTING FROM THE HANDLING, POSSESSION OR USE OF THE GOODS BY BUYER.
+
+Child 58 (p):
+Section 6.02 Claims Process
+
+Child 59 (p):
+     Seller shall have no liability to Buyer for any non-compliance with the Specifications unless: (a) Buyer gives Seller notice in writing of Buyer's claim, setting forth fully the facts on which it is based, as soon as practicable after Buyer becomes aware of such claim and in any event within [●] days of the date of use of any AN, and (b) Seller is given a reasonable opportunity to inspect the AN alleged to be defective if available.
+
+Child 60 (p):
+Section 6.03 Limitation on Remedies
+
+Child 61 (p):
+     Notwithstanding anything to the contrary herein (other than Section 3.02), Buyer's sole and exclusive remedy and Seller's sole and exclusive obligation and liability for breach of the limited warranties under this Article VI, or upon the rejection of any Products pursuant to Section 3.02 hereof, are limited to, upon the mutual agreement of the Parties, one of the following: (i) replacement of the Products by Seller without cost to Buyer; (ii) refund to Buyer of the invoice price of the particular Products; or (iii) credit toward future purchases of Products by Buyer in the amount of the invoice price of the non-conforming Products. If the Parties cannot agree upon the remedy within ten days of Buyer's notification to Seller of the breach or rejection, clause (iii) shall automatically apply.
+
+Child 62 (p):
+Section 6.04 CONSEQUENTIAL LOSSES
+
+Child 63 (p):
+     IN NO EVENT SHALL EITHER PARTY BE LIABLE IN CONTRACT, TORT OR OTHERWISE, FOR INCIDENTAL, INDIRECT, SPECIAL, OR CONSEQUENTIAL DAMAGES UNDER THIS AGREEMENT. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, NEITHER PARTY SHALL BE LIABLE TO THE OTHER FOR ANY LOSS, OR ALLEGED LOSS, OF PROFIT.
+
+Child 64 (p):
+ARTICLE VIIINDEMNIFICATION
+
+Child 65 (p):
+Section 7.01 General Indemnity
+
+Child 66 (p):
+Section 7.02 Demand for Indemnity
+
+Child 67 (p):
+     Promptly after receipt of any notice concerning the commencement of any event for which a Party believes it is or may be entitled to indemnity, the Party seeking indemnification (the "Indemnitee") shall give prompt written notice thereof to the Party from which it is seeking indemnification (the "Indemnitor"), provided that failure to give such prompt notice shall not relieve the Indemnitor from any liability it may have to the Indemnitee hereunder, except to the extent that the Indemnitor is prejudiced in its defense of such indemnity Claim as a result of such failure. The Indemnitor may assume the defense of any indemnity Claim with counsel reasonably satisfactory to the Indemnitee and shall not be obligated to furnish separate counsel to the Indemnitee in any action in which the Indemnitor and the Indemnitee are joined unless the Indemnitee reasonably concludes that there may be a conflict of interest between the Indemnitee and the Indemnitor. No settlement of any Claim shall be made without the mutual approval of the Indemnitor and the Indemnitee, but neither of them shall unreasonably condition, delay or withhold their consent to any settlement which the other has proposed.
+
+Child 68 (p):
+ARTICLE VIIICONFIDENTIAL INFORMATION
+
+Child 69 (p):
+Section 8.01  Disclosure of Confidential Information
+
+Child 70 (p):
+     The Parties realize that during the course of their supply and purchase relationship, it may become necessary for the Parties to disclose Confidential Information to each other ("Disclosing Party") or the Parties may otherwise become privy to certain Confidential Information ("Receiving Party").
+
+Child 71 (p):
+Section 8.02  Use of Confidential Information
+
+Child 72 (p):
+     In consideration for the necessity of any disclosure of Confidential Information, the Parties agree that during the term of the Agreement and for a period ten years after termination of this Agreement they will treat the Confidential Information as strictly confidential and will not divulge to any third party nor publish or reproduce any of the Confidential Information disclosed by either party, nor make use of any such Confidential Information for any purpose except as required to fulfil the purpose of this Agreement, without the Disclosing Party's prior written consent. The above prohibition includes, without limitation, the inclusion of any of the Confidential Information in any present or future documents, strategies, pricing guides, or any other matter applicable to either Party's business. In the event that a Receiving Party is requested or required by law to disclose Confidential Information, the Party shall provide the Disclosing Party with notice of such request or requirement within two Business Days after the Receiving Party has received, or received notice of, such request or requirement so that the Disclosing Party may object to the request or requirement, seek an appropriate protective order, or provide its consent to the disclosure. 
+
+Child 73 (p):
+Section 8.03 Return of Confidential Information
+
+Child 74 (p):
+     At the termination of in this Agreement, any Confidential Information which has been received by either Party shall either be destroyed by the Party or returned to the Disclosing Party, at the Disclosing Party's option. In the event that a Disclosing Party fails to notify a Receiving Party of its option within 30 days of termination of this Agreement, the Receiving Party shall return all such Confidential Information to the Disclosing Party.
+
+Child 75 (p):
+Section 8.04 Access to Confidential Information
+
+Child 76 (p):
+     The Parties shall restrict access to the Confidential Information to only those employees, officers and directors ("Representatives") who have a clear need to know the same for the purpose of this Agreement, provided that the Receiving Party guarantees the adherence of such Representatives to the terms of this Agreement. The Receiving Party shall be responsible for ensuring that all Representatives are under a written confidentiality obligation of sufficient scope to obligate them to comply with the terms and conditions of this Agreement.
+
+Child 77 (p):
+Section 8.05 Proprietary Nature of Confidential Information
+
+Child 78 (p):
+     Any and all Confidential Information disclosed is proprietary and the Disclosing Party reserves full rights to the Confidential Information and remains the sole owner of the Confidential Information and does not assign to the Receiving Party any rights to the Confidential Information.
+
+Child 79 (p):
+ 
+
+Child 80 (p):
+ARTICLE IXMISCELLANEOUS
+
+Child 81 (p):
+Section 9.01 Dispute Resolution and Arbitration
+
+Child 82 (p):
+     The Parties agree that this Agreement affects interstate commerce. The Parties further agree that all disputes or controversies of any kind or nature between the Parties hereto, whether in contract or tort, arising out of or in connection with this Agreement, the relationships formed as a result of this Agreement, its subject matter or its negotiation, any disputes, disagreements or controversies as to the existence, construction, validity, interpretation or meaning, performance, non-performance, enforcement, operation, breach of contract, continuance or termination thereof, or any claims alleging fraud in fact, fraud in the inducement, deceit, suppression of any material fact, or any claims arising out of or based on violation of any state, federal, or local statute, rule or regulation, including claims relating in any way to the supply or performance of AN referenced in this Agreement, (collectively, "Disputes"), shall be settled exclusively by binding arbitration in  [●] Delhi, India pursuant to the provisions of the [●] Arbitration and Conciliation Act, 1996. The arbitrator shall be chosen from a panel of licensed attorneys having at least [●] years of legal experience and who are familiar with the subject matter of this Agreement and shall be appointed within [●] days of the date of the demand for arbitration by one of the Parties to this Agreement. Additionally, any questions relating to the arbitrability of the claims will be decided by the arbitrator. Such arbitration proceedings may be initiated by either Party, by notice in writing to the other. Each Party shall bear its own arbitration costs and expenses, except to the extent the arbitrator rules otherwise.
+
+Child 83 (p):
+Section 9.02 Assignment
+
+Child 84 (p):
+     Neither Party may assign this Agreement without the prior written consent of the other Party. Such consent shall not be unreasonably withheld. Upon making a decision to offer its Cherokee, AL production facility for sale, Seller shall promptly notify Buyer of its decision to offer to sell the facility.
+
+Child 85 (p):
+Section 9.03 Compliance with Laws
+
+Child 86 (p):
+     Both Seller and Buyer shall comply with all laws, orders, rules, regulations and requirements of every duly constituted governmental authority, agency or instrumentality, which may be applicable to this Agreement or its subject matter.Section 9.04 No Waiver
+
+Child 87 (p):
+     The failure of either Party to insist in any one or more instances upon strict performance of any of the provisions of this Agreement or to take advantage of any of its rights hereunder or the failure to object to the nature of performance or lack thereof shall not be construed as a waiver of any such provision or the relinquishment of any such right, but the same shall continue and remain in effect. If the waiver of any right is made, it shall be done expressly in writing by the Party entitled to the enforcement thereof.
+
+Child 88 (p):
+Section 9.05 Severability of Provisions
+
+Child 89 (p):
+     If any provision in this Agreement is held invalid, the remaining provisions shall continue in full force and effect.
+
+Child 90 (p):
+Section 9.06 Governing Law
+
+Child 91 (p):
+     This Agreement is deemed to be made under the laws of [●] India for all purposes, including interpretation, performance and enforcement, and shall be construed in accordance with the laws of [●] India. Venue of any legal action to enforce an arbitration award relating to this Agreement shall be in [●] Delhi.
+
+Child 92 (p):
+Section 9.07 No Third-Party Beneficiaries
+
+Child 93 (p):
+hereto any legal or equitable right, benefit or remedy of any nature whatsoever under or by reason of the Agreement.
+
+Child 94 (p):
+Section 9.08 Force Majeure
+
+Child 95 (p):
+     Any notice as required by this section shall be given as soon as practicable of any such anticipated delay in its ability to perform hereunder.
+
+Child 96 (p):
+     In the event of an interruption of delivery, receipt, storage or shipment of the Products hereunder due to an event of force majeure, the party unable to perform shall notify the other party in writing as far in advance as practicable of its ability to resume delivery, receipt, storage or shipment of the Products.
+
+Child 97 (p):
+Section 9.09  Financial Hardship
+
+Child 98 (p):
+     Notwithstanding the other provisions of this Agreement, a party may be excused from performance under the Agreement in the event that market conditions cause extreme financial hardship.
+
+Child 99 (p):
+Section 9.10 Entire Agreement
+
+Child 100 (p):
+     This Agreement and the Schedules hereto represent the entire Agreement between the Parties, and there are no other covenants, promises, agreements, conditions or understandings, either oral or written, between them. Neither Party may modify this Agreement except by written agreement signed by both Parties. In the event of any conflict or inconsistency between the provisions of the main body of this Agreement and any Schedule hereto, the provisions of the main body shall govern.  
+
+Child 101 (p):
+***THIS IS AN EMPTY PARA***
+

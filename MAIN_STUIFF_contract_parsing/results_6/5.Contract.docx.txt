@@ -1,0 +1,571 @@
+Paragraph 1:
+Type(s): Technical Assistance
+Content: MASTER SERVICE AGREEMENT
+--------------------------------------------------------------------------------
+Paragraph 2:
+Type(s): Technical Assistance, Liens
+Content: This MASTER SERVICE AGREEMENT (this “Agreement”) is made and entered into as of January 8, 2021 (the “Effective Date”) by and between Humanigen, Inc., a Delaware corporation (“Client”), and EVERSANA Life Science Services, LLC, and its affiliates, a Wisconsin limited liability company (“EVERSANA”). Client and EVERSANA may each be referred to herein as a “party” or collectively as the “parties”.
+--------------------------------------------------------------------------------
+Paragraph 3:
+Type(s): Other
+Content: RECITALS
+--------------------------------------------------------------------------------
+Paragraph 4:
+Type(s): Liens
+Content: A.       Client is a clinical stage biopharmaceutical company, developing an COVID-19, immunology, immuno-oncology portfolio of monoclonal antibodies.
+--------------------------------------------------------------------------------
+Paragraph 5:
+Type(s): Use of Subcontractors, Governing Regulations, Subcontracting, Privacy, Assignment, Compliance with Laws, Technical Assistance, Publicity
+Content: B.       EVERSANA, either directly or through subcontractors, is in the business of furnishing services including, but not limited to patient services, compliance services, product channel distribution, professional services, marketing and market access services, data and analytics, HEOR/RWE and field solution services (“Services”).
+--------------------------------------------------------------------------------
+Paragraph 6:
+Type(s): Technical Assistance, Liens
+Content: C.       Client desires to have EVERSANA furnish certain Services described in this Agreement, and EVERSANA desires to perform such Services upon the terms and conditions set forth in this Agreement.
+--------------------------------------------------------------------------------
+Paragraph 7:
+Type(s): Other
+Content: AGREEMENT
+--------------------------------------------------------------------------------
+Paragraph 8:
+Type(s): Other
+Content: NOW, THEREFORE, in consideration of the recitals, mutual covenants and conditions herein contained and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows.
+--------------------------------------------------------------------------------
+Paragraph 9:
+Type(s): Other
+Content: GENERAL TERMS AND CONDITIONS
+--------------------------------------------------------------------------------
+Paragraph 10:
+Type(s): Technical Assistance, Payment Terms, Pricing and Fees, Liens
+Content: Available Services and additional terms and conditions applicable to each such Service are outlined in the Exhibits to this Agreement. Statement(s) of Work and/or Exhibits (“SOW”) will set forth the Services to be provided by EVERSANA to Client and the fees to be paid by Client to EVERSANA in connection therewith.
+--------------------------------------------------------------------------------
+Paragraph 11:
+Type(s): Liens, Pricing and Fees, Technical Assistance, Payment Terms, Liquidated Damages
+Content: 2.1       Fees and Expenses. As compensation for EVERSANA’s performance of the Services, Client shall pay fees and expenses (“Fees”) in accordance with the applicable SOW, including any initial one-time set- up fee as described in the applicable SOW. Client shall reimburse EVERSANA for reasonable and properly documented out-of-pocket expenses necessarily incurred in performing Services under this Agreement as the same shall be set forth in a SOW.
+--------------------------------------------------------------------------------
+Paragraph 12:
+Type(s): Technical Assistance, Payment Terms, Pricing and Fees
+Content: 2.2       Fee Increases. On each twelve-month anniversary of the Effective Date, EVERSANA shall have the right to unilaterally increase any then-current transaction or monthly fees for the Services provided under a SOW by [***] percent ([***]%).
+--------------------------------------------------------------------------------
+Paragraph 13:
+Type(s): Technical Assistance, Payment Terms, Pricing and Fees, Liens
+Content: 2.3       Invoices. On a monthly basis, or as may be otherwise set forth in a SOW, EVERSANA shall submit an invoice setting forth the Services performed, time expended and expenses incurred during the applicable period with respect to each active SOW. Client agrees to pay EVERSANA within [***] days of receipt of each monthly invoice, or as otherwise set forth in a SOW, and agrees EVERSANA may charge Client a one-and-one-half percent (1.5%) per month service charge, or the maximum rate allowed by law, whichever is less, on all undisputed invoices that are not paid within [***] days of receipt. Notwithstanding the foregoing, pass through expenses incurred pursuant to a SOW will be billed as incurred. The Fees accrued during the period between the Effective Date and March 31, 2021 shall be deferred (the "Deferred Fees"). Upon the U.S. Food and Drug Administration’s approval of an Emergency Use Authorization (“EUA”) for Client’s COVID-19 Product, EVERSANA will invoice Client for the Deferred Fees (the “Initial Invoice”).
+--------------------------------------------------------------------------------
+Paragraph 14:
+Type(s): Dispute Resolution, Liens, Technical Assistance, Payment Terms, Pricing and Fees
+Content: 2.4       Disputed Fees. Notwithstanding the foregoing, if Client disputes any charges or amounts on any invoice, and such dispute cannot be resolved promptly through good faith discussions between Client and EVERSANA, then Client will pay the amount of the invoice less the disputed amount, provided that Client shall diligently proceed to work with EVERSANA to resolve any such disputed amount. Any sums withheld pursuant to this paragraph shall not accrue service charges, but if the contested invoice is later determined to be valid in amount, Client shall pay the amount withheld.
+--------------------------------------------------------------------------------
+Paragraph 15:
+Type(s): Liens, Time is of the Essence, Technical Assistance, Payment Terms, Pricing and Fees
+Content: 2.5       Effect of Failure to Pay. In the event that any invoice, other than the amount of any disputed charges or amounts reflected on such invoice, is not timely paid as provided herein, EVERSANA may, in addition to any other right or remedy that it may have under this Agreement or at law, suspend Client’s use of any Services provided hereunder or under any SOW if EVERSANA has not received payment in full within [***] days of EVERSANA’s written demand for payment of the undisputed amount of such invoice.
+--------------------------------------------------------------------------------
+Paragraph 16:
+Type(s): Termination, Notices, Liens
+Content: The initial term of this Agreement begins on the Effective Date and shall continue for a period of one (1) years (“Initial Term”). After the Initial Term this Agreement shall automatically renew for successive twelve (12) month periods (“Term”) unless this Agreement and/or any SOW hereunder is sooner terminated by either party as provided herein or at least [***] days prior to the end of the then-current renewal period, either party gives the other party written notice of termination. In addition, after the expiration of the Initial Term, Client shall be permitted to terminate this Agreement and/or any SOW upon at least [***] days’ prior written notice of termination to EVERSANA.
+--------------------------------------------------------------------------------
+Paragraph 17:
+Type(s): Termination, Payment Terms, Pricing and Fees, Liens
+Content: 3.1       Termination for Lack of Approval. Notwithstanding the foregoing, in the event the FDA does not approve an EUA for the Product by April 30, 2021 or such later date as to which the parties otherwise may agree, either party may terminate the Agreement immediately. In the event of a termination pursuant to this Section 3.1, EVERSANA shall cancel the Initial Invoice and Client shall not be required to pay any of the Deferred Fees.
+--------------------------------------------------------------------------------
+Paragraph 18:
+Type(s): Termination, Technical Assistance, Notices
+Content: 3.2       Change in Law. This Agreement may be terminated by either party giving written notice of termination to the other party if there is any change in the law that makes operation of the Services as contemplated in this Agreement illegal or commercially impractical.
+--------------------------------------------------------------------------------
+Paragraph 19:
+Type(s): Termination, Termination for Cause, Security, Notices
+Content: 3.3       Material Breach. This Agreement may be terminated by the non-breaching party giving written notice of such termination to the other party if the other party breaches a material provision of this Agreement and such breach remains uncured for thirty (30) days.
+--------------------------------------------------------------------------------
+Paragraph 20:
+Type(s): Termination, Notices, Notice Period
+Content: 3.4       Insolvency. Immediately upon notification or at any time thereafter, either party may terminate this Agreement in the event that:
+--------------------------------------------------------------------------------
+Paragraph 21:
+Type(s): Other
+Content: (90) days of the date of such filing or appointment;
+--------------------------------------------------------------------------------
+Paragraph 22:
+Type(s): Subcontracting, Termination, Assignment, Obligations of the Parties, Liens, Technical Assistance, Pricing and Fees, Termination Assistance
+Content: 3.5       Effect of Termination. Termination or expiration of this Agreement for any reason provided herein does not relieve either party from its obligation to perform up to the effective date of such termination or expiration or to perform such obligations as may survive termination or expiration of this Agreement. If payments attributable to Services performed before the termination or expiration remain unpaid upon the termination or expiration of the Agreement, Client shall make such payments promptly after the termination or expiration of this Agreement. In the event of termination, EVERSANA will use reasonable efforts to terminate work being performed by firms outside of EVERSANA (e.g. subcontracted resources) and other related commitments entered into by EVERSANA but Client will be responsible for all costs incurred by EVERSANA from such other firms and such other commitments approved by Client that could not be terminated. Client will be responsible for all EVERSANA time and expenses for Services performed up to date of termination. Upon the termination or expiration of this Agreement or any SOW, EVERSANA shall provide reasonable transition services, for a period not to exceed [***] days, as requested by the Client to facilitate the orderly transfer of Services to Client or another services provider. EVERSANA shall provide the transition services on a time and materials basis at the rates set forth [***].
+--------------------------------------------------------------------------------
+Paragraph 23:
+Type(s): Remedies, Obligations of the Parties, Termination, Survival
+Content: 3.6       Survival. The rights and obligations of the parties under Sections 2, 3.5, 6-9, 12, 14-15, 21-23 and 25 will survive the expiration or termination of this Agreement.
+--------------------------------------------------------------------------------
+Paragraph 24:
+Type(s): Remedies, Assignment, Notices, Obligations of the Parties, Liens, Change of Control, Amendments, Technical Assistance
+Content: Neither Client nor EVERSANA shall assign this Master Services Agreement or any of their rights and obligations under this Master Services Agreement to another party without the prior written consent of the other party; provided, however, that in the event of a Change in Control (as defined above), either party may assign its rights and obligations hereunder, by no less than thirty (30) days written notice to the other party, to a successor or transferee (whether by merger, consolidation, purchase or otherwise) of either all or substantially all of the assets of such party or any part of the business to which it pertains. This contract will inure for the benefit of and be binding upon Client and EVERSANA and their respective successors and permitted assigns including, without limitation, any acquirer of either Client or EVERSANA.
+--------------------------------------------------------------------------------
+Paragraph 25:
+Type(s): Termination, Termination for Cause, Obligations of the Parties, Notices, Force Majeure, Governing Currency
+Content: Neither party shall be deemed in default in the performance of its obligations under the Agreement to the extent such performance is temporarily prevented or delayed because of war, hostilities, riots, acts of terrorism, civil commotion, epidemic, earthquake, accident, fire, wind, flood, strike or comparable labor shutdowns outside of the reasonable control of the party, or any other act of God; provided that prompt notice of such Force Majeure shall be given by such party to the other party followed within a reasonable time by written confirmation. In such event, the noticing party shall be temporarily relieved of its obligations during the period of such event to the extent such event prevents its performance. If the Force Majeure event continues for one or more related periods of at least sixty (60) days, the other party shall have the unilateral right to terminate this Agreement by fourteen (14) days prior written notice.
+--------------------------------------------------------------------------------
+Paragraph 26:
+Type(s): Patent Rights, Security, Trade Secrets, Confidentiality, Privacy, Termination for Cause, Liens, Confidentiality and Non-Disclosure, Non-Solicitation, Publicity, Environmental Compliance, Representations and Warranties
+Content: As used in this Agreement, the term “Confidential Information” shall mean any and all trade secrets and other confidential information disclosed by a party or its affiliates, agents, employees and representatives (the “Disclosing Party”). “Confidential Information” shall include, without limitation, any information concerning the Disclosing Party’s business plan, processes and methods, product or process specifications and designs, inventions, technical know-how, trade secrets, business and marketing plans, financial information, customer data, research and development activities and other materials or information relating to its business or activities which are not generally known to the public, all confidential information of third-parties in the possession of the Disclosing Party; and all reports, notes, analyses, compilations, studies, summaries, memoranda and other material prepared by or for the Disclosing Party containing, reflecting or based, in whole or in part, on any information included in the foregoing. For the avoidance of doubt, the parties acknowledge and agree that information and data gathered by the parties relating to patients, including, without limitation, patient numbers, locations and the manner in which Client identified such patients, shall be Client’s Confidential Information and EVERSANA shall be deemed to be the Receiving Party of such Confidential Information regardless of the party that discloses the Confidential Information hereunder. The term “Confidential Information” shall not include any information that is (i) publicly known or becomes publicly known through no breach of this Agreement by the party receiving or accessing the Confidential Information (the “Receiving Party”) or on the Receiving Party’s behalf, (ii) rightfully received from a third party without an obligation of confidentiality to the Disclosing Party with respect to the information received, or (iii) approved by the Disclosing Party for disclosure.
+--------------------------------------------------------------------------------
+Paragraph 27:
+Type(s): Governing Law, Security, Trade Secrets, Termination, Confidentiality, Privacy, Termination for Cause, Notices, Obligations of the Parties, Governing Body, Confidentiality and Non-Disclosure, Non-Solicitation, Representations and Warranties
+Content: During the Term of this Agreement and for a period of [***] years (or such longer period if required by law) thereafter, the Receiving Party shall keep the Disclosing Party’s Confidential Information in the strictest confidence (whether such Confidential Information was disclosed to the Receiving Party before, on or after the Effective Date) and shall not disclose, or permit the disclosure of, any Confidential Information to any third party without the prior consent of the Disclosing Party. The Receiving Party shall not use, or permit the use of, any Confidential Information, without the prior consent of the Disclosing Party, for any purpose other than in connection with the proper performance of the Receiving Party’s obligations under this Agreement. The Receiving Party shall use its best efforts to prevent any inadvertent disclosure or unauthorized reproduction or use of the Confidential Information. The Receiving Party shall protect the Disclosing Party’s Confidential Information with no less than the same degree of care as the Receiving Party would protect its own Confidential Information, and in any event, no less than a reasonable degree of care. The Receiving Party shall be liable for breach of its obligations under this Section 7 by its employees and contractors. The Receiving Party will immediately advise the Disclosing Party in writing if the Receiving Party becomes aware of any misappropriation or misuse by any person of the Disclosing Party’s Confidential Information. Notwithstanding the foregoing, the Receiving Party may disclose the Confidential Information of the other party to the extent such Confidential Information is required to be disclosed pursuant to a requirement of a Regulatory Authority or law, provided that: (a) the Receiving Party has given the Disclosing Party prior written notice of such disclosure and takes all available steps to maintain the confidentiality of the information disclosed; and (b) to the extent legally permitted, the Disclosing Party has been afforded a reasonable opportunity to contest the necessity and scope of such disclosure. The Receiving Party acknowledges and agrees that the Disclosing Party considers the Confidential Information to be valuable, confidential and a trade secret. Unless otherwise required by law, the Receiving Party shall, at Disclosing Party’s election, destroy (unless prohibited by applicable law) or promptly return to the Disclosing Party, in good order, the originals and all copies of Confidential Information, regardless of the medium in which they are stored, upon the termination or expiration of this Agreement or at any other time upon the reasonable request of the Disclosing Party except for: provided, in each case of clause 7(a) to 7(c), that the confidentiality and non-use restrictions set out in clause 7, shall continue to apply to such Confidential Information, except that the Receiving Party shall not make any further use or disclosure of the Confidential Information.
+--------------------------------------------------------------------------------
+Paragraph 28:
+Type(s): Remedies, Trade Secrets, Confidentiality, Ownership, Assignment, Intellectual Property Rights, Notices, Non-Exclusive, Indemnification, Liens, Technical Assistance, Service Level Agreement, Confidentiality and Non-Disclosure, Non-Solicitation
+Content: 8.1       Client Property. EVERSANA understands and agrees that all rights to the intellectual property, information and materials of Client that are provided in connection with this Agreement, including, without limitation, the Products or Client Confidential Information, are owned solely by Client (“Client Property”). Client hereby grants EVERSANA a non-exclusive, world-wide, non-transferable, non-sublicensable, royalty-free, fully paid up license to use the Client Property for the purpose of performing the Services hereunder or pursuant to any SOW, and only for so long as the Services are being performed by EVERSANA pursuant to the applicable SOW. Neither EVERSANA nor any of EVERSANA’s employees, contractors or agents shall reverse engineer, disassemble or decompile any prototypes, software, algorithms, or other tangible or intangible objects which are embodied in Client Property or Client’s Confidential Information and which are made available to EVERSANA and its employees, contractors or agents hereunder. EVERSANA shall not (i) modify, translate, or otherwise create derivative works based on Client Property, or (ii) use, analyze, transcribe or transmit any Client Property. EVERSANA shall not remove or alter any proprietary rights notices in or on the original Client Property or Client’s Confidential Information. EVERSANA shall immediately notify Client in the event of any unauthorized use or disclosure of Client Property of which EVERSANA becomes aware and shall indemnify Client for any violations of this Section by EVERSANA or its employees, contractors or agents.
+--------------------------------------------------------------------------------
+Paragraph 29:
+Type(s): Remedies, Governing Law, Patent Rights, Trade Secrets, Confidentiality, Ownership, Assignment, Intellectual Property Rights, Non-Exclusive, Liens, Compliance with Laws, Amendments, Technical Assistance, Work Product
+Content: 8.2       Work Product. EVERSANA will, as an integral part of the performance of the Services, disclose in writing to Client all Work Product. Except as expressly set forth herein, any Exhibit attached hereto, or applicable SOW, EVERSANA agrees that all Work Product shall constitute Client Property and be considered as “works made for hire” under the United States Copyright Laws (17 U.S.C. § 101 et seq., and any amendments) or similar law of any other jurisdiction. To the extent that Client does not own full right, title, and interest in the Work Product under the preceding sentence, EVERSANA hereby irrevocably assigns to Client all of its right, title, and interest in the Work Product, including all copyrights, patents, trademarks, trade secrets, and other intellectual property rights (“Intellectual Property”) related to the Work Product. Unless the applicable Exhibit or SOW specifies a different scope of license for particular EVERSANA Property (as defined below) that is provided on a stand-alone basis during the term of this Agreement, EVERSANA hereby grants Client a non-exclusive, world-wide, perpetual, royalty-free, fully paid up license to use, distribute, modify, import, perform, display, reproduce, print, copy and maintain in electronic and hard copy format any EVERSANA Property contained within any Work Product or otherwise provided to Client under this Agreement for Client’s business purposes.
+--------------------------------------------------------------------------------
+Paragraph 30:
+Type(s): Technical Assistance, Amendments, Work Product, Liens
+Content: 8.3       EVERSANA Property. Notwithstanding anything to the contrary contained in this Agreement or any SOW, the following shall not constitute Client Property (i) any EVERSANA proprietary technology existing prior to the Effective Date or that is developed or acquired by EVERSANA independent of the Services performed pursuant to this Agreement, including but not limited to, computer consulting knowledge, techniques, tools, routines and sub-routines, utilities, know-how, portals, methodologies (“EVERSANA Background Technology”) (ii) any updates, modifications, enhancements, or improvements to EVERSANA Background Technology that are developed by EVERSANA in the course of performing the Services (“EVERSANA Improvements” and, collectively with EVERSANA Background Technology, “EVERSANA Property”), and, as between the parties, all EVERSANA Property shall be and remain the sole and exclusive property of EVERSANA, subject to the license under Section 8.2, (iii) software, including but not limited to any proprietary code (source and object), which is subject to third-party license agreements, and (iv) those portions of the Work Product that include information in the public domain or that are generic ideas, concepts, know-how and techniques within the computer design, support and consulting business generally.
+--------------------------------------------------------------------------------
+Paragraph 31:
+Type(s): Remedies, Use of Subcontractors, Trade Secrets, Subcontracting, Confidentiality, Technical Assistance, Notices, Service Level Agreement, Indemnification, Liens, Confidentiality and Non-Disclosure, Non-Solicitation, Non-Compete
+Content: 8.4       Treatment of EVERSANA Property. Neither Client nor any of Client’s employees, contractors or agents shall reverse engineer, disassemble or decompile any prototypes, software, algorithms, or other tangible or intangible objects which are embodied in EVERSANA Property or EVERSANA Confidential Information and which are made available to Client and its employees, contractors or agents hereunder. Except as expressly set forth under Section 8.2, Client shall not (i) modify, translate, or otherwise create derivative works based on EVERSANA Property, or (ii) use, analyze, transcribe or transmit any EVERSANA Property. Client shall not use or disclose any EVERSANA Property either by itself or in coordination with other third parties, to offer or perform services substantially similar to those offered and/or provided by EVERSANA hereunder, or that are competitive, directly or indirectly, to the business of EVERSANA. Client shall not remove or alter any proprietary rights notices in or on the original EVERSANA Property or Confidential Information. Client shall immediately notify EVERSANA in the event of any unauthorized use or disclosure of EVERSANA Property of which Client becomes aware and shall indemnify EVERSANA for any violations of this Section by Client or its employees, contractors or agents.
+--------------------------------------------------------------------------------
+Paragraph 32:
+Type(s): Technical Assistance, Order of Precedence
+Content: 8.5       Priority. To the extent any of the provisions in this Section 8 conflict with those in a specific Exhibit hereto, the provisions of that Exhibit shall prevail with respect to the Services described in said Exhibit.
+--------------------------------------------------------------------------------
+Paragraph 33:
+Type(s): Technical Assistance, Service Level Agreement, Liens, Amendments, Non-Solicitation
+Content: During the Term of this Agreement and for a period of twelve (12) months thereafter, without the prior written consent of EVERSANA, Client shall not, directly or indirectly, in any manner solicit or induce for employment, or hire or engage the Services of, any employee of EVERSANA or its affiliates who performed any work under this Agreement. A general advertisement or notice of a job listing or opening or other similar general publication of a job search or availability to fill employment positions, including on the internet, shall not be construed as a solicitation or inducement for the purposes of this provision so long as the circumstances indicate that the same was not targeted or directed at EVERSANA employees.
+--------------------------------------------------------------------------------
+Paragraph 34:
+Type(s): Termination for Cause, Security, Pricing and Fees, Liens
+Content: If Client breaches this provision, Client shall pay to EVERSANA a sum equal to one year’s base salary that was payable by EVERSANA to that employee, plus the recruitment costs incurred by EVERSANA in replacing such individual.
+--------------------------------------------------------------------------------
+Paragraph 35:
+Type(s): Compliance with Laws
+Content: This Agreement shall be governed by and interpreted in accordance with the internal laws of the State of Delaware, United States of America.
+--------------------------------------------------------------------------------
+Paragraph 36:
+Type(s): Delivery, Notices
+Content: All notices and other communications that may be or are required to be given hereunder shall be in writing and delivered via electronic mail; shall be deemed to have been duly given on the date of delivery; and shall be addressed as follows:
+--------------------------------------------------------------------------------
+Paragraph 37:
+Type(s): Other
+Content: If to EVERSANA:
+--------------------------------------------------------------------------------
+Paragraph 38:
+Type(s): Other
+Content: General Counsel
+--------------------------------------------------------------------------------
+Paragraph 39:
+Type(s): Technical Assistance
+Content: EVERSANA Life Science Services, LLC 190 N. Milwaukee Street
+--------------------------------------------------------------------------------
+Paragraph 40:
+Type(s): Other
+Content: Milwaukee, WI 53202 E-mail:
+--------------------------------------------------------------------------------
+Paragraph 41:
+Type(s): Liens
+Content: If to Client:
+--------------------------------------------------------------------------------
+Paragraph 42:
+Type(s): Other
+Content: Chief Executive Officer
+--------------------------------------------------------------------------------
+Paragraph 43:
+Type(s): Other
+Content: Humanigen, Inc.
+--------------------------------------------------------------------------------
+Paragraph 44:
+Type(s): Other
+Content: 533 Airport Blvd., Suite 400
+--------------------------------------------------------------------------------
+Paragraph 45:
+Type(s): Other
+Content: Burlingame, CA 94010
+--------------------------------------------------------------------------------
+Paragraph 46:
+Type(s): Other
+Content: E-mail: cdurrant@humanigen.com
+--------------------------------------------------------------------------------
+Paragraph 47:
+Type(s): Other
+Content: With a copy, which shall not constitute notice hereunder, to:
+--------------------------------------------------------------------------------
+Paragraph 48:
+Type(s): Other
+Content: Chief Commercial Officer Humanigen, Inc.
+--------------------------------------------------------------------------------
+Paragraph 49:
+Type(s): Other
+Content: 533 Airport Blvd., Suite 400
+--------------------------------------------------------------------------------
+Paragraph 50:
+Type(s): Other
+Content: Burlingame, CA 94010
+--------------------------------------------------------------------------------
+Paragraph 51:
+Type(s): Other
+Content: E-mail: ejordan@humanigen.com
+--------------------------------------------------------------------------------
+Paragraph 52:
+Type(s): Amendments, Notices
+Content: Either party may change its address for purposes of notice pursuant to this Agreement by notifying the other party of such change of address in the manner set forth above, except that notices for changes of address are effective only upon receipt by the other party.
+--------------------------------------------------------------------------------
+Paragraph 53:
+Type(s): Remedies, Ownership, Dispute Resolution, Obligations of the Parties, Payment Terms, Pricing and Fees
+Content: The prevailing party in any suit, proceeding or other action brought against the other party to enforce the terms of this Agreement or any rights or obligations hereunder shall be entitled to receive reimbursement of its reasonable costs, expenses and disbursements (including court costs and attorneys’ fees) incurred in connection with such enforcement.
+--------------------------------------------------------------------------------
+Paragraph 54:
+Type(s): Representations and Warranties, Governing Body, Relationship of Parties
+Content: The relationship of the parties is that of independent contractors. Neither party has the authority to bind the other, except only to the extent expressly set forth herein. Nothing herein is intended to create or shall be construed as creating between the parties the relationship of joint venturers, partners, employer/employee or principal and agent.
+--------------------------------------------------------------------------------
+Paragraph 55:
+Type(s): Remedies, Security, Confidentiality, Ownership, Privacy, Notices, Intellectual Property Rights, Termination for Cause, Indemnification, Liens, Time is of the Essence, Obligations of the Parties, Confidentiality and Non-Disclosure, Non-Solicitation, Payment Terms, Pricing and Fees, Work Product
+Content: Each party will defend, indemnify and hold harmless the other party, its officers, directors, employees, sublicensees, customers and agents from and against any and all losses, liabilities, damages, expenses and costs (including reasonable attorney’s fees) (“Losses”), including Losses resulting from third party claims, demands, suits or proceedings, to the extent arising out of (i) its negligence, intentional misconduct or bad faith, (ii) any breach of its confidentiality obligations under this Agreement, or (iii) an actual material breach of this Agreement or any Statement of Work on the part of the indemnifying party. EVERSANA will defend, indemnify and hold harmless the Client, its officers, directors, employees, sublicensees, customers and agents from and against any and all Losses resulting from or alleging that any of the Work Product or EVERSANA Property provided by EVERSANA under this Agreement infringes or misappropriates any third-party’s Intellectual Property. Each party will notify the other party promptly upon learning of a claim, demand, suit, or proceeding that might give rise to a Loss, and the potentially indemnifying party may control defense and settlement thereof provided it does so diligently, in good faith, and using reasonably experienced counsel with expertise in the relevant field. The Indemnified Party shall give the Indemnifying Party timely written notice and reasonable cooperation and assistance in the defense of any Losses; provided however, that failure of the Indemnified Party to give such notice shall not limit the Indemnified Party’s right to indemnification except in such case where such failure was known to the Indemnified Party and materially and adversely affects the Indemnifying Party’s ability to defend against such Losses. The potentially indemnified party will reasonably cooperate in such defense and/or settlement at the potentially indemnifying party’s request and expense and may participate at its own expense using its own counsel. In no event shall the Indemnified Party be liable for any claims that are compromised or settled in violation of this Section. In the event of a dispute in connection with the validity of this Section (Indemnification), all costs, fees and expenses, including but not limited to attorneys’ fees, shall be allocated as set forth in Section 12 hereof.
+--------------------------------------------------------------------------------
+Paragraph 56:
+Type(s): Security, Inspection and Testing, Acceptance, Termination for Cause, Dispute Resolution, Obligations of the Parties, Liens, Audit Rights, Governing Body, Technical Assistance, Payment Terms, Pricing and Fees, Representations and Warranties
+Content: Client shall reimburse EVERSANA for all of the out-of-pocket costs and expenses (including, reasonable attorneys’ fees) incurred by EVERSANA in connection with any of the following events or occurrences, except to the extent that such events or occurrences are caused by gross negligence, bad faith or reckless or intentional misconduct by EVERSANA or a breach by EVERSANA of its express obligations contained in this Agreement: (i) any directed inspection, investigation or inquiry by any regulatory authority attributable to Client or its Products or business practices; or (ii) any court or regulatory authority order, subpoena, interrogatory, demand, request for admission or other process of law directed to EVERSANA and specifically attributable to Client or its Products or business practices; or (iii) any request by Client to produce documentation or information, or give testimony or other services in connection with either (i) or (ii) above.
+--------------------------------------------------------------------------------
+Paragraph 57:
+Type(s): Liens, Indemnification
+Content: The parties hereto acknowledge that EVERSANA has not had and will not have any role in the manufacture, labeling, or packaging of Products and that, as between the parties, Client shall have the sole liability for any product liability or similar claims (regardless of the legal theory upon which such claims may be brought) with respect to Products.
+--------------------------------------------------------------------------------
+Paragraph 58:
+Type(s): Remedies, Security, Termination for Cause, Obligations of the Parties, Indemnification, Liens, Non-Solicitation, Payment Terms, Pricing and Fees
+Content: Accordingly, except to the extent caused by the gross negligence, bad faith or reckless or intentional misconduct by EVERSANA or a breach by EVERSANA of its express material obligations contained in this Agreement, Client indemnifies and agrees to defend and hold EVERSANA and its members, directors, officers, managers, employees and agents (“EVERSANA Indemnitees”), harmless from any and all third- party claims and resulting damages (whether for bodily injury or death, third-party property damage or otherwise), demands, causes of action, losses, judgments, costs and expenses of any nature whatsoever, including, without limitation, reasonable attorneys’ fees (collectively, “Claims”) to the extent caused by or attributable to:
+--------------------------------------------------------------------------------
+Paragraph 59:
+Type(s): Remedies, Use of Subcontractors, Subcontracting, Confidentiality, Privacy, Assignment, Obligations of the Parties, Indemnification, Confidentiality and Non-Disclosure, Non-Solicitation
+Content: Except in circumstances of gross negligence, bad faith or reckless or intentional misconduct by a party or its affiliates or subcontractors, or with respect to a party’s indemnity obligations under this Agreement, a party’s confidentiality obligations under this Agreement, a party’s violation of law, or third party claims, in no event shall either party, its affiliates or their respective shareholders, managers, directors, officers, employees and agents be liable for any indirect, special, exemplary, punitive or consequential damages (including lost profits), whether or not contemplated or foreseeable, whether a claim is brought at law or in equity and regardless of whether any claim is based upon contract, tort or other principles.
+--------------------------------------------------------------------------------
+Paragraph 60:
+Type(s): Use of Subcontractors, Limitation of Liability, Subcontracting, Confidentiality, Privacy, Assignment, Obligations of the Parties, Indemnification, Confidentiality and Non-Disclosure
+Content: Except in circumstances of negligence, bad faith or reckless or intentional misconduct by a party or its affiliates or subcontractors, or with respect to a party’s indemnity obligations under this Agreement, a party’s confidentiality obligations under this Agreement, a party’s violation of law, or third party claims, each party acknowledges and agrees that each party’s maximum liability to the other party arising out of any claim under this Agreement shall in no event exceed [***] dollars ($[***]) during the twelve (12) months following the Effective Date and [***] dollars ($[***]) thereafter.
+--------------------------------------------------------------------------------
+Paragraph 61:
+Type(s): Remedies, Governing Law, Governing Regulations, Confidentiality, Ownership, Intellectual Property Rights, Liens, Compliance with Laws, Governing Body, Quality Assurance, Confidentiality and Non-Disclosure, Regulatory Compliance, Technical Assistance, Warranty, Work Product, Representations and Warranties
+Content: EVERSANA represents and warrants to the Client that (i) it will use qualified personnel to perform the Services in a professional and workmanlike manner consistent with commercially reasonable standards, (ii) it will perform the Services in compliance with all applicable laws, rules, and regulations, (iii) no Work Product or EVERSANA Property provided by EVERSANA under this Agreement infringes or misappropriates any third party’s Intellectual Property, and (iv) it has the full power and authority to grant the Intellectual Property and other rights granted in this Agreement without the further consent of any third party.
+--------------------------------------------------------------------------------
+Paragraph 62:
+Type(s): Warranty, Representations and Warranties
+Content: Except as expressly set forth in this Agreement, EVERSANA makes no other representations, warranties or promises, express or implied, including any warranty of merchantability or fitness for a particular purpose.
+--------------------------------------------------------------------------------
+Paragraph 63:
+Type(s): Entire Agreement, Representations and Warranties
+Content: This Agreement, together with the Exhibits and SOWs attached hereto, contains the entire understanding between the parties and supersedes and cancels any and all prior agreements, written or oral, between them regarding the within subject matter. There are no representations, agreements, arrangements or understandings, oral or written, between or among the parties hereto relating to the subject matter of this Agreement that are not fully expressed herein.
+--------------------------------------------------------------------------------
+Paragraph 64:
+Type(s): Governing Law, Non-Compete, Dispute Resolution, Severability
+Content: If any provision of this Agreement is held invalid or unenforceable by a court of competent jurisdiction, the remaining provisions of this Agreement will remain in full force and effect, and the provision affected will be construed so as to be enforceable to the maximum extent permissible by law.
+--------------------------------------------------------------------------------
+Paragraph 65:
+Type(s): Waiver
+Content: The failure by either party to enforce any provision of this Agreement will not constitute a waiver of future enforcement of that or any other provision.
+--------------------------------------------------------------------------------
+Paragraph 66:
+Type(s): Non-Solicitation, Compliance with Laws
+Content: EVERSANA provides equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, handicap, disability, or status as a Vietnam- era or special disabled veteran in accordance with applicable state or federal laws.
+--------------------------------------------------------------------------------
+Paragraph 67:
+Type(s): Counterparts, Environmental Compliance
+Content: This Agreement may be signed by the parties in separate counterparts, which shall together constitute one and the same agreement. Facsimile signatures shall have the same effect as originals.
+--------------------------------------------------------------------------------
+Paragraph 68:
+Type(s): Remedies, Security, Confidentiality, Termination for Cause, Dispute Resolution, Confidentiality and Non-Disclosure, Environmental Compliance
+Content: Except to the extent necessary to prevent irreparable harm or preserve rights or remedies, if any dispute between the parties arises out of or relates to this Agreement, or the alleged breach thereof, the parties agree to the following mandatory, binding alternative dispute resolution procedures in lieu of litigation: or claim shall be settled and determined by arbitration administered by the American Arbitration
+--------------------------------------------------------------------------------
+Paragraph 69:
+Type(s): Remedies, Governing Law, Waiver, Relationship of Parties, Technical Assistance, Dispute Resolution, Pricing and Fees, Non-Solicitation, Payment Terms, Non-Compete, Representations and Warranties
+Content: Association under its Commercial Arbitration Rules. A single arbitrator shall conduct all arbitration proceedings in New York. Subject to reimbursement under the arbitrator’s final decision as outlined below, the parties shall share equally all costs charged by the American Arbitration Association and its agents, representatives, employees or independent contractors. relief the reasonable attorney's fees and costs of such prevailing party in the arbitration. The arbitrator shall make his or her decision based upon the applicable legal principles and upon the evidence presented by the parties, and at the request of any party prior to conclusion of the hearing, shall provide a written reasoned decision which shall include findings of fact and conclusions of law supporting the decision. This Section does not limit either party’s right to provisional or ancillary remedies from a court of competent jurisdiction, and the exercise of any such remedy does not waive either party’s right to arbitration. Judgment on an arbitration award may be entered by any court with competent jurisdiction.
+--------------------------------------------------------------------------------
+Paragraph 70:
+Type(s): Use of Subcontractors, Subcontracting, Assignment, Obligations of the Parties, Liens, Technical Assistance, Work Product
+Content: In the event that EVERSANA contracts with a subcontractor any of its obligations hereunder, Eversana shall (i) remain liable for the performance of such obligations and will be responsible for the acts and omissions of its subcontractors, (ii) require its permitted subcontractors to agree in writing to be bound by the obligations of this Agreement, and (iii) remain Client’s sole point of contact regarding the Services provided hereunder (including any deliverables), including with respect to payment.
+--------------------------------------------------------------------------------
+Paragraph 71:
+Type(s): Governing Law, Inspection and Testing, Governing Regulations, Acceptance, Assignment, Notices, Liens, Audit Rights, Compliance with Laws, Technical Assistance, Payment Terms, Pricing and Fees
+Content: Each party shall keep full, complete and accurate records in connection with its provision of the Services and use of the Services during the Term of this Agreement and for a period of three years thereafter, or for such periods as are required to comply with applicable laws (if longer). Following conclusion of the Services transfer of such records by EVERSANA to Client shall relieve EVERSANA of any further obligation under this provision. Each party shall have the right, upon not less than fourteen (14) days advance written notice and during normal business hours, to inspect or audit, or have inspected or audited at its cost, all such records, including records stored electronically, for the purpose of verifying fees or compliance with other terms and conditions of this Agreement. Any such inspection shall not last more than one (1) business day or eight (8) total hours, whichever is less, and audit may not be performed more often than once in any twelve (12) month period.
+--------------------------------------------------------------------------------
+Paragraph 72:
+Type(s): Representations and Warranties
+Content: No modification of this Agreement shall be effective unless it is in writing and signed by an authorized representative of each party.
+--------------------------------------------------------------------------------
+Paragraph 73:
+Type(s): Governing Law, Insurance, Security, Governing Regulations, Privacy, Liens, Compliance with Laws, Regulatory Compliance, Technical Assistance
+Content: Both Client and EVERSANA shall obtain and maintain all applicable material, professional and institutional licenses and certifications required by federal and state laws and professional boards having jurisdiction over the Services to be provided hereunder. In providing the product and performing the Services, as applicable, both Client and EVERSANA will comply with all applicable federal, state and local laws, including without limitation, all applicable regulations and rules relating to Health Insurance Portability and Accountability Act of 1996 (“HIPAA”), as well as drug manufacturing, pharmacy, health care provider and insurance laws. The parties shall execute one or more business associate or other agreements with respect to HIPAA compliance and certain other data governance and security matters, in each such case in mutually agreeable form.
+--------------------------------------------------------------------------------
+Paragraph 74:
+Type(s): Relationship of Parties, Liens, Amendments, Technical Assistance, Publicity
+Content: Neither party shall directly or indirectly publish, approve or issue any press release or public statement relating to the relationship of the parties to this Agreement or any products furnished or Services performed by EVERSANA for Client (each, a “Press Release”), without the prior written consent of the other party as to both content and timing of such Press Release, which approval may not be unreasonably withheld, delayed or conditioned by the non-publishing party.
+--------------------------------------------------------------------------------
+Paragraph 75:
+Type(s): Insurance
+Content: 28.2       Insurance by EVERSANA. EVERSANA shall maintain during the Term the following insurance coverage:
+--------------------------------------------------------------------------------
+Paragraph 76:
+Type(s): Insurance, Obligations of the Parties, Liens
+Content: Upon request, EVERSANA shall provide Client with a Certificate of Insurance which shall indicate all insurance coverage required by this provision herein and that Client will be provided with notice prior to substantial modification or cancellation of such policies in accordance with policy provisions. Notwithstanding the foregoing, EVERSANA will be responsible for providing Client with no less than thirty (30) days’ notice of any substantial change or cancellation of EVERSANA’s insurance. Such insurance coverage, or the failure or inability to obtain such insurance coverage or its application, shall not relieve, limit, or decrease a party’s responsibilities under this Agreement for any Losses including Losses in excess of insurance limits or otherwise.
+--------------------------------------------------------------------------------
+Paragraph 77:
+Type(s): Remedies, Governing Law, Delivery, Obligations of the Parties, Notices, Governing Body, Warranty, Representations and Warranties
+Content: Each party represents and warrants to the other, as of the Effective Date, that (i) such party has the full right, power and authority to enter into this Agreement; (ii) the execution, delivery and performance by such party of this Agreement are within its powers and have been duly authorized by all necessary action; (iii) the execution of this Agreement by such party and the performance by such party of its obligations and duties hereunder do not and will not violate any agreement, applicable law, judgment, injunction, order or decree to which it is a party or by which it is otherwise bound; and (iv) when executed and delivered by it, this Agreement shall constitute the legal, valid and binding obligation of such party, enforceable against such party in accordance with its terms.
+--------------------------------------------------------------------------------
+Paragraph 78:
+Type(s): Termination, Liens, Technical Assistance, Warranty, Representations and Warranties
+Content: EVERSANA represents and warrants to the Client that it will not knowingly utilize the Services of any person in connection with this Agreement if such person, or will immediately cease utilizing the Services of such person after obtaining knowledge that such person, (i) has been excluded, debarred or otherwise is ineligible to participate in the Federal health care programs as defined in 42 U.S.C. 1320a-7b(f) (the “Federal health care programs”), or any form of state Medicaid program; or (ii) has been convicted of a criminal offense related to the provision of health care items or Services but has not yet been excluded, debarred or otherwise declared ineligible to participate in the Federal health care programs or state Medicaid programs; or (iii) has been debarred or convicted (including a plea of nolo contendere) of a crime for which a person can be debarred under Section 306(a) or 306(b) of the Generic Drug Enforcement Act (21 U.S.C. § 301 et seq.). EVERSANA agrees to notify the Client in writing immediately in the event of any such debarment, exclusion, conviction, threat or indictment occurring during the term of this Agreement. If at any time during the term of this Agreement, EVERSANA or their personnel becomes the subject of any proceedings for disqualification, debarment, delisting, exclusion, or denial or revocation of licensure, as described above, the Client shall have the right to terminate this Agreement effective upon the date of such notice.
+--------------------------------------------------------------------------------
+Paragraph 79:
+Type(s): Other
+Content: (Signature Page Follows)
+--------------------------------------------------------------------------------
+Paragraph 80:
+Type(s): Other
+Content: This agreement has been entered into as of the Effective Date.
+--------------------------------------------------------------------------------
+Paragraph 81:
+Type(s): Publicity
+Content: Exhibit A
+Marketing and Market Access
+--------------------------------------------------------------------------------
+Paragraph 82:
+Type(s): Other
+Content: Recitals
+--------------------------------------------------------------------------------
+Paragraph 83:
+Type(s): Technical Assistance, Liens
+Content: A Master Services Agreement (“Agreement”) was entered into by and between EVERSANA and Client effective January 8, 2021.
+--------------------------------------------------------------------------------
+Paragraph 84:
+Type(s): Technical Assistance, Liens
+Content: Pursuant to Section 1 of the Agreement, the parties now enter into this Exhibit A for the purposes of setting forth additional terms and conditions applicable to the specific market access services to be provided by EVERSANA to Client.
+--------------------------------------------------------------------------------
+Paragraph 85:
+Type(s): Technical Assistance
+Content: Services
+--------------------------------------------------------------------------------
+Paragraph 86:
+Type(s): Technical Assistance, Publicity, Liens
+Content: A.       Client desires to have EVERSANA furnish Marketing and Market Access services (“Marketing and Market Access Services”).
+--------------------------------------------------------------------------------
+Paragraph 87:
+Type(s): Liens, Publicity, Technical Assistance, Payment Terms, Pricing and Fees
+Content: B.       These Marketing and Market Access Services are more fully described in the primary SOW executed by the Parties. The primary SOW shall set forth a detailed description of the Marketing and Market Access Services to be provided by EVERSANA to Client and the fees to be paid to EVERSANA by Client in connection therewith. This Exhibit B sets forth additional terms and conditions applicable to the Parties in connection with the Market Access Services described in a SOW executed by the parties.
+--------------------------------------------------------------------------------
+Paragraph 88:
+Type(s): Other
+Content: Additional Terms and Conditions
+--------------------------------------------------------------------------------
+Paragraph 89:
+Type(s): Use of Subcontractors, Trade Secrets, Subcontracting, Confidentiality, Obligations of the Parties, Liens, Confidentiality and Non-Disclosure, Technical Assistance
+Content: 1.  Client Acknowledgement. Client understands and agrees that EVERSANA may perform similar Market Access Services for third parties using the same personnel that EVERSANA may use for rendering Market Access Services for Client hereunder, subject to EVERSANA’s obligations respecting Client’s Confidential Information pursuant to the Agreement.
+--------------------------------------------------------------------------------
+Paragraph 90:
+Type(s): Insurance, Trade Secrets, Confidentiality, Liens, Compliance with Laws, Warranty, Representations and Warranties
+Content: 2          Trade Secrets. It is the policy of Client to respect the trade secrets of all other parties, including EVERSANA, and to comply with all relevant state and federal laws regarding trade secrets. EVERSANA hereby warrants that, to the best of its knowledge, it does not employ any information-gathering methods that violate state or federal laws governing trade secrets, and that it will not employ any information- gathering methods that violate state or federal laws governing trade secrets in the performance of this Agreement. EVERSANA further warrants that it will not, during its performance under this Agreement, seek to learn any trade secret of any third party, and that it will not at any time disclose to Client any trade secrets belonging to any third party. EVERSANA hereby indemnifies Client and holds Client harmless for any violations of state or federal laws regarding trade secrets arising out of EVERSANA’s activities under this Agreement.
+--------------------------------------------------------------------------------
+Paragraph 91:
+Type(s): Technical Assistance, Publicity, Liens
+Content: 3.1       All Marketing and Market Access Services shall be performed at EVERSANA’s premises or another site mutually agreed by the parties. Client shall provide the items set forth in each SOW. Upon receipt of notice from Client that a consultant is not suitable, EVERSANA shall remove such consultant from the performance of Market Access Services, and will provide a qualified replacement as quickly as possible.
+--------------------------------------------------------------------------------
+Paragraph 92:
+Type(s): Technical Assistance, Time is of the Essence, Publicity, Liens
+Content: 3.2       Client will ensure that all Client personnel who may be necessary or appropriate for the successful performance of the Marketing and Market Access Services will, on reasonable notice: (i) be available to assist EVERSANA personnel by answering business, technical and operational questions and providing requested documents, guidelines and procedures in a timely manner; (ii) reasonably cooperate in the Market Access Services as reasonably necessary for performance under a SOW; and (iii) be available to assist EVERSANA with any other activities or tasks required to complete the Market Access Services in accordance with the SOW.
+--------------------------------------------------------------------------------
+Paragraph 93:
+Type(s): Insurance, Liens, Taxes, Non-Solicitation, Payment Terms, Liquidated Damages
+Content: 4.         EVERSANA Personnel. Neither EVERSANA nor its personnel are or shall be deemed to be employees of Client. EVERSANA shall be responsible for the compensation of its personnel, in addition to any applicable employment taxes, workmen's compensation and any other taxes, insurance or provisions associated with the employment of personnel.
+--------------------------------------------------------------------------------
+Paragraph 94:
+Type(s): Confidentiality, Obligations of the Parties, Liens, Confidentiality and Non-Disclosure, Technical Assistance, Publicity
+Content: 5.1       When EVERSANA contracts with broadcast or print media for Marketing and Market Access Services performed under this Agreement (“Media Buys”), EVERSANA will, wherever practicable, contract on behalf of Client in a format substantially similar to that promulgated by the American Association of Advertising Agencies (“AAAA”). EVERSANA will use commercially reasonable efforts to guard against loss to Client through failure of media suppliers to properly execute their commitments; however, under no circumstance shall EVERSANA be responsible for the acts or omissions of media suppliers. Media Buys will be subject to EVERSANA’s standard mark-up, as referenced on the applicable SOW, and will be invoiced by EVERSANA upon issuance of the insertion order.
+--------------------------------------------------------------------------------
+Paragraph 95:
+Type(s): Security, Obligations of the Parties, Liens, Technical Assistance, Publicity
+Content: 5.2       When EVERSANA contracts with broadcast or print media for Marketing and Market Access Services performed under the SOW, EVERSANA will guard against loss to Client through failure of media suppliers to properly execute their commitments. EVERSANA will secure for Client’s account all credits and adjustments due to Client from media by reason of the publication or broadcast of any of Client’s advertising not in accordance with the contract specifications or trade custom. In addition, EVERSANA will either credit or pay to Client, at Client’s sole option, the proportionate share of EVERSANA’s total rebates, credits or other adjustments which EVERSANA receives from media in a ration equal to the percentage that Client’s business bears to EVERSANA’s total business.
+--------------------------------------------------------------------------------
+Paragraph 96:
+Type(s): Liens, Taxes, Governing Body, Pricing and Fees, Representations and Warranties
+Content: 5.3       Sales, use and other similar taxes by a governmental authority will be reimbursed by Client in a similar manner to other expenses associated with each Project. All pass-through costs invoiced to Client will be at actual cost with no mark-up.
+--------------------------------------------------------------------------------
+Paragraph 97:
+Type(s): Time is of the Essence, Pricing and Fees, Liens
+Content: 5.4       The initial SOW budget for a specific project will necessarily include cost estimates based upon initial concepts and preliminary estimates, and EVERSANA will be authorized to commence work and incur expenses on that particular project based upon Client’s approval of such preliminary SOW estimate and authorization up to an amount not to exceed [***]% of the budgeted costs so approved. EVERSANA will submit a revised cost estimate to Client if costs for a project are anticipated to exceed the original budget by more than [***]%, and this revised estimate must be approved by Client before work on that project continues. Once final concepts for a project are approved and final estimates can be obtained, EVERSANA will submit a revised SOW budget for Client’s approval. Following such approval, EVERSANA will be permitted to authorize expenditures up to [***]% of the budgeted costs so approved; provided, however, that EVERSANA will advise Client in a timely fashion, and will obtain Client’s approval of the revised estimate, if the cost is anticipated to exceed [***]% of the budgeted costs approved in the revised workplan budget for a project.
+--------------------------------------------------------------------------------
+Paragraph 98:
+Type(s): Use of Subcontractors, Governing Law, Governing Regulations, Subcontracting, Liens, Compliance with Laws, Amendments, Pricing and Fees, Regulatory Compliance, Payment Terms, Environmental Compliance, Work Product
+Content: 6.1       Each SOW submitted to Client by EVERSANA is subject to the review and written approval of Client prior to the time EVERSANA incurs liability to third parties in connection with the projects contained in such SOW. Furthermore, all drafts of any deliverables prepared by EVERSANA including but not limited to, proposed journal advertisements, training materials, media copy, advertisements or other promotional material used to promote the products (collectively, the “Promotional Material”) will be prepared by EVERSANA using commercially reasonable efforts to ensure compliance with all applicable laws, rules and regulations, and will be submitted to Client for review and approval prior to publication or use. Client is responsible for reviewing all deliverables (including Promotional Material) prepared by EVERSANA and, for ensuring such deliverables comply with all applicable laws, rules and regulations. Client will have the right to make any editorial changes it desires prior to publication or use; provided, however, that Client must notify EVERSANA in writing of either its approval or disapproval and/or required editing of Promotional Material as promptly as practicable, but in no event less than 48-hours prior to the planned publication or use. Client shall be responsible for all cancellation fees.
+--------------------------------------------------------------------------------
+Paragraph 99:
+Type(s): Remedies, Use of Subcontractors, Subcontracting, Ownership, Intellectual Property Rights, Warranty, Liens, Technical Assistance, Payment Terms, Pricing and Fees, Representations and Warranties
+Content: 6.2       EVERSANA will be responsible for obtaining appropriate consents, authorizations and approvals from third parties for use of approved Promotional Material in connection with the Market Access Services; provided, however, that Client will be responsible for obtaining all appropriate consents, authorizations and approvals in connection with scientific or medical papers or scientific consultation required in connection with the Market Access Services rendered by EVERSANA. Certain Promotional Material may contain the intellectual property of third parties pursuant to a license or other arrangement which permits Client to use such property only in connection with a specific project or campaign, and which would require additional payments for a different or extended use by Client. EVERSANA will notify Client of any material conditions or limitations relating to such approvals EVERSANA has obtained as part of the approval process for specific projects and campaigns, and Client will be solely responsible for any fees or other charges associated with its different or extended use of intellectual property so licensed from a third party. EVERSANA makes no representations or warranties with regard to the legal or appropriate use of Promotional Material outside of the United States; however, EVERSANA will use all reasonable efforts to obtain such rights for Client if requested to do so.
+--------------------------------------------------------------------------------
+Paragraph 100:
+Type(s): Other
+Content: End of Exhibit A
+--------------------------------------------------------------------------------
+Paragraph 101:
+Type(s): Other
+Content: Exhibit B
+--------------------------------------------------------------------------------
+Paragraph 102:
+Type(s): Technical Assistance
+Content: Field Solution Services
+--------------------------------------------------------------------------------
+Paragraph 103:
+Type(s): Other
+Content: Recitals
+--------------------------------------------------------------------------------
+Paragraph 104:
+Type(s): Technical Assistance, Liens
+Content: A Master Services Agreement (“Agreement”) was entered into by and between EVERSANA and Client effective January 8, 2021.
+--------------------------------------------------------------------------------
+Paragraph 105:
+Type(s): Technical Assistance, Liens
+Content: Pursuant to Section 1 of the Agreement, the parties now enter into this Exhibit B for the purposes of setting forth additional terms and conditions applicable to the specific field solution services to be provided by EVERSANA to Client.
+--------------------------------------------------------------------------------
+Paragraph 106:
+Type(s): Technical Assistance
+Content: Services
+--------------------------------------------------------------------------------
+Paragraph 107:
+Type(s): Technical Assistance, Payment Terms, Pricing and Fees, Liens
+Content: B.  The Field Solution Services are more fully described in the primary SOW executed by the Parties, and include the provision of Field Sales, Market Access and Medical Affairs teams to include all supporting services. The primary SOW shall set forth a detailed description of the Field Solution Services to be provided by EVERSANA to Client and the fees to be paid to EVERSANA by Client in connection therewith. This Exhibit D sets forth additional terms and conditions applicable to the Parties in connection with the Field Solution Services described in a SOW executed by the parties.
+--------------------------------------------------------------------------------
+Paragraph 108:
+Type(s): Other
+Content: Additional Terms and Conditions
+--------------------------------------------------------------------------------
+Paragraph 109:
+Type(s): Technical Assistance, Liens
+Content: 1.1.1       EVERSANA shall perform the Field Solution Services in a professional, workmanlike manner and in accordance with those specifications and timelines which are agreed to in advance and in writing by EVERSANA and Client;
+--------------------------------------------------------------------------------
+Paragraph 110:
+Type(s): Technical Assistance, Assignment
+Content: 1.1.2       the personnel assigned to perform the Field Solution Services shall be capable professionally to perform the Field Solution Services in accordance with any agreed upon hiring profile that may be set forth in a SOW;
+--------------------------------------------------------------------------------
+Paragraph 111:
+Type(s): Technical Assistance, Liens, Relationship of Parties
+Content: 1.1.3       EVERSANA shall remain responsible to Client for the performance or failure to perform Field Solution Services by any employee or independent contractor engaged by EVERSANA to perform the Field Solution Services; and
+--------------------------------------------------------------------------------
+Paragraph 112:
+Type(s): Technical Assistance, Obligations of the Parties, Liens
+Content: 1.1.4       EVERSANA is not a party to any agreement which would prevent it from fulfilling its obligations under a Field Solution Services SOW and that during the term thereof, it will not enter into any agreement to provide services which would prevent it from performing the Field Solution Services to Client under an executed SOW.
+--------------------------------------------------------------------------------
+Paragraph 113:
+Type(s): Governing Law, Governing Regulations, Obligations of the Parties, Liens, Compliance with Laws, Technical Assistance
+Content: 1.2.1       Client will act in good faith to provide EVERSANA with the necessary materials, information, product training, and assistance reasonably required to enable EVERSANA to perform the Field Solution Services in compliance with all applicable law. Certain Client obligations and responsibilities unique to a specific SOW may be specified within a SOW;
+--------------------------------------------------------------------------------
+Paragraph 114:
+Type(s): Remedies, Patent Rights, Ownership, Intellectual Property Rights, Liens, Governing Body, Technical Assistance, Representations and Warranties
+Content: 1.2.2       Client either owns the product(s) that is the subject of a SOW, or has received all lawful authority from a third party necessary to grant EVERSANA the right to provide the Field Solution Services described in a SOW. Client’s patents, copyrights, trademarks, trade names and trade dress do not infringe on any intellectual property or product rights of any third party;
+--------------------------------------------------------------------------------
+Paragraph 115:
+Type(s): Compliance with Laws, Governing Law, Liens
+Content: 1.2.3       Client is responsible for reviewing and approving Client’s product promotional materials and literature and for ensuring all such materials comply with applicable laws;
+--------------------------------------------------------------------------------
+Paragraph 116:
+Type(s): Technical Assistance, Governing Law, Liens
+Content: 1.2.4       the program(s) pursuant to which EVERSANA is performing the Field Solution Services is a Client program that is being implemented by EVERSANA and as such, Client is responsible for ensuring that the program set forth in a SOW adheres to applicable law; ordinances;
+--------------------------------------------------------------------------------
+Paragraph 117:
+Type(s): Publicity, Liens
+Content: 1.2.6       Client is responsible for all decisions concerning the marketing, planning, strategy and detailing of its Product, and shall have the sole right and responsibility for establishing and modifying the terms and conditions of the sale of its Product, including without limitation, terms and conditions such as the price at which the Product will be sold, whether the Product shall be subject to any discounts, the distribution of the Product, and whether credit is to be granted or refused in connection with the sale of any Product; and
+--------------------------------------------------------------------------------
+Paragraph 118:
+Type(s): Compliance with Laws, Security, Liens
+Content: 1.2.7       Client is responsible for all regulatory reporting requirements including but not limited to aggregate spend reporting, reporting required by any State, as applicable, and pursuant to the disclosure requirements set forth in the Patient Protection and Affordable Care Act (the “ACA”) (including but not limited to Section 6002 of the ACA, commonly referred to as the Physician Payments Sunshine Act). EVERSANA shall cooperate with and assist Client, as reasonably requested in connection with such reporting requirements, including by providing Client, on a monthly basis, with details of EVERSANA’s aggregate spending in connection with the Program, to allow Client to comply with the Patient Protection and Affordable Care Act and similar reporting requirements imposed by any state laws.
+--------------------------------------------------------------------------------
+Paragraph 119:
+Type(s): Termination, Technical Assistance, Liens, Non-Solicitation, Representations and Warranties
+Content: 1.2.8       Except as set forth in Section 4 of this Exhibit, Client is responsible for any severance payments, if any, due to any of the EVERSANA sales representatives or other field service employees, for any sales representative that is terminated by EVERSANA as a result of a termination request made by Client.
+--------------------------------------------------------------------------------
+Paragraph 120:
+Type(s): Termination, Liens
+Content: (a)       In addition to those expenses set forth in Section 3.5 of the Agreement, in the case of: (a) termination of the Field Solution SOW by EVERSANA (for any reason other than as set forth in Sections 3.1 - 3.3 of the Agreement) or by Client (for any reason other than as set forth in Section 3.2 – 3.3 of the Agreement), or (b) at the end of the Term, Client shall promptly pay (or if paid by EVERSANA, promptly reimburse) EVERSANA for:
+--------------------------------------------------------------------------------
+Paragraph 121:
+Type(s): Obligations of the Parties, Liens
+Content: (i)       the balance due for any un-cancellable expenses or future financial obligations directly related to the promotion of the Client’s Product; and
+--------------------------------------------------------------------------------
+Paragraph 122:
+Type(s): Non-Solicitation, Technical Assistance, Termination, Representations and Warranties
+Content: (ii)       any severance payments due any of the EVERSANA sales representatives or other field service employees, if any, terminated by EVERSANA as a result of the termination of the Field Solution SOW.
+--------------------------------------------------------------------------------
+Paragraph 123:
+Type(s): Non-Solicitation, Termination
+Content: (b)       In the event EVERSANA employees were provided with use of a fleet automobile, a one-time fee per leased vehicle as a lease early termination fee (if any) would apply; and
+--------------------------------------------------------------------------------
+Paragraph 124:
+Type(s): Set-Off, Publicity, Pricing and Fees, Payment Terms, Environmental Compliance
+Content: (i)       a vehicle disposal fee in the amount equal to the net loss to EVERSANA on such fleet vehicles determined by deducting the net sale proceeds from the remaining book value or each fleet vehicle, as of date the fleet vehicle is returned to EVERSANA’s fleet vehicle provider (the “Vehicle Disposal Calculation”), plus costs to transport vehicle for remarketing and all costs and auction fees to prepare the fleet vehicle for sale and remarket; and
+--------------------------------------------------------------------------------
+Paragraph 125:
+Type(s): Termination, Amendments, Obligations of the Parties
+Content: (ii)     all remaining interest obligations, management fee changes and depreciation payments due between the month the fleet vehicle lease is terminated and the 24-month anniversary of the fleet vehicle lease;
+--------------------------------------------------------------------------------
+Paragraph 126:
+Type(s): Technical Assistance, Payment Terms, Pricing and Fees
+Content: (iii)    all maintenance expenses, fuel, and fleet management service card fees incurred through the date the fleet vehicle is surrendered to EVERSANA.
+--------------------------------------------------------------------------------
+Paragraph 127:
+Type(s): Technical Assistance, Notices, Liens, Non-Solicitation, Payment Terms, Pricing and Fees, Representations and Warranties
+Content: (a)       Notwithstanding Section 8 of the Agreement, during the Term of the Field Solution SOW, Client may solicit, employ or retain one or more EVERSANA sales representatives performing Services hereunder (a “Conversion”) provided that: (i) such hiring may not occur prior to the first anniversary of date the sales representative commenced provision of the Field Solution Services (the “Deployment Date”) and (ii) Client provides at least ninety (90) days prior written notice to EVERSANA of any Conversion. In the event Client wishes to implement a Conversion prior to the first anniversary of the applicable Deployment Date, Client shall pay EVERSANA a fee of [***] Fees per sales representative . There shall be no Conversion fee due thereafter.
+--------------------------------------------------------------------------------
+Paragraph 128:
+Type(s): Liens, Representations and Warranties
+Content: (b)       Client understands and agrees that EVERSANA cannot guaranty that any sales representative will agree to participate in a Conversion.
+--------------------------------------------------------------------------------
+Paragraph 129:
+Type(s): Confidentiality, Privacy, Obligations of the Parties, Liens, Confidentiality and Non-Disclosure, Representations and Warranties
+Content: (c)       In the event Client implements a Conversion, the parties agree that any and all training materials made available to the sales representatives will be returned to EVERSANA, it being understood and agreed that the EVERSANA proprietary training modules constitutes valuable and proprietary information of EVERSANA and is subject to the confidentiality obligations set forth in Sections 6 and 7 of the Agreement.
+--------------------------------------------------------------------------------
+Paragraph 130:
+Type(s): Remedies, Insurance, Liens, Indemnification, Pricing and Fees, Representations and Warranties
+Content: (d)       In the event Client conducts a Conversion and the converted EVERSANA sales representative had been provided with use of a fleet automobile leased, rented or owned by EVERSANA and Client wishes to commence an arrangement with the fleet vendor to assume such cars (and all associated costs and liabilities) under Client’s name, the converted EVERSANA sales representative may only to continue to have access to such automobile following the Conversion if Client either: (i) registers the fleet automobile under its name; or (ii) ensures that EVERSANA remains named as an additional insured under Client’s automobile insurance policies until such time as the vehicle is registered in Client’s name (which shall occur no later than three (3) months following the Conversion). The Parties understand and agree that it is solely Client’s obligation to ensure one of the above actions are taken and Client shall be responsible for indemnifying, defending and holding EVERSANA harmless for all damages resulting from Client’s failure to take such action. The Parties further agree that on the effective date of the Conversion, Client shall destroy the EVERSANA insurance card(s) in the fleet vehicle(s) of the converted EVERSANA sales representatives.
+--------------------------------------------------------------------------------
+Paragraph 131:
+Type(s): Remedies, Liens, Relationship of Parties
+Content: (e)       In the case of a Conversion, Client shall have full rights to directly engage with any consultant, independent contractor, or third-party in its sole discretion without limitation.
+--------------------------------------------------------------------------------
+Paragraph 132:
+Type(s): Governing Law, Insurance, Governing Regulations, Termination, Notices, Liens, Compliance with Laws, Technical Assistance, Pricing and Fees, Representations and Warranties
+Content: If Client independently observes, learns or hears that the performance of any sales representative is unsatisfactory or is not in compliance with the provisions of the Agreement, the Field Solution Services SOW or applicable law, Client shall notify EVERSANA in writing. EVERSANA shall promptly address the performance or conduct of such person in accordance with its internal human resource policies. In the event that Client determines in good faith that a sales representative has violated any applicable law, regulation or policy including applicable laws, Client shall also notify EVERSANA in writing. EVERSANA shall promptly address the issue and take all reasonable and appropriate action (including but not limited to termination of such employee), and Client shall have no responsibility for any costs or actions so taken (including but not limited to any obligation to pay severance or other expenses associated with the termination of such employee). No such action shall be contrary to EVERSANA’s internal human resource policies and procedures. It is further agreed that each sales representative’s continued employment shall be contingent upon satisfaction of certain performance criteria established periodically by the Parties, and Client shall have no responsibility for any costs or actions taken (including but not limited to any obligation to pay severance or other expenses associated with the termination of such employee) in response to a sales representative’s failure to achieve the requisite level of performance so established.
+--------------------------------------------------------------------------------
+Paragraph 133:
+Type(s): Relationship of Parties
+Content: Supplementing Section 12 (Independent Contractors) of the Agreement, the parties agree as follows:
+--------------------------------------------------------------------------------
+Paragraph 134:
+Type(s): Non-Solicitation, Technical Assistance, Liens, Relationship of Parties
+Content: 5.1       EVERSANA and its directors, officers, employees and any persons providing services under the Agreement and any SOW are at all times independent contractors with respect to Client. Persons provided by EVERSANA to perform Field Solution Services shall not be deemed employees of Client. Neither this Agreement nor the Field Solution Services to be rendered hereunder shall for any purpose whatsoever or in any way or manner create any employer-employee relationship between EVERSANA, its directors, officers, employees and any persons providing Field Solution Services under the Agreement and Client. Client understands that EVERSANA may utilize independent contractors in connection with its performance of the Field Solution Services.
+--------------------------------------------------------------------------------
+Paragraph 135:
+Type(s): Non-Solicitation, Technical Assistance, Termination
+Content: 5.2       EVERSANA is, and at all times shall remain, solely responsible for the human resource and performance management functions of all EVERSANA personnel provided to perform the Field Solution Services. EVERSANA shall be solely responsible for all disciplinary, probationary and termination actions taken by it, and for the formulation, content and dissemination of all employment policies and rules (including written disciplinary, probationary and termination policies) applicable to its employees, agents and contractors (individually, an “EVERSANA Employee” and collectively, the “EVERSANA Employees”).
+--------------------------------------------------------------------------------
+Paragraph 136:
+Type(s): Insurance, Technical Assistance, Liens, Non-Solicitation, Payment Terms, Liquidated Damages
+Content: 5.3       EVERSANA shall obtain and maintain worker’s compensation insurance and other insurances required for EVERSANA Employees performing the Field Solution Services and acknowledges that Client does not, and shall not obtain or maintain such insurances, all of which shall be EVERSANA’s sole responsibility.
+--------------------------------------------------------------------------------
+Paragraph 137:
+Type(s): Non-Solicitation, Liens
+Content: 5.4       EVERSANA acknowledges and agrees that EVERSANA Employees are not, and are not intended to be or be treated as, employees of Client and that no such individual is, or is intended to be, eligible to participate in any benefits programs or in any Client “employee benefit plans” (as defined in Section 3(3) of ERISA) (“Client’s Benefits Plan”).
+--------------------------------------------------------------------------------
+Paragraph 138:
+Type(s): Insurance, Obligations of the Parties, Liens, Taxes, Pricing and Fees, Non-Solicitation, Payment Terms, Liquidated Damages
+Content: 5.5       Except as otherwise set out in this Agreement or in a SOW, Client shall have no responsibility to EVERSANA or any EVERSANA Employee for any compensation, expense reimbursements or benefits (including, without limitation, vacation and holiday remuneration, healthcare coverage or insurance, life insurance, pension or profit-sharing benefits and disability benefits), payroll-related or withholding taxes, or any governmental charges or benefits (including, without limitation, unemployment and disability insurance contributions or benefits and workers compensation contributions or benefits) that may be imposed upon or be related to the performance by EVERSANA or its employees, agents or contractors of the obligations under this Agreement or any SOW, all of which shall be the sole responsibility of EVERSANA. To clarify, Client will not withhold any income tax or payroll tax of any kind on behalf of EVERSANA.
+--------------------------------------------------------------------------------
+Paragraph 139:
+Type(s): Remedies, Liens, Non-Solicitation, Payment Terms, Pricing and Fees
+Content: 5.6       Limitations. Notwithstanding anything to the contrary in this Section 5, EVERSANA shall have no obligation or responsibility for any damages, liability, loss and costs, including but not limited to attorney’s fees (collectively, “Liability”) to the extent such Liability is attributed to either. discriminatory and/or intentional acts of Client, its employees, agents or contractors.
+--------------------------------------------------------------------------------
+Paragraph 140:
+Type(s): Obligations of the Parties
+Content: The training responsibilities of the parties are as follows:
+--------------------------------------------------------------------------------
+Paragraph 141:
+Type(s): Governing Law, Governing Regulations, Liens, Compliance with Laws, Representations and Warranties
+Content: (a)       EVERSANA shall train all EVERSANA sales representatives concerning: selling skills, compliance with applicable laws, use of sales force automation software, expense management policies, EVERSANA human resource policies, procedures and administration and other applicable EVERSANA internal human resource and general compliance policies and procedures, and recruiting/onboarding. Client shall have the opportunity to review all training materials used by EVERSANA in advance of such training and may require revisions as deemed appropriate by the Client. Client may assist EVERSANA personnel in such training.
+--------------------------------------------------------------------------------
+Paragraph 142:
+Type(s): Governing Regulations, Liens, Compliance with Laws, Technical Assistance, Representations and Warranties
+Content: (b)       Client shall provide all training content and sales and training objectives, including but not limited to, clinical studies, regulatory documents, Product-specific information including Product complaint-handling procedures, applicable specific Client health care compliance policies and Client customer service policies and procedures, orientation to Clients’ businesses, and adverse event reporting policies and procedures to EVERSANA (the “Training Material”). EVERSANA shall train all EVERSANA sales representatives in accordance with the sales and training objectives provided by Client and described in the Training Materials. The parties agree to work together to mutually determine if, when, and at what cost additional training shall be provided.
+--------------------------------------------------------------------------------
+
+====================================================================================================

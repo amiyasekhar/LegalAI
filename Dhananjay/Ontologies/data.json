@@ -1,0 +1,177 @@
+[
+    {
+        "type": "http://lmss.sali.org/RcTA2iQmrtqOnX3WrjJIp8",
+        "label": "Mr. V.B.S. Negi",
+        "gpt_tag": "Senior Advocate"
+    },
+    {
+        "type": "http://lmss.sali.org/RDjeyL29mqIZy1eACYHYZXR",
+        "label": "Mr. Milind Raj ",
+        "gpt_tag": "Advocate"
+    },
+    {
+        "type": "http://lmss.sali.org/RcTA2iQmrtqOnX3WrjJIp8",
+        "label": "Mr. S.R.S. Gil",
+        "gpt_tag": "Advocate"
+    },
+    {
+        "type": "http://lmss.sali.org/RcTA2iQmrtqOnX3WrjJIp8",
+        "label": "Mr. Lalit Belwal",
+        "gpt_tag": "Advocate"
+    },
+    {
+        "type": "http://lmss.sali.org/RcTA2iQmrtqOnX3WrjJIp8",
+        "label": "Mr. Ashish Belwal",
+        "gpt_tag": "Advocate"
+    },
+    {
+        "type": "http://lmss.sali.org/R8k7Nk5pFGXNNV0rDCN83wV",
+        "label": "Mr. Atul Kumar Shah",
+        "gpt_tag": "Deputy A.G"
+    },
+    {
+        "type": "http://lmss.sali.org/RDCkFrEclhipkoHPgckuFY6",
+        "label": "Mrs. Mamta Joshi",
+        "gpt_tag": "Brief Holder"
+    },
+    {
+        "type": "http://lmss.sali.org/RCLoy4oZcw6FxnWja39PwnD",
+        "label": "Hon\u2019ble Sharad Kumar Sharma, J.",
+        "gpt_tag": "Judge"
+    },
+    {
+        "type": "http://lmss.sali.org/RMZ6lNihK8TG4Flhco1yTy",
+        "label": "Criminal Law",
+        "gpt_tag": "Area of Law"
+    },
+    {
+        "type": "http://lmss.sali.org/RMZ6lNihK8TG4Flhco1yTy",
+        "label": "Indian Penal Code (IPC)",
+        "gpt_tag": "Area of Law"
+    },
+    {
+        "type": "http://lmss.sali.org/R7epmapi47puE4YCEXJUREa",
+        "label": "Criminal Misc. Application No. 1405 of 2022",
+        "gpt_tag": "Asset Type:"
+    },
+    {
+        "type": "http://lmss.sali.org/R7epmapi47puE4YCEXJUREa",
+        "label": "Criminal Misc. Application No. 1475 of 2022",
+        "gpt_tag": "Asset Type:"
+    },
+    {
+        "type": "http://lmss.sali.org/R9jpIjzc10qdgl78jXOZtfm",
+        "label": "Judgment",
+        "gpt_tag": "Asset Type:"
+    },
+    {
+        "type": "http://lmss.sali.org/R8WQTjoeyaEKnOLWfKTi12X",
+        "label": "Legal arguments in court",
+        "gpt_tag": "Communication Modality"
+    },
+    {
+        "type": "http://lmss.sali.org/RDmsvdtBrrw46UnCDJ0LKrJ",
+        "label": "Court judgment",
+        "gpt_tag": "Communication Modality"
+    },
+    {
+        "type": "http://lmss.sali.org/RCtbS6xiCv6ms49UDzfjCG2",
+        "label": "Legal document, court proceedings",
+        "gpt_tag": "Data Format"
+    },
+    {
+        "type": "http://lmss.sali.org/RCN2STLOwO6wSS7w4e1hj8L",
+        "label": "Legal judgment",
+        "gpt_tag": "Document/Artifact"
+    },
+    {
+        "type": "http://lmss.sali.org/R7jfj4n9nrwFA6hog2jNl5I",
+        "label": "Legal representation, court proceedings",
+        "gpt_tag": "Engagement Terms"
+    },
+    {
+        "type": "http://lmss.sali.org/R73Uo5x4VyfiOXt6i4R256t",
+        "label": "Criminal Case No. 6706 of 2020",
+        "gpt_tag": "Event"
+    },
+    {
+        "type": "http://lmss.sali.org/RIWfMispL6dMcdxJSr8nam",
+        "label": "Court proceedings on 23rd October, 2020",
+        "gpt_tag": "Event"
+    },
+    {
+        "type": "http://lmss.sali.org/RB7XcnatvzPCEMLISMA0Pnx",
+        "label": "High Court of Uttarakhand at Nainital",
+        "gpt_tag": "Forums and Venues"
+    },
+    {
+        "type": "http://lmss.sali.org/RB7XcnatvzPCEMLISMA0Pnx",
+        "label": "Court of Judicial Magistrate, 2nd, Haldwani, District Nainital",
+        "gpt_tag": "Forums and Venues"
+    },
+    {
+        "type": "http://lmss.sali.org/RF70104541ceaCF746bCCc18",
+        "label": "State of Uttarakhand",
+        "gpt_tag": "Governmental Body"
+    },
+    {
+        "type": "http://lmss.sali.org/RmVqE62aGlOtAoEND19KjU",
+        "label": "Legal",
+        "gpt_tag": "Industry"
+    },
+    {
+        "type": "http://lmss.sali.org/RB7XcnatvzPCEMLISMA0Pnx",
+        "label": "High Court of Uttarakhand at Nainital",
+        "gpt_tag": "Location"
+    },
+    {
+        "type": "http://lmss.sali.org/RF70104541ceaCF746bCCc18",
+        "label": "Haldwani, District Nainital",
+        "gpt_tag": "Location"
+    },
+    {
+        "type": "http://lmss.sali.org/R7epmapi47puE4YCEXJUREa",
+        "label": "Legal challenge to summoning orders dated 23rd October, 2020, in Criminal Case No. 6706 of 2020.",
+        "gpt_tag": "Matter Narrative"
+    },
+    {
+        "type": "http://lmss.sali.org/RBDhSx7fl9qS0ezDVJuZHX4",
+        "label": "Challenge the summoning orders",
+        "gpt_tag": "Objectives"
+    },
+    {
+        "type": "http://lmss.sali.org/RBDhSx7fl9qS0ezDVJuZHX4",
+        "label": "Quash the summoning orders",
+        "gpt_tag": "Objectives"
+    },
+    {
+        "type": "http://lmss.sali.org/RKU1YwvdEmNI3WiBCdBBRx",
+        "label": "Remit the matter back to the Judicial Magistrate for reconsideration",
+        "gpt_tag": "Objectives"
+    },
+    {
+        "type": "http://lmss.sali.org/R9dd6R73IfKyiskT5Jf62R7",
+        "label": "Legal representation",
+        "gpt_tag": "Service"
+    },
+    {
+        "type": "http://lmss.sali.org/RtJUihV1Pfh2kMyuacR7W",
+        "label": "Partly allowed the C482 Applications, quashed the summoning orders, and remitted the matter for reconsideration",
+        "gpt_tag": "Status"
+    },
+    {
+        "type": "http://lmss.sali.org/R7RS1hG7BxbLQktXIrO1Rro",
+        "label": "Minti Bedi and others (Criminal Misc. Application No. 1405 of 2022)",
+        "gpt_tag": "Applicants"
+    },
+    {
+        "type": "http://lmss.sali.org/R7RS1hG7BxbLQktXIrO1Rro",
+        "label": "Satkar Singh Bedi (Criminal Misc. Application No. 1475 of 2022)",
+        "gpt_tag": "Applicants"
+    },
+    {
+        "type": "http://lmss.sali.org/RijIqw1HEfQF4ctjWUlgnq",
+        "label": "State of Uttarakhand",
+        "gpt_tag": "Respondents"
+    }
+]

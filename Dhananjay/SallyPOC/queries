@@ -1,0 +1,9 @@
+MATCH (subject:Resource)-[itrel:rdfs__subClassOf]->(iternode:owl__Restriction)-[:owl__someValuesFrom]->(object:Resource ),
+(iternode)-[:owl__onProperty]->(relation:Resource )
+WHERE subject.rdfs__label='Prisoner Suicide' AND  object.rdfs__label='Prisoner'
+RETURN subject,object,relation,iternode,itrel
+
+
+
+CREATE (subject)-[newRel:realation.rdfs__label]->(object)
+SET newRel.uri = relation.uri  // Set any additional properties on the new relationship

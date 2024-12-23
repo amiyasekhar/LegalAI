@@ -1,0 +1,2193 @@
+Child 1 (p):
+MASTER SERVICE AGREEMENT
+
+Child 2 (p):
+Between
+
+Child 3 (p):
+INTELENET GLOBAL SERVICES PRIVATE LIMITED
+
+Child 4 (p):
+and
+
+Child 5 (p):
+APRIA HEALTHCARE, INC.
+
+Child 6 (p):
+May 14, 2009
+
+Child 7 (p):
+Note: Certain portions have been omitted from this Agreement in accordance with a request for confidential treatment submitted to the Securities and Exchange Commission. Omitted information has been replaced with an asterisk. Omitted information has been filed separately with the Securities and Exchange Commission.
+
+Child 8 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 9 (p):
+MASTER SERVICES AGREEMENT
+
+Child 10 (p):
+THIS MASTER SERVICES AGREEMENT (this “Agreement”) is made and entered into this 14th day of May, 2009, and is effective as of May 14, 2009 (the “Effective Date”) by and between Intelenet Global Services Private Limited, a company incorporated under the Indian Companies Act 1956, with its registered office at Intelenet Towers, 1406-A/28, Mindspace, Malad (West), Mumbai—400 064, India (“Provider”) and Apria Healthcare, Inc., a company incorporated under the laws of the State of Delaware, with office at 26220 Enterprise Court, Lake Forest, CA 92630 (“Customer”). Provider and Customer also may be referred to individually as a “Party” and collectively as the “Parties.”
+
+Child 11 (p):
+WHEREAS, Customer desires to outsource to Provider certain services that are currently performed by Customer personnel;
+
+Child 12 (p):
+WHEREAS, Provider, which is in the business of providing, among other services, customer contact center and back-office transaction processing services, desires to provide such services to Customer upon the terms and conditions provided herein; and
+
+Child 13 (p):
+WHEREAS, the Parties desire to enter into this Agreement to set forth the terms and conditions that will govern Provider’s provision of the Services to Customer.
+
+Child 14 (p):
+ 
+
+Child 15 (tbl):
+1.DEFINITIONS
+
+Child 16 (p):
+ 
+
+Child 17 (tbl):
+1.1Unless and except to the extent otherwise defined in the relevant provisions of the Agreement or any SOW, all capitalized terms shall have the meanings assigned to them below (equally applicable for singular and plural forms of the terms defined):
+
+Child 18 (p):
+“Account Manager” has the meaning provided in Section 5.3 hereof.
+
+Child 19 (p):
+“Affiliates” of a Party shall mean any entity that is controlled by, in control of or under common control with such Party. For purposes of this definition, the term “control” (including the terms “controlling,” “controlled by” and “under common control with”) means the possession, direct or indirect, of the power to direct or
+
+Child 20 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 21 (p):
+cause the direction of the management and policies of a Party, whether through ownership of voting securities or otherwise.
+
+Child 22 (p):
+“Agreement” means this Master Services Agreement, including all Annexures, Statements of Work and Schedules hereto.
+
+Child 23 (p):
+“Applicable Taxes”, “Income Taxes” and “Ad Valorem Taxes” have the meanings provided in Section 15.6 hereof.
+
+Child 24 (p):
+“Authorized Representative of a Party means (a) as to Customer, its Chief Executive Officer, Executive Vice President, Revenue Management or Executive Vice President, Chief Administrative Officer, and (b) as to Provider, its Chief Executive Officer, Executive Vice President, Chief Operating Officer, Head Legal or Chief Marketing Officer.
+
+Child 25 (p):
+“BAA” means that certain HIPAA Business Associate Agreement, effective as of February 1, 2009, between Provider and Customer.
+
+Child 26 (p):
+“Change” has the meaning provided in Section 4.5 hereof. “Change Order” has the meaning provided in Section 4.5 hereof.
+
+Child 27 (p):
+“Competitor” means any of the persons or entities specified in Schedule 25.1 hereof or any Affiliate of such person.
+
+Child 28 (p):
+“Confidential Information” has the meaning provided in Section 14.1 hereof.
+
+Child 29 (p):
+“Controlled Migration Period” has the meaning provided in Section 22.3.2 hereof.
+
+Child 30 (p):
+“Customer Data” means all information, whether or not Confidential Information, entered in Software or Equipment by or on behalf of Customer or Provider and information derived from such information, including as stored in or processed through the Equipment or Software.
+
+Child 31 (p):
+“Customer Default” has the meaning provided in Section 22.1.2 hereof.
+
+Child 32 (p):
+“Customer Marks” means the Marks of Customer, its Affiliates and/or its licensors.
+
+Child 33 (p):
+“Customer Property” means all existing and future proprietary materials (including Intellectual Property relating thereto) and other Confidential Information of Customer including without limitation: any and all compositions,
+
+Child 34 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 35 (p):
+articles of manufacture, processes, apparatus; know-how, data, writings, drawings and all other works of authorship (including without limitation software, protocols, program codes, audiovisual effects created by program code, and documentation related thereto), mask works, other tangible items (including, without limitation, materials, samples, components, tools and operating devices), any business or technical information; and any deliverable, business or technical information, ideas, inventions, innovations or developments conceived, developed or made by Provider pursuant to or in connection with (i) a letter of engagement between the Parties in anticipation of and as a prelude to this Agreement or (ii) this Agreement.
+
+Child 36 (p):
+“De Facto Termination for Convenience” has the meaning provided in Section 3.3.3 hereof.
+
+Child 37 (p):
+“Deferral Period” has the meaning provided in Section 22.3.1 hereof.
+
+Child 38 (p):
+“Direct” / “Directed” / “Directing” / “Directions” means written instructions by Customer to Provider on how to perform a particular task or as described in a SOW or Change Order.
+
+Child 39 (p):
+“Dispute” has the meaning provided in Section 24.1 hereof.
+
+Child 40 (p):
+“FTE” means a Provider Personnel working on a full-time basis (i.e. at least 7.5 hours of logged on time) or the equivalent thereof.
+
+Child 41 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 42 (p):
+“HIPAA” has the meaning provided in Section 17.3.3 hereof. “Initial Term” has the meaning provided in Section 3.1.1 hereof.
+
+Child 43 (p):
+“Governance Board” means a committee composed of one representative of each of Customer and Provider, as described in Article 5 of this Agreement.
+
+Child 44 (p):
+“Intellectual Property Rights” means all of the rights with respect to patents, patent applications, patent disclosures and inventions (whether or not patentable and whether or not reduced to practice) and any reissue, continuation, continuation-in-part, revision, extension or reexamination thereof; Marks together with all goodwill associated therewith, including, without limitation, all translations, adaptations, derivatives and combinations of the foregoing, and registrations, applications and renewals related thereto; copyrights and copyrightable works; mask rights, and proprietary know-how; and all registrations, applications and renewals for any of the foregoing; trade secrets; other intellectual property rights; and all copies and tangible embodiments of the foregoing (in whatever form or medium).
+
+Child 45 (p):
+“Joint Steering Committee” or “JSC” means a committee composed of an equal number of representatives of Customer and Provider, as described in Article 5 of this Agreement.
+
+Child 46 (p):
+“Key Provider Personnel” has the meaning provided in Section 12.1.1 hereof.
+
+Child 47 (p):
+“Key Provider Positions” has the meaning provided in Section 12.1.1 hereof.
+
+Child 48 (p):
+“Major Increase” has the meaning provided in Section 3.3.4 hereof.
+
+Child 49 (p):
+“Marks” means trademarks, service marks, trade names, service names, insignia, internet domain names, logos and corporate names.
+
+Child 50 (p):
+“Medicaid Regulations” means, collectively: (i) all U.S. federal statutes (whether set forth in Title XIX of the Social Security Act of elsewhere) affecting the medical assistance program established by Title XIX of the Social Security Act and any statutes succeeding thereto; (ii) all applicable provisions of all U.S. federal rules, regulations, manuals and orders of all governmental authorities
+
+Child 51 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 52 (p):
+“Medicare Regulations” means, collectively, all U.S. federal statutes (whether set forth in title XVIII of the Social Security Act or elsewhere) affecting the health insurance program for the aged and together with all applicable provisions of all rules, regulations, manuals and orders and administrative, reimbursement and other guidelines having the force of law of all governmental authorities (including, without limitation, the Department of Health and Human Services (“HHS”), the Centers for Medicare and Medicaid Services, the Office of the Inspector General for HHS, or any person succeeding to the functions of any of the foregoing) promulgated pursuant to
+
+Child 53 (p):
+“Minor Administrative Manual Practice or Procedure” has the meaning provided in Section 4.5.5 hereof.
+
+Child 54 (p):
+“Payor” means any third party entity or organization to which claims for payment or reimbursement are submitted in connection with the provision of health care services by Customer.
+
+Child 55 (p):
+“Performance Standards” has the meaning provided in Schedule 7.1 hereto.
+
+Child 56 (p):
+“Planning Period” has the meaning provided in Schedule 4.2 hereto.
+
+Child 57 (p):
+“Products” means those products, equipment and hardware provided by Customer to Provider in connection with Provider’s performance of the Services under this Agreement. “Products” shall also include the Licensed Software and the Customer Software.
+
+Child 58 (p):
+“Processing Norms” has the meaning provided in Section 6.2 hereof.
+
+Child 59 (p):
+“Provider Default” has the meaning provided in Section 22.1.1 hereof.
+
+Child 60 (p):
+“Provider Performance Default” has the meaning provided in Section 22.2 hereof.
+
+Child 61 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 62 (p):
+“Provider Facility” has the meaning provided in Schedule 12.2 hereto.
+
+Child 63 (p):
+“Provider Marks” means the Marks of Provider, its Affiliates and/or its licensors.
+
+Child 64 (p):
+“Provider Property” means all existing and future proprietary materials (including Intellectual Property relating thereto) and other Confidential Information of Provider, including without limitation: any and all compositions, articles of manufacture, processes, apparatus; know-how; data; writings, drawings and all other works of authorship (including without limitation software, protocols, program codes, audiovisual effects created by program code, and documentation related thereto); mask works; other tangible items (including without limitation materials, samples, components, tools and operating devices), tools, processes, utilities, and methodology thereof used in the provision of Services; provided, however, Provider Property shall exclude any deliverable, business or technical information, ideas, inventions, innovations or developments conceived, developed or made by Provider pursuant to (i) a letter of engagement between the Parties in anticipation of and as a prelude to this Agreement, (ii) this Agreement or any SOW.
+
+Child 65 (p):
+“Provider Software” means all software used by Provider in providing the Services, other than Customer Software and Licensed Software.
+
+Child 66 (p):
+“Ramp Up Period” has the meaning provided in Schedule 4.2 hereto.
+
+Child 67 (p):
+“Restricted Party” means any individual or entity identified on the Specially Designated Nationals and Blocked Persons list (“SDN List”) administered by the U.S. Treasury Department’s Office of Foreign Assets Control (“OFAC”) or any similar lists maintained by other countries as applicable to this Agreement. For reference purposes, OFAC’s SDN List can be found at: http://www.treas.gov/offices/enforcement/ofac/sdn /index.html, as such may be updated from time to time.
+
+Child 68 (p):
+“RU Commencement Date” has the meaning provided in Schedule 4.2 hereto.
+
+Child 69 (p):
+“RU Rates” has the meaning provided in Section 15.4 hereof.
+
+Child 70 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 71 (p):
+“Service Levels” has the meaning provided in Schedule 7.1 hereto.
+
+Child 72 (p):
+“Service Recipients” has the meaning provided in Section 4.6.1 hereof.
+
+Child 73 (p):
+“Services” means the services, functions and responsibilities to be provided by Provider as described in the SOWS, as they may be modified, replaced or supplemented in accordance with this Agreement.
+
+Child 74 (p):
+“Significant Cost Increase” shall be deemed to have been incurred by Provider if *.
+
+Child 75 (p):
+“SLA Bonuses” means the service level bonuses that are assessed under the service level provisions contained in each SOW.
+
+Child 76 (p):
+“SLA Credits” means the service level credits that are assessed under the service level provisions contained in each SOW.
+
+Child 77 (p):
+“Software” means Customer Software, Provider Software and Licensed Software unless a more specific reference is required.
+
+Child 78 (p):
+“SOW Effective Date” has the meaning provided in Schedule 4.2 hereto.
+
+Child 79 (p):
+“SOW Term” has the meaning provided in Section 3.2 hereof.
+
+Child 80 (p):
+“SS Commencement Date” has the meaning provided in Schedule 4.2 hereto.
+
+Child 81 (p):
+“SS Rate” has the meaning provided in Section 15.4 hereof.
+
+Child 82 (p):
+“Statement of Work” or “SOW” means each document described as a statement of work, a sample form of which is included as Annexure 1 to this Agreement, which shall govern the specific Services to be performed by Provider under this Agreement and the terms thereof.
+
+Child 83 (p):
+“Steady State Implementation Order” or “SSIO” means the Change Order to a SOW that sets out the supplementary or revised terms under which Provider will provide a Service during the Steady State Period of such Service.
+
+Child 84 (p):
+“Terminated Services” has the meaning provided in Section 3.3.1 hereof.
+
+Child 85 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 86 (p):
+“Termination for Convenience Effective Date” has the meaning provided in Section 3.3 hereof.
+
+Child 87 (p):
+“Termination for Convenience Fee” has the meaning provided in Section 3.3 hereof.
+
+Child 88 (p):
+“U.S. Business Hours” means 8:30 a.m. until 8:30 p.m. Eastern Standard (or Daylight if then in effect) Time in the United States, unless otherwise specified in a SOW.
+
+Child 89 (p):
+ 
+
+Child 90 (tbl):
+2.AGREEMENT AND SOW
+
+Child 91 (p):
+ 
+
+Child 92 (tbl):
+2.1Agreement
+
+Child 93 (p):
+This Agreement contains the general contractual terms and conditions applicable to the Services to be provided by Provider to Customer.
+
+Child 94 (p):
+ 
+
+Child 95 (tbl):
+2.2Statement of Work (SOW)
+
+Child 96 (p):
+ 
+
+Child 97 (tbl):
+2.2.1The Parties shall, from time to time during the Term of this Agreement, enter into individual SOWs to govern the specific Services to be performed by Provider under this Agreement and the terms hereof.
+
+Child 98 (p):
+ 
+
+Child 99 (tbl):
+2.2.2The JSC will determine the content of each SOW in accordance with the terms set forth in Schedules 4.2, 7.1 and 15.1. Each SOW shall be executed by an Authorized Representative of each of Customer and Provider. Each SOW shall, upon full execution thereof, be deemed to be a part of this Agreement and governed by the provisions hereof and the additional provisions set forth in such Statement of Work.
+
+Child 100 (p):
+ 
+
+Child 101 (tbl):
+3.TERM
+
+Child 102 (p):
+ 
+
+Child 103 (tbl):
+3.1Term of this Agreement
+
+Child 104 (p):
+ 
+
+Child 105 (p):
+ 
+
+Child 106 (tbl):
+3.1.2Should a Party wish to continue this Agreement after the Initial Term or the then existing Term, such Party shall give the other Party a request in writing to renew this Agreement no later than seven (7) months prior to the expiration of Initial Term or the then-existing Term, as the case may be. Upon receipt of such request
+
+Child 107 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 108 (p):
+ 
+
+Child 109 (tbl):
+3.2Term of Statement of Work
+
+Child 110 (p):
+Each SOW shall set forth the applicable term for the SOW (each, a “SOW Term”), which SOW Term shall continue for the Term of this Agreement unless the Parties mutually agree in writing otherwise, except that all SOWs, unless sooner terminated, shall terminate at the expiration or termination of the Term of this Agreement.
+
+Child 111 (p):
+ 
+
+Child 112 (tbl):
+3.3Termination For Convenience
+
+Child 113 (p):
+Customer may terminate this Agreement, in whole or in part as to any SOW or portion thereof, for convenience and without cause at any time by giving Provider at least * prior written notice designating the termination date (the “Termination for Convenience Effective Date”), in which event this Agreement or the relevant SOW (or portion thereof) shall terminate as if the date so specified were the originally scheduled date of termination. In the event that a purported termination for cause by Customer under Section 22.1 is determined by a competent authority not to be properly a termination for cause, then such termination by Customer shall be deemed to be a termination for convenience with adequate prior notice under this Section 3.3. In the event of a termination by Customer for convenience pursuant to this Section 3.3, then Customer shall pay to Provider a termination fee, for each SOW or portion thereof so terminated under Section 3.3, determined as follows (the “Termination for Convenience Fee”):
+
+Child 114 (p):
+ 
+
+Child 115 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 116 (tbl):
+ each additional * necessary to bring the total number of * for which the Termination for Convenience Fee is paid to *.
+
+Child 117 (p):
+ 
+
+Child 118 (tbl):
+3.3.2The number of * for which the Termination for Convenience Fee described in Section 3.3.1 above shall be payable shall decrease by * and on each successive * of the relevant SS Commencement Date after a Termination for Convenience Effective Date takes place. For example, if a Customer-designated Termination for Convenience Effective Date takes place between the * of the relevant SS Commencement Date, then the Termination for Convenience Fee shall be equal to the amount of fees Customer paid or became obligated to pay to Provider for the Terminated Services under the Agreement during the * immediately preceding the applicable Termination for Convenience Effective Date, and, if the Termination for Convenience Effective Date takes place between the * of the relevant SS Commencement Date, then the Termination for Convenience Fee shall be equal to the amount of fees Customer paid or became obligated to pay to Provider for the Terminated Services under the Agreement during the * immediately preceding the Termination for Convenience Effective Date, with the * reductions to continue in a like manner, except that in no event shall the Termination for Convenience Fee be less than * fees paid or payable by Customer to Provider, irrespective of the Termination for Convenience Effective Date.
+
+Child 119 (p):
+ 
+
+Child 120 (tbl):
+3.3.3In the event of a De Facto Termination for Convenience (as such term is defined below) by Customer, Customer shall pay a Termination for Convenience Fee based on when the Termination for Convenience Effective Date takes place as provided in Sections 3.3.1 through 3.3.2 above only for the average * shortfall of those Services or category of Services under a given SOW that are considered to have suffered a De Facto Termination for Convenience (i.e., the volume of Services terminated beyond the * threshold described below). For purposes of this Section 3.3.3, a “De Facto Termination for Convenience” means a sustained decrease over each of * following the SS Commencement Date in the volume of one or more Services under a given SOW for which Customer is obligated to pay (based on the number of transactions available for Provider to perform) that is greater than * of the * average of the same over the * immediately preceding the period of decreased volume. For example, if the * average volume of transactions during months * following the * of the relevant SS Commencement Date is * transactions and the volume of transactions that Customer makes available to Provider to perform during months * is *, respectively, then Customer shall be deemed to have committed a De Facto Termination for Convenience for exceeding the * variance threshold of * transactions (* % of *) for * and shall be obligated to pay Provider a Termination for Convenience Fee equal to * worth of fees associated with the average * shortfall of * transactions. Notwithstanding the foregoing, under no circumstances shall Customer be deemed to have committed a De Facto Termination for Convenience if Provider is otherwise able to redeploy the Provider Personnel who would otherwise have been idled by the shortfall in volume of Services required to perform other Services on behalf of Customer. In addition, for purposes of clarification and to avoid any misunderstanding, any portion of a Service for which Customer is obligated to pay (even if such Service
+
+Child 121 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 122 (tbl):
+ is not utilized) shall not constitute a shortfall and applied in determining whether the * variance threshold has been exceeded or the amount of the Termination for Convenience Fee for a De Facto Termination for Convenience.
+
+Child 123 (p):
+ 
+
+Child 124 (tbl):
+3.3.4Notwithstanding anything to the contrary contained in this Section 3.3, in the event that in any * during the Initial Term, Customer demands, and Provider meets such demand for, a Major Increase (as such Term is defined below) in Services, then the formula for determining the applicable Termination for Convenience Fee shall “reset” and revert to the amount specified in Section 3.3.1, as may be subsequently reduced by * fees for the Terminated Service each year thereafter as provided in Section 3.3.2. For purposes of this Section 3.3.4, a “Major Increase” means a sustained increase in the volume of a Service demanded by Customer after the relevant SS Commencement Date during each of * that is greater than * of the * average over the * immediately preceding the period of increased volume, which increase requires Provider to incur additional capital costs and/or enter into additional binding commitments in order to meet Customer’s demands that, in aggregate, exceed by more than * the pre-existing costs or commitments incurred by Provider immediately prior to Customer’s demand for such Major Increase.
+
+Child 125 (p):
+ 
+
+Child 126 (tbl):
+4.SERVICES
+
+Child 127 (p):
+ 
+
+Child 128 (tbl):
+4.1Provision of Services
+
+Child 129 (p):
+Provider will provide to Customer, and Customer will receive from Provider, the Services specified in this Agreement and the Statements of Work.
+
+Child 130 (p):
+ 
+
+Child 131 (tbl):
+4.2Implementation and Commencement of Services
+
+Child 132 (p):
+The Services will be implemented and will commence in accordance with the terms set forth on Schedule 4.2 attached hereto and the applicable SOW.
+
+Child 133 (p):
+ 
+
+Child 134 (tbl):
+4.3Implied Services
+
+Child 135 (p):
+If any services, functions or responsibilities not specifically described in this Agreement are required for the proper performance and provision of the Services, they shall be deemed to be implied by and included within the scope of the Services to the same extent and in the same manner as if specifically described in this Agreement; provided, however, if such Implied Services will cause Provider to incur a Significant Cost Increase, then Provider shall be entitled to submit a written request to the JSC and/or the Governance Board for Customer to provide additional compensation to Provider for such additional costs. Failure by Provider to submit such written request prior to its incurring such additional costs shall constitute a waiver by Provider of its right to seek additional compensation therefor. If the JSC and the Governance Board fail to agree on the resolution of such request, then it may be submitted to dispute resolution in accordance with Article 24 of this Agreement.
+
+Child 136 (p):
+ 
+
+Child 137 (tbl):
+4.4Resources Generally
+
+Child 138 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 139 (p):
+ 
+
+Child 140 (tbl):
+4.5Changes
+
+Child 141 (p):
+ 
+
+Child 142 (p):
+ 
+
+Child 143 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 144 (tbl):
+ either Party of its obligations hereunder such as a Relief Event for a Force Majeure Event.
+
+Child 145 (p):
+ 
+
+Child 146 (p):
+ 
+
+Child 147 (p):
+ 
+
+Child 148 (p):
+ 
+
+Child 149 (p):
+ 
+
+Child 150 (tbl):
+4.6Recipients of Services
+
+Child 151 (p):
+ 
+
+Child 152 (tbl):
+4.6.1As of the Effective Date, Provider shall provide the Services to Customer, to Customer’s Affiliates, and on Customer’s behalf to those entities to whom and
+
+Child 153 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 154 (p):
+ 
+
+Child 155 (tbl):
+4.6.2If Customer Directs Provider to provide the Services to an entity pursuant to Section 4.6.1(ii) above and such entity is a Competitor, then Customer shall be deemed to have waived Provider’s compliance with the non-competition obligations under Section 25 below solely with respect to the acquired business. Notwithstanding the foregoing, if a purchaser of all or substantially all the assets of any line of business of Customer or its Affiliates seeks to novate the applicable SOW, then Provider will negotiate such novation in good faith.
+
+Child 156 (p):
+ 
+
+Child 157 (tbl):
+4.6.3For purposes of this Agreement, (i) the Services provided to the entities referenced in this Section 4.6 shall be deemed to be Services provided to Customer and (ii) all references to “Customer” with respect to receipt of the Services shall be deemed to include the entities referenced in this Section 4.6.
+
+Child 158 (p):
+ 
+
+Child 159 (tbl):
+5.PROJECT AND CONTRACT MANAGEMENT
+
+Child 160 (p):
+ 
+
+Child 161 (tbl):
+5.1Governance Board
+
+Child 162 (p):
+ 
+
+Child 163 (tbl):
+5.1.1The Parties shall form a Governance Board to establish and resolve major policy decisions concerning operations under this Agreement, consider requests for Changes and any other matters relating to this Agreement, any SOW and the
+
+Child 164 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 165 (p):
+ 
+
+Child 166 (p):
+ 
+
+Child 167 (p):
+ 
+
+Child 168 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 169 (tbl):
+ or Governance Board, then it may be submitted to dispute resolution in accordance with Article 24 of this Agreement.
+
+Child 170 (p):
+ 
+
+Child 171 (tbl):
+5.2Joint Steering Committee
+
+Child 172 (p):
+ 
+
+Child 173 (p):
+ 
+
+Child 174 (tbl):
+5.2.2The JSC shall be responsible for overseeing day-to-day matters in connection with the Services, and shall report to, and be subject to the authority of, the Governance Board.
+
+Child 175 (p):
+ 
+
+Child 176 (p):
+ 
+
+Child 177 (tbl):
+5.2.4Each Party’s designees to the JSC shall have the knowledge, authority, and responsibility in respect to the Services such as to enable the JSC to make
+
+Child 178 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 179 (tbl):
+ necessary and appropriate decisions to implement this Agreement and any SOW and to resolve any matters needing to be resolved at the operational level. Decisions of the JSC shall be made by the affirmative vote of no less than * of the total JSC members, with at least one affirmative vote being that of a representative of Customer and at least one affirmative vote being that of a representative of Provider. In the event that the JSC fails to resolve an issue, either Party may request that it be referred to the Governance Board for resolution.
+
+Child 180 (p):
+ 
+
+Child 181 (tbl):
+5.3Account Manager
+
+Child 182 (p):
+Each Party shall designate an “Account Manager” who shall be the principal point of contact between the Parties for all matters relating to Services provided under a particular SOW. Each SOW shall contain initial designation of an Account Manager for each Party. A Party may designate a new Account Manager by written notice to the other Party. Any changes in the Account Manager shall be notified to the other Party in advance. A Party may, in its sole discretion, designate the same individual as its Account Manager under more than one SOW.
+
+Child 183 (p):
+ 
+
+Child 184 (tbl):
+5.4Meetings and Reports
+
+Child 185 (p):
+During the Term, the Parties shall hold such meetings, and Provider shall deliver to Customer such reports as are described in Schedule 5.4 hereto.
+
+Child 186 (p):
+ 
+
+Child 187 (tbl):
+5.5Policies and Procedures
+
+Child 188 (p):
+Provider shall perform all Services in accordance with the procedures set forth in Schedule 5.5 attached hereto or in the Administrative Manual, any policies or procedures adopted by the JSC or Governance Board and those listed in the applicable SOW.
+
+Child 189 (p):
+ 
+
+Child 190 (tbl):
+6.CUSTOMER’S OBLIGATIONS
+
+Child 191 (p):
+ 
+
+Child 192 (tbl):
+6.1Relief Event
+
+Child 193 (p):
+Customer acknowledges and agrees that there may be instances in which Provider will be unable to perform the Services without assistance from Customer. Consequently, Customer will provide to Provider, in a timely manner, such resources specified in each SOW, to enable Provider to perform the Services. Examples of such resources may include connectivity support, documentation, knowledge base, hardware, software, support personnel and trainers. Failure of Customer to provide any such assistance or resources specified in the applicable SOW will not constitute a breach by Customer or Customer Default but will merely be a Relief Event to the extent, and only for so long as, such failure persists and actually causes Provider to be unable or impairs Provider’s ability to provide the affected Services. Provider shall be obligated to perform any Services which are unaffected by such failure on the part of Customer, and Provider shall continue to provide even affected Services to the maximum extent that it is feasible to do so. Any resources not specifically identified in a SOW as Customer’s responsibility to obtain or provide shall be deemed to be Provider’s responsibility.
+
+Child 194 (p):
+ 
+
+Child 195 (tbl):
+6.2Processing Norms
+
+Child 196 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 197 (p):
+Customer acknowledges and agrees that Provider is relying on the accuracy of the written information and Directions supplied by Customer, and other requirements specified by Customer in writing (cumulatively, the “Processing Norms”), to perform the Services. In the event the Processing Norms are not accurate or are found to be inadequate, the Party discovering such fact shall promptly notify the other Party of any such deficiency and the Parties shall cooperate with each other to remedy the situation in a timely manner. So long as Provider is not otherwise aware of or does not have any reason to believe the Processing Norms supplied by Customer are inaccurate or inadequate or, if Provider is aware of or has reason to believe the Processing Norms supplied by Customer are inaccurate or inadequate, notifies Customer in writing of such fact, Provider shall (i) be entitled to rely on and act in accordance with the Processing Norms, (ii) not incur any liability for claims, losses or damages that arise as a result of Provider’s compliance with the Processing Norms and (iii) be entitled to payment for its performance, and be excused from its poor performance or non-performance of, the Services, to the extent Provider’s performance is predominantly affected by such inaccurate Processing Norms supplied by Customer.
+
+Child 198 (p):
+ 
+
+Child 199 (tbl):
+6.3Use of Software
+
+Child 200 (p):
+ 
+
+Child 201 (tbl):
+6.4License to Use Marks
+
+Child 202 (p):
+Customer hereby grants to Provider a limited non-exclusive license to use Customer Marks solely in connection with the performance of Provider’s obligations under this Agreement, including the right to use Customer’s name over the telephone, the internet and in written materials in performing the Services. Such use of Customer Marks must conform to any written instructions provided by Customer to Provider in this regard, as may be further specified in the applicable SOW. Customer has the right to require Provider to furnish from time to time samples of Provider’s use of Customer Marks.
+
+Child 203 (p):
+ 
+
+Child 204 (tbl):
+7.PERFORMANCE STANDARDS AND SERVICE LEVELS
+
+Child 205 (p):
+ 
+
+Child 206 (tbl):
+8.BUSINESS CONTINUITY / DISASTER RECOVERY
+
+Child 207 (p):
+The Parties recognize that the Services are vital to Customer’s business and, therefore, it is of paramount importance to Customer that Provider’s provision of the Services remain continuous and disruption-free. In the event Provider’s provision of the Services is disrupted for any reason, it is of corresponding importance to Customer that they be restored rapidly and in a manner that minimizes the impact on Customer’s operations and business. Accordingly, Provider agrees to
+
+Child 208 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 209 (p):
+undertake the business continuity / disaster recovery steps described below and in Schedule 8.1 hereto.
+
+Child 210 (p):
+ 
+
+Child 211 (tbl):
+8.1Business Continuity Plan / Disaster Recovery Plan
+
+Child 212 (p):
+ 
+
+Child 213 (tbl):
+8.2Preparation of Personnel
+
+Child 214 (p):
+Provider shall familiarize all Provider Personnel with and train Key Provider Personnel in the recovery strategies and procedures set forth in the relevant Business Continuity Plan / Disaster Recovery Plan, particularly as they relate to disaster prevention measures, alternative means of operation and the notification process.
+
+Child 215 (p):
+ 
+
+Child 216 (tbl):
+8.3Disaster Recovery Sites
+
+Child 217 (p):
+If a Provider Facility becomes unavailable (and subject to the applicable disaster recovery provisions of this Agreement and the relevant SOW) or Provider’s ability to provide the Services therefrom is significantly impaired, it is contemplated that Provider will shift some or all of the work to the second Provider Facility from which the Service is provided. If an additional and temporary facility is required in order to provide the Services, the Parties agree that:
+
+Child 218 (p):
+ 
+
+Child 219 (tbl):
+8.3.1The charges payable by Customer for the Services provided from the temporary Provider Facility shall be at the same rate as if such Services were being provided prior to the disaster event at the originally planned Facility (i.e., as if such Services were being provided from the now-unavailable Provider Facility);
+
+Child 220 (p):
+ 
+
+Child 221 (p):
+ 
+
+Child 222 (tbl):
+8.3.3If the original Provider Facility is permanently unavailable, a permanent site shall be reasonably proposed by Provider and subject to Customer’s approval. Provider’s Disaster Recovery Plan shall specify the location of any back-up facilities.
+
+Child 223 (p):
+ 
+
+Child 224 (tbl):
+9.COMPLIANCE WITH LAWS
+
+Child 225 (p):
+ 
+
+Child 226 (tbl):
+9.1General
+
+Child 227 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 228 (p):
+Each Party shall perform its obligations in a manner that complies with all applicable federal, state, provincial and local laws, regulations, ordinances and codes of the United States and India (including but not limited to the FTC “Red Flags Rules” relating to identity theft prevention as set forth in 16 C.F.R. Part 681), which compliance shall include identifying and procuring required permits, certificates, approvals and inspections. Provider shall be responsible for implementation of, and shall implement, all health care legal and regulatory mandates, including, without limitation, Medicaid Regulations and Medicare Regulations and Payor contract requirements relating to Provider’s performance hereunder, to the extent provided by and Directed by Customer. If a charge occurs of noncompliance of a Party with any such laws, regulations, ordinances or codes, the Party so charged shall promptly notify the other Party of such charges in writing.
+
+Child 229 (p):
+ 
+
+Child 230 (tbl):
+9.2Fraudulent Conduct or Ethical Violations
+
+Child 231 (p):
+ 
+
+Child 232 (tbl):
+9.2.1Provider shall post notices at the Provider Facilities notifying Provider Personnel of (i) their ongoing obligation to report immediately any fraudulent conduct or any violation or suspected violation of any ethical and/or regulatory requirements to the following website, www.ethicspoint.com, and (ii) that any reporting Personnel complying with such obligation will be protected from retribution of any kind;
+
+Child 233 (p):
+ 
+
+Child 234 (p):
+ 
+
+Child 235 (p):
+ 
+
+Child 236 (tbl):
+9.3Failure to Comply with Requirements
+
+Child 237 (p):
+If Customer Directs Provider to perform the Services in a particular manner in order to comply with applicable regulatory or Payor contract requirements, and if Provider fails to so perform the Services in such manner, Customer may claim as damages, and Provider shall be responsible for, and indemnify Customer against, any and all fines, penalties, interest, and similar financial obligations levied against Customer for violations of such requirements, if and to the extent they result from Provider’s failure. Any such indemnification by Provider shall be in accordance with Section 18 below.
+
+Child 238 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 239 (tbl):
+9.4Maintenance of Authorizations, Registrations and Licenses
+
+Child 240 (p):
+Customer shall hold and maintain at all times during the term of this Agreement all licenses, consents, authorizations and registrations necessary for it to lawfully receive the Services in the country in which Customer operates; and Provider shall hold and maintain at all times during the term of this Agreement, and shall be responsible for ensuring that any Affiliates and/or contractors engaged by Provider hold and maintain at all such times, all licenses, consents, authorizations and registrations necessary for it to lawfully provide the Services from its offshore locations.
+
+Child 241 (p):
+ 
+
+Child 242 (tbl):
+9.5Foreign Corrupt Practices Act
+
+Child 243 (p):
+Without limiting the generality of the foregoing, Provider hereby represents, warrants and covenants that it shall comply with the requirements of the U.S. Foreign Corrupt Practices Act, U.S. and any other applicable foreign or domestic anti-bribery and anti-corruption laws, and other laws governing improper payments. Specifically, Provider further represents, warrants, and covenants that, in connection with its activities under this Agreement, it will not offer, promise, authorize or otherwise act in furtherance or, or pay, anything of value, directly or indirectly, to a Government Official (as such term is hereinafter defined), or political party or party official, candidate for political office, or official of a public international organization. For purposes of this Agreement, the term “Government Official” shall mean and include any official or employee of national, local or provincial or state government department, agency, or instrumentality, as well as an official in the judicial, legislative, or military, anyone acting in an official capacity for any government, or any immediate family member of such persons. Any such offer, promise, authorization, act in furtherance, or payment shall constitute a Provider Default, extinguish any right to compensation that otherwise might be due and owing to Provider by Customer, and give rise to the right of Customer to recover any funds it has already paid to Provider.
+
+Child 244 (p):
+ 
+
+Child 245 (tbl):
+9.5.1Provider hereby represents that no owner or principal of Provider is a Government Official and hereby covenants to notify the Customer in writing if there is any change in respect of this representation.
+
+Child 246 (p):
+ 
+
+Child 247 (tbl):
+9.5.2Provider shall provide such information, reports and certifications as Customer may reasonably require from time to time hereunder as to its books, records and accounts pertaining to the Services, its compliance with the laws identified in this Section 9.5, and its compliance with other obligations under this Agreement.
+
+Child 248 (p):
+ 
+
+Child 249 (tbl):
+9.6OFAC Regulations
+
+Child 250 (p):
+In connection with the provision of Services under this Agreement, Provider’s use of subcontractors to the extent permitted in Section 10 of this Agreement and Provider’s hiring and employment of Provider Personnel, Provider represents and warrants that it shall not take any action involving a Restricted Party or that would cause Customer to be in non-compliance with OFAC’s economic sanctions regulations. For reference purposes, information on OFAC’s economic sanctions regulations are found at http://www.treas.gov/offices/enforcement/ofac/.
+
+Child 251 (p):
+ 
+
+Child 252 (tbl):
+10.SUBCONTRACTING
+
+Child 253 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 254 (tbl):
+10.1Subcontracting Generally
+
+Child 255 (p):
+Provider shall not subcontract any portion of the Services to subcontractors without receiving the prior written consent of Customer, which consent may be withheld or conditioned by Customer in its sole discretion; provided, however, Customer’s prior written consent shall not be required if Provider chooses to subcontract the provision of the Services to its Affiliates, and Provider shall only be required to provide Customer with at least thirty (30) days prior written notice of any such subcontract. Notwithstanding anything to the contrary contained herein, under no circumstances shall any subcontracting by Provider relieve Provider of any of its obligations under this Agreement.
+
+Child 256 (p):
+ 
+
+Child 257 (tbl):
+10.2Restricted/Excluded Party
+
+Child 258 (p):
+Provider shall not subcontract any portion of the Services to any person(s) (i) who is a Restricted Party, (ii) who is an Excluded Party; (iii) who is working for or otherwise affiliated with any Competitor; (iv) who is not experienced or otherwise qualified to perform the Services that Provider seeks to subcontract; or (v) who is unwilling to comply with the terms of this Agreement.
+
+Child 259 (p):
+ 
+
+Child 260 (tbl):
+10.3Compliance with Agreement
+
+Child 261 (p):
+In the event that Provider subcontracts any portion of the Services to subcontractors pursuant to this Section 10, Provider hereby represents, warrants and covenants that it shall conduct appropriate due diligence processes in advance on such agents, subcontracts, or third-parties to determine in advance their suitability to abide by Section 9.5 of this Agreement, and that it shall by written agreement specifically require such subcontractors to abide by Section 9 and all other provisions applicable to Provider under this Agreement and any applicable SOW.
+
+Child 262 (p):
+ 
+
+Child 263 (tbl):
+11.CONDUCT
+
+Child 264 (p):
+ 
+
+Child 265 (tbl):
+11.1Other Party’s Premises
+
+Child 266 (p):
+Each Party will ensure that while on any premises of the other Party in connection with this Agreement, its employees, agents, subcontractors, and representatives, if any, will:
+
+Child 267 (p):
+ 
+
+Child 268 (tbl):
+11.1.1Make every reasonable effort to cause as little interference with and inconvenience to the business of the other Party as is reasonably possible, subject to such Party’s other obligations under this Agreement and each SOW;
+
+Child 269 (p):
+ 
+
+Child 270 (tbl):
+11.1.2At all times comply with the general safety and security rules applicable in the other Party’s premises; and
+
+Child 271 (p):
+ 
+
+Child 272 (tbl):
+11.1.3Conform to the other Party’s codes of staff and security practice provided that the other Party will have provided copies of such codes to the visiting Party’s employees, agents, subcontractors, or representatives.
+
+Child 273 (p):
+ 
+
+Child 274 (tbl):
+11.2Access to Records of Other Customers
+
+Child 275 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 276 (p):
+Notwithstanding anything contained in this Agreement, neither Customer nor any of its Affiliates, representatives, employees, agents, or auditors shall be entitled to inspect, or have access to, any information, documents, reports and/or materials of any nature whatsoever which relate to or contain information relating to any other customer of Provider to the extent Provider represents to Customer in writing that such inspection or access will cause Provider to be in breach of its confidentiality obligations to such other customer and proposes alternative arrangements reasonably satisfactory to Customer that will enable Customer to exercise all of its rights hereunder.
+
+Child 277 (p):
+ 
+
+Child 278 (tbl):
+12.PERSONNEL, FACILITIES AND EQUIPMENT
+
+Child 279 (p):
+ 
+
+Child 280 (tbl):
+12.1Provider Personnel
+
+Child 281 (p):
+ 
+
+Child 282 (p):
+ 
+
+Child 283 (tbl):
+12.1.2Provider shall abide by all applicable laws, treaties and regulations concerning its treatment of Provider Personnel and contractors and their work environment, including without limitation, such standards as provided by the International Labour Organization, and shall maintain decent and productive working conditions respecting the freedom, security and human dignity of all Provider Personnel and personnel of any contractors utilized by Provider in performing the Services. Schedule 12.1.2 hereto sets forth the qualifications, standards and other requirements applicable to all Provider Personnel. Provider shall consult and cooperate with Customer in order to address any situations involving poor interaction between Provider Personnel and Customer personnel or any customers or patients of Customer.
+
+Child 284 (p):
+ 
+
+Child 285 (tbl):
+12.1.3Provider shall ensure that it has sufficient Provider Personnel to perform the Services at all times, and shall maintain adequate staffing to quickly adjust to any increases or decreases in the volume of applicable work performed as part of the Services.
+
+Child 286 (p):
+ 
+
+Child 287 (tbl):
+12.2Facilities
+
+Child 288 (p):
+Provider shall cause the Services to be performed from a facility or a portion of a facility which is specifically dedicated to Provider’s provision of the Services. Schedule 12.2 sets forth the requirements regarding facilities to be used by Provider in providing the Services.
+
+Child 289 (p):
+ 
+
+Child 290 (tbl):
+12.3Equipment
+
+Child 291 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 292 (p):
+Provider shall only use Equipment in providing the Services that meets Customer’s specifications and is compatible with Customer’s equipment. Provider shall comply with the requirements set forth in Schedule 12.3 regarding Equipment to be used by Provider in providing the Services.
+
+Child 293 (p):
+ 
+
+Child 294 (tbl):
+12.4Non-Solicitation
+
+Child 295 (p):
+During each SOW Term and for a period of one (1) year following the termination, cancellation or expiration thereof for any reason, except with the prior written consent of the other Party, (i) Provider agrees not to directly or indirectly entice, solicit, divert or hire, or attempt to entice, solicit, divert or hire, any person employed by Customer (whether or not such employee is a full-time, contractual or temporary employee, and whether or not its employment is pursuant to a written agreement, is for a determined period, or is terminable at will), and (ii) Customer agrees not to directly or indirectly entice, solicit, divert or hire, or attempt to entice, solicit, divert or hire, any person occupying, or who previously occupied, a Key Provider Position. Notwithstanding the foregoing, Customer shall have no obligations or restrictions under this Section 12.4 if this Agreement is terminated pursuant to Sections 21 (Force Majeure), 22.1.1 (Provider Default) or 22.7 (Regulatory Change), and Provider shall have no obligations or restrictions under this Section 12.4 if this Agreement is terminated pursuant to Section 22.1.2 (Customer Default).
+
+Child 296 (p):
+ 
+
+Child 297 (tbl):
+13.PROPRIETARY RIGHTS
+
+Child 298 (p):
+ 
+
+Child 299 (tbl):
+13.1No Implied Transfer of Customer Property
+
+Child 300 (p):
+Customer shall retain all right, title and interest in the Customer Property, Customer Products, Customer Marks, its Confidential Information, and all its intellectual property rights thereto, supplied by Customer to Provider under this Agreement. Nothing in this Agreement shall effect a transfer of Customer’s intellectual property rights from Customer to Provider, or otherwise be construed to confer any license to Provider under such intellectual property rights, except as expressly set forth in this Agreement.
+
+Child 301 (p):
+ 
+
+Child 302 (tbl):
+13.2No Implied Transfer of Provider Property
+
+Child 303 (p):
+Provider shall retain all right, title and interest in the Provider Property, Provider Marks, its Confidential Information, and all its intellectual property rights thereto, supplied by Provider to Customer under this Agreement. Nothing in this Agreement shall effect a transfer of Provider’s intellectual property rights from Provider to Customer, or otherwise be construed to confer any license to Customer under such intellectual property rights, except as expressly set forth in this Agreement.
+
+Child 304 (p):
+ 
+
+Child 305 (tbl):
+13.3New Intellectual Property
+
+Child 306 (p):
+The terms and conditions set forth on Schedule 13.3 attached hereto shall apply to any new intellectual property conceived, developed or created by Provider, its Affiliates, its subcontractors, or any of their respective employees, during the Term.
+
+Child 307 (p):
+ 
+
+Child 308 (tbl):
+13.4Residual Rights
+
+Child 309 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 310 (p):
+Each Party acknowledges that, subject to the confidentiality provisions of this Agreement, the other Party and its employees may utilize for any purposes any information in non-tangible form that is or may be retained in the personal memory by persons who have performed Services hereunder or otherwise have access to the Confidential Information of the other Party, including ideas, concepts, know-how or techniques contained therein. Nothing contained in this clause shall relieve either Party of its confidentiality obligations with respect to the proprietary and Confidential Information or material of the other Party.
+
+Child 311 (p):
+ 
+
+Child 312 (tbl):
+13.5Third Party Materials and Payor Websites
+
+Child 313 (p):
+ 
+
+Child 314 (tbl):
+14.CONFIDENTIALITY
+
+Child 315 (p):
+ 
+
+Child 316 (tbl):
+14.1Confidential Information.
+
+Child 317 (p):
+ 
+
+Child 318 (tbl):
+14.2Obligations
+
+Child 319 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 320 (p):
+Subject to Schedule 14.5:
+
+Child 321 (p):
+ 
+
+Child 322 (tbl):
+14.2.1Customer and Provider shall each use at least the same degree of care as it employs to avoid unauthorized disclosure of its own information, but in any event no less than commercially reasonable efforts, to prevent disclosing to unauthorized parties the Confidential Information of the other Party, provided that Provider may disclose such information (except for the terms and conditions of this Agreement) to properly authorized subcontractors as and to the extent necessary for performance of the Services, and Customer may disclose such information (except for the terms and conditions of this Agreement) to third parties as and to the extent necessary for the conduct of its business, where in each such case, the receiving entity first agrees in writing to the obligations described in this Section 14. Any disclosure to such entities shall be under terms and conditions contained in a written agreement containing substantially the same terms and conditions as those provided herein.
+
+Child 323 (p):
+ 
+
+Child 324 (tbl):
+14.2.2As requested by Customer, upon expiration or any termination of this Agreement, or completion of Provider’s obligations under this Agreement, Provider shall return or destroy, as Customer may Direct, all material in any medium that contains, refers to, relates to, or is derived from Confidential Information of Customer, and retain no copies except as may otherwise be agreed to by Customer.
+
+Child 325 (p):
+ 
+
+Child 326 (tbl):
+14.2.3As requested by Provider, upon expiration or any termination of this Agreement, or completion of Provider’s obligations under this Agreement, Customer shall return or destroy, as Provider may direct in writing, all material in any medium that contains, refers to, relates to, or is derived from Confidential Information of Provider, and retain no copies except as may otherwise be agreed to by Provider.
+
+Child 327 (p):
+ 
+
+Child 328 (tbl):
+14.2.4Each Party shall use commercially reasonable efforts so that its respective personnel comply with these confidentiality provisions, and each Party shall cause each of its personnel to annually certify that he/she is complying with terms and conditions substantially the same as those provided herein.
+
+Child 329 (p):
+ 
+
+Child 330 (tbl):
+14.2.5In the event of any actual or suspected misuse, disclosure or loss of, or inability to account for, any Confidential Information of the furnishing Party, the receiving Party promptly shall (A) notify the furnishing Party upon becoming aware thereof; (B) promptly furnish to the other Party full details of the unauthorized possession, use, or knowledge, or attempt thereof, and use reasonable efforts to assist the other Party in investigating or preventing the reoccurrence of any unauthorized possession, use, or knowledge, or attempt thereof, of Confidential Information; (C) take such actions as may be necessary or reasonably requested by the furnishing Party to minimize the violation; and (D) cooperate in all reasonable respects with the furnishing Party to minimize the violation and any damage resulting therefrom.
+
+Child 331 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 332 (tbl):
+14.2.6The Parties’ obligations respecting Confidential Information shall survive expiration or termination of this Agreement for a period of five (5) years, except: (A) for medical, provider, subscriber and customer information, which shall survive indefinitely, and (B) as otherwise provided by law.
+
+Child 333 (p):
+ 
+
+Child 334 (tbl):
+14.3Exclusions
+
+Child 335 (p):
+The following is subject to Schedule 14.5:
+
+Child 336 (p):
+ 
+
+Child 337 (p):
+ 
+
+Child 338 (p):
+ 
+
+Child 339 (tbl):
+14.4No Implied Rights
+
+Child 340 (p):
+Each Party’s Confidential Information shall remain the property of that Party. Nothing contained in this Section 14 shall be construed as obligating a Party to disclose its Confidential Information to the other Party, or as granting to or conferring on a Party, expressly or impliedly, any rights or
+
+Child 341 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 342 (p):
+license to the Confidential Information of the other Party, and any such obligation or grant shall only be as provided by other provisions of this Agreement.
+
+Child 343 (p):
+ 
+
+Child 344 (tbl):
+14.5Data Security and Privacy Requirements
+
+Child 345 (p):
+Provider shall further comply with the data security and privacy requirements set forth in Schedule 14.5 attached hereto.
+
+Child 346 (p):
+ 
+
+Child 347 (tbl):
+14.6BAA
+
+Child 348 (p):
+Notwithstanding anything to the contrary set forth in this Agreement, the Parties hereby agree that the BAA is incorporated herein by reference, shall remain in full force and effect and shall not be superseded by this Agreement; provided, however, that in the event of any irreconcilable conflict between any terms set forth in this Agreement and any terms in the BAA, the applicable terms in this Agreement shall control.
+
+Child 349 (p):
+ 
+
+Child 350 (tbl):
+15.CHARGES AND PAYMENTS
+
+Child 351 (p):
+ 
+
+Child 352 (tbl):
+15.1General Payment Obligation.
+
+Child 353 (p):
+Customer shall pay Provider for the performance of the Services all the amounts in accordance with the terms specified hereunder and the terms specified in the applicable SOW. The procedures for establishing the level of compensation due to Provider under a particular SOW are set forth in Schedule 4.2, Schedule 15.1 and Schedule 15.4 hereto. All compensation and other charges hereunder shall be invoiced and payable in U.S. Dollars only.
+
+Child 354 (p):
+ 
+
+Child 355 (tbl):
+15.2Third Party Expenses
+
+Child 356 (p):
+Unless otherwise specified in a SOW or by other written agreement of the Parties, all third party expenses incurred by Provider in the course of its performance hereunder shall be borne by and remain the sole responsibility of Provider.
+
+Child 357 (p):
+ 
+
+Child 358 (tbl):
+15.3Invoices
+
+Child 359 (p):
+Provider shall submit monthly invoices by the tenth (10th) Business Day of each month to Customer for the Services performed by Provider during the previous month. All invoices shall be in a format approved by the JSC and shall be accompanied by reasonably detailed descriptions of the Services performed during the preceding month by SOW, the fees related thereto, and the reimbursable disbursements and out-of-pocket expenses, if any, as specified in each SOW, and to support the calculation of any SLA Bonuses and Credits.
+
+Child 360 (p):
+ 
+
+Child 361 (tbl):
+15.4RU and SS Rates
+
+Child 362 (p):
+Except as otherwise provided in a SOW, the rates, fees and charges applicable during (i) the Ramp Up Period of a Service are set forth in Schedule 15.1 hereto (the “RU Rates”), as such RU Rates may be adjusted from time to time in accordance with Schedule 15.4 hereto, and (ii) the Steady State Period of a Service are set forth in each SOW (collectively, the “SS Rates”), as such SS Rates may be adjusted from time to time in accordance with Schedule 15.4 hereto.
+
+Child 363 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 364 (tbl):
+15.5Payment of Invoices
+
+Child 365 (p):
+ 
+
+Child 366 (tbl):
+15.6Taxes
+
+Child 367 (p):
+ 
+
+Child 368 (tbl):
+15.6.1Customer shall be responsible for all applicable federal, state or local use, excise, sales or other taxes, fees, assessments, surcharges or similar governmental charges that may be imposed, levied, collected or assessed by or within the United States of America or any political subdivision thereof in connection with Provider’s provision of the Services to Customer hereunder (collectively, “Applicable Taxes”); provided, however, Customer shall have no responsibility or liability for any Applicable Taxes that are (i) based on or attributable to Provider’s income, whether gross or net (“Income Taxes”), or (ii) ad valorem or property taxes with respect to any real or personal property or other asset owned, leased, or used by Provider (“Ad Valorem Taxes”). Notwithstanding anything to the contrary contained herein, Provider shall be solely responsible for, and shall indemnify and hold Customer harmless from, any Income Taxes or Ad Valorem Taxes.
+
+Child 369 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 370 (tbl):
+15.6.2If Customer is required by law to make any deduction or withholding of Income Taxes or Ad Valorem Taxes from any payment due to Provider under this Agreement, Customer will (i) prepare and submit any necessary filings and remit such Taxes to the appropriate taxing authority, and (ii) provide Provider with evidence of Customer’s withholding and payment to the appropriate taxing authorities. The Parties acknowledge and agree, however, that no such deduction or withholding shall apply if Provider has provided Customer with a timely, appropriate and duly executed Internal Revenue Service Form W-9, W 8BEN or W-8ECI, or an official alternate, substitute or replacement form, as the case may be, that substantiates an exemption from such Taxes. Under no circumstances shall Customer be required or obligated (a) to allow Provider an exemption from any Applicable Taxes (i.e. not make a required deduction or withholding and remittance) if Provider fails to provide Customer with such timely, appropriate and executed exemption certificate and any extensions or updates required thereto or (b) gross up any Income Taxes or Ad Valorem Taxes that Customer is required by law to deduct or withhold from any payment due to Provider hereunder.
+
+Child 371 (p):
+ 
+
+Child 372 (tbl):
+15.6.3Either Party is entitled to contest the amount or validity of the imposition of any Applicable Taxes, and each Party agrees to furnish reasonable cooperation to the contesting Party in any proceeding contesting the amount or validity of imposition of such Applicable Taxes.
+
+Child 373 (p):
+ 
+
+Child 374 (tbl):
+15.7Set Off
+
+Child 375 (p):
+Customer may set off, as a credit against any monthly charges payable to Provider under this Agreement, any SLA Credits owed to Customer pursuant to any SOW, any mutually agreed amounts to be paid, reimbursed, credited or otherwise owed or owing to Customer by Provider under this Agreement and any amounts that are determined to be owed to Customer in accordance with Section 24.3; provided that with respect to fees or services already paid by Customer that Customer later disputes, Customer must set off such amounts within ninety (90) days after payment of such disputed fees or services. Notwithstanding the ninety (90) day limitation above, Customer may set off (pursuant to this Section 15.7) any amounts owing to Customer, as identified in audits performed pursuant to this Agreement.
+
+Child 376 (p):
+ 
+
+Child 377 (tbl):
+15.8Accountability
+
+Child 378 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 379 (tbl):
+15.9Proration
+
+Child 380 (p):
+ 
+
+Child 381 (tbl):
+15.10Refunds and Credits
+
+Child 382 (p):
+If Provider should receive a refund, credit or other rebate for goods or services previously paid for by Customer, Provider shall promptly notify Customer of such refund, credit or rebate and shall promptly pay the full amount of such refund, credit or rebate, as the case may be, to Customer.
+
+Child 383 (p):
+ 
+
+Child 384 (tbl):
+16.AUDIT RIGHTS
+
+Child 385 (p):
+Customer shall have the right to perform regular audits and other oversight activities as provided in Schedule 16.1 attached hereto. In the event of any audit or oversight conducted by Customer or any governmental entity, Provider shall fully cooperate with any such auditor.
+
+Child 386 (p):
+ 
+
+Child 387 (tbl):
+17.REPRESENTATIONS AND WARRANTIES
+
+Child 388 (p):
+ 
+
+Child 389 (tbl):
+17.1Mutual Representations and Warranties
+
+Child 390 (p):
+Each Party to this Agreement represents and warrants to the other Party that:
+
+Child 391 (p):
+ 
+
+Child 392 (tbl):
+17.1.1it is an entity which has been duly formed and is validly existing and in good standing under the laws of the jurisdiction where it is formed;
+
+Child 393 (p):
+ 
+
+Child 394 (tbl):
+17.1.2it has all requisite power and authority to execute, deliver and perform its obligations under this Agreement and each SOW in accordance with their respective terms;
+
+Child 395 (p):
+ 
+
+Child 396 (p):
+ 
+
+Child 397 (tbl):
+17.1.4it is duly licensed, authorized or qualified to do business and is in good standing in every jurisdiction in which a license, authorization or qualification is required for the ownership or leasing of its assets or the transaction of business of the character transacted by it, except where the failure to be so licensed, authorized or qualified would not have a material adverse effect on its ability to fulfill its obligations under this Agreement or any SOW;
+
+Child 398 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 399 (p):
+ 
+
+Child 400 (tbl):
+17.1.6it has not violated any applicable laws or regulations.
+
+Child 401 (p):
+ 
+
+Child 402 (tbl):
+17.2Customer Representations and Warranties
+
+Child 403 (p):
+Customer represents and warrants to Provider that:
+
+Child 404 (p):
+ 
+
+Child 405 (tbl):
+17.2.1it is the legal and beneficial owner of all right, title and interest in and to its Products, having good title thereto, or that it is a licensee of the Products with the authority to utilize the Products as contemplated by this Agreement, and it has full power and authority to grant the licenses and perform its obligations under this Agreement; and
+
+Child 406 (p):
+ 
+
+Child 407 (tbl):
+17.2.2the Products, and their use and operation, to Customer’s knowledge, do not infringe or misappropriate any patent, copyright, trade secret, or other intellectual property right of any third party.
+
+Child 408 (p):
+ 
+
+Child 409 (tbl):
+17.3Provider Representations and Warranties
+
+Child 410 (p):
+Provider represents and warrants to Customer that:
+
+Child 411 (p):
+ 
+
+Child 412 (tbl):
+17.3.1Non-Infringement. Provider shall perform the Services in a manner that, to its knowledge after prudent inquiry, will not infringe or misappropriate the patent, copyright, trademark, trade secret or other intellectual property rights of any third-party. This non-infringement warranty shall not apply to the extent that an infringement claim arises as a result of (a) use, modification, alteration or revision by Customer other than in accordance with any applicable specifications or documentation provided under the applicable SOW, (b) use by Customer in combination with other products or systems not reasonably anticipated in the applicable SOW, or (c) information, data, design, Customer Software, Licensed Software, components, specifications or other materials (including, without limitation, Processing Norms) provided to Provider by or on behalf of Customer.
+
+Child 413 (p):
+ 
+
+Child 414 (tbl):
+17.3.2Compliance with Terms of Agreement. Provider will perform the Services in accordance with all terms and conditions set forth in this Agreement and the applicable SOWs.
+
+Child 415 (p):
+ 
+
+Child 416 (tbl):
+17.3.3Compliance With Laws and Contract Requirements. Provider and its operations hereunder are, and at all times during the Term of this Agreement shall, remain in full compliance with all applicable federal, state, provincial and local laws, rules and regulations, and that it shall perform the Services hereunder and manage its operations in a manner which is compliant with all laws, rules, regulations and contractual requirements to which Provider or Customer is subject and applicable thereto including, but not limited to (i) those regarding licensure and certification
+
+Child 417 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 418 (p):
+ 
+
+Child 419 (p):
+ 
+
+Child 420 (tbl):
+17.3.5Technology. If instructed to do so by the JSC, Provider shall investigate, consult with Customer and provide information concerning possible upgrades in technology that would allow Provider to realize the benefits of any applicable increases in efficiency and productivity in its provision of the Services and similar services to other customers; provided that if any such upgrade would enhance only Provider’s provision of the Services and Customer desires Provider to effect such upgrade, the Parties shall enter into a Change Order setting forth the allocation of costs and benefits resulting from such upgrade.
+
+Child 421 (p):
+ 
+
+Child 422 (tbl):
+17.3.6Inducements. Provider has not violated any policies of Customer of which it has been provided written notice, regarding the offering of unlawful or prohibited inducements to Customer or any other party in connection with this Agreement. If at any time during the Term, Customer determines on the basis of reasonable evidence that the foregoing warranty is materially inaccurate, then Customer shall notify Provider in writing of the fact that it has made such a determination and of the evidence upon which the determination was based. Provider shall have ten (10) days following receipt of such notification within which Provider may present Customer with any information or evidence Provider may have indicating that Customer’s determination was incorrect, and Customer agrees to consider any such information provided. However, if, after the expiration of such ten (10) day period, Customer nevertheless determines, in its sole discretion that its initial determination was correct, then Customer, in addition to any other rights Customer may have at law or in equity, shall have the right and option to
+
+Child 423 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 424 (tbl):
+ terminate this Agreement for cause pursuant to Section 22.1.1.2 and without cost, without affording Provider any further opportunity to cure.
+
+Child 425 (p):
+ 
+
+Child 426 (tbl):
+17.3.7Restricted or Excluded Parties. Provider represents that neither Provider, nor any officer or director of Provider, is a Restricted Party or an Excluded Party and that Provider shall not utilize, employ or subcontract with any Restricted Party or Excluded Party in the performance of the Services hereunder. Notwithstanding any other provision of this Agreement, if Customer determines that Provider, or any officer or director of Provider, or employee or subcontractor of Provider performing any portion of the Services hereunder, is, or becomes, a Restricted Party or an Excluded Party during the Term, then Provider shall be deemed to have committed a default hereunder, and Customer, in addition to and without waiving any other right or remedy it may have for such default, may terminate this Agreement immediately pursuant to Section 22.1.1.2.
+
+Child 427 (p):
+ 
+
+Child 428 (tbl):
+17.3.8Viruses. Provider shall use commercially reasonable efforts so that no Viruses are coded or introduced into the systems used to provide the Services. “Virus” shall mean (a) program code or programming instruction or set of instructions intentionally designed to disrupt, disable, harm, interfere with or otherwise adversely affect computer programs, data files or operations; or (b) other code typically described as a virus or by similar terms, including Trojan horse, worm or backdoor. Virus does not include Disabling Code (as such term is defined below).
+
+Child 429 (p):
+ 
+
+Child 430 (tbl):
+17.3.8.1In the event a Virus is found to have been introduced into the systems used to provide the Services, Provider shall (i) provide all cooperation and assistance reasonably requested by Customer or the JSC to (including assisting Customer in its efforts to) eliminate the effects of the Virus, and (ii) if the Virus causes a loss of operational efficiency or loss of data, assist Customer to the same extent to mitigate and restore such losses.
+
+Child 431 (p):
+ 
+
+Child 432 (tbl):
+17.3.8.2In the event that a Virus is introduced by a Customer system, Provider’s efforts as provided in Section 17.3.8.1: (i) shall be at no additional charge to Customer, to the extent available Provider Personnel are utilized, and (ii) shall be at Customer’s cost, to the extent additional resources are utilized, provided that Customer shall have the right to approve use of all such additional resources. Under these circumstances, additional resources shall not include Provider’s general support personnel but shall include personnel reassigned by Provider from the servicing of other specific accounts. In addition, Provider shall be excused from meeting required service levels to the extent that problems caused by the virus impair Provider’s ability to perform.
+
+Child 433 (p):
+ 
+
+Child 434 (tbl):
+17.3.8.3In the event that a Virus is introduced by a Provider system: (i) Provider’s efforts as set forth in Section 17.3.8.1 shall be at no additional charge to Customer; (ii) Provider shall engage additional resources, at Provider’s cost, as necessary; (iii) Provider shall not be excused with respect to any required service levels affected, unless Provider’s efforts to meet such affected service levels would cause or allow the Virus to spread, and (iv) Provider shall pay to Customer an amount equal to
+
+Child 435 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 436 (tbl):
+ all of Customer’s costs of any data restoration, the cost to Customer of any business disruption, and any other losses or liabilities of Customer resulting from such Virus.
+
+Child 437 (p):
+ 
+
+Child 438 (tbl):
+17.3.9Disabling Code. Without the prior written consent of Customer, Provider shall not insert into any of the Software any code which would have the effect of disabling or otherwise shutting down all or any portion of the Services (“Disabling Code”); provided, however, that “Disabling Code” shall not include programming code, programming instruction or set of instructions that is distributed as part of hardware or software to ensure that the purchaser or licensee uses the product in accordance with the acquisition or license agreement (such code “Commercially-Provided Disabling Code”) and which Software already contains such Commercially-Provided Disabling Code. Provider further represents and warrants that, with respect to any Disabling Code and Commercially-Provided Disabling Code that may be part of any Software, Provider shall not invoke such Disabling Code or Commercially-Provided Disabling Code at any time, including upon expiration or termination of this Agreement for any reason, without Customer’s prior written consent.
+
+Child 439 (p):
+ 
+
+Child 440 (tbl):
+17.3.10EXCEPT FOR THE EXPRESS WARRANTIES MADE OR REFERENCED IN THIS AGREEMENT AND IN ANY SOW, NEITHER PARTY MAKES ANY REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, CONCERNING THE SUBJECT MATTER OF THIS AGREEMENT, AND EACH PARTY HEREBY DISCLAIMS ANY AND ALL REPRESENTATIONS AND WARRANTIES, INCLUDING BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OF THE SERVICES FOR A PARTICULAR PURPOSE, QUALITY, COURSE OF DEALINGS, USAGE OF TRADE, ACCURACY, QUIET ENJOYMENT OR NONINFRINGEMENT, ALL OF WHICH ARE EXPRESSLY DISCLAIMED. PROVIDER AND CUSTOMER HAVE RELIED ON THIS NEGOTIATED ALLOCATION OF RISK IN AGREEING TO THE PRICING IN THIS AGREEMENT.
+
+Child 441 (p):
+ 
+
+Child 442 (tbl):
+18.INDEMNIFICATION
+
+Child 443 (p):
+ 
+
+Child 444 (tbl):
+18.1Provider Indemnification
+
+Child 445 (p):
+ 
+
+Child 446 (tbl):
+ (i)Provider’s negligence or willful misconduct;
+
+Child 447 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 448 (tbl):
+ (ii)Provider’s breach of any term of this Agreement, including without limitation, Provider’s breach of its obligation to comply with laws in accordance with Article 9, Provider’s breach of its obligations relating to Taxes under Section 15.6 and Provider’s breach of any of its representations and warranties provided in Section 17.3;
+
+Child 449 (p):
+ 
+
+Child 450 (tbl):
+ (iii)Any actual or alleged violation, infringement, unauthorized use or misappropriation of any third party’s copyright, patent, trademark, or other intellectual property right; provided, however, that such third party claim is not based upon the underlying Product(s) or materials furnished by Customer hereunder or compliance of the Services with Customer’s specifications or other requirements set forth in the SOW under this Agreement;
+
+Child 451 (p):
+ 
+
+Child 452 (tbl):
+ (iv)Any claims of whatever nature asserted by any of the Provider Personnel; and/or
+
+Child 453 (p):
+ 
+
+Child 454 (tbl):
+ (v)Any agreements or alleged agreements made or entered into by Provider to effectuate the terms of this Agreement.
+
+Child 455 (p):
+ 
+
+Child 456 (tbl):
+18.2Customer Indemnification
+
+Child 457 (p):
+ 
+
+Child 458 (tbl):
+ (i)Customer’s negligence or willful misconduct;
+
+Child 459 (p):
+ 
+
+Child 460 (tbl):
+ (ii)Provider’s compliance with the Processing Norms under Section 6.2;
+
+Child 461 (p):
+ 
+
+Child 462 (tbl):
+ (iii)Customer’s breach of any term of this Agreement, including without limitation, Customer’s breach of its obligation to comply with laws in accordance with Article 9, Customer’s breach of its obligations relating to Taxes under Section 15.6 and Customer’s breach of any of its representations and warranties provided in Section 17;
+
+Child 463 (p):
+ 
+
+Child 464 (tbl):
+ (iv)Any actual or alleged violation, infringement, unauthorized use or misappropriation of any third party’s U.S. copyright, patent, trademark, or other intellectual property right arising from Provider’s use of Customer’s Products, Licensed Software, Customer Software or other materials furnished hereunder by Customer, to the extent that such use is in the contemplated manner and in full compliance with this Agreement and applicable SOW.
+
+Child 465 (p):
+ 
+
+Child 466 (tbl):
+18.3Mutual Indemnification
+
+Child 467 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 468 (p):
+any personal injury, death or damage to property caused by the negligence or willful misconduct of the Indemnifying Party or its agents and representatives, the performance of this Agreement.
+
+Child 469 (p):
+ 
+
+Child 470 (tbl):
+18.4Indemnification Procedures
+
+Child 471 (p):
+The Party seeking indemnification under Sections 18.1, 18.2 or 18.3 above, as the case may be (the “Indemnified Party”), will give prompt written notice to the other Party (the “Indemnifying Party”) of a Claim that is subject to such indemnification. (The failure by an Indemnified Party to give notice as provided above shall not relieve the Indemnifying Party of its obligation under this Section, except to the extent that such failure results in material adverse affect to the Indemnifying Party). In addition, the Indemnified Party will allow the Indemnifying Party to direct the defense and settlement of any such Claim, with counsel of the Indemnifying Party’s choosing subject to the Indemnified Party’s reasonable approval, so long as such defense is pursued diligently, and will provide the Indemnifying Party, at the Indemnifying Party’s expense, with information and assistance that is reasonably necessary for the defense and settlement of the Claim; provided, however, that the Indemnifying Party shall not admit fault in any settlement or settle any claim other than for money without the Indemnified Party’s prior written consent. The Indemnified Party shall have the right to employ separate counsel and to participate in (but not control) any such action.
+
+Child 472 (p):
+ 
+
+Child 473 (tbl):
+19.INSURANCE
+
+Child 474 (p):
+Each Party will, at its own expense, maintain insurance policies that cover the Party’s activities under this Agreement and the activities of the Party’s employees, agents and representatives, including, but not limited to, workmen compensation insurance (wherever applicable) and comprehensive general liability and errors and omissions liability. Upon the request of the other Party, the Party to which the request is made shall cause its insurer(s) or insurance broker to provide the requesting Party with a certificate of insurance evidencing such coverages. Without limiting the generality of the foregoing, Provider shall carry such insurance as provided in Schedule 19.1 hereto.
+
+Child 475 (p):
+ 
+
+Child 476 (tbl):
+20.LIMITATIONS ON LIABILITY
+
+Child 477 (p):
+ 
+
+Child 478 (tbl):
+20.1Liability Cap
+
+Child 479 (p):
+Except for each Party’s indemnification obligations under Section 18 above, and Claims arising out of or related to a Party’s gross negligence, willful misconduct, or breach of obligations with respect to Confidential Information, in no event shall either Party’s total cumulative liability under this Agreement, whether based on breach of contract, tort (including negligence) or otherwise, exceed the *; provided, however, that in the event that a Claim arises during the * after the Effective Date, then the maximum aggregate amount of such Party’s liability shall be equal to the total amount of payments projected to be made by Customer under this Agreement during the * after the Effective Date. Provider and Customer further acknowledge and agree that they are entering in to this Agreement on the understanding that the fees for the Services to be provided under this Agreement have been set to reflect the fact that the liability and remedies shall be limited as expressly set forth in this Agreement.
+
+Child 480 (p):
+ 
+
+Child 481 (tbl):
+20.2Consequential Damages
+
+Child 482 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 483 (p):
+Except for each Party’s indemnification obligations under Section 18 above, neither Party shall be liable to the other for any indirect, incidental, punitive, special or consequential loss, damage, cost or expense including, without limitation, loss of profits, loss of data, and loss of revenues, of any kind whatsoever and however caused, whether arising under contract, tort (including negligence or breach of statutory duty) or otherwise, even if that Party has been advised of its possibility. For the avoidance of doubt, the Parties agree that any damages resulting from a Party’s failure to fulfill its obligations in accordance with this Agreement in the form of fines, penalties refund obligations and other financial costs levied or imposed on Customer as a result of Provider’s failure to perform the Services in accordance with the requirements of this Agreement shall be considered direct damages and shall not be considered consequential damages.
+
+Child 484 (p):
+ 
+
+Child 485 (tbl):
+21.FORCE MAJEURE
+
+Child 486 (p):
+ 
+
+Child 487 (tbl):
+21.1Force Majeure Events
+
+Child 488 (p):
+Except to the extent provided in this Agreement, no Party shall be liable for any default or delay in the performance of its obligations under this Agreement (i) if and to the extent such default or delay is caused, directly or indirectly, by acts of terrorism, fire, flood, earthquake, elements of nature or acts of God, riots, civil disorders, or any other such similar cause beyond the reasonable control of such Party, and (ii) provided the non-performing Party is without fault in causing such default or delay, and such default or delay could not have been prevented by reasonable precautions and could not reasonably be circumvented by the non-performing Party through the use of alternate sources, workaround plans or other means (including with respect to Provider, by Provider meeting its obligations for performing disaster recovery services as described in this Agreement). Any such event or occurrence as described in this Section 21.1 shall be deemed a “Force Majeure Event.”
+
+Child 489 (p):
+ 
+
+Child 490 (tbl):
+21.2Excused Performance
+
+Child 491 (p):
+Upon notification to the other Party of the occurrence of a Force Majeure Event, the non-performing Party, except to the extent provided in this Agreement, shall be excused from further performance or observance of the obligations so affected for as long as such circumstances prevail and such Party continues to use commercially reasonable efforts to recommence performance or observance without delay. Any Party so delayed in its performance shall immediately notify the Party to whom performance is due by telephone (to be confirmed in writing within twenty-four (24) hours of the inception of such delay) and describe at a reasonable level of detail the circumstances causing such delay.
+
+Child 492 (p):
+ 
+
+Child 493 (tbl):
+21.3Force Majeure Remedies
+
+Child 494 (p):
+Notwithstanding any other provision of this Agreement, Provider agrees that no Force Majeure Event that affects Provider’s performance hereunder shall relieve Provider from its obligations for a period of more than three (3) days from the date on which Provider notifies or should have notified Customer of a Force Majeure Event. After the elapse of such period, all SLAs and other covenants applicable to Provider’s performance under this Agreement or any SOW shall again be in full force and effect. In addition, if any Force Majeure Event substantially prevents, hinders or
+
+Child 495 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 496 (p):
+ 
+
+Child 497 (tbl):
+21.4Conditions on Provider’s Response
+
+Child 498 (p):
+In addition to Customer’s rights set forth in this Section 21, the following conditions shall apply to Provider’s response to a Force Majeure Event:
+
+Child 499 (p):
+ 
+
+Child 500 (tbl):
+21.4.1Whenever a Force Majeure Event causes Provider to allocate limited resources between or among Provider’s customers, Provider shall allocate such resources in an equitable manner and shall not disadvantage Customer with respect to such allocation; and
+
+Child 501 (p):
+ 
+
+Child 502 (tbl):
+21.4.2In no event shall Provider re-deploy or reassign any Key Provider Personnel filling Key Provider Positions on the Customer account to another Provider customer, in the event of a Force Majeure Event.
+
+Child 503 (p):
+ 
+
+Child 504 (tbl):
+22.TERMINATION
+
+Child 505 (p):
+ 
+
+Child 506 (tbl):
+22.1Termination Due to Breach
+
+Child 507 (p):
+ 
+
+Child 508 (tbl):
+22.1.1Termination by Customer. Customer shall have the right to terminate this Agreement or any SOW, in whole or in part, or exercise the interim remedy described in Section 22.3 below by giving the specified written notice to Provider
+
+Child 509 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 510 (tbl):
+ and without further obligation or liability on the part of Customer, upon the occurrence of any of the following events of default (each, a “Provider Default”):
+
+Child 511 (p):
+ 
+
+Child 512 (tbl):
+22.1.1.1Upon ten (10) days notice if Provider commits a Provider Performance Default (as such term is defined in Section 22.2 below);
+
+Child 513 (p):
+ 
+
+Child 514 (tbl):
+22.1.1.2immediately upon notice if Provider violates (i) its non-compete obligations set forth in Section 25 below, (ii) any of its obligations relating to Customer Confidential Information or Customer Data, (iii) its compliance with applicable laws obligations relating to anti-corruption (Section 9.5), Restricted or Excluded Parties (Sections 10.2 and 17.3.7) or OFAC’s economic sanctions regulations (Section 9.6); or
+
+Child 515 (p):
+ 
+
+Child 516 (tbl):
+22.1.1.3upon thirty (30) days notice (or immediately if the material breach cannot reasonably be cured within such thirty (30) days) if Provider commits a material breach of any other provision of this Agreement.
+
+Child 517 (p):
+ 
+
+Child 518 (tbl):
+22.1.2Termination by Provider. Provider shall have the right to terminate this Agreement by giving at least thirty (30) days’ prior written notice to Customer in the event that Customer fails to pay Provider when due charges totaling at least three (3) months’ charges under any SOW (excluding (i) amounts set off pursuant to Section 15.7, and (ii) disputed payments withheld pursuant to Section 15.5) and Customer fails to remedy the delinquency within thirty (30) Business Days of its receipt of such written notice (a “Customer Default”).
+
+Child 519 (p):
+ 
+
+Child 520 (tbl):
+22.2Termination Due to Failure to Meet Performance Standards
+
+Child 521 (p):
+Provider shall be deemed to have committed a “Provider Performance Default” if:
+
+Child 522 (p):
+ 
+
+Child 523 (tbl):
+22.2.1.1Provider is liable to pay Major SLA Credits (as such term is defined in each SOW) under any SOW in any three (3) consecutive months or in any five (5) months within a rolling twelve (12) consecutive month period; or
+
+Child 524 (p):
+ 
+
+Child 525 (tbl):
+22.2.1.2A Catastrophic Failure (as such term is defined in each SOW) occurs.
+
+Child 526 (p):
+ 
+
+Child 527 (tbl):
+22.3Deferral and Assumption of Control Options
+
+Child 528 (p):
+ 
+
+Child 529 (tbl):
+22.3.1Upon the occurrence of a Provider Default, Customer may, at its sole option, defer its exercise of its termination rights under Section 22.1 above to dispatch Customer personnel to enter Provider’s facilities used to provide the Services and assist Provider with specific advice and instructions on how to improve its operations in performing the Services for up to * from the date Provider receives notice of a Provider Default (the “Deferral Period”). Provider shall cooperate fully with such assistance by Customer and implement any such Customer advice and instructions promptly.
+
+Child 530 (p):
+ 
+
+Child 531 (tbl):
+22.3.2If, at any time within the Deferral Period, Customer determines in its sole discretion that such limited assistance by Customer is insufficient to prevent a
+
+Child 532 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 533 (tbl):
+ recurrence of a Provider Default, Customer may, by giving written notice to Provider, discontinue the foregoing deferral of its exercise of termination rights and terminate this Agreement or any SOW, in whole or in part, and assume operational control over all of Provider’s facilities used to provide the Services, the Provider Property, the Equipment, the Provider Software and the Provider Personnel for up to * from the date of such notice (the “Controlled Migration Period”) for purposes of ensuring the proper performance of the Services and facilitating a smooth migration of the Services back to Customer or to Customer’s designee. During such Controlled Migration Period, Customer shall have the full authority previously held by Provider to manage the operations and supervise the Provider Personnel used to provide the Services. Provider shall cooperate fully with, and take all necessary steps to effect, such assumption of control by Customer, the continued performance of the Services and the migration of the Services back to Customer or to Customer’s designee. Without limiting the generality of the foregoing, on Customer’s behalf and as Directed by Customer, Provider shall enforce all subcontracts and other third party contracts used in providing the Services or shall appoint Customer as Provider’s agent for the purpose of enforcing such contracts during the Controlled Migration Period.
+
+Child 534 (p):
+ 
+
+Child 535 (tbl):
+22.4Charges Upon Partial Termination
+
+Child 536 (p):
+In the event of any termination in part by Customer, as provided in this Agreement, the charges payable under this Agreement for Services will be equitably adjusted to reflect those Services that are terminated. Upon termination of any or all Services under any SOW or this Agreement, Provider will be owed payment for Services completed up until the date of termination notice expiration, subject to any set-offs in accordance with Section 15.7 above.
+
+Child 537 (p):
+ 
+
+Child 538 (tbl):
+22.5Termination For Insolvency
+
+Child 539 (p):
+Customer shall have the option, but not the obligation, to terminate this Agreement in its entirety (including all SOWs) if Provider: (a) becomes insolvent or is unable to meet its debts or obligations; (b) files a voluntary petition in bankruptcy; (c) has an involuntary petition in bankruptcy filed against it that is not challenged within fifteen (15) days and dismissed within thirty (30) days; (d) is adjudicated a bankrupt; (e) has a receiver or trustee appointed for its assets; (f) makes a general assignment for the benefit of creditors; (g) has any significant portion of its assets attached.
+
+Child 540 (p):
+ 
+
+Child 541 (tbl):
+22.6Termination due to Change of Control
+
+Child 542 (p):
+If Provider (or its ultimate parent entity) is subject to a “Change of Control” (as such term is defined below), Provider shall notify Customer thereof no later than ten (10) days after the Change of Control takes place.
+
+Child 543 (p):
+ 
+
+Child 544 (tbl):
+22.6.1Following the first such notice of a Change of Control, if (a) immediately prior to the Change of Control, the Parties were no longer under the common control of the same parent company, and (b) following the Change of Control, Provider is materially less financially sound, has materially less resources, willingness or
+
+Child 545 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 546 (tbl):
+ capability to provide the Services, or is controlled by a Competitor, then for a period of * from the date of notice, Customer shall have the right to terminate this Agreement upon * written notice but without liability (except as otherwise provided herein) to Provider, unless Customer received notice of the proposed Change of Control at least * prior to its consummation and consented in writing thereto within * of its receipt thereof. In the event Provider provides such prior notice of a proposed Change of Control to Customer, Customer may grant, withhold or condition its consent in its sole and absolute discretion within said * period. Provider prefers that Customer communicate its decision in writing to Provider and Customer shall attempt in good faith to accommodate such preference, but failure by Customer to provide its written consent within said * period shall be deemed to be a decision by Customer to withhold its consent.
+
+Child 547 (p):
+ 
+
+Child 548 (tbl):
+22.6.2In the event that Provider provides a second or subsequent notice of a Change of Control, then Customer shall have all termination and consent rights as provided in Section 22.6.1, regardless of Provider’s financial health, resources, willingness or capability or any other criteria.
+
+Child 549 (p):
+ 
+
+Child 550 (tbl):
+22.6.3For purposes of this section, “Change of Control” means any merger, consolidation, share exchange, recapitalization or sale or transfer of equity securities of Provider (or its ultimate parent entity), in each case in which any individual, entity or group (within the meaning of Section 13(d)(3) or 14(d)(2) of the Securities Exchange Act of 1934), other than Provider or an Affiliate, acquires beneficial ownership (within the meaning of Rule 13d-3 under the Securities Exchange Act of 1934) of fifty percent (50%) or more of the combined voting power of the then-outstanding or fully diluted voting securities of Provider or its ultimate parent entity or the right to appoint the majority of the board of directors of either Provider or its ultimate parent.
+
+Child 551 (p):
+ 
+
+Child 552 (tbl):
+22.7Termination Due to Material Adverse Regulatory Change
+
+Child 553 (p):
+ 
+
+Child 554 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 555 (p):
+ 
+
+Child 556 (tbl):
+22.8Savings Clause
+
+Child 557 (p):
+ 
+
+Child 558 (tbl):
+22.9Relief Events
+
+Child 559 (p):
+ 
+
+Child 560 (tbl):
+22.9.1In addition to any other provisions in this context that may be contained in this Agreement (and without in any way prejudicing or limiting them), Provider will not be in breach of this Agreement or the applicable SOW or liable for SLA Credits to the extent its failure to perform an obligation under this Agreement or the applicable SOW is solely a direct result of a Relief Event, subject to Provider:
+
+Child 561 (p):
+ 
+
+Child 562 (tbl):
+22.9.1.1providing Customer as soon as reasonably practicable with notice of the Relief Event where the Provider is aware or should reasonably have been aware of such Relief Event;
+
+Child 563 (p):
+ 
+
+Child 564 (p):
+ 
+
+Child 565 (tbl):
+22.9.1.3cooperating with and assisting Customer to correct Customer’s failure that gave rise to the Relief Event.
+
+Child 566 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 567 (tbl):
+22.9.2Provider shall not be entitled to rely on a Relief Event to avoid liability for breach of this Agreement, including payment of SLA Credits, if it fails to satisfy any of the conditions set out in Sections 22.9.1.1 to 22.9.1.3 above.
+
+Child 568 (p):
+ 
+
+Child 569 (tbl):
+22.9.3If Provider incurs a Significant Cost Increase to perform the Services pursuant to any SOW as a sole and direct result of any Relief Event, it shall be entitled to recover such additional direct costs from Customer, provided that Provider must obtain Customer’s prior written consent before incurring costs in excess of $500 per month or such other sum as may be specified in the applicable SOW.
+
+Child 570 (p):
+ 
+
+Child 571 (tbl):
+22.9.4Provided that Provider has complied with the provisions of Sections 22.9.1 and 22.9.2, Provider shall be entitled to an extension of the schedule for completion of the Services under the relevant SOW, and the period of the extension shall be at least equal to the reasonable delay caused solely and directly by such Relief Event.
+
+Child 572 (p):
+ 
+
+Child 573 (tbl):
+22.9.5The provisions of this Section 22.9 are Provider’s exclusive remedy for any Relief Event.
+
+Child 574 (p):
+ 
+
+Child 575 (tbl):
+23.EFFECTS OF TERMINATION
+
+Child 576 (p):
+ 
+
+Child 577 (tbl):
+23.1Wind-Up Events
+
+Child 578 (p):
+Except as may be required in connection with any post-expiration or post-termination provision of the Services, upon the expiration or termination of this Agreement for any reason, (i) all licenses and other rights granted to Customer or Provider hereunder will terminate and become null and void, (ii) all materials, including without limitation, Confidential Information, provided by either Party to the other hereunder will be returned within thirty (30) days after the effective date of expiration or termination or shall be destroyed if so requested by the disclosing Party, and (iii) all earned and unpaid fees and expenses will become immediately due and payable.
+
+Child 579 (p):
+ 
+
+Child 580 (tbl):
+23.2Termination/Expiration Assistance
+
+Child 581 (p):
+ 
+
+Child 582 (tbl):
+23.2.1Provision of Services Prior to Termination/Expiration Date. Commencing (i) * prior to the scheduled expiration of this Agreement or a SOW, (ii) on such earlier date as Customer may request, or (iii) immediately upon any notice of termination or partial termination, as the case may be, including notice based upon a Provider Default or a Customer Default or a notice of non-renewal of this Agreement, and continuing through the effective date of expiration or, if applicable, of termination of this Agreement, Provider shall provide to Customer, or at Customer’s request to Customer’s designee, the reasonable termination/expiration assistance requested by Customer to allow the Services to continue in accordance with the terms of this Agreement and to facilitate the orderly migration of the Services to Customer or its designee (the “Termination/Expiration Assistance”). In the event of any partial termination, the provision of Termination/Expiration Assistance shall be provided by Provider only as applicable to the Services terminated. The Termination/Expiration Assistance shall include but not be limited to the assistance described in Schedule 23.2.1 hereto.
+
+Child 583 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 584 (tbl):
+23.2.2Provision of Services After Termination/Expiration Date. In addition to the Termination/Expiration Assistance set forth in the preceding paragraph:
+
+Child 585 (p):
+ 
+
+Child 586 (tbl):
+23.2.2.1Upon expiration of the Term of this Agreement, for up to a period of * thereafter, Provider shall continue to provide, at Customer’s written request made at least * prior to such expiration, any or all of the Services being performed by Provider prior to such expiration date, including the Termination/Expiration Assistance.
+
+Child 587 (p):
+ 
+
+Child 588 (tbl):
+23.2.2.2In the event that Customer terminates this Agreement pursuant to Sections 21.3 (Force Majeure), 22.1.1 (Provider Default), 22.2 (Provider Performance Default), 22.5 (Insolvency), or 22.6 (Change of Control), then either (i) for up to a period of * following the effective date of termination of this Agreement, Provider shall continue to provide, at Customer’s request, any or all of the Services being performed by Provider prior to such effective date, including the Termination/Expiration Assistance, or (ii) Customer may exercise its rights under Section 22.3.1 above (if applicable).
+
+Child 589 (p):
+ 
+
+Child 590 (tbl):
+23.2.2.3In the event that Customer terminates this Agreement pursuant to Section 3.3 (Termination for Convenience), then for up to a period of * following the effective date of termination of this Agreement, Provider shall continue to provide, at Customer’s request, any or all of the Services being performed by Provider prior to such effective date, including the Termination/Expiration Assistance.
+
+Child 591 (p):
+ 
+
+Child 592 (tbl):
+23.2.2.4In the event that Provider terminates this Agreement pursuant to Section 22.1.2 (Non-Payment), then for up to a period of * following the effective date of termination of this Agreement, Provider shall continue to provide, at Customer’s request, any or all of the Services being performed by Provider prior to such effective date, including the Termination/Expiration Assistance; provided, however, in the event of termination pursuant to Section 22.1.2, Provider shall only have the foregoing obligations to the extent that Customer prepays all fees for such Services (equal to the fees determined under this Agreement during the Term) on a month-by-month basis.
+
+Child 593 (p):
+ 
+
+Child 594 (tbl):
+23.2.2.5In the event that Provider terminates this Agreement pursuant to Section (Material Adverse Regulatory Change), then for up to a period of * following the effective date of termination of this Agreement, Provider shall continue to provide, at Customer’s request, any or all of the Services being performed by Provider prior to such effective date, including the Termination/Expiration Assistance; provided, however, that, upon the execution of an appropriate Change Order, Provider may provide such Services from any of its offices located worldwide, which Change Order shall also specify the allocation of any additional costs that may be incurred by Provider in providing such Services from such other location.
+
+Child 595 (p):
+ 
+
+Child 596 (tbl):
+23.2.3To the extent Provider is to perform Services pursuant to Section 23.2.2 which were being performed prior to the termination/expiration date of this Agreement, the provisions of this Agreement shall be applicable as such provisions would
+
+Child 597 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 598 (tbl):
+ have been applicable to the Services prior to the effective date of termination. The charges for such activities that are provided without cessation by Provider after termination of the Agreement shall be: (i) for those Services for which there is a charge in the Agreement, such charges as were in effect immediately prior to the termination date, and (ii) for those Services for which there is no charge in the Agreement, at such rates as may be considered equitable by the JSC under the circumstances.
+
+Child 599 (p):
+ 
+
+Child 600 (p):
+ 
+
+Child 601 (tbl):
+23.2.5Each Party’s termination rights set forth in this Agreement are cumulative and are in addition to all other rights and remedies available to the Parties.
+
+Child 602 (p):
+ 
+
+Child 603 (tbl):
+23.3Post Termination Rights and Obligations
+
+Child 604 (p):
+ 
+
+Child 605 (tbl):
+24.DISPUTE RESOLUTION
+
+Child 606 (p):
+ 
+
+Child 607 (tbl):
+24.1Level 1
+
+Child 608 (p):
+Any dispute relating to the interpretation of, arising out of, relating to or in connection with this Agreement or any SOW, including any question regarding its existence, validity or termination
+
+Child 609 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 610 (p):
+(a “Dispute”), will be referred in the first instance to the JSC for resolution, which will in good faith attempt to resolve a Dispute within *.
+
+Child 611 (p):
+ 
+
+Child 612 (tbl):
+24.2Level 2
+
+Child 613 (p):
+If a Dispute is not resolved as per Level 1 above, then it shall be referred to the Governance Board for resolution which will in good faith attempt to resolve the Dispute within a further *.
+
+Child 614 (p):
+ 
+
+Child 615 (tbl):
+24.3Level 3
+
+Child 616 (p):
+ 
+
+Child 617 (tbl):
+24.3.1If a Dispute is not resolved as per Level 2 above, then either Party may initiate binding arbitration administered by the International Centre for Dispute Resolution of the American Arbitration Association (the “AAA”) in accordance with its International Arbitration Rules by providing written notice to the other Party informing the other Party of such intention and the issues to be resolved.
+
+Child 618 (p):
+ 
+
+Child 619 (p):
+ 
+
+Child 620 (tbl):
+24.3.3The Parties will be entitled to conduct documentary discovery and depositions, the scope of which shall be set by arbitrators. Discovery shall be conducted consistent with the International Bar Association Rules on the Taking of Evidence in International Arbitration.
+
+Child 621 (p):
+ 
+
+Child 622 (tbl):
+24.3.4The language of arbitration shall be English, and the place of arbitration shall be Los Angeles, California, in the United States. The costs of arbitration, including administrative and arbitrator fees, shall be shared equally by the Parties, provided that each Party shall bear the expenses of its witnesses, counsel and other experts. Notwithstanding the foregoing, in the event that an arbitration is initiated for any Dispute and results in an arbitral award that is valued at less than $*, then the Party that initiated such arbitration shall be responsible for paying both Parties’ arbitration costs (including all administrative and arbiter fees as well as the
+
+Child 623 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 624 (tbl):
+ expenses of witnesses, counsel and other experts of both Parties), regardless of which Party ultimately prevailed in such Dispute.
+
+Child 625 (p):
+ 
+
+Child 626 (tbl):
+24.3.5The award or decision of the arbitrators shall be in writing, shall set forth the basis for such award and shall be final and binding upon the Parties. Judgment upon the award or decision may be entered in any court of competent jurisdiction, or application may be made to such court for judicial acceptance of the award and/or an order of enforcement, as the case may be.
+
+Child 627 (p):
+ 
+
+Child 628 (tbl):
+24.3.6Nothing in this Agreement shall be deemed as preventing any Party from seeking preliminary injunctive relief, temporary equitable relief or any other provisional remedy in aid of arbitration from any court of competent jurisdiction. The Parties hereby agree and acknowledge that Part I (except Section 9) of the Arbitration and Conciliation Act, 1996, of India shall not apply and no Party to any Dispute shall claim the application of Part I (except Section 9) of the Arbitration and Conciliation Act, 1996.
+
+Child 629 (p):
+ 
+
+Child 630 (tbl):
+24.4Continued Performance
+
+Child 631 (p):
+Each Party agrees to continue performing its obligations under this Agreement while a Dispute is being resolved, except to the extent the issue in dispute precludes performance (it being agreed that a Dispute over payment shall not be deemed to preclude performance) and without limiting either Party’s right to terminate this Agreement as provided in Section 22.
+
+Child 632 (p):
+ 
+
+Child 633 (tbl):
+25.NON-COMPETE OBLIGATIONS
+
+Child 634 (p):
+ 
+
+Child 635 (tbl):
+25.1No Services to Competitors
+
+Child 636 (p):
+ 
+
+Child 637 (tbl):
+25.2Provider Personnel
+
+Child 638 (p):
+In addition, Provider shall take all legally permissible steps to subject the Provider Personnel, including, without limitation, those persons occupying Key Provider Positions, to the same restrictions. Provider shall, within thirty (30) days of execution of this Agreement, provide copies of letters signed by each of the Provider Personnel occupying Key Provider Positions agreeing to be bound by the provisions of this Section 25 and specifically stating that in the event
+
+Child 639 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 640 (p):
+the Provider Personnel commits a breach of the provisions hereof, then a significant proportion of his or her annual remuneration that has been, is being or will be withheld by Provider will be forfeited.
+
+Child 641 (p):
+ 
+
+Child 642 (tbl):
+26.GENERAL
+
+Child 643 (p):
+ 
+
+Child 644 (tbl):
+26.1Governing Law
+
+Child 645 (p):
+This Agreement and all matters and Disputes relating to it shall be governed by and construed in accordance with the laws of the State of Delaware (excluding its conflict of laws statutes and principles) and applicable United States federal law.
+
+Child 646 (p):
+ 
+
+Child 647 (tbl):
+26.2[Reserved]
+
+Child 648 (p):
+ 
+
+Child 649 (tbl):
+26.3Relationship Of The Parties
+
+Child 650 (p):
+ 
+
+Child 651 (tbl):
+26.3.1Neither Party shall be deemed to be the legal representative of the other Party nor will anything contained in this Agreement create or imply an agency, joint venture, partnership or other fiduciary relationship between Provider and Customer.
+
+Child 652 (p):
+ 
+
+Child 653 (tbl):
+26.3.2Neither Party’s agents, employees or servants shall be considered an agent, employee or servant of the other Party.
+
+Child 654 (p):
+ 
+
+Child 655 (tbl):
+26.3.3Each Party agrees to assume complete responsibility for its own employees with regard to federal or state employer’s liability and withholding taxes, worker’s compensation, social security, unemployment insurance, and occupational health and safety requirements and other federal, state and local laws.
+
+Child 656 (p):
+ 
+
+Child 657 (tbl):
+26.4Severability
+
+Child 658 (p):
+If at any time any clause or part of this Agreement, is found by any court, tribunal or administrative body of competent jurisdiction to be wholly or partly illegal, invalid or unenforceable in any respect, such provision will be deemed restated, in accordance with applicable law, to reflect as nearly as possible the original intention of the parties, and the remainder of the Agreement will continue in full force and effect.
+
+Child 659 (p):
+ 
+
+Child 660 (tbl):
+26.5Entire Agreement
+
+Child 661 (p):
+ 
+
+Child 662 (tbl):
+26.5.1This Agreement, together with all applicable SOW(s), Schedules and Annexure(s) attached hereto, is the complete and exclusive Agreement between the Parties with respect to the subject matter hereof, superseding any prior agreements and communications (both written and oral) regarding such subject matter except to the extent provisions of other agreements are incorporated herein by reference.
+
+Child 663 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 664 (tbl):
+26.5.2For purposes of interpreting the meaning and intent of this Agreement, the main text of this Agreement and the Schedules attached hereto shall, together, be considered to be a single and fully integrated agreement. In the event of an irreconcilable conflict between the provisions contained in this main text of this Agreement together with the Schedules on the one hand, and the specific provisions set forth in a SOW or Annexure on the other hand, the provisions of the main text of this Agreement together with the Schedules shall control unless the provisions of the SOW or Annexure specifically reference the provisions of the main text of this Agreement or the Schedules that are inconsistent therewith, in which case the SOW or Annexure shall control those provisions only.
+
+Child 665 (p):
+ 
+
+Child 666 (tbl):
+26.6Binding Nature and Assignment
+
+Child 667 (p):
+This Agreement shall be binding on the Parties hereto and their respective successors and assigns. Provider may not assign this Agreement without the prior written consent of Customer, which consent Customer may withhold or condition in its sole and absolute discretion. Any assignment by operation of law, order of any court, or pursuant to any plan of merger, consolidation or liquidation, shall be deemed an assignment for which prior written consent is required. Any assignment made without Customer’s consent as required above shall be null and void and of no effect as between the Parties.
+
+Child 668 (p):
+ 
+
+Child 669 (tbl):
+26.7Mutually Negotiated
+
+Child 670 (p):
+Each Party acknowledges that the terms and conditions of this Agreement (including any perceived ambiguity herein) shall not be construed in favor of or against any Party by reason of the extent to which any Party or its professional advisors participated in the preparation of the original or any further drafts of this Agreement, as each Party has been represented by counsel in its negotiation of this agreement and it represents their mutual efforts.
+
+Child 671 (p):
+ 
+
+Child 672 (tbl):
+26.8Public Disclosures
+
+Child 673 (p):
+ 
+
+Child 674 (tbl):
+26.9No Third Party Beneficiaries
+
+Child 675 (p):
+ 
+
+Child 676 (tbl):
+26.10Counterparts
+
+Child 677 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 678 (p):
+This Agreement may be executed in counterparts, each of which shall constitute an original and all of which shall constitute one agreement.
+
+Child 679 (p):
+ 
+
+Child 680 (tbl):
+26.11Headings
+
+Child 681 (p):
+The headings in this Agreement are for convenience of reference only and have no legal effect.
+
+Child 682 (p):
+ 
+
+Child 683 (tbl):
+26.12Rights Cumulative
+
+Child 684 (p):
+ 
+
+Child 685 (tbl):
+26.12.1The rights and remedies of the Parties under this Agreement are cumulative and not exclusive of any rights or remedies to which either Party is entitled by law.
+
+Child 686 (p):
+ 
+
+Child 687 (tbl):
+26.12.2The exercise by either Party of any right or remedy under this Agreement or under applicable law will not preclude that Party from exercising any other right or remedy under this Agreement or to which that Party is entitled by law.
+
+Child 688 (p):
+ 
+
+Child 689 (tbl):
+26.13Schedules and Exhibits
+
+Child 690 (p):
+ 
+
+Child 691 (tbl):
+26.14Waivers
+
+Child 692 (p):
+ 
+
+Child 693 (tbl):
+26.14.1The failure to exercise or delay in exercising a right or remedy provided by this Agreement or by law does not constitute a waiver of such right or remedy or a waiver of other rights or remedies.
+
+Child 694 (p):
+ 
+
+Child 695 (tbl):
+26.14.2A waiver of a breach of any of the terms of this Agreement or of a default under this Agreement does not constitute a waiver of any other breach or default and will not affect the other terms of this Agreement.
+
+Child 696 (p):
+ 
+
+Child 697 (tbl):
+26.14.3waiver of a breach of any of the terms of this Agreement or of a default under this Agreement will not prevent a Party from subsequently requiring compliance with the waived obligation.
+
+Child 698 (p):
+ 
+
+Child 699 (tbl):
+26.14.4No waiver will have effect unless made in writing.
+
+Child 700 (p):
+ 
+
+Child 701 (tbl):
+26.14.5Any waiver by either Party of a breach of any provision of this Agreement will not be considered as a waiver of any subsequent breach of the same or of any other provision thereof.
+
+Child 702 (p):
+ 
+
+Child 703 (p):
+ 
+
+Child 704 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 705 (p):
+ 
+
+Child 706 (p):
+ 
+
+Child 707 (tbl):
+26.16Consents and Approval
+
+Child 708 (p):
+Except where expressly provided as being in the discretion of a Party, where approval, acceptance, consent or similar action by either Party is required under this Agreement, such action shall not be unreasonably delayed or withheld. An approval or consent given by a Party under this Agreement shall not relieve the other Party from responsibility for complying with the requirements of this Agreement, nor shall it be construed as a waiver of any rights under this Agreement, except as and to the extent otherwise expressly provided in such approval or consent.
+
+Child 709 (p):
+ 
+
+Child 710 (tbl):
+26.17Further Assurances
+
+Child 711 (p):
+Each Party shall, at the request of the other Party, perform those actions, including executing additional documents and instruments, reasonably necessary to give full effect to the terms of this Agreement.
+
+Child 712 (p):
+ 
+
+Child 713 (tbl):
+26.18Survival
+
+Child 714 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 715 (p):
+Any provision of this Agreement which contemplates performance or observance subsequent to termination or expiration of this Agreement shall survive termination or expiration of this Agreement and continue in full force and effect.
+
+Child 716 (p):
+ 
+
+Child 717 (tbl):
+26.19[Reserved]
+
+Child 718 (p):
+ 
+
+Child 719 (tbl):
+26.20Notices
+
+Child 720 (p):
+ 
+
+Child 721 (tbl):
+26.20.1Unless otherwise stated, all notices required under this Agreement shall be in writing and shall be considered given: (a) When delivered personally, (b) Five (5) days after mailing, when sent certified mail, return receipt requested and postage prepaid, (c) Upon receipt when sent via a commercial overnight carrier, fees prepaid or, (d) Upon receipt when sent by facsimile transmission confirmed by telephone, and retaining copy of transmission confirmation receipt.
+
+Child 722 (p):
+ 
+
+Child 723 (tbl):
+26.20.2All communications will be addressed as follows (unless changed by written notice):
+
+Child 724 (p):
+ 
+
+Child 725 (tbl):
+To Provider:   To Customer: Mr. Ramachandran Panickar, CFOIntelenet Global Services Private LimitedIntelenet Towers, 1406-A/ 28Mindspace, Malad (West)Mumbai – 400 064, IndiaFax: +91.22.66778210 With a copy to: Amit Gupta, Head of LegalIntelenet Global Services Private Limited219 Okhla Industrial EstatePhase IIINew Delhi – 110 020Fax: +91.11.26332760  Apria Healthcare, Inc.26220 Enterprise CourtLake Forest, CA 92630Attention: Mr. James G. GallasExecutive Vice President and ChiefAdministrative OfficerFax: +01.949.462.8089 With a copy to: Apria Healthcare, Inc.26220 Enterprise CourtLake Forest, CA 92630Attention: Legal DepartmentFax: +01.949.639.4332
+
+Child 726 (p):
+[Rest of page intentionally left blank]
+
+Child 727 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 728 (p):
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed by their duly authorized representatives.
+
+Child 729 (p):
+ 
+
+Child 730 (tbl):
+Intelenet Global Services Private Limited   Apria Healthcare, Inc.By: /s/ Susir Kumar Name: Susir Kumar Title: CEO Date: 14-5-2009 Place of Execution: Mumbai  By: /s/ James G. Gallas Name: James G. Gallas Title: EVP and CAO Date: May 10, 2009 Date: Place of Execution: USA
+
+Child 731 (p):
+***THIS IS AN EMPTY PARA***
+

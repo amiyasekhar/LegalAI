@@ -1,0 +1,1437 @@
+Entry:  
+Entry:  BROOKFIELD CORPORATION
+Entry:   
+Entry:  - and -
+Entry:   
+Entry:  BROOKFIELD RENEWABLE PARTNERS L.P.
+Entry:   
+Entry:  - and -
+Entry:   
+Entry:  BROOKFIELD RENEWABLE ENERGY L.P.
+Entry:   
+Entry:  - and -
+Entry:   
+Entry:  BROOKFIELD ASSET MANAGEMENT PRIVATE INSTITUTIONAL CAPITAL ADVISER (CANADA), L.P.
+Entry:   
+Entry:  - and -
+Entry:   
+Entry:  BROOKFIELD CANADA RENEWABLE MANAGER LP
+Entry:   
+Entry:  - and -
+Entry:   
+Entry:  BROOKFIELD RENEWABLE ENERGY GROUP LLC
+Entry:   
+Entry:  - and -
+Entry:   
+Entry:  BROOKFIELD GLOBAL RENEWABLE ENERGY ADVISOR LIMITED
+Entry:   
+Entry:  - and -
+Entry:   
+Entry:  BROOKFIELD PRIVATE CAPITAL (DIFC) LIMITED
+Entry:   
+Entry:  - and -
+Entry:   
+Entry:  each of the Holding Entities that has executed this Agreement on Schedule A hereto
+Entry:   
+Entry:   
+Entry:  FIFTH AMENDED AND RESTATED MASTER SERVICES AGREEMENT
+Entry:   
+Entry:  May 5, 2023
+Entry:   
+Entry:   
+Entry:   
+Entry:   
+Entry:  TABLE OF CONTENTS
+Entry:   
+Entry:   
+Entry:   
+Entry:   
+Entry:  Page
+Entry:   
+Entry:   
+Entry:   
+Entry:  ARTICLE 1
+Entry:   
+Entry:   
+Entry:   
+Entry:  INTERPRETATION
+Entry:  2
+Entry:  1.1
+Entry:  Definitions
+Entry:  2
+Entry:  1.2
+Entry:  Headings and Table of Contents
+Entry:  9
+Entry:  1.3
+Entry:  Interpretation
+Entry:  9
+Entry:  1.4
+Entry:  Actions by the Service Providers or the Service Recipients
+Entry:  10
+Entry:  1.5
+Entry:  Generally Accepted Accounting Principles
+Entry:  10
+Entry:  1.6
+Entry:  Invalidity of Provisions
+Entry:  10
+Entry:  1.7
+Entry:  Entire Agreement
+Entry:  10
+Entry:  1.8
+Entry:  Waiver, Amendment
+Entry:  11
+Entry:  1.9
+Entry:  Governing Law
+Entry:  11
+Entry:   
+Entry:   
+Entry:   
+Entry:  ARTICLE 2
+Entry:   
+Entry:   
+Entry:   
+Entry:  APPOINTMENT OF THE SERVICE PROVIDERS
+Entry:  11
+Entry:  2.1
+Entry:  Appointment and Acceptance
+Entry:  11
+Entry:  2.2
+Entry:  Other Holding Entities
+Entry:  11
+Entry:  2.3
+Entry:  Other Service Providers
+Entry:  12
+Entry:  2.4
+Entry:  Subcontracting and Other Arrangements
+Entry:  12
+Entry:   
+Entry:   
+Entry:   
+Entry:  ARTICLE 3
+Entry:   
+Entry:   
+Entry:   
+Entry:  SERVICES AND POWERS OF THE SERVICE PROVIDERS
+Entry:  12
+Entry:  3.1
+Entry:  Services
+Entry:  12
+Entry:  3.2
+Entry:  Responsibility for Certain Services
+Entry:  14
+Entry:  3.3
+Entry:  Supervision of Service Providers’ Activities
+Entry:  14
+Entry:  3.4
+Entry:  Restrictions on the Service Providers
+Entry:  15
+Entry:  3.5
+Entry:  Errors and Omissions Insurance
+Entry:  15
+Entry:   
+Entry:   
+Entry:   
+Entry:  ARTICLE 4
+Entry:   
+Entry:   
+Entry:   
+Entry:  RELATIONSHIP BETWEEN THE SERVICE PROVIDERS AND THE SERVICE RECIPIENTS
+Entry:  16
+Entry:  4.1
+Entry:  Other Activities
+Entry:  16
+Entry:  4.2
+Entry:  Exclusivity
+Entry:  16
+Entry:  4.3
+Entry:  Independent Contractor, No Partnership or Joint Venture
+Entry:  16
+Entry:   
+Entry:   
+Entry:   
+Entry:  ARTICLE 5
+Entry:   
+Entry:   
+Entry:   
+Entry:  MANAGEMENT AND EMPLOYEES
+Entry:  16
+Entry:  5.1
+Entry:  Management and Employees
+Entry:  16
+Entry:  5.2
+Entry:  Compensation Charges
+Entry:  17
+Entry:   
+Entry:   
+Entry:   
+Entry:  -i-
+Entry:   
+Entry:   
+Entry:  TABLE OF CONTENTS
+Entry:  (continued)
+Entry:   
+Entry:   
+Entry:   
+Entry:  Page
+Entry:  ARTICLE 6
+Entry:   
+Entry:   
+Entry:   
+Entry:  INFORMATION AND RECORDS
+Entry:  17
+Entry:  6.1
+Entry:  Books and Records
+Entry:  17
+Entry:  6.2
+Entry:  Examination of Records by the Service Recipients
+Entry:  17
+Entry:  6.3
+Entry:  Access to Information by Service Provider Group
+Entry:  18
+Entry:  6.4
+Entry:  Additional Information
+Entry:  18
+Entry:   
+Entry:   
+Entry:   
+Entry:  ARTICLE 7
+Entry:   
+Entry:   
+Entry:   
+Entry:  FEES AND EXPENSES
+Entry:  19
+Entry:  7.1
+Entry:  Net Base Management Fee and Base Management Fee Adjustment
+Entry:  19
+Entry:  7.2
+Entry:  Maximum Fees Payable by Service Recipients
+Entry:  19
+Entry:  7.3
+Entry:  Currency
+Entry:  19
+Entry:  7.4
+Entry:  Computation and Payment of Net Base Management Fee
+Entry:  19
+Entry:  7.5
+Entry:  Expenses
+Entry:  20
+Entry:  7.6
+Entry:  Governmental Charges
+Entry:  21
+Entry:  7.7
+Entry:  Computation and Payment of Expenses and Governmental Charges
+Entry:  21
+Entry:   
+Entry:   
+Entry:   
+Entry:  ARTICLE 8
+Entry:   
+Entry:   
+Entry:   
+Entry:  BROOKFIELD’S OBLIGATION AND CONSENT RIGHT
+Entry:  22
+Entry:  8.1
+Entry:  Provision of Services to the Service Recipients
+Entry:  22
+Entry:  8.2
+Entry:  Consent to Issuance of Class A Shares
+Entry:  22
+Entry:   
+Entry:   
+Entry:   
+Entry:  ARTICLE 9
+Entry:   
+Entry:   
+Entry:   
+Entry:  REPRESENTATIONS AND WARRANTIES
+Entry:   
+Entry:  OF THE SERVICE PROVIDERS AND THE SERVICE RECIPIENTS
+Entry:  22
+Entry:  9.1
+Entry:  Representations and Warranties of the Service Providers
+Entry:  22
+Entry:  9.2
+Entry:  Representations and Warranties of the Service Recipients
+Entry:  23
+Entry:   
+Entry:   
+Entry:   
+Entry:  ARTICLE 10
+Entry:   
+Entry:   
+Entry:   
+Entry:  LIABILITY AND INDEMNIFICATION
+Entry:  24
+Entry:  10.1
+Entry:  Indemnity
+Entry:  24
+Entry:  10.2
+Entry:  Limitation of Liability
+Entry:  25
+Entry:  10.3
+Entry:  Benefit to all Indemnified Parties
+Entry:  26
+Entry:  10.4
+Entry:  No Waiver
+Entry:  26
+Entry:   
+Entry:   
+Entry:   
+Entry:  ARTICLE 11
+Entry:   
+Entry:   
+Entry:   
+Entry:  TERM AND TERMINATION
+Entry:  26
+Entry:  11.1
+Entry:  Term
+Entry:  26
+Entry:  11.2
+Entry:  Termination by the Service Recipients
+Entry:  26
+Entry:   
+Entry:   
+Entry:   
+Entry:  -ii-
+Entry:   
+Entry:   
+Entry:  TABLE OF CONTENTS
+Entry:  (continued)
+Entry:   
+Entry:   
+Entry:   
+Entry:  Page
+Entry:   
+Entry:   
+Entry:   
+Entry:  11.3
+Entry:  Termination by the Service Providers
+Entry:  27
+Entry:  11.4
+Entry:  Survival Upon Termination
+Entry:  28
+Entry:  11.5
+Entry:  Action Upon Termination
+Entry:  28
+Entry:  11.6
+Entry:  Release of Money or other Property Upon Written Request
+Entry:  28
+Entry:   
+Entry:   
+Entry:   
+Entry:  ARTICLE 12
+Entry:   
+Entry:   
+Entry:   
+Entry:  ARBITRATION
+Entry:  29
+Entry:  12.1
+Entry:  Dispute
+Entry:  29
+Entry:  12.2
+Entry:  Arbitration
+Entry:  29
+Entry:  12.3
+Entry:  Continued Performance
+Entry:  30
+Entry:   
+Entry:   
+Entry:   
+Entry:  ARTICLE 13
+Entry:   
+Entry:   
+Entry:   
+Entry:  GENERAL PROVISIONS
+Entry:  30
+Entry:  13.1
+Entry:  Limited Liability of Limited Partners of BEP and BRELP
+Entry:  30
+Entry:  13.2
+Entry:  Assignment
+Entry:  30
+Entry:  13.3
+Entry:  Failure to Pay When Due
+Entry:  31
+Entry:  13.4
+Entry:  Enurement
+Entry:  31
+Entry:  13.5
+Entry:  Notices
+Entry:  31
+Entry:  13.6
+Entry:  Further Assurances
+Entry:  33
+Entry:  13.7
+Entry:  Counterparts
+Entry:  33
+Entry:  13.8
+Entry:  Other Holding Entities
+Entry:  33
+Entry:   
+Entry:  -iii-
+Entry:   
+Entry:   
+Entry:   
+Entry:  FIFTH AMENDED AND RESTATED MASTER SERVICES AGREEMENT
+Entry:   
+Entry:  THIS AGREEMENT made as of the 5th day of May, 2023.
+Entry:   
+Entry:  A M O N G:
+Entry:  BROOKFIELD CORPORATION (formerly Brookfield Asset Management Inc.) (“Brookfield”), a corporation existing under the laws of the Province of Ontario
+Entry:   
+Entry:  - and -
+Entry:   
+Entry:  BROOKFIELD RENEWABLE PARTNERS L.P. (formerly Brookfield Renewable Energy Partners L.P.) (“BEP”), an exempted partnership existing under the laws of Bermuda
+Entry:   
+Entry:  - and -
+Entry:   
+Entry:  BROOKFIELD RENEWABLE ENERGY L.P. (“BRELP”), an exempted partnership existing under the laws of Bermuda
+Entry:   
+Entry:  - and -
+Entry:   
+Entry:  BROOKFIELD ASSET MANAGEMENT PRIVATE INSTITUTIONAL CAPITAL ADVISER (CANADA), L.P. (the “Canadian Service Provider”), a limited partnership existing under the laws of the Province of Manitoba
+Entry:   
+Entry:  - and -
+Entry:   
+Entry:  BROOKFIELD CANADA RENEWABLE MANAGER LP (the “Canadian Service Provider II”), a limited partnership governed by the laws of the Province of Ontario
+Entry:   
+Entry:  - and -
+Entry:   
+Entry:  BROOKFIELD RENEWABLE ENERGY GROUP LLC (the “US Service Provider” and the “International Service Provider”), a limited liability company existing under the laws of the State of Delaware
+Entry:   
+Entry:  - and -
+Entry:   
+Entry:  BROOKFIELD GLOBAL RENEWABLE ENERGY ADVISOR LIMITED (the “UK Service Provider”), a company existing under the laws of England
+Entry:   
+Entry:  - and -
+Entry:   
+Entry:  BROOKFIELD PRIVATE CAPITAL (DIFC) LIMITED (the “Dubai Service Provider”), a private company existing under the laws of Dubai International Financial Centre
+Entry:   
+Entry:  - and -
+Entry:   
+Entry:  each of the Holding Entities (as defined below)
+Entry:   
+Entry:  RECITALS:
+Entry:   
+Entry:  A.            The Service Recipients (as defined below) indirectly hold interests in the Power Operations.
+Entry:   
+Entry:   
+Entry:  -2-
+Entry:   
+Entry:   
+Entry:  B.             BEP, BRELP and the Holding Entities entered into a fourth amended and restated master services agreement dated June 30, 2022 (the “Current Agreement”) pursuant to which certain Affiliates (as defined below) of Brookfield agreed to provide to the Service Recipients (as defined in the Current Agreement) certain services, subject to the terms and conditions of the Current Agreement.
+Entry:   
+Entry:  C.             BEP, BRELP and the Holding Entities wish to amend and restate the Current Agreement to reflect the removal of BRP Energy Group L.P. as a Service Provider, and to make certain other amendments to the terms and conditions of the Current Agreement.
+Entry:   
+Entry:  D.            BRP Energy Group L.P. has executed an acknowledgement dated the date hereof that it is no longer a party to the Current Agreement.
+Entry:   
+Entry:  NOW THEREFORE in consideration of the mutual covenants and agreements contained in this Agreement and other good and valuable consideration (the receipt and sufficiency of which are hereby acknowledged), the parties hereto agree as follows:
+Entry:   
+Entry:  ARTICLE 1
+Entry:  INTERPRETATION
+Entry:   
+Entry:  1.1
+Entry:  Definitions
+Entry:   
+Entry:  In this Agreement, except where the context otherwise requires, the following terms will have the following meanings:
+Entry:   
+Entry:  1.1.1           “Advisers Act” means the U.S. Investment Advisers Act of 1940, as amended;
+Entry:   
+Entry:  1.1.2           “Act” has the meaning assigned thereto in Section 12.2.1;
+Entry:   
+Entry:  1.1.3           “Affiliate” means, with respect to a Person, any other Person that, directly or indirectly, through one or more intermediaries, Controls or is Controlled by such Person, or is under common Control of a third Person;
+Entry:   
+Entry:  1.1.4           “Agreement” means this Fifth Amended and Restated Master Services Agreement, and “herein”, “hereof”, “hereby”, “hereunder” and similar expressions refer to this Agreement and include every instrument supplemental or ancillary to this Agreement and, except where the context otherwise requires, not to any particular article or section thereof;
+Entry:   
+Entry:  1.1.5           “Arbitration” has the meaning assigned thereto in Section 12.2.1;
+Entry:   
+Entry:  1.1.6           “Arbitrator” has the meaning assigned thereto in Section 12.2.3;
+Entry:   
+Entry:  1.1.7           “Base Management Fee” means the base management fee, calculated quarterly in arrears, in an aggregate amount equal to the sum of (i) 25% per Quarter of the Fee Amount, plus (ii) 0.3125% of the Total Capitalization Value Increase for the preceding Quarter;
+Entry:   
+Entry:  1.1.8           “Base Management Fee Adjustment” has the meaning assigned thereto in Section 7.1.2;
+Entry:   
+Entry:   
+Entry:  -3-
+Entry:   
+Entry:   
+Entry:  1.1.9           “BRELP” has the meaning assigned thereto in the preamble;
+Entry:   
+Entry:  1.1.10         “BRELP General Partner” means BRP Bermuda GP Limited (successor to 2288508 Ontario Inc.), which is the general partner of the BRELP GP LP;
+Entry:   
+Entry:  1.1.11         “BRELP GP LP” means BREP Holding L.P., which is the general partner of BRELP;
+Entry:   
+Entry:  1.1.12         “BRELP Units” means the limited partnership units of BRELP;
+Entry:   
+Entry:  1.1.13         “BEP” has the meaning assigned thereto in the preamble;
+Entry:   
+Entry:  1.1.14         “BEP Group” means BEP, BRELP, the Holding Entities, the Operating Entities and any other direct or indirect Subsidiary of a Holding Entity;
+Entry:   
+Entry:  1.1.15         “BEP Indemnified Party” has the meaning assigned thereto in Section 10.1.2;
+Entry:   
+Entry:  1.1.16         “BEPC” means Brookfield Renewable Corporation;
+Entry:   
+Entry:  1.1.17         “Brookfield” has the meaning assigned thereto in the preamble;
+Entry:   
+Entry:  1.1.18         “Brookfield Group” means Brookfield and its Affiliates, other than any member of the BEP Group;
+Entry:   
+Entry:  1.1.19         “Business” means the business carried on from time to time by the BEP Group;
+Entry:   
+Entry:  1.1.20         “Business Day” means every day except a Saturday or Sunday, or a day which is a statutory or civic holiday in Bermuda, the Province of Ontario, or the State of New York;
+Entry:   
+Entry:  1.1.21         “Canadian Service Provider” has the meaning assigned thereto in the preamble;
+Entry:   
+Entry:  1.1.22         “Canadian Service Provider II” has the meaning assigned thereto in the preamble;
+Entry:   
+Entry:  1.1.23         “Capital Commitment” means, with respect to any Operating Entity, at any time, the amount that a Service Recipient has committed at such time to contribute (either as debt or equity) to such Operating Entity as set forth in the terms of the subscription agreement or other underlying documentation with respect to such Operating Entity at or prior to such time;
+Entry:   
+Entry:  1.1.24         “Capital Contribution” means, with respect to any Operating Entity, at any time, the amount of capital that a Service Recipient has contributed (either as debt or equity) to such Operating Entity at or prior to such time;
+Entry:   
+Entry:  1.1.25         “Capital Expenditure Plan” means a plan setting out the plan, schedule and budget for Capital Maintenance and Improvements for the Power Operations;
+Entry:   
+Entry:  1.1.26         “Capital Maintenance and Improvement” means any material change, enhancement, addition or modification to the Power Operations, which is intended to maintain or improve the performance of the Power Operations, including to increase the production of energy, capacity or ancillary services from the Power Operations;
+Entry:   
+Entry:   
+Entry:  -4-
+Entry:   
+Entry:   
+Entry:  1.1.27         “Claims” has the meaning assigned thereto in Section 10.1.1;
+Entry:   
+Entry:  1.1.28         “Compensation Charges” has the meaning assigned thereto in Section 5.2.1;
+Entry:   
+Entry:  1.1.29         “Control” means the control by one Person of another Person in accordance with the following: a Person (“A”) controls another Person (“B”) where A has the power to determine the management and policies of B by contract or status (for example the status of A being the general partner of B) or by virtue of beneficial ownership of or control over a majority of the voting interests in B; and, for certainty and without limitation, if A owns or has control over shares to which are attached more than 50% of the votes permitted to be cast in the election of directors to the Governing Body of B or A is the general partner of B, a limited partnership, then in each case A Controls B for this purpose, and the term “Controlled” has the corresponding meaning;
+Entry:   
+Entry:  1.1.30         “Creditable Operating Entity Payment” means the proportion of each cash payment made by an Operating Entity to any member of the Brookfield Group, including any payment made in the form of a dividend, distribution or other profit entitlement, which the Service Providers determine to be comparable to the Base Management Fee that is attributable to the Partnership Capital invested in or committed to that Operating Entity, as applicable; provided that the aggregate amount of any Creditable Operating Entity Payments made by such Operating Entity in any Quarter shall not exceed an amount equal to 0.3125% of the amount of Partnership Capital invested in such Operating Entity;
+Entry:   
+Entry:  1.1.31         “Current Agreement” has the meaning assigned thereto in the recitals;
+Entry:   
+Entry:  1.1.32         “Dispute” has the meaning assigned thereto in Section 12.1;
+Entry:   
+Entry:  1.1.33         “Dubai Service Provider” has the meaning assigned thereto in the preamble;
+Entry:   
+Entry:  1.1.34         “Exchangeable Shares” means exchangeable subordinate voting shares of BEPC;
+Entry:   
+Entry:  1.1.35         “Expenses” has the meaning assigned thereto in Section 7.5.2;
+Entry:   
+Entry:  1.1.36         “Fair Market Value” means, with respect to any Unit or Security, (i) if such Unit or Security is listed on a stock exchange or public quotation system, the Trading Price of such Unit or Security, as applicable, or (ii) if such Unit or Security is not listed on a stock exchange or public quotation system, the fair market value of such Unit or Security, as applicable, determined by the Governing Body of the Managing General Partner; provided that if the Units are listed on a stock exchange or public quotation system, the Fair Market Value of any BRELP Unit shall be deemed to be the Trading Price of a Unit;
+Entry:   
+Entry:  1.1.37         “Fee Amount” means an amount equal to $20 million, which amount shall be adjusted for inflation annually at the Inflation Factor;
+Entry:   
+Entry:  1.1.38         “Governing Body” means (i) with respect to a corporation or limited company, the board of directors of such corporation or limited company, (ii) with respect to a limited liability company, the manager(s) or managing partner(s) of such limited liability company, (iii) with respect to a limited partnership, the board, committee or other body of the general partner of such partnership that serves a similar function (or if any such general partner is itself a limited partnership, the board, committee or other body of such general partner’s general partner that serves a similar function) and (iv) with respect to any other Person, the body of such Person that serves a similar function, and in the case of each of (i) through (iv) includes any committee or other subdivision of such body and any Person to whom such body has delegated any power or authority, including any officer and managing director;
+Entry:   
+Entry:   
+Entry:  -5-
+Entry:   
+Entry:   
+Entry:  1.1.39         “Governing Instruments” means (i) the memorandum of association and bye-laws in the case of the Managing General Partner and BRELP General Partner; (ii) the certificate of incorporation, amalgamation or continuance, as applicable, and bylaws in the case of a corporation, (iii) the memorandum and articles of association in the case of a limited company, (iv) the partnership agreement in the case of a partnership, (v) the articles of formation and operating agreement in the case of a limited liability company, (vi) the trust instrument in the case of a trust and (vii) any other similar governing document under which an entity was organized, formed or created and/or operates, including any conflict guidelines or protocols in place from time to time;
+Entry:   
+Entry:  1.1.40         “Governmental Authority” means any (i) international, national, multinational, federal, provincial, state, regional, municipal, local or other government, governmental or public department, central bank, court, tribunal, arbitral body, commission, board, bureau, agency or instrumentality, domestic or foreign, including ISO/RTOs, (ii) self-regulatory organization or stock exchange, (iii) subdivision, agent, commission, board, or authority of any of the foregoing, or (iv) quasi-governmental or private body exercising any regulatory, expropriation or taxing authority under or for the account of any of the foregoing;
+Entry:   
+Entry:  1.1.41         “Governmental Charges” has the meaning assigned thereto in Section 7.6;
+Entry:   
+Entry:  1.1.42         “Holding Entities” means the entities that have executed this Agreement on Schedule A hereto and any direct wholly-owned Subsidiary of BRELP created or acquired on or after the date of this Agreement, excluding, for greater certainty, any Operating Entities;
+Entry:   
+Entry:  1.1.43         “Incentive Distribution” means any performance-based dividend, distribution or other profit entitlement but, for greater certainty, does not include Service Agreement Fees or Creditable Operating Entity Payments;
+Entry:   
+Entry:  1.1.44         “Indemnified Party” means a Person making a claim for indemnification pursuant to Article 10;
+Entry:   
+Entry:  1.1.45         “Indemnifying Party” means a Person against whom a claim for indemnification is asserted pursuant to Article 10;
+Entry:   
+Entry:  1.1.46         “Independent Committee” means a committee of the Governing Body of the Managing General Partner made up of directors that are “independent” of Brookfield and its Affiliates, in accordance with the Managing General Partner’s Governing Instruments;
+Entry:   
+Entry:  1.1.47         “Inflation Factor” means, at any time, the fraction obtained where the numerator is the Consumer Price Index for the United States of America (all items) for the then current year and the denominator is the Consumer Price Index for the United States of America (all items) for the year immediately preceding the then current year, with appropriate mathematical adjustment made to ensure that both the numerator and the denominator have been prepared on the same basis;
+Entry:   
+Entry:   
+Entry:  -6-
+Entry:   
+Entry:   
+Entry:  1.1.48         “Interest Rate” means, for any day, the rate of interest equal to the overnight U.S. dollar London interbank offered rate on such day;
+Entry:   
+Entry:  1.1.49         “International Service Provider” has the meaning assigned thereto in the preamble;
+Entry:   
+Entry:  1.1.50         “Investment Advisory Services” means any recommendation to buy, sell, vote or take any similar action with respect to a “Security” (which, for purposes of this definition only, shall have the meaning assigned thereto in the Advisers Act);
+Entry:   
+Entry:  1.1.51         “ISO/RTO” means an independent electricity system operator, a regional transmission organization, national system operator or any other similar organization overseeing the transmission of electricity in any jurisdiction in which the BEP Group owns assets or operates;
+Entry:   
+Entry:  1.1.52         “Laws” means any and all applicable (i) laws, constitutions, treaties, statutes, codes, ordinances, principles of common and civil law and equity, rules, regulations and municipal by-laws whether domestic, foreign or international, (ii) judicial, arbitral, administrative, ministerial, departmental and regulatory judgments, orders, writs, injunctions, decisions, and awards of any Governmental Authority, and (iii) policies, practices and guidelines of any Governmental Authority which, although not actually having the force or law, are considered by such Governmental Authority as requiring compliance as if having the force of law, and the term “applicable”, with respect to such Laws and in the context that refers to one or more Persons, means such Laws that apply to such Person or Persons or its or their business, undertaking, property or securities at the relevant time and that emanate from a Governmental Authority having jurisdiction over the Person or Persons or its or their business, undertaking, property or securities;
+Entry:   
+Entry:  1.1.53         “Liabilities” has the meaning assigned thereto in Section 10.1.1;
+Entry:   
+Entry:  1.1.54         “Licensing Agreement” means the licensing agreement between Brookfield Global Asset Management Inc., BEP and BRELP dated as of November 28, 2011 pursuant to which BEP and BRELP have been granted a non-exclusive, royalty-free license to use the “Brookfield” name and the Brookfield logo;
+Entry:   
+Entry:  1.1.55         “Managing General Partner” means Brookfield Renewable Partners Limited (successor to 2288509 Ontario Inc.), which is BEP’s general partner;
+Entry:   
+Entry:  1.1.56         “Marketing Plan” means a generation and marketing plan and related budget for the Power Operations;
+Entry:   
+Entry:  1.1.57         “Net Base Management Fee” means the Base Management Fee, as adjusted pursuant to Section 7.1.2;
+Entry:   
+Entry:  1.1.58         “Opening Total Capitalization Value” means $8,093,033,167;
+Entry:   
+Entry:   
+Entry:  -7-
+Entry:   
+Entry:   
+Entry:  1.1.59         “Operating Entities” means, from time to time, the Persons that (i) directly hold the Power Operations, or (ii) indirectly hold the Power Operations but all of the interests of which are not held by the Service Recipients including, in the case of each of (i) and (ii), any joint ventures, partnerships and consortium arrangements;
+Entry:   
+Entry:  1.1.60         “Operational and Other Services” means any services provided by any member of the Brookfield Group to the Operating Entities, including financial advisory, operations and maintenance, energy marketing, agency, development, operating management and other services;
+Entry:   
+Entry:  1.1.61         “Operating Plan” means a plan setting out the operating costs and budget for the Power Operations and shall include incorporation of the Marketing Plan and scheduled maintenance outages;
+Entry:   
+Entry:  1.1.62         “Partnership Capital” means any Capital Commitment and/or (as the context requires) any Capital Contribution;
+Entry:   
+Entry:  1.1.63         “Permit” means any consent, license, approval, registration, permit or other authorization granted by any Governmental Authority;
+Entry:   
+Entry:  1.1.64         “Person” means any natural person, partnership, limited partnership, limited liability partnership, joint venture, syndicate, sole proprietorship, company or corporation (with or without share capital), limited liability corporation, unlimited liability company, joint stock company, unincorporated association, trust, trustee, executor, administrator or other legal personal representative, regulatory body or agency, government or Governmental Agency, authority or entity however designated or constituted and pronouns have a similarly extended meaning;
+Entry:   
+Entry:  1.1.65         “Power Operations” means the operations or developments directly or indirectly held or acquired by members of the BEP Group from time to time;
+Entry:   
+Entry:  1.1.66         “Principal Exchange” means the principal stock exchange or public quotation system (determined on the basis of aggregate trading volume for the prior four months) on which the Units or such Security, as applicable, are listed;
+Entry:   
+Entry:  1.1.67         “Quarter” means a calendar quarter ending on the last day of March, June, September or December;
+Entry:   
+Entry:  1.1.68         “Relationship Agreement” means the amended and restated relationship agreement dated as of [the date hereof] entered into among BEP, BRELP, certain of the Holding Entities, Brookfield and certain Affiliates of Brookfield that governs aspects of the relationship among them;
+Entry:   
+Entry:  1.1.69         “Rights Agreement” has the meaning assigned thereto in Section 7.5.3;
+Entry:   
+Entry:  1.1.70         “SEC” means the U.S. Securities and Exchange Commission;
+Entry:   
+Entry:  1.1.71         “Security” means, with respect to each Service Recipient, any issued and outstanding security of such Service Recipient (other than, in the case of BEP, the Units) that is not held by any member of the BEP Group;
+Entry:   
+Entry:   
+Entry:  -8-
+Entry:   
+Entry:   
+Entry:  1.1.72         “Service Agreement” means any agreement or arrangement entered into pursuant to Section 2.4 between any Service Recipient and any member of the Service Provider Group pursuant to which Services are provided;
+Entry:   
+Entry:  1.1.73         “Service Agreement Fee” means any cash payment, including any such payment made in the form of a dividend, distribution or other profit entitlement, which the Service Providers determine to be comparable to the Base Management Fee, and which is payable by a Service Recipient to a member of the Brookfield Group;
+Entry:   
+Entry:  1.1.74         “Service Provider Group” means the Service Providers and any member of the Brookfield Group that any Service Provider has arranged to provide the Services to any Service Recipient;
+Entry:   
+Entry:  1.1.75         “Service Provider Indemnified Parties” has the meaning assigned thereto in Section 10.1.1;
+Entry:   
+Entry:  1.1.76         “Service Providers” means the Canadian Service Provider, the Canadian Service Provider II, the US Service Provider, the International Service Provider, the UK Service Provider and the Dubai Service Provider;
+Entry:   
+Entry:  1.1.77         “Service Recipient” means BEP, BRELP, the Holding Entities and, at the option of the Holding Entities, the Operating Entities;
+Entry:   
+Entry:  1.1.78         “Services” has the meaning assigned thereto in Section 3.1;
+Entry:   
+Entry:  1.1.79         “Subsidiary” means, with respect to any Person, (i) any other Person that is directly or indirectly Controlled by such Person, (ii) any trust in which such Person holds all of the beneficial interests or (iii) any partnership, limited liability company or similar entity in which such Person holds all of the interests other than the interests of any general partner, managing member or similar Person;
+Entry:   
+Entry:  1.1.80         “Third Party Claim” has the meaning assigned thereto in Section 10.1.3;
+Entry:   
+Entry:  1.1.81         “Total Capitalization Value” means, in any Quarter, the sum of (i) the Fair Market Value of a Unit multiplied by the number of Units issued and outstanding on the last trading day of the Quarter (assuming full conversion of any limited partnership interests held by any member of the Brookfield Group in BRELP into Units), plus (ii) for each class or series of Security, the Fair Market Value of a Security of such class or series multiplied by the number of Securities of such class or series issued and outstanding on the last trading day of the Quarter (calculated on a fully-diluted basis), plus (iii) the principal amount of all debt not captured by paragraph (ii) of this Section 1.1.81 owed by each Service Recipient (excluding for this purpose any Operating Entity) on the last trading day of the Quarter to any Person that is not a member of the BEP Group, which debt has recourse to any Service Recipient, less any amount of cash held by all Service Recipients (excluding for this purpose any Operating Entity) on such day;
+Entry:   
+Entry:  1.1.82         “Total Capitalization Value Increase” means, in any Quarter, an amount equal to the difference between (i) the Total Capitalization Value for such Quarter, and (ii) the Opening Total Capitalization Value; provided, however, that if the difference between (i) and (ii) in any Quarter is a negative number, the Total Capitalization Value Increase in such Quarter shall be deemed to be nil;
+Entry:   
+Entry:   
+Entry:  -9-
+Entry:   
+Entry:   
+Entry:  1.1.83         “Trading Price” means, in any Quarter, with respect to any Unit or Security (other than a BRELP Unit) that is listed on a stock exchange or public quotation system, the volume-weighted average trading price of such Unit or Security on the Principal Exchange for the five trading days ending on the last trading day of such Quarter; provided that where the Trading Price of any Unit or Security is calculated in any currency other than U.S. dollars, such amount shall be converted to U.S. dollars for purposes of this Agreement in accordance with the applicable exchange rate, as determined by the Service Providers acting reasonably;
+Entry:   
+Entry:  1.1.84         “Transaction Fees” means fees paid or payable by the Service Recipients, which are on market terms, with respect to financial advisory services ordinarily carried out by investment banks in the context of mergers and acquisitions transactions;
+Entry:   
+Entry:  1.1.85         “Units” means the limited partnership units of BEP;
+Entry:   
+Entry:  1.1.86         “UK Service Provider” has the meaning assigned thereto in the preamble; and
+Entry:   
+Entry:  1.1.87         “US Service Provider” has the meaning assigned thereto in the preamble.
+Entry:   
+Entry:  1.2
+Entry:  Headings and Table of Contents
+Entry:   
+Entry:  The inclusion of headings and a table of contents in this Agreement are for convenience of reference only and will not affect the construction or interpretation hereof.
+Entry:   
+Entry:  1.3
+Entry:  Interpretation
+Entry:   
+Entry:  In this Agreement, unless the context otherwise requires:
+Entry:   
+Entry:  1.3.1         words importing the singular shall include the plural and vice versa, words importing gender shall include all genders or the neuter, and words importing the neuter shall include all genders;
+Entry:   
+Entry:  1.3.2        the words “include”, “includes”, “including”, or any variations thereof, when following any general term or statement, are not to be construed as limiting the general term or statement to the specific items or matters set forth or to similar items or matters, but rather as referring to all other items or matters that could reasonably fall within the broadest possible scope of the general term or statement;
+Entry:   
+Entry:  1.3.3         references to any Person include such Person’s successors and permitted assigns;
+Entry:   
+Entry:  1.3.4        any reference to a statute, regulation, policy, rule or instrument shall include, and shall be deemed to be a reference also to, all amendments made to such statute, regulation, policy, rule or instrument and to any statute, regulation, policy, rule or instrument that may be passed which has the effect of supplementing or superseding the statute, regulation, policy, rule or instrument so referred to;
+Entry:   
+Entry:   
+Entry:  -10-
+Entry:   
+Entry:   
+Entry:  1.3.5        any reference to this Agreement or any other agreement, document or instrument shall be construed as a reference to this Agreement or, as the case may be, such other agreement, document or instrument as the same may have been, or may from time to time be, amended, varied, replaced, amended and restated, supplemented or otherwise modified;
+Entry:   
+Entry:  1.3.6        in the event that any day on which any amount is to be determined or any action is required to be taken hereunder is not a Business Day, then such amount shall be determined or such action shall be required to be taken at or before the requisite time on the next succeeding day that is a Business Day; and
+Entry:   
+Entry:  1.3.7        except where otherwise expressly provided, all amounts in this Agreement are stated and shall be paid in U.S. currency.
+Entry:   
+Entry:  1.4
+Entry:  Actions by the Service Providers or the Service Recipients
+Entry:   
+Entry:  Unless the context requires otherwise, where the consent of or a determination is required by any Service Provider or Service Recipient hereunder, the parties shall be entitled to conclusively rely upon it having been given or taken, as applicable, if, such Service Provider or Service Recipient, as applicable, has communicated the same in writing.
+Entry:   
+Entry:  1.5
+Entry:  Generally Accepted Accounting Principles
+Entry:   
+Entry:  In this Agreement, references to “generally accepted accounting principles” mean the generally accepted accounting principles used by BEP in preparing its financial statements from time to time.
+Entry:   
+Entry:  1.6
+Entry:  Invalidity of Provisions
+Entry:   
+Entry:  Each of the provisions contained in this Agreement is distinct and severable and a declaration of invalidity or unenforceability of any such provision or part thereof by a court of competent jurisdiction will not affect the validity or enforceability of any other provision hereof. To the extent permitted by applicable law, the parties waive any provision of law which renders any provision of this Agreement invalid or unenforceable in any respect. The parties will engage in good faith negotiations to replace any provision which is declared invalid or unenforceable with a valid and enforceable provision, the economic effect of which comes as close as possible to that of the invalid or unenforceable provision which it replaces.
+Entry:   
+Entry:  1.7
+Entry:  Entire Agreement
+Entry:   
+Entry:  This Agreement constitutes the entire agreement between the parties pertaining to the subject matter of this Agreement. There are no warranties, conditions, or representations (including any that may be implied by statute) and there are no agreements in connection with such subject matter except as specifically set forth or referred to in this Agreement. No reliance is placed on any warranty, representation, opinion, advice or assertion of fact made either prior to, contemporaneous with, or after entering into this Agreement, by any party to this Agreement or its directors, officers, employees or agents, to any other party to this Agreement or its directors, officers, employees or agents, except to the extent that the same has been reduced to writing and included as a term of this Agreement, and none of the parties to this Agreement has been induced to enter into this Agreement by reason of any such warranty, representation, opinion, advice or assertion of fact. Accordingly, there will be no liability, either in tort or in contract, assessed in relation to any such warranty, representation, opinion, advice or assertion of fact, except to the extent contemplated above.
+Entry:   
+Entry:   
+Entry:  -11-
+Entry:   
+Entry:   
+Entry:  1.8
+Entry:  Waiver, Amendment
+Entry:   
+Entry:  Except as expressly provided in this Agreement, no amendment or waiver of this Agreement will be binding unless executed in writing by the party to be bound thereby. No waiver of any provision of this Agreement will constitute a waiver of any other provision nor will any waiver of any provision of this Agreement constitute a continuing waiver unless otherwise expressly provided. A party’s failure or delay in exercising any right under this Agreement will not operate as a waiver of that right. A single or partial exercise of any right will not preclude a party from any other or further exercise of that right or the exercise of any other right.
+Entry:   
+Entry:  1.9
+Entry:  Governing Law
+Entry:   
+Entry:  This Agreement will be governed by and interpreted and enforced in accordance with the laws of the Province of Ontario and the federal laws of Canada applicable therein.
+Entry:   
+Entry:  ARTICLE 2
+Entry:  APPOINTMENT OF THE SERVICE PROVIDERS
+Entry:   
+Entry:  2.1
+Entry:  Appointment and Acceptance
+Entry:   
+Entry:  2.1.1             Subject to and in accordance with the terms, conditions and limitations in this Agreement, the Service Recipients hereby appoint the Service Providers to provide or arrange for other members of the Service Provider Group to provide the Services to the Service Recipients. This appointment will be subject to each Service Recipient’s Governing Body’s supervision of the Service Providers and obligation to manage and control the affairs of such Service Recipient.
+Entry:   
+Entry:  2.1.2             The Service Providers hereby accept the appointment provided for in Section 2.1.1 and agree to act in such capacity and to provide or arrange for other members of the Service Provider Group to provide the Services to the Service Recipients upon the terms, conditions and limitations in this Agreement.
+Entry:   
+Entry:  2.2
+Entry:  Other Holding Entities
+Entry:   
+Entry:  The parties acknowledge that any Holding Entity that is not a party to this Agreement will execute a counterpart of this Agreement agreeing to be bound by the terms of this Agreement.
+Entry:   
+Entry:  2.3
+Entry:  Other Service Providers
+Entry:   
+Entry:  Any Service Provider, may from time to time, appoint an Affiliate of Brookfield to act as a new Service Provider under this Agreement, effective upon the execution of a joinder agreement by the new Service Provider in the form set forth on Schedule B hereto.
+Entry:   
+Entry:   
+Entry:  -12-
+Entry:   
+Entry:   
+Entry:  2.4
+Entry:  Subcontracting and Other Arrangements
+Entry:   
+Entry:  Any Service Provider may subcontract to any other member of the Service Provider Group or any of its other Affiliates, or arrange for the provision of any or all of the Services to be provided by it under this Agreement by any other member of the Service Provider Group or any other of its Affiliates, and the Service Recipients hereby consent to any such subcontracting or arrangement; provided that the Service Providers shall remain responsible to the Service Recipients for any Services provided by such other member of the Service Provider Group or Affiliate.
+Entry:   
+Entry:  ARTICLE 3
+Entry:  SERVICES AND POWERS OF THE SERVICE PROVIDERS
+Entry:   
+Entry:  3.1
+Entry:  Services
+Entry:   
+Entry:  The Service Providers will provide or arrange for the provision by other members of the Service Provider Group of, and will have the exclusive power and authority to provide or arrange for the provision by other members of the Service Provider Group of, the following services (the “Services”) to the Service Recipients:
+Entry:   
+Entry:  3.1.1          causing or supervising the carrying out of all day to day management, secretarial, accounting, banking, treasury, administrative, liaison, representative, regulatory and reporting functions and obligations;
+Entry:   
+Entry:  3.1.2          providing overall strategic advice to the Holding Entities in relation to the Business, including advising with respect to the expansion of the Business into new markets;
+Entry:   
+Entry:  3.1.3          establishing and maintaining or supervising the establishment and maintenance of books and records;
+Entry:   
+Entry:  3.1.4          identifying, evaluating and recommending to the Holding Entities acquisitions or dispositions from time to time and, where requested to do so, assisting in negotiating the terms of such acquisitions or dispositions;
+Entry:   
+Entry:  3.1.5          recommending and, where requested to do so, assisting in the raising of funds whether by way of debt, equity or otherwise, including the preparation, review or distribution of any prospectus or offering memorandum in respect thereof and assisting with communications support in connection therewith;
+Entry:   
+Entry:  3.1.6          causing or supervising the preparation and implementation of any Operating Plan, Capital Expenditure Plan or Marketing Plan;
+Entry:   
+Entry:  3.1.7          recommending to the Holding Entities suitable candidates to serve on the Governing Bodies of the Operating Entities;
+Entry:   
+Entry:  3.1.8          making recommendations with respect to the exercise of any voting rights to which the Holding Entities are entitled in respect of the Operating Entities;
+Entry:   
+Entry:   
+Entry:  -13-
+Entry:   
+Entry:   
+Entry:  3.1.9         making recommendations with respect to the payment of dividends by the Holding Entities or any other distributions by the Service Recipients, including distributions by BEP to its unitholders;
+Entry:   
+Entry:  3.1.10        monitoring and/or oversight of the applicable Service Recipient’s accountants, legal counsel and other accounting, financial or legal advisors and technical, commercial, marketing and other independent experts and managing litigation in which a Service Recipient is sued or commencing litigation after consulting with, and subject to the approval of, the relevant Governing Body;
+Entry:   
+Entry:  3.1.11        attending to all matters necessary for any reorganization, bankruptcy proceedings, dissolution or winding up of a Service Recipient, subject to approval by the relevant Governing Body;
+Entry:   
+Entry:  3.1.12        supervising the timely calculation and payment of taxes payable, and the filing of all tax returns due, by each Service Recipient;
+Entry:   
+Entry:  3.1.13        causing or supervising the preparation of the Service Recipients’ annual consolidated financial statements, quarterly interim financial statements and other public disclosure;
+Entry:   
+Entry:  3.1.14        making recommendations in relation to and effecting the entry into insurance of each Service Recipient’s assets, together with other insurances against other risks, including directors and officers insurance, as the relevant member of the Service Provider Group and the relevant Governing Body may from time to time agree;
+Entry:   
+Entry:  3.1.15        arranging for individuals to carry out the functions of the principal executive, accounting and financial officers for BEP only for purposes of applicable securities laws;
+Entry:   
+Entry:  3.1.16        providing individuals to act as senior officers of Holding Entities as agreed from time to time, subject to the approval of the relevant Governing Body;
+Entry:   
+Entry:  3.1.17        advising the Service Recipients regarding the maintenance of compliance with applicable Laws and other obligations; and
+Entry:   
+Entry:  3.1.18        providing all such other services as may from time to time be agreed with the Service Recipients that are reasonably related to the Service Recipient’s day to day operations.
+Entry:   
+Entry:  Notwithstanding any provision herein to the contrary, all Investment Advisory Services shall (i) be provided solely to BRELP and (ii) be provided by a Service Provider that is registered with the SEC as an investment adviser (or through such a Service Provider by participating affiliates thereof relying on the SEC’s Uniao de Bancos de Brasileiros S.A. no action letter dated July 28, 1992 and the subsequent letters related thereto).
+Entry:   
+Entry:  3.2
+Entry:  Responsibility for Certain Services
+Entry:   
+Entry:  Notwithstanding any provision herein to the contrary:
+Entry:   
+Entry:   
+Entry:  -14-
+Entry:   
+Entry:   
+Entry:  3.2.1         the US Service Provider, the International Service Provider and, subject to the remainder of this Section 3.2, the UK Service Provider shall be responsible for the provision of Services to BEP and BRELP and no entity resident in Canada shall be responsible for the provision of, nor shall it provide, any Services to BEP and BRELP;
+Entry:   
+Entry:  3.2.2         the US Service Provider and the International Service Provider shall be responsible for the provision of the Services described in Sections 3.1.1, 3.1.3, 3.1.5, 3.1.9-3.1.13 and 3.1.18 to BEP and BRELP and the UK Service Provider shall not be responsible for the provision of, nor shall it provide, any such Services;
+Entry:   
+Entry:  3.2.3         the US Service Provider and the International Service Provider shall be responsible for the provision of the Services to any Service Recipient that is not (i) an Affiliate of the UK Service Provider, or (ii) acting as principal, and the UK Service Provider shall not be responsible for the provision of, nor shall it provide, any such Services;
+Entry:   
+Entry:  3.2.4         any Services provided to BRELP in connection with any securities, whether equity or debt, of Brookfield BRP Holdings (Canada) Inc. that are held by BRELP shall be provided by the US Service Provider or the International Service Provider or an Affiliate of either the US Service Provider or the International Service Provider that is not resident in Canada with whom the US Service Provider or the International Service Provider, as the case may be, has made arrangements for the provision of such Services or to whom the US Service Provider or the International Service Provider, as the case may be, has subcontracted the provision of such Services; and
+Entry:   
+Entry:  3.2.5         if any Service provided by the Dubai Service Provider requires the valuation of any asset(s), then such valuation shall be carried out by the Dubai Service Provider in accordance with any applicable valuation policy in effect from time to time.
+Entry:   
+Entry:  provided, however, that nothing in this Section 3.2 shall restrict the provision of Investment Advisory Services to BRELP in accordance with Section 3.1.
+Entry:   
+Entry:  3.3
+Entry:  Supervision of Service Providers’ Activities
+Entry:   
+Entry:  3.3.1        The Service Providers shall, at all times, be subject to the supervision of the relevant Service Recipient’s Governing Body and shall only provide or arrange for the provision of such Services as such Governing Body may request from time to time and provided that the relevant Governing Body shall remain responsible for all investment and divestment decisions made by the Service Recipient.
+Entry:   
+Entry:  3.3.2         With respect to any Service provided to a Service Recipient, the Dubai Service Provider will, at all times, comply with and be subject to the direction of the relevant Service Recipient’s Governing Body in relation to the following (without limitation):
+Entry:   
+Entry:  3.3.2.1  investment parameters;
+Entry:   
+Entry:  3.3.2.2  the arrangements for providing notice to the relevant Service Recipient or its Governing Body, as the case may be, of transactions executed on behalf of the relevant Service Recipient; and
+Entry:   
+Entry:   
+Entry:  -15-
+Entry:   
+Entry:   
+Entry:  3.3.2.3  whether and when the Dubai Service Provider may act as principal in any given transaction.
+Entry:   
+Entry:  3.3.3       Instructions by or on behalf of a Service Recipient to the Dubai Service Provider may be given orally or in writing, but shall be given or confirmed in writing (by letter or email) if so requested by the Dubai Service Provider.
+Entry:   
+Entry:  3.4
+Entry:  Restrictions on the Service Providers
+Entry:   
+Entry:  3.4.1        The Service Providers shall, and shall cause any other member of the Service Provider Group to, refrain from taking any action that is not in compliance with or would violate any Laws or that otherwise would not be permitted by the Governing Instruments of the Service Recipients. If any Service Provider or any member of the Service Provider Group is instructed to take any action that is not in such compliance by a Service Recipient’s Governing Body, such person will promptly notify such Governing Body of its judgment that such action would not comply with or violate any such Laws or otherwise would not be permitted by such Governing Instrument.
+Entry:   
+Entry:  3.4.2        In performing its duties under this Agreement, each member of the Service Provider Group shall be entitled to rely in good faith on qualified experts, professionals and other agents (including on accountants, appraisers, consultants, legal counsel and other, professional advisors) and shall be permitted to rely in good faith upon the direction of a Service Recipient’s Governing Body to evidence any approvals or authorizations that are required under this Agreement. All references in this Agreement to the Service Recipients or Governing Body for the purposes of instructions, approvals and requests to the Service Providers will refer to the Governing Body.
+Entry:   
+Entry:  3.4.3        The Dubai Service Provider hereby acknowledge and agrees that it does not owe, at any time nor in any circumstances, a duty of best execution to any of the Service Recipients.
+Entry:   
+Entry:  3.5
+Entry:  Errors and Omissions Insurance
+Entry:   
+Entry:  Each of the Service Providers shall, and shall cause any other member of the Service Provider Group to, at all times during the term of this Agreement maintain “errors and omissions” insurance coverage and other insurance coverage which is customarily carried by Persons performing functions that are similar to those performed by the members of the Service Provider Group under this Agreement and in an amount which is comparable to that which is customarily maintained by such other Persons.
+Entry:   
+Entry:  ARTICLE 4
+Entry:  RELATIONSHIP BETWEEN THE SERVICE PROVIDERS AND THE SERVICE RECIPIENTS
+Entry:   
+Entry:  4.1
+Entry:  Other Activities
+Entry:   
+Entry:  Subject to the terms of the Relationship Agreement, no member of the Service Provider Group (and no Affiliate, director, officer, member, partner, shareholder or employee of any member of the Service Provider Group) shall be prohibited from engaging in other business activities or sponsoring, or providing services to, third parties that compete directly or indirectly with the Service Recipients.
+Entry:   
+Entry:   
+Entry:  -16-
+Entry:   
+Entry:   
+Entry:  4.2
+Entry:  Exclusivity
+Entry:   
+Entry:  Except as expressly provided for herein, the Service Recipients shall not, during the term of this Agreement, engage any other Person to provide any services comparable to the Services without the prior written consent of the Service Providers, which may be withheld in the absolute discretion of the Service Providers.
+Entry:   
+Entry:  4.3
+Entry:  Independent Contractor, No Partnership or Joint Venture
+Entry:   
+Entry:  The parties acknowledge that the Service Providers are providing or arranging for the provision of the Services hereunder as independent contractors and that the Service Recipients and the Service Providers are not partners or joint venturers with or agents of each other, and nothing herein will be construed so as to make them partners, joint venturers or agents or impose any liability as such on any of them as a result of this Agreement; provided however that nothing herein will be construed so as to prohibit the Service Recipients and the Service Providers from embarking upon an investment together as partners, joint venturers or in any other manner whatsoever.
+Entry:   
+Entry:  ARTICLE 5
+Entry:  MANAGEMENT AND EMPLOYEES
+Entry:   
+Entry:  5.1
+Entry:  Management and Employees
+Entry:   
+Entry:  5.1.1        The Service Providers shall arrange, or shall arrange for another member of the Service Provider Group to arrange, for such qualified personnel and support staff to be available to carry out the Services. Such personnel and support staff shall devote such of their time to the provision of the Services to the Service Recipients as the relevant member of the Service Provider Group reasonably deems necessary and appropriate in order to fulfill its obligations hereunder. Such personnel and support staff need not have as their primary responsibility the provision of the Services to the Service Recipients or be dedicated exclusively to the provision of the Services to the Service Recipients.
+Entry:   
+Entry:  5.1.2        Each of the Service Recipients shall do all things reasonably necessary on its part as requested by any member of the Service Provider Group consistent with the terms of this Agreement to enable the members of the Service Provider Group to fulfill their obligations, covenants and responsibilities and to exercise their rights pursuant to this Agreement, including making available to the Service Provider Group, and granting the Service Provider Group access to, the employees and contractors of the Service Recipients as any member of the Service Provider Group may from time to time request.
+Entry:   
+Entry:  5.1.3        The Service Providers covenant and agree to exercise the power and discharge the duties conferred under this Agreement honestly and in good faith, and shall exercise the degree of care, diligence and skill that a reasonably prudent person would exercise in comparable circumstances, subject to, and after taking into account, the terms and conditions of the Relationship Agreement.
+Entry:   
+Entry:   
+Entry:  -17-
+Entry:   
+Entry:   
+Entry:  5.2
+Entry:  Compensation Charges
+Entry:   
+Entry:  5.2.1        The parties acknowledge and agree that, at the request of BEP, it may be desirable for employees and other personnel of any member of the BEP Group to receive long-term incentive compensation pursuant to one or more programs or other arrangements offered by any member of the Brookfield Group. In these cases, all or a portion of such long-term incentive compensation (including cash, options or other security-based compensation) paid or payable by the Brookfield Group to such employees or other personnel of the BEP Group shall be allocated to the applicable member of the BEP Group (a “Compensation Charge”).
+Entry:   
+Entry:  5.2.2        The amount of any Compensation Charge allocated to a member of the BEP Group shall be reported to the Nominating and Governance Committee of the Managing General Partner on an annual basis.
+Entry:   
+Entry:  ARTICLE 6
+Entry:  INFORMATION AND RECORDS
+Entry:   
+Entry:  6.1
+Entry:  Books and Records
+Entry:   
+Entry:  6.1.1        The Service Providers shall, or shall cause any other member of the Service Provider Group to, as applicable, maintain proper books, records and documents in which complete, true and correct entries, in conformity in all material respects with generally accepted accounting principles and all requirements of applicable Laws, will be made.
+Entry:   
+Entry:  6.1.2        The Service Recipients shall maintain proper books, records and documents in which complete, true and correct entries, in conformity in all material respects with generally accepted accounting principles and all requirements of applicable Laws, will be made.
+Entry:   
+Entry:  6.2
+Entry:  Examination of Records by the Service Recipients
+Entry:   
+Entry:  Upon reasonable prior notice by the Service Recipients to the relevant member of the Service Provider Group, the relevant member of the Service Provider Group will make available to the Service Recipients and their authorized representatives, for examination during normal business hours on any Business Day, all books, records and documents required to be maintained under Section 6.1.1. In addition, the Service Provider Group will make available to the Service Recipients or their authorized representatives such financial and operating data in respect of the performance of the Services under this Agreement as may be in existence and as the Service Recipients or their authorized representatives will from time to time reasonably request, including for the purposes of conducting any audit in respect of expenses of the Service Recipients or other matters necessary or advisable to be audited in order to conduct an audit of the financial affairs of the Service Recipients. Any examination of records will be conducted in a manner which will not unduly interfere with the conduct of the Service Recipients’ activities or of the Service Provider Group’s business in the ordinary course.
+Entry:   
+Entry:   
+Entry:  -18-
+Entry:   
+Entry:   
+Entry:  6.3
+Entry:  Access to Information by Service Provider Group
+Entry:   
+Entry:  6.3.1         The Service Recipients shall:
+Entry:   
+Entry:  6.3.1.1        grant, or cause to be granted, to the Service Provider Group full access to all documentation and information, including all of the books, records, and documents required to be maintained under Section 6.1.2, necessary in order for the Service Provider Group to perform its obligations, covenants and responsibilities pursuant to the terms hereof and to enable the Service Provider Group to provide the Services; and
+Entry:   
+Entry:  6.3.1.2        provide, or cause to be provided, all documentation and information as may be reasonably requested by any member of the Service Provider Group, and promptly notify the appropriate member of the Service Provider Group of any material facts or information of which the Service Recipients is aware, including any known, pending or threatened suits, actions, claims, proceedings or orders by or against any member of the BEP Group before any Governmental Authority, that may affect the performance of the obligations, covenants or responsibilities of the Service Provider Group pursuant to this Agreement, including maintenance of proper financial records.
+Entry:   
+Entry:  6.4
+Entry:  Additional Information
+Entry:   
+Entry:  The parties acknowledge and agree that conducting the activities and providing the Services contemplated herein may have the incidental effect of providing additional information which may be utilized with respect to, or may augment the value of, business interests and related assets in which any of member of the Service Provider Group or any of its Affiliates has an interest and that, subject to compliance with this Agreement, none of the members of the Service Provider Group or any of their respective Affiliates will be liable to account to the Service Recipients with respect to such activities or results; provided, however, that the relevant member of the Service Provider Group will not (and will cause its Affiliates not to), in making any use of such additional information, do so in any manner that the relevant member of the Service Provider Group or its Affiliates knows, or ought reasonably to know, would cause or result in a breach of any confidentiality provision of agreements to which any Service Recipient is a party or is bound.
+Entry:   
+Entry:  ARTICLE 7
+Entry:  FEES AND EXPENSES
+Entry:   
+Entry:  7.1
+Entry:  Net Base Management Fee and Base Management Fee Adjustment
+Entry:   
+Entry:  7.1.1        BRELP hereby agrees to pay as provided by this Article 7, during the term of this Agreement, the Net Base Management Fee, quarterly in arrears.
+Entry:   
+Entry:  7.1.2        The amount of the Net Base Management Fee payable hereunder for any Quarter will be equal to the amount of the Base Management Fee reduced (the “Base Management Fee Adjustment”) by the following amounts, to the extent that such amounts have not previously reduced the amount of the Base Management Fee as a result of the application of the Base Management Fee Adjustment in a previous Quarter:
+Entry:   
+Entry:   
+Entry:  -19-
+Entry:   
+Entry:   
+Entry:  7.1.2.1        any Service Agreement Fees paid in or payable for that Quarter; and
+Entry:   
+Entry:  7.1.2.2        any Creditable Operating Entity Payments paid in or payable for that Quarter.
+Entry:   
+Entry:  7.1.3        For greater certainty, the Base Management Fee will not be reduced by operation of this Agreement by the amount of any (i) Incentive Distribution paid or payable by any Service Recipient or Operating Entity to any member of the Brookfield Group; (ii) any fees for Operational and Other Services that are paid or payable by any Operating Entity to any member of the Brookfield Group; or (iii) any Transaction Fees.
+Entry:   
+Entry:  7.2
+Entry:  Maximum Fees Payable by Service Recipients
+Entry:   
+Entry:  In no event shall BRELP, or any of the Service Recipients, be obligated under this Agreement and the Service Agreements to pay, in the aggregate in respect of any Quarter, any amount exceeding the Base Management Fee payable for that Quarter, after giving effect to any reductions for Creditable Operating Entity Payments contemplated by Section 7.1.2.
+Entry:   
+Entry:  7.3
+Entry:  Currency
+Entry:   
+Entry:  For the purposes of Section 7.1.2 hereof, if a payment giving rise to a Base Management Fee Adjustment was denominated in a currency other than the U.S. dollar, the amount of such payment will be deemed to be equal to the amount in U.S. dollars into which such payment could have been converted on the last day of the relevant Quarter using the exchange rate between such other currency and the U.S. dollars published in the “Exchange Rates” table of the Wall Street Journal on such date or, in the event that the “Exchange Rates” table of the Wall Street Journal was not published on such date, the closest date immediately preceding the date of such payment on which the “Exchange Rates” table of the Wall Street Journal was published.
+Entry:   
+Entry:  7.4
+Entry:  Computation and Payment of Net Base Management Fee
+Entry:   
+Entry:  7.4.1             The Service Providers or another member of the Service Provider Group will compute each instalment and allocation of the Net Base Management Fee (including computation of the Base Management Fee Adjustment) as soon as practicable following the end of the Quarter with respect to which such instalment is payable, but in any event no later than five Business days following the end of such Quarter. A copy of the computations and allocations made will thereafter, for informational purposes only, promptly be delivered to each Service Recipient by the relevant member of the Service Provider Group upon request. Payment of the Net Base Management Fee for any Quarter (whether in cash, Units, BRELP Units or any combination of the forgoing) shall be due and payable promptly after the 45th day following the end of such Quarter. For greater certainty, any Dispute relating to the computation of the Net Base Management Fee shall be resolved in accordance with Article 12.
+Entry:   
+Entry:  7.4.2             For any Quarter in which the Governing Body of the Managing General Partner determines that the BEP Group has insufficient cash (taking into account any availability under any hydrology reserve facility) to pay the Net Base Management Fee as well as the next regular distribution on Units, BRELP may elect to pay all or a portion of the Net Base Management Fee payable in such Quarter in Units or BRELP Units, provided that (i) any such election shall be made within 45 days following the end of the applicable Quarter, (ii) no such payment shall be made in Units without the written consent of BEP, and (iii) no such payment shall be made in BRELP Units without the written consent of the Service Providers. If BRELP elects to pay all or a portion of the Net Base Management Fee in Units or BRELP Units, BEP or BRELP, as applicable, shall issue, and the applicable Service Provider hereby agrees to acquire, Units or BRELP Units, as applicable, equal to the portion of the Net Base Management Fee elected to be paid in Units or BRELP Units divided by the Fair Market Value of a Unit on the date BRELP makes such election (provided that no fractional Units or BRELP Units shall be issued, and such number shall be rounded down to the nearest whole number with the remainder payable to the Service Providers in cash). In such case, BEP or BRELP, as applicable, is directed to apply such payment against the subscription price for such Units or BRELP Units, as applicable.
+Entry:   
+Entry:   
+Entry:  -20-
+Entry:   
+Entry:   
+Entry:  7.4.3             If BRELP elects to pay all or any portion of the Net Base Management Fee for any Quarter in Units or BRELP Units, the Service Recipients shall take or cause to be taken all appropriate action to issue such Units or BRELP Units, as applicable, including any action required to ensure that such Units or BRELP Units, as applicable, are issued in accordance with applicable Laws and listed on any applicable stock exchanges and public quotation systems.
+Entry:   
+Entry:  7.5
+Entry:  Expenses
+Entry:   
+Entry:  7.5.1             The Service Providers acknowledge and agree that the Service Recipients will not be required to reimburse any member of the Service Provider Group for the salaries and other remuneration of the management, personnel or support staff who provide the Services to such Service Recipients or overhead for such persons.
+Entry:   
+Entry:  7.5.2            Each of the Service Recipients shall reimburse the relevant member of the Service Provider Group for all out-of-pocket fees, costs and expenses, including those of any third party (other than those contemplated by Section 7.5.1) (“Expenses”), incurred by the relevant member of the Service Provider Group in connection with the provision of the Services. Such Expenses are expected to include, among other things:
+Entry:   
+Entry:  7.5.2.1            fees, costs and expenses relating to any debt or equity financing;
+Entry:   
+Entry:  7.5.2.2            fees, costs and expenses incurred in connection with the general administration of any Service Recipient;
+Entry:   
+Entry:  7.5.2.3            taxes, licenses and other statutory fees or penalties levied against or in respect of a Service Recipient in respect of Services;
+Entry:   
+Entry:  7.5.2.4            amounts paid by the relevant member of the Service Provider Group under indemnification, contribution or similar arrangements;
+Entry:   
+Entry:  7.5.2.5            fees, costs and expenses relating to financial reporting, regulatory filings and investor relations and the fees, costs and expenses of agents, advisors and other Persons who provide Services to a Service Recipient;
+Entry:   
+Entry:   
+Entry:  -21-
+Entry:   
+Entry:   
+Entry:  7.5.2.6            any other fees, costs and expenses incurred by the relevant member of the Service Provider Group that are reasonably necessary for the performance by the relevant member of the Service Provider Group of its duties and functions under this Agreement or any Service Agreement; and
+Entry:   
+Entry:  7.5.2.7            fees, expenses and costs incurred in connection with the investigation, acquisition, holding or disposal of any asset or business that is made or that is proposed to be made.
+Entry:   
+Entry:  7.5.3             BEP will reimburse Brookfield for any and all amounts actually paid to the rights agent (i) pursuant to the Rights Agreement between Brookfield and Wilmington Trust, National Association, dated as of July 30, 2020 (the “Rights Agreement”), including, but not limited to, in respect of services rendered, out-of-pocket expenses, counsel fees and other disbursements incurred in the administration and execution of the Rights Agreement and the exercise and performance of the rights agent’s duties thereunder, and (ii) in respect of any indemnification provided to the rights agent pursuant to the Rights Agreement.
+Entry:   
+Entry:  7.6
+Entry:  Governmental Charges
+Entry:   
+Entry:  Without limiting Section 7.5, the Service Recipients shall pay or reimburse the relevant member of the Service Provider Group for all sales taxes, use taxes, value added taxes, goods and services taxes, harmonized sales taxes, withholding taxes or other similar taxes, customs duties or other governmental charges (“Governmental Charges”) that are levied or imposed by any Governmental Authority by reason of this Agreement, any Service Agreement or any other agreement contemplated by this Agreement, or the fees or other amounts payable hereunder or thereunder, except for any income taxes, corporation taxes, capital taxes or other similar taxes payable by any member of the Service Provider Group which are personal to such member of the Service Provider Group. Any failure by the Service Provider Group to collect monies on account of these Governmental Charges shall not constitute a waiver of the right to do so.
+Entry:   
+Entry:  7.7
+Entry:  Computation and Payment of Expenses and Governmental Charges
+Entry:   
+Entry:  From time to time the Service Providers shall, or shall cause the other members of the Service Provider Group to, prepare statements (each an “Expense Statement”) documenting the Expenses and Governmental Charges to be reimbursed pursuant to this Article 7 and shall deliver such statements to the relevant Service Recipient. All Expenses and Governmental Charges reimbursable pursuant to this Article 7 shall be reimbursed by the relevant Service Recipient no later than the date which is 30 days after receipt of an Expense Statement. The provisions of this Section 7.7 shall survive the termination of this Agreement.
+Entry:   
+Entry:  ARTICLE 8
+Entry:  BROOKFIELD’S OBLIGATION AND CONSENT RIGHT
+Entry:  8.1
+Entry:  Provision of Services to the Service Recipients
+Entry:   
+Entry:  Brookfield’s sole obligation pursuant to this Agreement shall be to cause the members of the Service Provider Group to provide Services to the Service Recipients in accordance with the terms of this Agreement.
+Entry:   
+Entry:   
+Entry:  -22-
+Entry:   
+Entry:   
+Entry:  8.2
+Entry:  Consent to Issuance of Class A Shares
+Entry:   
+Entry:  8.2.1             Except as set forth in Section 8.2.2, prior to the issuance by BEPC of any Exchangeable Shares, BEPC shall obtain the written consent of Brookfield, which consent shall be provided or withheld in Brookfield’s sole discretion, provided that Brookfield shall deliver its written decision on whether or not to provide such consent within 10 Business Days of receiving a written request from BEPC, in respect of such issuance. Brookfield shall be entitled to such consent right for as long as Brookfield is a party to the Rights Agreement.
+Entry:   
+Entry:  8.2.2             Notwithstanding Section 8.2.1, Brookfield’s consent right does not apply to the issuance by BEPC of any Exchangeable Shares in satisfaction of BEPC’s restricted stock unit awards.
+Entry:   
+Entry:  ARTICLE 9
+Entry:  REPRESENTATIONS AND WARRANTIES
+Entry:  OF THE SERVICE PROVIDERS AND THE SERVICE RECIPIENTS
+Entry:   
+Entry:  9.1
+Entry:  Representations and Warranties of the Service Providers
+Entry:   
+Entry:  Each of the Service Providers hereby represents and warrants to the Service Recipients that:
+Entry:   
+Entry:  9.1.1          it is validly organized and existing under the Laws governing its formation and existence;
+Entry:   
+Entry:  9.1.2          it, or another member of the Service Provider Group, holds such Permits necessary to perform its obligations hereunder and is not aware of any reason why such Permits might be cancelled;
+Entry:   
+Entry:  9.1.3          it has the power, capacity and authority to enter into this Agreement and to perform its obligations hereunder;
+Entry:   
+Entry:  9.1.4          it has taken all necessary action to authorize the execution, delivery and performance of this Agreement;
+Entry:   
+Entry:  9.1.5          the execution and delivery of this Agreement by it and the performance by it of its obligations hereunder do not and will not contravene, breach or result in any default under its Governing Instruments, or under any mortgage, lease, agreement or other legally binding instrument, Permit or applicable Law to which it is a party or by which it or any of its properties or assets may be bound;
+Entry:   
+Entry:  9.1.6          no authorization, consent or approval, or filing with or notice to any Person is required in connection with the execution, delivery or performance by it of this Agreement; and
+Entry:   
+Entry:  9.1.7          this Agreement constitutes a valid and legally binding obligation of it enforceable against it in accordance with its terms, subject to (i) applicable bankruptcy, insolvency, moratorium, fraudulent conveyance, reorganization and other laws of general application limiting the enforcement of creditors’ rights and remedies generally and (ii) general principles of equity, including standards of materiality, good faith, fair dealing and reasonableness, equitable defenses and limits as to the availability of equitable remedies, whether such principles are considered in a proceeding at law or in equity.
+Entry:   
+Entry:   
+Entry:  -23-
+Entry:   
+Entry:   
+Entry:  9.2
+Entry:  Representations and Warranties of the Service Recipients
+Entry:   
+Entry:  Each of the Service Recipients hereby represents and warrants to the Service Providers that:
+Entry:   
+Entry:  9.2.1          it (and, if applicable, its general partner) is validly organized and existing under the Laws governing its formation and existence;
+Entry:   
+Entry:  9.2.2          it, or the relevant Operating Entity, holds such Permits necessary to own and operate the Power Operations that it directly or indirectly owns or operates from time to time and is not aware of any reason why such Permits might be cancelled;
+Entry:   
+Entry:  9.2.3          it (or, as applicable, its general partner on its behalf) has the power, capacity and authority to enter into this Agreement and to perform its duties and obligations hereunder;
+Entry:   
+Entry:  9.2.4          it (or, as applicable, its general partner) has taken all necessary action to authorize the execution, delivery and performance of this Agreement;
+Entry:   
+Entry:  9.2.5          the execution and delivery of this Agreement by it (or, as applicable, its general partner on its behalf) and the performance by it of its obligations hereunder do not and will not contravene, breach or result in any default under its Governing Instruments (or, if applicable, the Governing Instruments of its general partner), or under any mortgage, lease, agreement or other legally binding instrument, Permit or applicable Law to which it is a party or by which any of its properties or assets may be bound;
+Entry:   
+Entry:  9.2.6          no authorization, consent or approval, or filing with or notice to any Person is required in connection with the execution, delivery or performance by it (or, as applicable, its general partner on its behalf) of this Agreement; and
+Entry:   
+Entry:  9.2.7          this Agreement constitutes a valid and legally binding obligation of it enforceable against it in accordance with its terms, subject to: (i) applicable bankruptcy, insolvency, moratorium, fraudulent conveyance, reorganization and other laws of general application limiting the enforcement of creditors’ rights and remedies generally; and (ii) general principles of equity, including standards of materiality, good faith, fair dealing and reasonableness, equitable defenses and limits as to the availability of equitable remedies, whether such principles are considered in a proceeding at law or in equity.
+Entry:   
+Entry:  ARTICLE 10
+Entry:  LIABILITY AND INDEMNIFICATION
+Entry:   
+Entry:  10.1
+Entry:  Indemnity
+Entry:   
+Entry:  10.1.1      The Service Recipients hereby jointly and severally agree, to the fullest extent permitted by applicable Laws, to indemnify and hold harmless each member of the Service Provider Group, any of its Affiliates (other than any member of the BEP Group) and any directors, officers, agents, subcontractors, delegates, members, partners, shareholders, employees and other representatives of each of the foregoing (each, a “Service Provider Indemnified Party”) from and against any claims, liabilities, losses, damages, costs or expenses (including legal fees) (“Liabilities”) incurred by them or threatened in connection with any and all actions, suits, investigations, proceedings or claims of any kind whatsoever, whether arising under statute or action of a Governmental Authority or otherwise or in connection with the business, investments and activities of the Service Recipients or in respect of or arising from this Agreement or the Services provided hereunder (“Claims”), including any Claims arising on account of the Governmental Charges contemplated by Section 7.6; provided that no Service Provider Indemnified Party shall be so indemnified with respect to any Claim to the extent that such Claim is finally determined by a final and non-appealable judgment entered by a court of competent jurisdiction, or pursuant to a settlement agreement agreed to by such Service Provider Indemnified Party, to have resulted from such Service Provider Indemnified Party’s bad faith, fraud, wilful misconduct, gross negligence or, in the case of a criminal matter, conduct undertaken with knowledge that the conduct was unlawful.
+Entry:   
+Entry:   
+Entry:  -24-
+Entry:   
+Entry:   
+Entry:  10.1.2         The Service Providers hereby jointly and severally agree, to the fullest extent permitted by applicable Laws, to indemnify and hold harmless each of the Service Recipients, any of its Affiliates (other than any member of the Service Provider Group), and any directors, officers, agents, members, partners, shareholders, employees and other representatives of each of the foregoing (each, a “BEP Indemnified Party”) from and against any Liabilities resulting from any member of the Service Provider Group’s bad faith, fraud, wilful misconduct, gross negligence and, in the case of a criminal matter, conduct undertaken with the knowledge that the conduct was unlawful.
+Entry:   
+Entry:  10.1.3         If any action, suit, investigation, proceeding or claim is made or brought by any third party with respect to which an Indemnifying Party is obligated to provide indemnification under this Agreement (a “Third Party Claim”), the Indemnified Party will have the right to employ its own counsel in connection therewith, and the reasonable fees and expenses of such counsel, as well as the reasonable costs (excluding an amount reimbursed to such Indemnified Party for the time spent in connection therewith) and out-of-pocket expenses incurred in connection therewith will be paid by the Indemnifying Party in such case, as incurred but subject to recoupment by the Indemnifying Party if ultimately it is not liable to pay indemnification hereunder.
+Entry:   
+Entry:  10.1.4         The Indemnified Party and the Indemnifying Party agree that, promptly after the receipt of notice of the commencement of any Third Party Claim, the Indemnified Party in such case will notify the Indemnifying Party in writing of the commencement of such Third Party Claim (provided that any accidental failure to provide any such notice will not prejudice the right of any such Indemnified Party hereunder) and, throughout the course of such Third Party Claim, such Indemnified Party will use its best efforts to provide copies of all relevant documentation to such Indemnifying Party and will keep the Indemnifying Party apprised of the progress thereof and will discuss with the Indemnifying Party all significant actions proposed.
+Entry:   
+Entry:  10.1.5         The parties hereto expressly acknowledge and agree that the right to indemnity provided in this Section 10.1 shall be in addition to and not in derogation of any other liability which the Indemnifying Party in any particular case may have or of any other right to indemnity or contribution which any Indemnified Party may have by statute or otherwise at law.
+Entry:   
+Entry:   
+Entry:  -25-
+Entry:   
+Entry:   
+Entry:  10.1.6         The indemnity provided in this Section 10.1 shall survive the completion of Services rendered under, or any termination or purported termination of, this Agreement.
+Entry:   
+Entry:  10.2
+Entry:    Limitation of Liability
+Entry:   
+Entry:  10.2.1         The Service Providers assume no responsibility under this Agreement other than to render the Services in good faith and will not be responsible for any action of a Service Recipient’s Governing Body in following or declining to follow any advice or recommendations of the relevant member of the Service Provider Group, including as set forth in Section 3.3 hereof.
+Entry:   
+Entry:  10.2.2         The Service Recipients hereby agree that no Service Provider Indemnified Party will be liable to a Service Recipient, a Service Recipient’s Governing Body (including, for greater certainty, a director or officer of a Service Recipient or another individual with similar function or capacity) or any security holder or partner of a Service Recipient for any Liabilities that may occur as a result of any acts or omissions by the Service Provider Indemnified Party pursuant to or in accordance with this Agreement, except to the extent that such Liabilities are finally determined by a final and non-appealable judgment entered by a court of competent jurisdiction to have resulted from the Service Provider Indemnified Party’s bad faith, fraud, wilful misconduct, gross negligence, or in the case of a criminal matter, conduct undertaken with knowledge that the conduct was unlawful.
+Entry:   
+Entry:  10.2.3         The maximum amount of the aggregate liability of the Service Provider Indemnified Parties pursuant to this Agreement will be equal to the amounts previously paid in respect of Services pursuant to this Agreement or any agreement or arrangement contemplated by this Agreement in the two most recent calendar years by the Service Recipients pursuant to Article 7.
+Entry:   
+Entry:  10.2.4         For the avoidance of doubt, the provisions of this Section 10.2 shall survive the completion of the Services rendered under, or any termination or purported termination of, this Agreement.
+Entry:   
+Entry:  10.3
+Entry:   Benefit to all Indemnified Parties
+Entry:   
+Entry:  10.3.1        The Service Recipients hereby constitute the Service Providers as trustees for each of the Service Provider Indemnified Parties of the covenants of the Service Recipients under this Article 10 with respect to such Service Provider Indemnified Parties and the Service Providers hereby accept such trust and agree to hold and enforce such covenants on behalf of the Indemnified Parties.
+Entry:   
+Entry:  10.3.2       The Service Providers hereby constitute the Service Recipients as trustees for each of the BEP Indemnified Parties of the covenants of the Service Providers under this Article 10 with respect to such BEP Indemnified Parties and the Service Recipients hereby accept such trust and agree to hold and enforce such covenants on behalf of the BEP Indemnified Parties.
+Entry:   
+Entry:   
+Entry:  -26-
+Entry:   
+Entry:   
+Entry:  10.4
+Entry:  No Waiver
+Entry:   
+Entry:  U.S. federal and state securities laws impose liabilities under certain circumstances on Persons who act in good faith; nothing herein shall constitute a waiver or limitation of any rights which the Service Recipients may have, if any, under any applicable U.S. federal and state securities laws.
+Entry:   
+Entry:  ARTICLE 11
+Entry:  TERM AND TERMINATION
+Entry:   
+Entry:  11.1
+Entry:  Term
+Entry:   
+Entry:  This Agreement shall continue in full force and effect, in perpetuity, until terminated in accordance with Section 11.2 or Section 11.3.
+Entry:   
+Entry:  11.2
+Entry:  Termination by the Service Recipients
+Entry:   
+Entry:  11.2.1        The Service Recipients may, subject to Section 11.2.2, terminate this Agreement effective upon written notice of termination to the Service Providers without payment of any termination fee if:
+Entry:   
+Entry:  11.2.1.1      any of the Service Providers defaults in the performance or observance of any material term, condition or agreement contained in this Agreement in a manner that results in material harm to the Service Recipients and such default continues for a period of 60 days after written notice thereof specifying such default and requesting that the same be remedied in such 60-day period; provided, however, that if the fact, circumstance or condition that is the subject of such obligation cannot reasonably be remedied within such 60-day period and if, within such period, the Service Providers provide reasonable evidence to the Service Recipients that they have commenced, and thereafter proceed with all due diligence, to remedy the fact, circumstance or condition that is the subject of such obligation, such period shall be extended for a reasonable period satisfactory to the Service Recipients, acting reasonably, for the Service Providers to remedy the same;
+Entry:   
+Entry:  11.2.1.2       any of the Service Providers engages in any act of fraud, misappropriation of funds or embezzlement against any Service Recipient that results in material harm to the Service Recipients;
+Entry:   
+Entry:  11.2.1.3       there is an event of any gross negligence on the part of any of the Service Providers in the performance of its obligations under this Agreement and such gross negligence results in material harm to the Service Recipients; or
+Entry:   
+Entry:  11.2.1.4       each of the Service Providers makes a general assignment for the benefit of its creditors, institutes proceedings to be adjudicated voluntarily bankrupt, consents to the filing of a petition of bankruptcy against it, is adjudicated by a court of competent jurisdiction as being bankrupt or insolvent, seeks reorganization under any bankruptcy law or consents to the filing of a petition seeking such reorganization or has a decree entered against it by a court of competent jurisdiction appointing a receiver liquidator, trustee or assignee in bankruptcy or in insolvency.
+Entry:   
+Entry:   
+Entry:  -27-
+Entry:   
+Entry:   
+Entry:  11.2.2         This Agreement may only be terminated pursuant to Section 11.2.1 by the Managing General Partner on behalf of BEP with the prior unanimous approval of the members of the Independent Committee.
+Entry:   
+Entry:  11.2.3         Each of the Service Recipients hereby agrees and confirms that this Agreement may not be terminated due solely to the poor performance or underperformance of any of the Power Operations or the Business or any investment made by any member of the BEP Group on the recommendation of any member of the Service Provider Group.
+Entry:   
+Entry:  11.3
+Entry:  Termination by the Service Providers
+Entry:   
+Entry:  11.3.1         The Service Providers may terminate this Agreement effective upon written notice of termination to the Service Recipients without payment of any termination fee if:
+Entry:   
+Entry:  11.3.1.1        any Service Recipient defaults in the performance or observance of any material term, condition or agreement contained in this Agreement in a manner that results in material harm to the Service Providers and such default continues for a period of 60 days after written notice thereof specifying such default and requesting that the same be remedied in such 60-day period; provided, however, that if the fact, circumstance or condition that is the subject of such obligation cannot reasonably be remedied within such 60-day period and if, within such period, the Service Recipients provide reasonable evidence to the Service Providers that they have commenced, and thereafter proceed with all due diligence, to remedy the fact, circumstance or condition that is the subject of such obligation, such period shall be extended for a reasonable period satisfactory to the Service Providers, acting reasonably, for the Service Recipients to remedy the same; or
+Entry:   
+Entry:  11.3.1.2        any Service Recipient makes a general assignment for the benefit of its creditors, institutes proceedings to be adjudicated voluntarily bankrupt, consents to the filing of a petition of bankruptcy against it, is adjudicated by a court of competent jurisdiction as being bankrupt or insolvent, seeks reorganization under any bankruptcy law or consents to the filing of a petition seeking such reorganization or has a decree entered against it by a court of competent jurisdiction appointing a receiver liquidator, trustee or assignee in bankruptcy or in insolvency.
+Entry:   
+Entry:  11.4
+Entry:  Survival Upon Termination
+Entry:   
+Entry:  If this Agreement is terminated pursuant to this Article 11, such termination will be without any further liability or obligation of any party hereto, except as provided in Section 6.4, Section 11.5, Section 11.6 and Section 13.3.
+Entry:   
+Entry:  11.5
+Entry:  Action Upon Termination
+Entry:   
+Entry:  11.5.1         From and after the effective date of the termination of this Agreement, the Service Providers shall not be entitled to receive the Base Management Fee for further Services under this Agreement, but will be paid all compensation accruing to and including the date of termination (including such day).
+Entry:   
+Entry:   
+Entry:  -28-
+Entry:   
+Entry:   
+Entry:  11.5.2         Upon any termination of this Agreement, the Service Providers shall forthwith:
+Entry:   
+Entry:  11.5.2.1        after deducting any accrued compensation and reimbursements for any Expenses to which it is then entitled, pay over to the Service Recipients all money collected and held for the account of the Service Recipients pursuant to this Agreement;
+Entry:   
+Entry:  11.5.2.2        deliver to the Service Recipients’ Governing Bodies a full accounting, including a statement showing all payments collected by it and a statement of all money held by it, covering the period following the date of the last accounting furnished to the Governing Bodies with respect to the Service Recipients; and
+Entry:   
+Entry:  11.5.2.3        deliver to the Service Recipients’ Governing Bodies all property and documents of the Service Recipients then in the custody of the Service Provider Group.
+Entry:   
+Entry:  11.6
+Entry:  Release of Money or other Property Upon Written Request
+Entry:   
+Entry:  The Service Providers hereby agree that any money or other property of the Service Recipients or their Subsidiaries held by the Service Provider Group under this Agreement shall be held by the relevant member of the Service Provider Group as custodian for such Person, and the relevant member of the Service Provider Group’s records shall be appropriately marked clearly to reflect the ownership of such money or other property by such Person. Upon the receipt by the relevant member of the Service Provider Group of a written request signed by a duly authorized representative of a Service Recipient requesting the relevant member of the Service Provider Group to release to the Service Recipient any money or other property then held by the relevant member of the Service Provider Group for the account of such Service Recipient under this Agreement, the relevant member of the Service Provider Group shall release such money or other property to the Service Recipient within a reasonable period of time, but in no event later than 60 days following such request. The relevant member of the Service Provider Group shall not be liable to any Service Recipient, a Service Recipient’s Governing Body or any other Person for any acts performed or omissions to act by a Service Recipient in connection with the money or other property released to the Service Recipient in accordance with the second sentence of this Section 11.6. Each Service Recipient shall indemnify and hold harmless the relevant member of the Service Provider Group, any of its Affiliates (other than any member of the BEP Group) and any directors, officers, agents, subcontractors, delegates, members, partners, shareholders and employees and other representatives of each of the foregoing from and against any and all Liabilities which arise in connection with the relevant member of the Service Provider Group’s release of such money or other property to the Service Recipient in accordance with the terms of this Section 11.6. Indemnification pursuant to this provision shall be in addition to any right of such Persons to indemnification under Section 10.1 hereof. For the avoidance of doubt, the provisions of this Section 11.6 shall survive termination of this Agreement. The Service Recipients hereby constitute the Service Providers as trustees for each Person entitled to indemnification pursuant to this Section 11.6 of the covenants of the Service Recipients under this Section 11.6 with respect to such Persons and the Service Providers hereby accept such trust and agree to hold and enforce such covenants on behalf of such Persons.
+Entry:   
+Entry:   
+Entry:  -29-
+Entry:   
+Entry:   
+Entry:  ARTICLE 12
+Entry:  ARBITRATION
+Entry:   
+Entry:  12.1
+Entry:  Dispute
+Entry:   
+Entry:  Any dispute or disagreement of any kind or nature between the parties arising out of or in connection with this Agreement (a “Dispute”) shall be resolved in accordance with this Article 12, to the extent permitted by applicable Laws.
+Entry:   
+Entry:  12.2
+Entry:  Arbitration
+Entry:   
+Entry:  12.2.1         Any Dispute shall be submitted to arbitration (the “Arbitration”) by one Arbitrator pursuant to the procedure set forth in this Section 12.2 and pursuant to the arbitration rules set forth in the Arbitration Act, 1991 (Ontario) (the “Act”). If the provisions of this Section 12.2 are inconsistent with the provisions of the Act and to the extent of such inconsistency, the provisions of this Section 12.2 shall prevail in any Arbitration.
+Entry:   
+Entry:  12.2.2         Any party may make a demand for Arbitration by sending a notice in writing to another party, setting forth the nature of the Dispute, the amount involved and the name of the Arbitrator it proposes to be appointed. The demand for Arbitration shall be made no later than thirty (30) days after the event giving rise to the Dispute.
+Entry:   
+Entry:  12.2.3         Within thirty (30) days after any demand for Arbitration under Section 12.2.2, the parties shall have agreed on the designation of the Arbitrator or should the parties fail to do so, the Arbitrator may be appointed by a judge of the Ontario Superior Court of Justice upon motion of either party (in either case, the “Arbitrator”).
+Entry:   
+Entry:  12.2.4         The Arbitration hearings shall be held in a location in Ontario specified in the demand for Arbitration and shall commence no later than thirty (30) days after the determination of the Arbitrator under Section 12.2.3. The decision of the Arbitrator shall be made not later than sixty (60) days after its appointment. The decision of the Arbitrator, shall be final without appeal and binding on the parties.
+Entry:   
+Entry:  12.2.5         Each party shall bear the costs and expenses of all lawyers, consultants, advisors, witnesses and employees retained by it in any Arbitration. The expenses of the Arbitrator shall be paid equally by the parties unless the Arbitrator otherwise provides in its award.
+Entry:   
+Entry:  12.3
+Entry:  Continued Performance
+Entry:   
+Entry:  During the conduct of Dispute resolution procedures pursuant to this Article 12, the parties shall continue to perform their respective obligations under this Agreement and neither party shall exercise any other remedies to resolve a Dispute.
+Entry:   
+Entry:   
+Entry:  -30-
+Entry:   
+Entry:   
+Entry:  ARTICLE 13
+Entry:  GENERAL PROVISIONS
+Entry:   
+Entry:  13.1
+Entry:  Limited Liability of Limited Partners of BEP and BRELP
+Entry:   
+Entry:  13.1.1      Each of the parties acknowledges that (i) each of BEP and BRELP is a limited partnership formed under the laws of Bermuda, a limited partner of which is liable for any liabilities or losses of the relevant partnership only to the extent of the amount that such limited partner has contributed, or agreed to contribute, to the capital of the relevant partnership and such limited partner’s pro rata share of any undistributed income; (ii) BRELP General Partner is the sole general partner of BRELP GP LP; BRELP GP LP is the sole general partner of BRELP; and the Managing General Partner is the sole general partner of BEP; and (iii) the only Person with whom such party has had dealings on behalf of BRELP is BRELP GP LP; the only Person with whom such party has had dealings on behalf of the BRELP GP LP is BRELP General Partner; and the only Person with whom such party has had dealings on behalf of BEP is the Managing General Partner.
+Entry:   
+Entry:  13.2
+Entry:  Assignment
+Entry:   
+Entry:  13.2.1      This Agreement shall not be assigned by the Service Providers without the prior written consent of BEP, except (i) pursuant to Section 2.4, or (ii) in the case of assignment by any of the Service Providers to an Affiliate or a Person that is, in the reasonable and good faith determination of the Independent Committee, an experienced and reputable manager, in which case the Affiliate or assignee shall be bound under this Agreement and by the terms of the assignment in the same manner as such Service Provider is bound under this Agreement. In addition, provided that the Service Providers provide prior written notice to the Service Recipients for informational purposes only, nothing contained in this Agreement shall preclude any pledge, hypothecation or other transfer or assignment of any of the Service Providers’ rights under this Agreement, including any amounts payable to the Service Providers under this Agreement, to a bona fide lender as security.
+Entry:   
+Entry:  13.2.2      Notwithstanding Section 13.2.1, this Agreement will not be assigned (within the meaning of the Advisers Act) by any Service Provider that is registered with the SEC as an investment adviser without the prior written consent of BEP.
+Entry:   
+Entry:  13.2.3     This Agreement shall not be assigned by any of the Service Recipients without the prior written consent of the Service Providers, except in the case of assignment by any such Service Recipient to a Person that is its successor by merger, consolidation or purchase of assets, in which case the successor shall be bound under this Agreement and by the terms of the assignment in the same manner as such Service Recipient is bound under this Agreement.
+Entry:   
+Entry:  13.2.4      Any purported assignment of this Agreement in violation of this Article 13 shall be null and void.
+Entry:   
+Entry:  13.3
+Entry:  Failure to Pay When Due
+Entry:   
+Entry:  Any amount payable by any Service Recipient to any member of the Service Provider Group hereunder which is not remitted when so due will remain due (whether on demand or otherwise) and interest will accrue on such overdue amounts (both before and after judgment) at a rate per annum equal to the Interest Rate.
+Entry:   
+Entry:   
+Entry:  -31-
+Entry:   
+Entry:   
+Entry:  13.4
+Entry:  Enurement
+Entry:   
+Entry:  This Agreement will enure to the benefit of and be binding upon the parties hereto and their respective successors and permitted assigns.
+Entry:   
+Entry:  13.5
+Entry:  Notices
+Entry:   
+Entry:  Any notice or other communication required or permitted to be given hereunder will be in writing and will be given by prepaid first-class mail, by facsimile or other means of electronic communication or by hand delivery as hereinafter provided. Any such notice or other communication, if mailed by prepaid first class mail at any time other than during a general discontinuance of postal service due to strike, lockout or otherwise, will be deemed to have been received on the fourth Business Day after the post marked date thereof, or if sent by facsimile or other means of electronic communication, will be deemed to have been received on the Business Day following the sending, or if delivered by hand will be deemed to have been received at the time it is delivered to the applicable address noted below either to the individual designated below or to an individual at such address having apparent authority to accept deliveries on behalf of the addressee. Notice of change of address will also be governed by this section. In the event of a general discontinuance of postal service due to strike, lock out or otherwise, notices or other communications will be delivered by hand or sent by facsimile or other means of electronic communication and will be deemed to have been received in accordance with this section. Notices and other communications will be addressed as follows:
+Entry:   
+Entry:  13.5.1        if to BEP:
+Entry:   
+Entry:  Brookfield Renewable Partners Limited
+Entry:  73 Front Street, 5th FloorHamilton HM 12Bermuda
+Entry:   
+Entry:  Attention: Secretary
+Entry:   
+Entry:  13.5.2        if to BRELP:
+Entry:   
+Entry:  BRP Bermuda GP Limited
+Entry:  73 Front Street, 5th FloorHamilton HM 12Bermuda
+Entry:   
+Entry:  Attention: Secretary
+Entry:   
+Entry:  13.5.3        if to Brookfield:
+Entry:   
+Entry:  Brookfield Corporation.
+Entry:  Suite 100, Brookfield Place
+Entry:  181 Bay Street, Box 762
+Entry:  Toronto, Ontario M5J 2T3
+Entry:   
+Entry:  Attention: Chief Legal Officer
+Entry:   
+Entry:   
+Entry:  -32-
+Entry:   
+Entry:   
+Entry:  13.5.4        if to the Canadian Service Provider:
+Entry:   
+Entry:  Brookfield Asset Management Private Institutional Capital Adviser (Canada), L.P.
+Entry:  Suite 100, Brookfield Place
+Entry:  181 Bay Street, Box 762
+Entry:  Toronto, Ontario M5J 2T3
+Entry:   
+Entry:  13.5.5        if to the Canadian Service Provider II:
+Entry:   
+Entry:  Brookfield Canada Renewable Manager LP
+Entry:  Suite 100, Brookfield Place
+Entry:  181 Bay Street, Box 762
+Entry:  Toronto, Ontario M5J 2T3
+Entry:   
+Entry:  13.5.6
+Entry:  if to the US Service Provider:
+Entry:   
+Entry:  Brookfield Renewable Energy Group LLC250 Vesey Street, 15th FloorNew York, NY 10281-1023
+Entry:   
+Entry:  13.5.7
+Entry:  if to the International Service Provider:
+Entry:   
+Entry:  Brookfield Renewable Energy Group LLC250 Vesey Street, 15th FloorNew York, NY 10281-1023
+Entry:   
+Entry:  13.5.8         if to the UK Service Provider:
+Entry:   
+Entry:  Brookfield Global Renewable Energy Advisor Limited
+Entry:  One Canada Square
+Entry:  Level 25, Canary Wharf
+Entry:  London E14 5AA
+Entry:  United Kingdom
+Entry:   
+Entry:  13.5.9         if to the Dubai Service Provider:
+Entry:   
+Entry:  Brookfield Private Capital (DIFC) Limited
+Entry:  Unit 24-00, Level 24
+Entry:  ICD Brookfield Place
+Entry:  Dubai International Financial Centre
+Entry:  Dubai
+Entry:  United Arab Emirates
+Entry:   
+Entry:  13.5.10
+Entry:  if to any new Service Provider appointed pursuant to Section 2.3, at the address listed in the joinder agreement executed by the new Service Provider; and
+Entry:   
+Entry:   
+Entry:  -33-
+Entry:   
+Entry:   
+Entry:  13.5.11
+Entry:  if to any of the Holding Entities, at the applicable address listed on Schedule A hereto
+Entry:   
+Entry:  or to such other addresses as a party may from time to time notify the others in accordance with this Section 13.5.
+Entry:   
+Entry:  13.6
+Entry:  Further Assurances
+Entry:   
+Entry:  Each of the parties hereto will promptly do, make, execute or deliver, or cause to be done, made, executed or delivered, all such further acts, documents and things as the other party hereto may reasonably require from time to time for the purpose of giving effect to this Agreement and will use reasonable efforts and take all such steps as may be reasonably within its power to implement to their full extent the provisions of this Agreement.
+Entry:   
+Entry:  13.7
+Entry:  Counterparts
+Entry:   
+Entry:  This Agreement may be signed in counterparts and each of such counterparts will constitute an original document and such counterparts, taken together, will constitute one and the same instrument.
+Entry:   
+Entry:  13.8
+Entry:  Other Holding Entities
+Entry:   
+Entry:  The parties acknowledge that any Holding Entity that is not a party to this Agreement will execute a counterpart of this Agreement agreeing to be bound by the terms of this Agreement.
+Entry:   
+Entry:   
+Entry:   
+Entry:  [NEXT PAGE IS SIGNATURE PAGE]
+Entry:   
+Entry:   
+Entry:  IN WITNESS WHEREOF the parties have executed this Agreement as of the date first above written.
+Entry:   
+Entry:   
+Entry:   
+Entry:  Schedule A
+Entry:   
+Entry:  IN WITNESS WHEREOF the Holding Entities have executed this Agreement as of the date first above written.
+Entry:   
+Entry:   
+Entry:  BROOKFIELD BRP HOLDINGS (CANADA) INC.
+Entry:   
+Entry:  Schedule B
+Entry:   
+Entry:  JOINDER TO MASTER SERVICES AGREEMENT
+Entry:   
+Entry:  THIS JOINDER to the Master Services Agreement dated as of ■, 2023 by and among Brookfield Corporation (“Brookfield”), Brookfield Renewable Partners L.P., Brookfield Renewable Energy L.P., the Canadian Service Provider, the Canadian Service Provider II, the US Service Provider, the International Service Provider, the UK Service Provider, the Dubai Service Provider and the Holding Entities (as amended, the “Master Services Agreement”), is made and entered into as of this ■ day of ■, by ■, a [corporation/partnership/limited partnership] governed by the laws of ■ (the “New Service Provider”). Capitalized terms used herein but not otherwise defined shall have the meanings set forth in the Master Services Agreement.
+Entry:   
+Entry:  RECITALS:
+Entry:   
+Entry:  A.                The Master Services Agreement provides that any Service Provider may, from time to time, appoint an Affiliate of Brookfield to act as a new Service Provider under that agreement;
+Entry:   
+Entry:  B.                 The New Service Provider is an Affiliate of Brookfield; and
+Entry:   
+Entry:  C.                 The ■ Service Provider wishes to appoint the New Service Provider to act as a new Service Provider under the Master Services Agreement and the New Service Provider wishes to accept such appointment.
+Entry:   
+Entry:    NOW THEREFORE in consideration of good and valuable consideration (the receipt and sufficiency of which are hereby acknowledged), the New Service Provider agrees as follows:
+Entry:   
+Entry:  1.                  Agreement to be Bound. The New Service Provider hereby agrees that upon execution of this Joinder, it shall become a party to the Master Services Agreement and acknowledges that it is fully bound by, and subject to, all of the covenants, representations, terms and conditions of this Joinder and of the Service Providers under the Master Services Agreement.
+Entry:   
+Entry:  2.                  Successors, Assigns and Amendments. Any purported assignment of this Joinder in violation of section ■ of the Master Services Agreement will be null and void. No amendment or waiver of this Joinder will be binding unless executed in writing by both of the undersigned parties.
+Entry:   
+Entry:  3.                  Enurement. This Joinder will enure to the benefit of and be binding upon the parties hereto and their respective successors and permitted assigns.
+Entry:   
+Entry:  4.                  Notices. Notices and other communications to the New Service Provider will be addressed as follows:
+Entry:   
+Entry:  5.                  Counterparts. This Joinder may be signed in counterparts and each of such counterparts will constitute an original document and such counterparts, taken together, will constitute one and the same instrument.
+Entry:   
+Entry:  6.                  Governing Law. This Joinder will be governed by and interpreted and enforced in accordance with the laws of the Province of Ontario and the federal laws of Canada applicable therein.
+Entry:   
+Entry:   
+Entry:   
+Entry:  [NEXT PAGE IS THE SIGNATURE PAGE]
+Entry:   
+Entry:   
+Entry:   
+Entry:   
+Entry:   
+Entry:   
+Entry:   
+Entry:   
+Entry:       IN WITNESS WHEREOF the parties have executed this Joinder as of the day and year first above written.
+Entry:   
+Entry:   
+Entry:  [■ SERVICE PROVIDER]
+Entry:   
+Entry:   
+Entry:   
+Entry:   
+Entry:   
+Entry:   
+Entry:   
+Entry:  By:
+Entry:   
+Entry:   
+Entry:   
+Entry:  Name: 
+Entry:   
+Entry:  Title: 
+Entry:   
+Entry:   
+Entry:   
+Entry:   
+Entry:   
+Entry:   
+Entry:  [NEW SERVICE PROVIDER]
+Entry:   
+Entry:   
+Entry:   
+Entry:   
+Entry:   
+Entry:   
+Entry:   
+Entry:  By:
+Entry:   
+Entry:   
+Entry:   
+Entry:  Name: 
+Entry:   
+Entry:  Title: 
+Entry:   
+Entry:   

@@ -1,0 +1,2863 @@
+<?xml version="1.0" ?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14">
+  <w:body>
+    <w:p w14:paraId="70A0DEB4" w14:textId="77777777" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00C57B5A">
+      <w:pPr>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>INDEMNITY AGREEMENT</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="668C9FAA" w14:textId="7CF29A02" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="008359CD">
+      <w:pPr>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">This INDEMNITY AGREEMENT is entered into as of </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>]</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> (this “Agreement”), by and between </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>]</w:t>
+      </w:r>
+      <w:r w:rsidR="008E537B">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> (“</w:t>
+      </w:r>
+      <w:r w:rsidR="00542681">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Party A</w:t>
+      </w:r>
+      <w:r w:rsidR="008E537B">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>”)</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> , and</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r w:rsidR="008359CD">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>]</w:t>
+      </w:r>
+      <w:r w:rsidR="008E537B">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> (“Party</w:t>
+      </w:r>
+      <w:r w:rsidR="00542681">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> B</w:t>
+      </w:r>
+      <w:r w:rsidR="008E537B">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>”)</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3BD63BC3" w14:textId="2A8FAF1D" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00C57B5A">
+      <w:pPr>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="0" w:firstLine="490"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">WHEREAS, </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>]</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> is the </w:t>
+      </w:r>
+      <w:r w:rsidR="008E537B">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Indemnifying Party </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">under a certain </w:t>
+      </w:r>
+      <w:r w:rsidR="008359CD">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[</w:t>
+      </w:r>
+      <w:r w:rsidR="008359CD" w:rsidRPr="008359CD">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Name </w:t>
+      </w:r>
+      <w:r w:rsidR="008359CD">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>o</w:t>
+      </w:r>
+      <w:r w:rsidR="008359CD" w:rsidRPr="008359CD">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">f </w:t>
+      </w:r>
+      <w:r w:rsidR="008359CD">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>t</w:t>
+      </w:r>
+      <w:r w:rsidR="008359CD" w:rsidRPr="008359CD">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>he Agreement</w:t>
+      </w:r>
+      <w:r w:rsidR="008359CD">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>]</w:t>
+      </w:r>
+      <w:r w:rsidR="008359CD" w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">dated </w:t>
+      </w:r>
+      <w:r w:rsidR="008359CD">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[</w:t>
+      </w:r>
+      <w:r w:rsidR="008359CD">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidR="008359CD">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">] </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>with respect to</w:t>
+      </w:r>
+      <w:r w:rsidR="008359CD">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> [</w:t>
+      </w:r>
+      <w:r w:rsidR="008359CD">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidR="008359CD">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>];</w:t>
+      </w:r>
+      <w:r w:rsidR="008359CD" w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="612F69C5" w14:textId="60BBF86E" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00C57B5A">
+      <w:pPr>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="0" w:firstLine="490"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">WHEREAS, , </w:t>
+      </w:r>
+      <w:r w:rsidR="00542681">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>t</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">he </w:t>
+      </w:r>
+      <w:r w:rsidR="00542681">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>P</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>arties have agreed to indemnify each other as provided herein;</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="72F99928" w14:textId="1650EC45" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00C57B5A">
+      <w:pPr>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="0" w:firstLine="490"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">NOW, THEREFORE, in consideration of the premises and the covenants contained herein, </w:t>
+      </w:r>
+      <w:r w:rsidR="00542681">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">parties </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>do hereby covenant and agree as follows:</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6C7597A1" w14:textId="6A3B2979" w:rsidR="00C57B5A" w:rsidRPr="002B0175" w:rsidRDefault="00C57B5A" w:rsidP="002B0175">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Indemnification</w:t>
+      </w:r>
+      <w:r w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">. </w:t>
+      </w:r>
+      <w:r w:rsidR="00542681" w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Party A</w:t>
+      </w:r>
+      <w:r w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> hereby agrees to indemnify and hold harmless </w:t>
+      </w:r>
+      <w:r w:rsidR="00542681" w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Party B</w:t>
+      </w:r>
+      <w:r w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">, and its successors and assigns, from and against any and all claims, liabilities, actions, causes of action, losses, costs or expenses (including, without limitation, any reasonable legal, accounting and other expenses of experts or third party professionals for defending any actions or threatened actions) incurred by </w:t>
+      </w:r>
+      <w:r w:rsidR="00542681" w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Party B</w:t>
+      </w:r>
+      <w:r w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">, or any of such successors or assigns, as a result of </w:t>
+      </w:r>
+      <w:r w:rsidR="00542681" w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Party A</w:t>
+      </w:r>
+      <w:r w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> defaulting in or failing to perform any of the tenant’s obligations under the Lease arising on or after the Effective Date. </w:t>
+      </w:r>
+      <w:r w:rsidR="00542681" w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Party B</w:t>
+      </w:r>
+      <w:r w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> hereby agrees to indemnify and hold harmless </w:t>
+      </w:r>
+      <w:r w:rsidR="00542681" w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Party A</w:t>
+      </w:r>
+      <w:r w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">, and its successors and assigns, from and against any and all claims, liabilities, actions, causes of action, losses, costs or expenses (including, without limitation, any reasonable legal, accounting and other expenses of experts or third party professionals for defending any actions or threatened actions) incurred by </w:t>
+      </w:r>
+      <w:r w:rsidR="00542681" w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Party A</w:t>
+      </w:r>
+      <w:r w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">, or any of such successors or assigns, as a result of </w:t>
+      </w:r>
+      <w:r w:rsidR="00542681" w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Party B</w:t>
+      </w:r>
+      <w:r w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> defaulting in or failing to perform any of the tenant’s obligations under the Lease arising prior to the Effective Date.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7AB30728" w14:textId="77777777" w:rsidR="002B0175" w:rsidRPr="002B0175" w:rsidRDefault="002B0175" w:rsidP="002B0175">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="550111E1" w14:textId="5C227C5F" w:rsidR="002B0175" w:rsidRPr="002B0175" w:rsidRDefault="00C57B5A" w:rsidP="002B0175">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Indemnification Procedure</w:t>
+      </w:r>
+      <w:r w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">. Whenever any demand shall be made upon a party (the “Indemnified Party”) under the Lease or Assignment for which the other party (the “Indemnifying Party”) is required to indemnify the Indemnified Party, the Indemnified Party shall promptly notify the Indemnifying Party of such demand in writing and provide a copy of any written document delivered to the Indemnified Party relating to such demand. No notice need be given by the Indemnified Party unless and until it has received written notice of the demand. Within </w:t>
+      </w:r>
+      <w:r w:rsidR="00A41C30" w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[</w:t>
+      </w:r>
+      <w:r w:rsidR="00A41C30">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidR="00A41C30" w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>]</w:t>
+      </w:r>
+      <w:r w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t> days of written notice to the Indemnifying Party of any such</w:t>
+      </w:r>
+      <w:r w:rsidR="00A41C30" w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">demand, the Indemnified Party shall either satisfy and pay in full such demand or assume the </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>defense</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> of such demand at its sole cost and expense with counsel approved by the Indemnified Party in its reasonable discretion. If the Indemnifying Party shall fail to satisfy any such demand or fail to assume in a reasonable manner the </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>defense</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> of any demand arising under the Lease or Assignment, as applicable, within the time period set forth above, the Indemnified Party shall be free to defend, settle, litigate, appeal and otherwise act in its reasonable discretion, and the Indemnifying Party shall be obligated to reimburse in full any settlement, judgment or similar liability and all costs associated therewith including reasonable out-of-pocket legal fees and disbursements and shall not have any </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>defense</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> based on the reasonableness or necessity of the Indemnified Party’s actions or its failure to defend effectively such demand.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="320A3B4E" w14:textId="77777777" w:rsidR="002B0175" w:rsidRPr="002B0175" w:rsidRDefault="002B0175" w:rsidP="002B0175">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="782F29BE" w14:textId="0F4A0002" w:rsidR="002B0175" w:rsidRPr="002B0175" w:rsidRDefault="00C57B5A" w:rsidP="002B0175">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Other Rights to Indemnification</w:t>
+      </w:r>
+      <w:r w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>. The rights to indemnification and advances provided by this Agreement shall not be deemed exclusive of any other rights to which the Indemnified Party may now or in the future be entitled under any other agreement or any provision of applicable law.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5B2366E4" w14:textId="77777777" w:rsidR="002B0175" w:rsidRPr="002B0175" w:rsidRDefault="002B0175" w:rsidP="002B0175">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="7174F2CC" w14:textId="15E4B621" w:rsidR="00C57B5A" w:rsidRPr="002B0175" w:rsidRDefault="00C57B5A" w:rsidP="002B0175">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Enforcement</w:t>
+      </w:r>
+      <w:r w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2E9367DC" w14:textId="77777777" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="002B0175">
+      <w:pPr>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>a. Each party unconditionally and irrevocably agrees that its execution of this Agreement shall also constitute a stipulation by which it shall be irrevocably bound in any court in which a proceeding by the other party for enforcement of its rights shall have been commenced, continued or appealed that obligations of each party set forth in this Agreement are unique and special, and that failure of either party to comply with the provisions of this Agreement will cause irreparable and irremediable injury to the other party, for which a remedy at law will be inadequate. As a result, in addition to any other right or remedy each party may have at law or in equity with respect to a violation of this Agreement, each party shall be entitled to injunctive or mandatory relief directing specific performance by the other party of its obligations under this Agreement. Each party further irrevocably stipulates and agrees that it shall not, except in good faith, raise any objections not specifically relating to the merits of the other party’s claim.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4FB307CD" w14:textId="45638212" w:rsidR="002B0175" w:rsidRPr="002B0175" w:rsidRDefault="00C57B5A" w:rsidP="002B0175">
+      <w:pPr>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t xml:space="preserve">b. In the event that either party is subject to or intervenes in any legal action in which the validity or enforceability of this Agreement is at issue or institutes any legal action, for specific performance or otherwise, to enforce its rights under, or to recover damages for breach of, this Agreement, such party shall, within </w:t>
+      </w:r>
+      <w:r w:rsidR="00A41C30">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[</w:t>
+      </w:r>
+      <w:r w:rsidR="00A41C30">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidR="00A41C30">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>]</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> days after written request to the other party therefore, be indemnified by or receive advances from the other party in respect of all costs and expenses (including reasonable attorney’s fees and disbursements) incurred by it in connection therewith; provided, however, that in connection with any such action between </w:t>
+      </w:r>
+      <w:r w:rsidR="00542681">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Party B</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> and </w:t>
+      </w:r>
+      <w:r w:rsidR="00542681">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Party A</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>, the prevailing party shall be entitled to all costs, expenses and reasonable attorney’s fees that may be incurred or paid by the prevailing party in enforcing the covenants and agreements of the other party in this Agreement.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="01070B48" w14:textId="7A3B4AD7" w:rsidR="00C57B5A" w:rsidRPr="002B0175" w:rsidRDefault="00C57B5A" w:rsidP="002B0175">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Duration of Agreement;</w:t>
+      </w:r>
+      <w:r w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2A2BB5EF" w14:textId="29E488CD" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="002B0175">
+      <w:pPr>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:hanging="360"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">a. This Agreement shall continue until and shall only terminate upon the termination of all of the terms, covenants and agreements of </w:t>
+      </w:r>
+      <w:r w:rsidR="00542681">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Party B</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> set forth in the </w:t>
+      </w:r>
+      <w:r w:rsidR="00A41C30" w:rsidRPr="00A41C30">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[Name of the Agreement]</w:t>
+      </w:r>
+      <w:r w:rsidR="00A41C30">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">according to its terms. </w:t>
+      </w:r>
+      <w:r w:rsidR="00542681">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Party A</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> agrees that it will not exercise any extension options or increase the liability of the tenant or otherwise amend the Lease without the prior written consent of </w:t>
+      </w:r>
+      <w:r w:rsidR="00542681">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Party B</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> which may be withheld in its sole discretion.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="69EF4BF7" w14:textId="668ACCF6" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="002B0175">
+      <w:pPr>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:hanging="360"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">b. This Agreement shall be binding upon </w:t>
+      </w:r>
+      <w:r w:rsidR="00542681">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Party A</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> and its successors and assigns and shall inure to the benefit of </w:t>
+      </w:r>
+      <w:r w:rsidR="00542681">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Party B</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> and its successors and assigns.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="736E6417" w14:textId="65C4F053" w:rsidR="00221EEB" w:rsidRPr="00221EEB" w:rsidRDefault="00C57B5A" w:rsidP="00221EEB">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Severability</w:t>
+      </w:r>
+      <w:r w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>. If any provision or provisions of this Agreement shall be held to be invalid, illegal or unenforceable under any particular circumstances or for any reason whatsoever (</w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>i</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>) the validity, legality and enforceability of the remaining provisions of this Agreement (including, without limitation, all other portions of any Section, paragraph or clause of this Agreement that contains any provision that has been found to be invalid, illegal or unenforceable), or the validity, legality or enforceability under any other circumstances shall not in any way be affected or impaired thereby and (ii) to the fullest extent possible consistent with applicable law, the provisions of this Agreement (including, without limitation, all other portions of any Section, paragraph or clause of this Agreement that contains any such provision that has been found to be invalid, illegal or unenforceable) shall be deemed revised, and shall be construed so as to give effect to the intent manifested by this Agreement (including the provision held invalid, illegal or unenforceable).</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4F4487ED" w14:textId="77777777" w:rsidR="00221EEB" w:rsidRPr="00221EEB" w:rsidRDefault="00221EEB" w:rsidP="00221EEB">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="79A6EBF6" w14:textId="4E0FD9D8" w:rsidR="00C57B5A" w:rsidRPr="00221EEB" w:rsidRDefault="00C57B5A" w:rsidP="00221EEB">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00221EEB">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Notification and </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r w:rsidRPr="00221EEB">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Defense</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r w:rsidRPr="00221EEB">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> of Claim</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00221EEB">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>. Each party agrees to promptly notify the other party in writing upon being served with any summons, citation, subpoena, complaint, indictment, information or other document relating to any matter which may be subject to indemnification covered hereunder, whether civil, criminal or investigative; provided, however, that the failure of a party to give such notice to the other party shall not adversely affect such party’s rights under this Agreement so long as the other party is not prejudiced as a result of such failure.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1670B662" w14:textId="77777777" w:rsidR="00221EEB" w:rsidRPr="00221EEB" w:rsidRDefault="00221EEB" w:rsidP="00221EEB">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="512513AD" w14:textId="77777777" w:rsidR="00221EEB" w:rsidRPr="00221EEB" w:rsidRDefault="00221EEB" w:rsidP="00221EEB">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="5A0BC166" w14:textId="0C7ECF57" w:rsidR="002B0175" w:rsidRPr="00221EEB" w:rsidRDefault="00C57B5A" w:rsidP="00221EEB">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00221EEB">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Notices and Payments</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00221EEB">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>. All notices, requests, demands and other communications hereunder shall be in writing and shall be deemed to have been duly given upon delivery thereof if (</w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r w:rsidRPr="00221EEB">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>i</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r w:rsidRPr="00221EEB">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>) delivered by hand, or sent via telecopy, facsimile, email or other electronic transmission, in each case receipted for by the party to whom such notice or other communication shall have been</w:t>
+      </w:r>
+      <w:r w:rsidR="00A41C30" w:rsidRPr="00221EEB">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00221EEB">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>directed or transmitted, (ii) mailed by certified or registered mail with postage prepaid or (iii) delivered by overnight courier service:</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="34BCFB75" w14:textId="77777777" w:rsidR="002B0175" w:rsidRPr="002B0175" w:rsidRDefault="002B0175" w:rsidP="002B0175">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="2777" w:firstLine="490"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="510795EA" w14:textId="6707366C" w:rsidR="002B0175" w:rsidRPr="002B0175" w:rsidRDefault="002B0175" w:rsidP="002B0175">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:tab/>
+        <w:t>if to Party A:</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0996EEB1" w14:textId="6E8FC30F" w:rsidR="002B0175" w:rsidRPr="002B0175" w:rsidRDefault="002B0175" w:rsidP="002B0175">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="1620" w:hanging="990"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="7E4FB11F" w14:textId="4B7D1869" w:rsidR="002B0175" w:rsidRPr="002B0175" w:rsidRDefault="002B0175" w:rsidP="002B0175">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="002B0175">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>if to Party B:</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="348ECEB1" w14:textId="1102C469" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00221EEB">
+      <w:pPr>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">All payments by an Indemnifying Party hereunder to the Indemnified Party shall be effected by payment of cash or delivery of a certified or official lender check in the amount of the claim or liability within </w:t>
+      </w:r>
+      <w:r w:rsidR="00A41C30">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[</w:t>
+      </w:r>
+      <w:r w:rsidR="00A41C30">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidR="00A41C30">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>]</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r w:rsidR="00A41C30">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">days </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">after demand therefore and if interest must be paid by the Indemnified Party on the liability for which indemnity is due, the Indemnifying Party shall deliver an amount adequate to pay interest to the date on which funds are available to the Indemnified Party for payment of such liability. Payments required to be made by an Indemnifying Party pursuant to this Agreement to a party other than the Indemnified Party shall be made promptly upon demand, without deduction, withholding or set-off, and free and clear of any claim, counterclaim or </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>defense</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> against the Indemnified Party.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="68A43DE0" w14:textId="6467B61F" w:rsidR="00C57B5A" w:rsidRPr="00221EEB" w:rsidRDefault="00C57B5A" w:rsidP="00221EEB">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00221EEB">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t>Governing Law</w:t>
+      </w:r>
+      <w:r w:rsidR="00221EEB" w:rsidRPr="00221EEB">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>; Due Authorization; Assignment</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00221EEB">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00221EEB">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> The parties hereto agree that this Agreement shall be governed by, and construed and enforced in accordance with, the laws of the </w:t>
+      </w:r>
+      <w:r w:rsidR="00A41C30" w:rsidRPr="00221EEB">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[</w:t>
+      </w:r>
+      <w:r w:rsidR="00A41C30">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidR="00A41C30" w:rsidRPr="00221EEB">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">] </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00221EEB">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>without regard to conflict of law principles thereunder</w:t>
+      </w:r>
+      <w:r w:rsidR="00221EEB" w:rsidRPr="00221EEB">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">. </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00221EEB">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">This Agreement has been duly authorized by the Board of Directors of </w:t>
+      </w:r>
+      <w:r w:rsidR="00542681" w:rsidRPr="00221EEB">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Party A</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00221EEB">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> and </w:t>
+      </w:r>
+      <w:r w:rsidR="00542681" w:rsidRPr="00221EEB">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Party B</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00221EEB">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>, as evidenced by the Board of Directors resolutions attached hereto as </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00221EEB">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Exhibit A</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00221EEB">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t> and </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00221EEB">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Exhibit B</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00221EEB">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>, respectively.</w:t>
+      </w:r>
+      <w:r w:rsidR="00221EEB" w:rsidRPr="00221EEB">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r w:rsidR="00542681" w:rsidRPr="00221EEB">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Party A</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00221EEB">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> may not assign its interest in this Agreement without the prior written consent of </w:t>
+      </w:r>
+      <w:r w:rsidR="00542681" w:rsidRPr="00221EEB">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Party B</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00221EEB">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>, which may be withheld in its sole discretion.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="300A13FC" w14:textId="579A0726" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00A41C30">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="0DAD77E0" w14:textId="77777777" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00C57B5A">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="0" w:firstLine="490"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the day and year first above written.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="52DC913C" w14:textId="77777777" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00C57B5A">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t> </w:t>
+      </w:r>
+    </w:p>
+    <w:tbl>
+      <w:tblPr>
+        <w:tblW w:w="2000" w:type="pct"/>
+        <w:jc w:val="right"/>
+        <w:tblCellSpacing w:w="0" w:type="dxa"/>
+        <w:tblCellMar>
+          <w:left w:w="0" w:type="dxa"/>
+          <w:right w:w="0" w:type="dxa"/>
+        </w:tblCellMar>
+        <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/>
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="289"/>
+        <w:gridCol w:w="38"/>
+        <w:gridCol w:w="3283"/>
+      </w:tblGrid>
+      <w:tr w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w14:paraId="57CF7327" w14:textId="77777777" w:rsidTr="00C57B5A">
+        <w:trPr>
+          <w:tblCellSpacing w:w="0" w:type="dxa"/>
+          <w:jc w:val="right"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="350" w:type="pct"/>
+            <w:vAlign w:val="center"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="72BC81DC" w14:textId="77777777" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00C57B5A">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="27"/>
+                <w:szCs w:val="27"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="50" w:type="pct"/>
+            <w:vAlign w:val="bottom"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="44CED7AC" w14:textId="77777777" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00C57B5A">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4600" w:type="pct"/>
+            <w:vAlign w:val="center"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="4E34B9F9" w14:textId="77777777" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00C57B5A">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w14:paraId="1D991893" w14:textId="77777777" w:rsidTr="00C57B5A">
+        <w:trPr>
+          <w:tblCellSpacing w:w="0" w:type="dxa"/>
+          <w:jc w:val="right"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:gridSpan w:val="3"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="4C817602" w14:textId="58A2A628" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00542681" w:rsidP="00C57B5A">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t>Party A</w:t>
+            </w:r>
+            <w:r w:rsidR="00C57B5A" w:rsidRPr="00C57B5A">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w14:paraId="75D64091" w14:textId="77777777" w:rsidTr="00C57B5A">
+        <w:trPr>
+          <w:trHeight w:val="320"/>
+          <w:tblCellSpacing w:w="0" w:type="dxa"/>
+          <w:jc w:val="right"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:vAlign w:val="center"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="15507DD2" w14:textId="77777777" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00C57B5A">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:gridSpan w:val="2"/>
+            <w:vAlign w:val="center"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="4BF7A087" w14:textId="77777777" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00C57B5A">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w14:paraId="274C7A8D" w14:textId="77777777" w:rsidTr="00C57B5A">
+        <w:trPr>
+          <w:tblCellSpacing w:w="0" w:type="dxa"/>
+          <w:jc w:val="right"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="3777FF99" w14:textId="77777777" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00C57B5A">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C57B5A">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t>By:</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:tcBorders>
+              <w:bottom w:val="single" w:sz="6" w:space="0" w:color="000000"/>
+            </w:tcBorders>
+            <w:vAlign w:val="bottom"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="1195736A" w14:textId="77777777" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00C57B5A">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C57B5A">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="15"/>
+                <w:szCs w:val="15"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:tcBorders>
+              <w:bottom w:val="single" w:sz="6" w:space="0" w:color="000000"/>
+            </w:tcBorders>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="2D797363" w14:textId="0251755B" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00A41C30" w:rsidP="00C57B5A">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t>[</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:sym w:font="Symbol" w:char="F0B7"/>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t>]</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w14:paraId="0DE58A17" w14:textId="77777777" w:rsidTr="00C57B5A">
+        <w:trPr>
+          <w:tblCellSpacing w:w="0" w:type="dxa"/>
+          <w:jc w:val="right"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="3C06480B" w14:textId="77777777" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00C57B5A">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:vAlign w:val="bottom"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="58069926" w14:textId="77777777" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00C57B5A">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C57B5A">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="15"/>
+                <w:szCs w:val="15"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:vAlign w:val="bottom"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="102E27C4" w14:textId="739A523A" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00C57B5A">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C57B5A">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Name: </w:t>
+            </w:r>
+            <w:r w:rsidR="00A41C30">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t>[</w:t>
+            </w:r>
+            <w:r w:rsidR="00A41C30">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:sym w:font="Symbol" w:char="F0B7"/>
+            </w:r>
+            <w:r w:rsidR="00A41C30">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t>]</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="55B83F54" w14:textId="69196C67" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00C57B5A">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C57B5A">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t>Title:</w:t>
+            </w:r>
+            <w:r w:rsidR="00A41C30">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> [</w:t>
+            </w:r>
+            <w:r w:rsidR="00A41C30">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:sym w:font="Symbol" w:char="F0B7"/>
+            </w:r>
+            <w:r w:rsidR="00A41C30">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t>]</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="18624B0A" w14:textId="77777777" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00C57B5A">
+            <w:pPr>
+              <w:spacing w:after="15" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C57B5A">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t>Duly Authorized</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:p w14:paraId="39EF4476" w14:textId="77777777" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00C57B5A">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="36"/>
+          <w:szCs w:val="36"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="36"/>
+          <w:szCs w:val="36"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t> </w:t>
+      </w:r>
+    </w:p>
+    <w:tbl>
+      <w:tblPr>
+        <w:tblW w:w="2000" w:type="pct"/>
+        <w:jc w:val="right"/>
+        <w:tblCellSpacing w:w="0" w:type="dxa"/>
+        <w:tblCellMar>
+          <w:left w:w="0" w:type="dxa"/>
+          <w:right w:w="0" w:type="dxa"/>
+        </w:tblCellMar>
+        <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/>
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="289"/>
+        <w:gridCol w:w="38"/>
+        <w:gridCol w:w="3283"/>
+      </w:tblGrid>
+      <w:tr w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w14:paraId="656ECAFC" w14:textId="77777777" w:rsidTr="00C57B5A">
+        <w:trPr>
+          <w:tblCellSpacing w:w="0" w:type="dxa"/>
+          <w:jc w:val="right"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="350" w:type="pct"/>
+            <w:vAlign w:val="center"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="2B222DDF" w14:textId="77777777" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00C57B5A">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="36"/>
+                <w:szCs w:val="36"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="50" w:type="pct"/>
+            <w:vAlign w:val="bottom"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="59469708" w14:textId="77777777" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00C57B5A">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4600" w:type="pct"/>
+            <w:vAlign w:val="center"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="041CF1A4" w14:textId="77777777" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00C57B5A">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w14:paraId="29915519" w14:textId="77777777" w:rsidTr="00C57B5A">
+        <w:trPr>
+          <w:tblCellSpacing w:w="0" w:type="dxa"/>
+          <w:jc w:val="right"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:gridSpan w:val="3"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="666E1E67" w14:textId="0585FF69" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00542681" w:rsidP="00C57B5A">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t>PARTY B</w:t>
+            </w:r>
+            <w:r w:rsidR="00C57B5A" w:rsidRPr="00C57B5A">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w14:paraId="1FDEEE4A" w14:textId="77777777" w:rsidTr="00C57B5A">
+        <w:trPr>
+          <w:trHeight w:val="320"/>
+          <w:tblCellSpacing w:w="0" w:type="dxa"/>
+          <w:jc w:val="right"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:vAlign w:val="center"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="477A6757" w14:textId="77777777" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00C57B5A">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:gridSpan w:val="2"/>
+            <w:vAlign w:val="center"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="3DDB447B" w14:textId="77777777" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00C57B5A">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w14:paraId="555A89FC" w14:textId="77777777" w:rsidTr="00C57B5A">
+        <w:trPr>
+          <w:tblCellSpacing w:w="0" w:type="dxa"/>
+          <w:jc w:val="right"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="46684AEC" w14:textId="77777777" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00C57B5A">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C57B5A">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t>By:</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:tcBorders>
+              <w:bottom w:val="single" w:sz="6" w:space="0" w:color="000000"/>
+            </w:tcBorders>
+            <w:vAlign w:val="bottom"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="2A0F28DC" w14:textId="77777777" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00C57B5A">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C57B5A">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="15"/>
+                <w:szCs w:val="15"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:tcBorders>
+              <w:bottom w:val="single" w:sz="6" w:space="0" w:color="000000"/>
+            </w:tcBorders>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="229F53B2" w14:textId="57C2CB9E" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00A41C30" w:rsidP="00C57B5A">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t>[</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:sym w:font="Symbol" w:char="F0B7"/>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t>]</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w14:paraId="3A4000A2" w14:textId="77777777" w:rsidTr="00C57B5A">
+        <w:trPr>
+          <w:tblCellSpacing w:w="0" w:type="dxa"/>
+          <w:jc w:val="right"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="0D6C7CD7" w14:textId="77777777" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00C57B5A">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:vAlign w:val="bottom"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="15FDF3FD" w14:textId="77777777" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00C57B5A">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C57B5A">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="15"/>
+                <w:szCs w:val="15"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:vAlign w:val="bottom"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="4A85E702" w14:textId="3A690401" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00C57B5A">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C57B5A">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Name: </w:t>
+            </w:r>
+            <w:r w:rsidR="00A41C30">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t>[</w:t>
+            </w:r>
+            <w:r w:rsidR="00A41C30">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:sym w:font="Symbol" w:char="F0B7"/>
+            </w:r>
+            <w:r w:rsidR="00A41C30">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t>]</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="0DFC171D" w14:textId="0CBB2940" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00C57B5A">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C57B5A">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Title: </w:t>
+            </w:r>
+            <w:r w:rsidR="00A41C30">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t>[</w:t>
+            </w:r>
+            <w:r w:rsidR="00A41C30">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:sym w:font="Symbol" w:char="F0B7"/>
+            </w:r>
+            <w:r w:rsidR="00A41C30">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t>]</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="1B0F6FC8" w14:textId="77777777" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00C57B5A">
+            <w:pPr>
+              <w:spacing w:after="15" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C57B5A">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t>Duly Authorized</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:p w14:paraId="44650A70" w14:textId="77777777" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00C57B5A">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="15"/>
+          <w:szCs w:val="15"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t> </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="79AED4B2" w14:textId="32D37654" w:rsidR="00C57B5A" w:rsidRPr="00C57B5A" w:rsidRDefault="00C57B5A" w:rsidP="00A41C30">
+      <w:pPr>
+        <w:spacing w:before="360" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="11534" w:hanging="245"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00C57B5A">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>L</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7E827A09" w14:textId="77777777" w:rsidR="00685229" w:rsidRDefault="00685229"/>
+    <w:sectPr w:rsidR="00685229">
+      <w:pgSz w:w="11906" w:h="16838"/>
+      <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="708" w:footer="708" w:gutter="0"/>
+      <w:cols w:space="708"/>
+      <w:docGrid w:linePitch="360"/>
+    </w:sectPr>
+  </w:body>
+</w:document>

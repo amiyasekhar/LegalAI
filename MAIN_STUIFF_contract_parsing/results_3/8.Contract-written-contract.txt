@@ -1,0 +1,2748 @@
+Child 1 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 2 (p):
+BROOKFIELD CORPORATION
+
+Child 3 (p):
+ 
+
+Child 4 (p):
+- and -
+
+Child 5 (p):
+ 
+
+Child 6 (p):
+BROOKFIELD RENEWABLE PARTNERS L.P.
+
+Child 7 (p):
+ 
+
+Child 8 (p):
+- and -
+
+Child 9 (p):
+ 
+
+Child 10 (p):
+BROOKFIELD RENEWABLE ENERGY L.P.
+
+Child 11 (p):
+ 
+
+Child 12 (p):
+- and -
+
+Child 13 (p):
+ 
+
+Child 14 (p):
+BROOKFIELD ASSET MANAGEMENT PRIVATE INSTITUTIONAL CAPITAL ADVISER (CANADA), L.P.
+
+Child 15 (p):
+ 
+
+Child 16 (p):
+- and -
+
+Child 17 (p):
+ 
+
+Child 18 (p):
+BROOKFIELD CANADA RENEWABLE MANAGER LP
+
+Child 19 (p):
+ 
+
+Child 20 (p):
+- and -
+
+Child 21 (p):
+ 
+
+Child 22 (p):
+BROOKFIELD RENEWABLE ENERGY GROUP LLC
+
+Child 23 (p):
+ 
+
+Child 24 (p):
+- and -
+
+Child 25 (p):
+ 
+
+Child 26 (p):
+BROOKFIELD GLOBAL RENEWABLE ENERGY ADVISOR LIMITED
+
+Child 27 (p):
+ 
+
+Child 28 (p):
+- and -
+
+Child 29 (p):
+ 
+
+Child 30 (p):
+BROOKFIELD PRIVATE CAPITAL (DIFC) LIMITED
+
+Child 31 (p):
+ 
+
+Child 32 (p):
+- and -
+
+Child 33 (p):
+ 
+
+Child 34 (p):
+each of the Holding Entities that has executed this Agreement on Schedule A hereto
+
+Child 35 (p):
+ 
+
+Child 36 (p):
+ 
+
+Child 37 (p):
+ 
+
+Child 38 (p):
+May 5, 2023
+
+Child 39 (p):
+ 
+
+Child 40 (p):
+ 
+
+Child 41 (p):
+ 
+
+Child 42 (p):
+ 
+
+Child 43 (p):
+TABLE OF CONTENTS
+
+Child 44 (p):
+ 
+
+Child 45 (p):
+ 
+
+Child 46 (p):
+ 
+
+Child 47 (p):
+ 
+
+Child 48 (tbl):
+ -i- 
+
+Child 49 (p):
+ 
+
+Child 50 (p):
+TABLE OF CONTENTS
+
+Child 51 (p):
+(continued)
+
+Child 52 (p):
+ 
+
+Child 53 (tbl):
+  PageARTICLE 6   INFORMATION AND RECORDS176.1Books and Records176.2Examination of Records by the Service Recipients176.3Access to Information by Service Provider Group186.4Additional Information18   ARTICLE 7   FEES AND EXPENSES197.1Net Base Management Fee and Base Management Fee Adjustment197.2Maximum Fees Payable by Service Recipients197.3Currency197.4Computation and Payment of Net Base Management Fee197.5Expenses207.6Governmental Charges217.7Computation and Payment of Expenses and Governmental Charges21   ARTICLE 8   BROOKFIELD’S OBLIGATION AND CONSENT RIGHT228.1Provision of Services to the Service Recipients228.2Consent to Issuance of Class A Shares22   ARTICLE 9   REPRESENTATIONS AND WARRANTIES OF THE SERVICE PROVIDERS AND THE SERVICE RECIPIENTS229.1Representations and Warranties of the Service Providers229.2Representations and Warranties of the Service Recipients23   ARTICLE 10   LIABILITY AND INDEMNIFICATION2410.1Indemnity2410.2Limitation of Liability2510.3Benefit to all Indemnified Parties2610.4No Waiver26   ARTICLE 11   TERM AND TERMINATION2611.1Term2611.2Termination by the Service Recipients26
+
+Child 54 (p):
+ 
+
+Child 55 (p):
+ 
+
+Child 56 (tbl):
+ -ii- 
+
+Child 57 (p):
+ 
+
+Child 58 (p):
+TABLE OF CONTENTS
+
+Child 59 (p):
+(continued)
+
+Child 60 (p):
+ 
+
+Child 61 (tbl):
+  Page   11.3Termination by the Service Providers2711.4Survival Upon Termination2811.5Action Upon Termination2811.6Release of Money or other Property Upon Written Request28   ARTICLE 12   ARBITRATION2912.1Dispute2912.2Arbitration2912.3Continued Performance30   ARTICLE 13   GENERAL PROVISIONS3013.1Limited Liability of Limited Partners of BEP and BRELP3013.2Assignment3013.3Failure to Pay When Due3113.4Enurement3113.5Notices3113.6Further Assurances3313.7Counterparts3313.8Other Holding Entities33
+
+Child 62 (p):
+ 
+
+Child 63 (tbl):
+-iii- 
+
+Child 64 (p):
+ 
+
+Child 65 (p):
+ 
+
+Child 66 (p):
+ 
+
+Child 67 (p):
+THIS AGREEMENT made as of the 5th day of May, 2023.
+
+Child 68 (p):
+ 
+
+Child 69 (p):
+A M O N G:
+
+Child 70 (p):
+BROOKFIELD CORPORATION (formerly Brookfield Asset Management Inc.) (“Brookfield”), a corporation existing under the laws of the Province of Ontario
+
+Child 71 (p):
+ 
+
+Child 72 (p):
+- and -
+
+Child 73 (p):
+ 
+
+Child 74 (p):
+BROOKFIELD RENEWABLE PARTNERS L.P. (formerly Brookfield Renewable Energy Partners L.P.) (“BEP”), an exempted partnership existing under the laws of Bermuda
+
+Child 75 (p):
+ 
+
+Child 76 (p):
+- and -
+
+Child 77 (p):
+ 
+
+Child 78 (p):
+BROOKFIELD RENEWABLE ENERGY L.P. (“BRELP”), an exempted partnership existing under the laws of Bermuda
+
+Child 79 (p):
+ 
+
+Child 80 (p):
+- and -
+
+Child 81 (p):
+ 
+
+Child 82 (p):
+BROOKFIELD ASSET MANAGEMENT PRIVATE INSTITUTIONAL CAPITAL ADVISER (CANADA), L.P. (the “Canadian Service Provider”), a limited partnership existing under the laws of the Province of Manitoba
+
+Child 83 (p):
+ 
+
+Child 84 (p):
+- and -
+
+Child 85 (p):
+ 
+
+Child 86 (p):
+BROOKFIELD CANADA RENEWABLE MANAGER LP (the “Canadian Service Provider II”), a limited partnership governed by the laws of the Province of Ontario
+
+Child 87 (p):
+ 
+
+Child 88 (p):
+- and -
+
+Child 89 (p):
+ 
+
+Child 90 (p):
+BROOKFIELD RENEWABLE ENERGY GROUP LLC (the “US Service Provider” and the “International Service Provider”), a limited liability company existing under the laws of the State of Delaware
+
+Child 91 (p):
+ 
+
+Child 92 (p):
+- and -
+
+Child 93 (p):
+ 
+
+Child 94 (p):
+BROOKFIELD GLOBAL RENEWABLE ENERGY ADVISOR LIMITED (the “UK Service Provider”), a company existing under the laws of England
+
+Child 95 (p):
+ 
+
+Child 96 (p):
+- and -
+
+Child 97 (p):
+ 
+
+Child 98 (p):
+BROOKFIELD PRIVATE CAPITAL (DIFC) LIMITED (the “Dubai Service Provider”), a private company existing under the laws of Dubai International Financial Centre
+
+Child 99 (p):
+ 
+
+Child 100 (p):
+- and -
+
+Child 101 (p):
+ 
+
+Child 102 (p):
+each of the Holding Entities (as defined below)
+
+Child 103 (p):
+ 
+
+Child 104 (p):
+RECITALS:
+
+Child 105 (p):
+ 
+
+Child 106 (p):
+A.            The Service Recipients (as defined below) indirectly hold interests in the Power Operations.
+
+Child 107 (p):
+ 
+
+Child 108 (tbl):
+ -2- 
+
+Child 109 (p):
+ 
+
+Child 110 (p):
+ 
+
+Child 111 (p):
+ 
+
+Child 112 (p):
+D.            BRP Energy Group L.P. has executed an acknowledgement dated the date hereof that it is no longer a party to the Current Agreement.
+
+Child 113 (p):
+ 
+
+Child 114 (p):
+NOW THEREFORE in consideration of the mutual covenants and agreements contained in this Agreement and other good and valuable consideration (the receipt and sufficiency of which are hereby acknowledged), the parties hereto agree as follows:
+
+Child 115 (p):
+ 
+
+Child 116 (p):
+ARTICLE 1
+
+Child 117 (p):
+INTERPRETATION
+
+Child 118 (p):
+ 
+
+Child 119 (tbl):
+1.1Definitions
+
+Child 120 (p):
+ 
+
+Child 121 (p):
+In this Agreement, except where the context otherwise requires, the following terms will have the following meanings:
+
+Child 122 (p):
+ 
+
+Child 123 (p):
+ 
+
+Child 124 (p):
+1.1.2           “Act” has the meaning assigned thereto in Section 12.2.1;
+
+Child 125 (p):
+ 
+
+Child 126 (p):
+1.1.3           “Affiliate” means, with respect to a Person, any other Person that, directly or indirectly, through one or more intermediaries, Controls or is Controlled by such Person, or is under common Control of a third Person;
+
+Child 127 (p):
+ 
+
+Child 128 (p):
+ 
+
+Child 129 (p):
+1.1.5           “Arbitration” has the meaning assigned thereto in Section 12.2.1;
+
+Child 130 (p):
+ 
+
+Child 131 (p):
+1.1.6           “Arbitrator” has the meaning assigned thereto in Section 12.2.3;
+
+Child 132 (p):
+ 
+
+Child 133 (p):
+1.1.7           “Base Management Fee” means the base management fee, calculated quarterly in arrears, in an aggregate amount equal to the sum of (i) 25% per Quarter of the Fee Amount, plus (ii) 0.3125% of the Total Capitalization Value Increase for the preceding Quarter;
+
+Child 134 (p):
+ 
+
+Child 135 (p):
+1.1.8           “Base Management Fee Adjustment” has the meaning assigned thereto in Section 7.1.2;
+
+Child 136 (p):
+ 
+
+Child 137 (tbl):
+ -3- 
+
+Child 138 (p):
+ 
+
+Child 139 (p):
+1.1.9           “BRELP” has the meaning assigned thereto in the preamble;
+
+Child 140 (p):
+ 
+
+Child 141 (p):
+1.1.10         “BRELP General Partner” means BRP Bermuda GP Limited (successor to 2288508 Ontario Inc.), which is the general partner of the BRELP GP LP;
+
+Child 142 (p):
+ 
+
+Child 143 (p):
+1.1.11         “BRELP GP LP” means BREP Holding L.P., which is the general partner of BRELP;
+
+Child 144 (p):
+ 
+
+Child 145 (p):
+1.1.12         “BRELP Units” means the limited partnership units of BRELP;
+
+Child 146 (p):
+ 
+
+Child 147 (p):
+1.1.13         “BEP” has the meaning assigned thereto in the preamble;
+
+Child 148 (p):
+ 
+
+Child 149 (p):
+1.1.14         “BEP Group” means BEP, BRELP, the Holding Entities, the Operating Entities and any other direct or indirect Subsidiary of a Holding Entity;
+
+Child 150 (p):
+ 
+
+Child 151 (p):
+1.1.15         “BEP Indemnified Party” has the meaning assigned thereto in Section 10.1.2;
+
+Child 152 (p):
+ 
+
+Child 153 (p):
+1.1.16         “BEPC” means Brookfield Renewable Corporation;
+
+Child 154 (p):
+ 
+
+Child 155 (p):
+1.1.17         “Brookfield” has the meaning assigned thereto in the preamble;
+
+Child 156 (p):
+ 
+
+Child 157 (p):
+1.1.18         “Brookfield Group” means Brookfield and its Affiliates, other than any member of the BEP Group;
+
+Child 158 (p):
+ 
+
+Child 159 (p):
+1.1.19         “Business” means the business carried on from time to time by the BEP Group;
+
+Child 160 (p):
+ 
+
+Child 161 (p):
+1.1.20         “Business Day” means every day except a Saturday or Sunday, or a day which is a statutory or civic holiday in Bermuda, the Province of Ontario, or the State of New York;
+
+Child 162 (p):
+ 
+
+Child 163 (p):
+1.1.21         “Canadian Service Provider” has the meaning assigned thereto in the preamble;
+
+Child 164 (p):
+ 
+
+Child 165 (p):
+1.1.22         “Canadian Service Provider II” has the meaning assigned thereto in the preamble;
+
+Child 166 (p):
+ 
+
+Child 167 (p):
+1.1.23         “Capital Commitment” means, with respect to any Operating Entity, at any time, the amount that a Service Recipient has committed at such time to contribute (either as debt or equity) to such Operating Entity as set forth in the terms of the subscription agreement or other underlying documentation with respect to such Operating Entity at or prior to such time;
+
+Child 168 (p):
+ 
+
+Child 169 (p):
+1.1.24         “Capital Contribution” means, with respect to any Operating Entity, at any time, the amount of capital that a Service Recipient has contributed (either as debt or equity) to such Operating Entity at or prior to such time;
+
+Child 170 (p):
+ 
+
+Child 171 (p):
+ 
+
+Child 172 (p):
+ 
+
+Child 173 (tbl):
+ -4- 
+
+Child 174 (p):
+ 
+
+Child 175 (p):
+1.1.27         “Claims” has the meaning assigned thereto in Section 10.1.1;
+
+Child 176 (p):
+ 
+
+Child 177 (p):
+1.1.28         “Compensation Charges” has the meaning assigned thereto in Section 5.2.1;
+
+Child 178 (p):
+ 
+
+Child 179 (p):
+1.1.29         “Control” means the control by one Person of another Person in accordance with the following: a Person (“A”) controls another Person (“B”) where A has the power to determine the management and policies of B by contract or status (for example the status of A being the general partner of B) or by virtue of beneficial ownership of or control over a majority of the voting interests in B; and, for certainty and without limitation, if A owns or has control over shares to which are attached more than 50% of the votes permitted to be cast in the election of directors to the Governing Body of B or A is the general partner of B, a limited partnership, then in each case A Controls B for this purpose, and the term “Controlled” has the corresponding meaning;
+
+Child 180 (p):
+ 
+
+Child 181 (p):
+ 
+
+Child 182 (p):
+1.1.31         “Current Agreement” has the meaning assigned thereto in the recitals;
+
+Child 183 (p):
+ 
+
+Child 184 (p):
+1.1.32         “Dispute” has the meaning assigned thereto in Section 12.1;
+
+Child 185 (p):
+ 
+
+Child 186 (p):
+1.1.33         “Dubai Service Provider” has the meaning assigned thereto in the preamble;
+
+Child 187 (p):
+ 
+
+Child 188 (p):
+1.1.34         “Exchangeable Shares” means exchangeable subordinate voting shares of BEPC;
+
+Child 189 (p):
+ 
+
+Child 190 (p):
+1.1.35         “Expenses” has the meaning assigned thereto in Section 7.5.2;
+
+Child 191 (p):
+ 
+
+Child 192 (p):
+1.1.36         “Fair Market Value” means, with respect to any Unit or Security, (i) if such Unit or Security is listed on a stock exchange or public quotation system, the Trading Price of such Unit or Security, as applicable, or (ii) if such Unit or Security is not listed on a stock exchange or public quotation system, the fair market value of such Unit or Security, as applicable, determined by the Governing Body of the Managing General Partner; provided that if the Units are listed on a stock exchange or public quotation system, the Fair Market Value of any BRELP Unit shall be deemed to be the Trading Price of a Unit;
+
+Child 193 (p):
+ 
+
+Child 194 (p):
+1.1.37         “Fee Amount” means an amount equal to $20 million, which amount shall be adjusted for inflation annually at the Inflation Factor;
+
+Child 195 (p):
+ 
+
+Child 196 (p):
+1.1.38         “Governing Body” means (i) with respect to a corporation or limited company, the board of directors of such corporation or limited company, (ii) with respect to a limited liability company, the manager(s) or managing partner(s) of such limited liability company, (iii) with respect to a limited partnership, the board, committee or other body of the general partner of such partnership that serves a similar function (or if any such general partner is itself a limited partnership, the board, committee or other body of such general partner’s general partner that serves a similar function) and (iv) with respect to any other Person, the body of such Person that serves a similar function, and in the case of each of (i) through (iv) includes any committee or other subdivision of such body and any Person to whom such body has delegated any power or authority, including any officer and managing director;
+
+Child 197 (p):
+ 
+
+Child 198 (tbl):
+ -5- 
+
+Child 199 (p):
+ 
+
+Child 200 (p):
+1.1.39         “Governing Instruments” means (i) the memorandum of association and bye-laws in the case of the Managing General Partner and BRELP General Partner; (ii) the certificate of incorporation, amalgamation or continuance, as applicable, and bylaws in the case of a corporation, (iii) the memorandum and articles of association in the case of a limited company, (iv) the partnership agreement in the case of a partnership, (v) the articles of formation and operating agreement in the case of a limited liability company, (vi) the trust instrument in the case of a trust and (vii) any other similar governing document under which an entity was organized, formed or created and/or operates, including any conflict guidelines or protocols in place from time to time;
+
+Child 201 (p):
+ 
+
+Child 202 (p):
+1.1.40         “Governmental Authority” means any (i) international, national, multinational, federal, provincial, state, regional, municipal, local or other government, governmental or public department, central bank, court, tribunal, arbitral body, commission, board, bureau, agency or instrumentality, domestic or foreign, including ISO/RTOs, (ii) self-regulatory organization or stock exchange, (iii) subdivision, agent, commission, board, or authority of any of the foregoing, or (iv) quasi-governmental or private body exercising any regulatory, expropriation or taxing authority under or for the account of any of the foregoing;
+
+Child 203 (p):
+ 
+
+Child 204 (p):
+1.1.41         “Governmental Charges” has the meaning assigned thereto in Section 7.6;
+
+Child 205 (p):
+ 
+
+Child 206 (p):
+1.1.42         “Holding Entities” means the entities that have executed this Agreement on Schedule A hereto and any direct wholly-owned Subsidiary of BRELP created or acquired on or after the date of this Agreement, excluding, for greater certainty, any Operating Entities;
+
+Child 207 (p):
+ 
+
+Child 208 (p):
+ 
+
+Child 209 (p):
+1.1.44         “Indemnified Party” means a Person making a claim for indemnification pursuant to Article 10;
+
+Child 210 (p):
+ 
+
+Child 211 (p):
+1.1.45         “Indemnifying Party” means a Person against whom a claim for indemnification is asserted pursuant to Article 10;
+
+Child 212 (p):
+ 
+
+Child 213 (p):
+ 
+
+Child 214 (p):
+1.1.47         “Inflation Factor” means, at any time, the fraction obtained where the numerator is the Consumer Price Index for the United States of America (all items) for the then current year and the denominator is the Consumer Price Index for the United States of America (all items) for the year immediately preceding the then current year, with appropriate mathematical adjustment made to ensure that both the numerator and the denominator have been prepared on the same basis;
+
+Child 215 (p):
+ 
+
+Child 216 (tbl):
+ -6- 
+
+Child 217 (p):
+ 
+
+Child 218 (p):
+1.1.48         “Interest Rate” means, for any day, the rate of interest equal to the overnight U.S. dollar London interbank offered rate on such day;
+
+Child 219 (p):
+ 
+
+Child 220 (p):
+1.1.49         “International Service Provider” has the meaning assigned thereto in the preamble;
+
+Child 221 (p):
+ 
+
+Child 222 (p):
+ 
+
+Child 223 (p):
+ 
+
+Child 224 (p):
+1.1.52         “Laws” means any and all applicable (i) laws, constitutions, treaties, statutes, codes, ordinances, principles of common and civil law and equity, rules, regulations and municipal by-laws whether domestic, foreign or international, (ii) judicial, arbitral, administrative, ministerial, departmental and regulatory judgments, orders, writs, injunctions, decisions, and awards of any Governmental Authority, and (iii) policies, practices and guidelines of any Governmental Authority which, although not actually having the force or law, are considered by such Governmental Authority as requiring compliance as if having the force of law, and the term “applicable”, with respect to such Laws and in the context that refers to one or more Persons, means such Laws that apply to such Person or Persons or its or their business, undertaking, property or securities at the relevant time and that emanate from a Governmental Authority having jurisdiction over the Person or Persons or its or their business, undertaking, property or securities;
+
+Child 225 (p):
+ 
+
+Child 226 (p):
+1.1.53         “Liabilities” has the meaning assigned thereto in Section 10.1.1;
+
+Child 227 (p):
+ 
+
+Child 228 (p):
+1.1.54         “Licensing Agreement” means the licensing agreement between Brookfield Global Asset Management Inc., BEP and BRELP dated as of November 28, 2011 pursuant to which BEP and BRELP have been granted a non-exclusive, royalty-free license to use the “Brookfield” name and the Brookfield logo;
+
+Child 229 (p):
+ 
+
+Child 230 (p):
+1.1.55         “Managing General Partner” means Brookfield Renewable Partners Limited (successor to 2288509 Ontario Inc.), which is BEP’s general partner;
+
+Child 231 (p):
+ 
+
+Child 232 (p):
+1.1.56         “Marketing Plan” means a generation and marketing plan and related budget for the Power Operations;
+
+Child 233 (p):
+ 
+
+Child 234 (p):
+1.1.57         “Net Base Management Fee” means the Base Management Fee, as adjusted pursuant to Section 7.1.2;
+
+Child 235 (p):
+ 
+
+Child 236 (p):
+1.1.58         “Opening Total Capitalization Value” means $8,093,033,167;
+
+Child 237 (p):
+ 
+
+Child 238 (tbl):
+ -7- 
+
+Child 239 (p):
+ 
+
+Child 240 (p):
+1.1.59         “Operating Entities” means, from time to time, the Persons that (i) directly hold the Power Operations, or (ii) indirectly hold the Power Operations but all of the interests of which are not held by the Service Recipients including, in the case of each of (i) and (ii), any joint ventures, partnerships and consortium arrangements;
+
+Child 241 (p):
+ 
+
+Child 242 (p):
+1.1.60         “Operational and Other Services” means any services provided by any member of the Brookfield Group to the Operating Entities, including financial advisory, operations and maintenance, energy marketing, agency, development, operating management and other services;
+
+Child 243 (p):
+ 
+
+Child 244 (p):
+1.1.61         “Operating Plan” means a plan setting out the operating costs and budget for the Power Operations and shall include incorporation of the Marketing Plan and scheduled maintenance outages;
+
+Child 245 (p):
+ 
+
+Child 246 (p):
+1.1.62         “Partnership Capital” means any Capital Commitment and/or (as the context requires) any Capital Contribution;
+
+Child 247 (p):
+ 
+
+Child 248 (p):
+1.1.63         “Permit” means any consent, license, approval, registration, permit or other authorization granted by any Governmental Authority;
+
+Child 249 (p):
+ 
+
+Child 250 (p):
+ 
+
+Child 251 (p):
+1.1.65         “Power Operations” means the operations or developments directly or indirectly held or acquired by members of the BEP Group from time to time;
+
+Child 252 (p):
+ 
+
+Child 253 (p):
+1.1.66         “Principal Exchange” means the principal stock exchange or public quotation system (determined on the basis of aggregate trading volume for the prior four months) on which the Units or such Security, as applicable, are listed;
+
+Child 254 (p):
+ 
+
+Child 255 (p):
+ 
+
+Child 256 (p):
+ 
+
+Child 257 (p):
+1.1.69         “Rights Agreement” has the meaning assigned thereto in Section 7.5.3;
+
+Child 258 (p):
+ 
+
+Child 259 (p):
+1.1.70         “SEC” means the U.S. Securities and Exchange Commission;
+
+Child 260 (p):
+ 
+
+Child 261 (p):
+1.1.71         “Security” means, with respect to each Service Recipient, any issued and outstanding security of such Service Recipient (other than, in the case of BEP, the Units) that is not held by any member of the BEP Group;
+
+Child 262 (p):
+ 
+
+Child 263 (tbl):
+ -8- 
+
+Child 264 (p):
+ 
+
+Child 265 (p):
+1.1.72         “Service Agreement” means any agreement or arrangement entered into pursuant to Section 2.4 between any Service Recipient and any member of the Service Provider Group pursuant to which Services are provided;
+
+Child 266 (p):
+ 
+
+Child 267 (p):
+ 
+
+Child 268 (p):
+1.1.74         “Service Provider Group” means the Service Providers and any member of the Brookfield Group that any Service Provider has arranged to provide the Services to any Service Recipient;
+
+Child 269 (p):
+ 
+
+Child 270 (p):
+1.1.75         “Service Provider Indemnified Parties” has the meaning assigned thereto in Section 10.1.1;
+
+Child 271 (p):
+ 
+
+Child 272 (p):
+1.1.76         “Service Providers” means the Canadian Service Provider, the Canadian Service Provider II, the US Service Provider, the International Service Provider, the UK Service Provider and the Dubai Service Provider;
+
+Child 273 (p):
+ 
+
+Child 274 (p):
+1.1.77         “Service Recipient” means BEP, BRELP, the Holding Entities and, at the option of the Holding Entities, the Operating Entities;
+
+Child 275 (p):
+ 
+
+Child 276 (p):
+1.1.78         “Services” has the meaning assigned thereto in Section 3.1;
+
+Child 277 (p):
+ 
+
+Child 278 (p):
+1.1.79         “Subsidiary” means, with respect to any Person, (i) any other Person that is directly or indirectly Controlled by such Person, (ii) any trust in which such Person holds all of the beneficial interests or (iii) any partnership, limited liability company or similar entity in which such Person holds all of the interests other than the interests of any general partner, managing member or similar Person;
+
+Child 279 (p):
+ 
+
+Child 280 (p):
+1.1.80         “Third Party Claim” has the meaning assigned thereto in Section 10.1.3;
+
+Child 281 (p):
+ 
+
+Child 282 (p):
+1.1.81         “Total Capitalization Value” means, in any Quarter, the sum of (i) the Fair Market Value of a Unit multiplied by the number of Units issued and outstanding on the last trading day of the Quarter (assuming full conversion of any limited partnership interests held by any member of the Brookfield Group in BRELP into Units), plus (ii) for each class or series of Security, the Fair Market Value of a Security of such class or series multiplied by the number of Securities of such class or series issued and outstanding on the last trading day of the Quarter (calculated on a fully-diluted basis), plus (iii) the principal amount of all debt not captured by paragraph (ii) of this Section 1.1.81 owed by each Service Recipient (excluding for this purpose any Operating Entity) on the last trading day of the Quarter to any Person that is not a member of the BEP Group, which debt has recourse to any Service Recipient, less any amount of cash held by all Service Recipients (excluding for this purpose any Operating Entity) on such day;
+
+Child 283 (p):
+ 
+
+Child 284 (p):
+1.1.82         “Total Capitalization Value Increase” means, in any Quarter, an amount equal to the difference between (i) the Total Capitalization Value for such Quarter, and (ii) the Opening Total Capitalization Value; provided, however, that if the difference between (i) and (ii) in any Quarter is a negative number, the Total Capitalization Value Increase in such Quarter shall be deemed to be nil;
+
+Child 285 (p):
+ 
+
+Child 286 (tbl):
+ -9- 
+
+Child 287 (p):
+ 
+
+Child 288 (p):
+ 
+
+Child 289 (p):
+1.1.84         “Transaction Fees” means fees paid or payable by the Service Recipients, which are on market terms, with respect to financial advisory services ordinarily carried out by investment banks in the context of mergers and acquisitions transactions;
+
+Child 290 (p):
+ 
+
+Child 291 (p):
+1.1.85         “Units” means the limited partnership units of BEP;
+
+Child 292 (p):
+ 
+
+Child 293 (p):
+1.1.86         “UK Service Provider” has the meaning assigned thereto in the preamble; and
+
+Child 294 (p):
+ 
+
+Child 295 (p):
+1.1.87         “US Service Provider” has the meaning assigned thereto in the preamble.
+
+Child 296 (p):
+ 
+
+Child 297 (tbl):
+1.2Headings and Table of Contents
+
+Child 298 (p):
+ 
+
+Child 299 (p):
+The inclusion of headings and a table of contents in this Agreement are for convenience of reference only and will not affect the construction or interpretation hereof.
+
+Child 300 (p):
+ 
+
+Child 301 (tbl):
+1.3Interpretation
+
+Child 302 (p):
+ 
+
+Child 303 (p):
+In this Agreement, unless the context otherwise requires:
+
+Child 304 (p):
+ 
+
+Child 305 (p):
+ 
+
+Child 306 (p):
+1.3.2        the words “include”, “includes”, “including”, or any variations thereof, when following any general term or statement, are not to be construed as limiting the general term or statement to the specific items or matters set forth or to similar items or matters, but rather as referring to all other items or matters that could reasonably fall within the broadest possible scope of the general term or statement;
+
+Child 307 (p):
+ 
+
+Child 308 (p):
+1.3.3         references to any Person include such Person’s successors and permitted assigns;
+
+Child 309 (p):
+ 
+
+Child 310 (p):
+ 
+
+Child 311 (tbl):
+ -10- 
+
+Child 312 (p):
+ 
+
+Child 313 (p):
+ 
+
+Child 314 (p):
+1.3.6        in the event that any day on which any amount is to be determined or any action is required to be taken hereunder is not a Business Day, then such amount shall be determined or such action shall be required to be taken at or before the requisite time on the next succeeding day that is a Business Day; and
+
+Child 315 (p):
+ 
+
+Child 316 (p):
+1.3.7        except where otherwise expressly provided, all amounts in this Agreement are stated and shall be paid in U.S. currency.
+
+Child 317 (p):
+ 
+
+Child 318 (tbl):
+1.4Actions by the Service Providers or the Service Recipients
+
+Child 319 (p):
+ 
+
+Child 320 (p):
+Unless the context requires otherwise, where the consent of or a determination is required by any Service Provider or Service Recipient hereunder, the parties shall be entitled to conclusively rely upon it having been given or taken, as applicable, if, such Service Provider or Service Recipient, as applicable, has communicated the same in writing.
+
+Child 321 (p):
+ 
+
+Child 322 (tbl):
+1.5Generally Accepted Accounting Principles
+
+Child 323 (p):
+ 
+
+Child 324 (p):
+In this Agreement, references to “generally accepted accounting principles” mean the generally accepted accounting principles used by BEP in preparing its financial statements from time to time.
+
+Child 325 (p):
+ 
+
+Child 326 (tbl):
+1.6Invalidity of Provisions
+
+Child 327 (p):
+ 
+
+Child 328 (p):
+ 
+
+Child 329 (tbl):
+1.7Entire Agreement
+
+Child 330 (p):
+ 
+
+Child 331 (p):
+This Agreement constitutes the entire agreement between the parties pertaining to the subject matter of this Agreement. There are no warranties, conditions, or representations (including any that may be implied by statute) and there are no agreements in connection with such subject matter except as specifically set forth or referred to in this Agreement. No reliance is placed on any warranty, representation, opinion, advice or assertion of fact made either prior to, contemporaneous with, or after entering into this Agreement, by any party to this Agreement or its directors, officers, employees or agents, to any other party to this Agreement or its directors, officers, employees or agents, except to the extent that the same has been reduced to writing and included as a term of this Agreement, and none of the parties to this Agreement has been induced to enter into this Agreement by reason of any such warranty, representation, opinion, advice or assertion of fact. Accordingly, there will be no liability, either in tort or in contract, assessed in relation to any such warranty, representation, opinion, advice or assertion of fact, except to the extent contemplated above.
+
+Child 332 (p):
+ 
+
+Child 333 (tbl):
+ -11- 
+
+Child 334 (p):
+ 
+
+Child 335 (p):
+ 
+
+Child 336 (p):
+ 
+
+Child 337 (tbl):
+1.9Governing Law
+
+Child 338 (p):
+ 
+
+Child 339 (p):
+This Agreement will be governed by and interpreted and enforced in accordance with the laws of the Province of Ontario and the federal laws of Canada applicable therein.
+
+Child 340 (p):
+ 
+
+Child 341 (p):
+ARTICLE 2
+
+Child 342 (p):
+APPOINTMENT OF THE SERVICE PROVIDERS
+
+Child 343 (p):
+ 
+
+Child 344 (tbl):
+2.1Appointment and Acceptance
+
+Child 345 (p):
+ 
+
+Child 346 (p):
+2.1.1             Subject to and in accordance with the terms, conditions and limitations in this Agreement, the Service Recipients hereby appoint the Service Providers to provide or arrange for other members of the Service Provider Group to provide the Services to the Service Recipients. This appointment will be subject to each Service Recipient’s Governing Body’s supervision of the Service Providers and obligation to manage and control the affairs of such Service Recipient.
+
+Child 347 (p):
+ 
+
+Child 348 (p):
+2.1.2             The Service Providers hereby accept the appointment provided for in Section 2.1.1 and agree to act in such capacity and to provide or arrange for other members of the Service Provider Group to provide the Services to the Service Recipients upon the terms, conditions and limitations in this Agreement.
+
+Child 349 (p):
+ 
+
+Child 350 (tbl):
+2.2Other Holding Entities
+
+Child 351 (p):
+ 
+
+Child 352 (p):
+The parties acknowledge that any Holding Entity that is not a party to this Agreement will execute a counterpart of this Agreement agreeing to be bound by the terms of this Agreement.
+
+Child 353 (p):
+ 
+
+Child 354 (tbl):
+2.3Other Service Providers
+
+Child 355 (p):
+ 
+
+Child 356 (p):
+Any Service Provider, may from time to time, appoint an Affiliate of Brookfield to act as a new Service Provider under this Agreement, effective upon the execution of a joinder agreement by the new Service Provider in the form set forth on Schedule B hereto.
+
+Child 357 (p):
+ 
+
+Child 358 (tbl):
+ -12- 
+
+Child 359 (p):
+ 
+
+Child 360 (tbl):
+2.4Subcontracting and Other Arrangements
+
+Child 361 (p):
+ 
+
+Child 362 (p):
+Any Service Provider may subcontract to any other member of the Service Provider Group or any of its other Affiliates, or arrange for the provision of any or all of the Services to be provided by it under this Agreement by any other member of the Service Provider Group or any other of its Affiliates, and the Service Recipients hereby consent to any such subcontracting or arrangement; provided that the Service Providers shall remain responsible to the Service Recipients for any Services provided by such other member of the Service Provider Group or Affiliate.
+
+Child 363 (p):
+ 
+
+Child 364 (p):
+ARTICLE 3
+
+Child 365 (p):
+SERVICES AND POWERS OF THE SERVICE PROVIDERS
+
+Child 366 (p):
+ 
+
+Child 367 (tbl):
+3.1Services
+
+Child 368 (p):
+ 
+
+Child 369 (p):
+The Service Providers will provide or arrange for the provision by other members of the Service Provider Group of, and will have the exclusive power and authority to provide or arrange for the provision by other members of the Service Provider Group of, the following services (the “Services”) to the Service Recipients:
+
+Child 370 (p):
+ 
+
+Child 371 (p):
+3.1.1          causing or supervising the carrying out of all day to day management, secretarial, accounting, banking, treasury, administrative, liaison, representative, regulatory and reporting functions and obligations;
+
+Child 372 (p):
+ 
+
+Child 373 (p):
+3.1.2          providing overall strategic advice to the Holding Entities in relation to the Business, including advising with respect to the expansion of the Business into new markets;
+
+Child 374 (p):
+ 
+
+Child 375 (p):
+3.1.3          establishing and maintaining or supervising the establishment and maintenance of books and records;
+
+Child 376 (p):
+ 
+
+Child 377 (p):
+ 
+
+Child 378 (p):
+ 
+
+Child 379 (p):
+ 
+
+Child 380 (p):
+ 
+
+Child 381 (p):
+ 
+
+Child 382 (tbl):
+ -13- 
+
+Child 383 (p):
+ 
+
+Child 384 (p):
+ 
+
+Child 385 (p):
+ 
+
+Child 386 (p):
+ 
+
+Child 387 (p):
+3.1.12        supervising the timely calculation and payment of taxes payable, and the filing of all tax returns due, by each Service Recipient;
+
+Child 388 (p):
+ 
+
+Child 389 (p):
+3.1.13        causing or supervising the preparation of the Service Recipients’ annual consolidated financial statements, quarterly interim financial statements and other public disclosure;
+
+Child 390 (p):
+ 
+
+Child 391 (p):
+ 
+
+Child 392 (p):
+3.1.15        arranging for individuals to carry out the functions of the principal executive, accounting and financial officers for BEP only for purposes of applicable securities laws;
+
+Child 393 (p):
+ 
+
+Child 394 (p):
+3.1.16        providing individuals to act as senior officers of Holding Entities as agreed from time to time, subject to the approval of the relevant Governing Body;
+
+Child 395 (p):
+ 
+
+Child 396 (p):
+3.1.17        advising the Service Recipients regarding the maintenance of compliance with applicable Laws and other obligations; and
+
+Child 397 (p):
+ 
+
+Child 398 (p):
+3.1.18        providing all such other services as may from time to time be agreed with the Service Recipients that are reasonably related to the Service Recipient’s day to day operations.
+
+Child 399 (p):
+ 
+
+Child 400 (p):
+Notwithstanding any provision herein to the contrary, all Investment Advisory Services shall (i) be provided solely to BRELP and (ii) be provided by a Service Provider that is registered with the SEC as an investment adviser (or through such a Service Provider by participating affiliates thereof relying on the SEC’s Uniao de Bancos de Brasileiros S.A. no action letter dated July 28, 1992 and the subsequent letters related thereto).
+
+Child 401 (p):
+ 
+
+Child 402 (tbl):
+3.2Responsibility for Certain Services
+
+Child 403 (p):
+ 
+
+Child 404 (p):
+Notwithstanding any provision herein to the contrary:
+
+Child 405 (p):
+ 
+
+Child 406 (tbl):
+ -14- 
+
+Child 407 (p):
+ 
+
+Child 408 (p):
+3.2.1         the US Service Provider, the International Service Provider and, subject to the remainder of this Section 3.2, the UK Service Provider shall be responsible for the provision of Services to BEP and BRELP and no entity resident in Canada shall be responsible for the provision of, nor shall it provide, any Services to BEP and BRELP;
+
+Child 409 (p):
+ 
+
+Child 410 (p):
+3.2.2         the US Service Provider and the International Service Provider shall be responsible for the provision of the Services described in Sections 3.1.1, 3.1.3, 3.1.5, 3.1.9-3.1.13 and 3.1.18 to BEP and BRELP and the UK Service Provider shall not be responsible for the provision of, nor shall it provide, any such Services;
+
+Child 411 (p):
+ 
+
+Child 412 (p):
+3.2.3         the US Service Provider and the International Service Provider shall be responsible for the provision of the Services to any Service Recipient that is not (i) an Affiliate of the UK Service Provider, or (ii) acting as principal, and the UK Service Provider shall not be responsible for the provision of, nor shall it provide, any such Services;
+
+Child 413 (p):
+ 
+
+Child 414 (p):
+3.2.4         any Services provided to BRELP in connection with any securities, whether equity or debt, of Brookfield BRP Holdings (Canada) Inc. that are held by BRELP shall be provided by the US Service Provider or the International Service Provider or an Affiliate of either the US Service Provider or the International Service Provider that is not resident in Canada with whom the US Service Provider or the International Service Provider, as the case may be, has made arrangements for the provision of such Services or to whom the US Service Provider or the International Service Provider, as the case may be, has subcontracted the provision of such Services; and
+
+Child 415 (p):
+ 
+
+Child 416 (p):
+3.2.5         if any Service provided by the Dubai Service Provider requires the valuation of any asset(s), then such valuation shall be carried out by the Dubai Service Provider in accordance with any applicable valuation policy in effect from time to time.
+
+Child 417 (p):
+ 
+
+Child 418 (p):
+provided, however, that nothing in this Section 3.2 shall restrict the provision of Investment Advisory Services to BRELP in accordance with Section 3.1.
+
+Child 419 (p):
+ 
+
+Child 420 (tbl):
+3.3Supervision of Service Providers’ Activities
+
+Child 421 (p):
+ 
+
+Child 422 (p):
+3.3.1        The Service Providers shall, at all times, be subject to the supervision of the relevant Service Recipient’s Governing Body and shall only provide or arrange for the provision of such Services as such Governing Body may request from time to time and provided that the relevant Governing Body shall remain responsible for all investment and divestment decisions made by the Service Recipient.
+
+Child 423 (p):
+ 
+
+Child 424 (p):
+3.3.2         With respect to any Service provided to a Service Recipient, the Dubai Service Provider will, at all times, comply with and be subject to the direction of the relevant Service Recipient’s Governing Body in relation to the following (without limitation):
+
+Child 425 (p):
+ 
+
+Child 426 (p):
+3.3.2.1  investment parameters;
+
+Child 427 (p):
+ 
+
+Child 428 (p):
+3.3.2.2  the arrangements for providing notice to the relevant Service Recipient or its Governing Body, as the case may be, of transactions executed on behalf of the relevant Service Recipient; and
+
+Child 429 (p):
+ 
+
+Child 430 (tbl):
+ -15- 
+
+Child 431 (p):
+ 
+
+Child 432 (p):
+3.3.2.3  whether and when the Dubai Service Provider may act as principal in any given transaction.
+
+Child 433 (p):
+ 
+
+Child 434 (p):
+3.3.3       Instructions by or on behalf of a Service Recipient to the Dubai Service Provider may be given orally or in writing, but shall be given or confirmed in writing (by letter or email) if so requested by the Dubai Service Provider.
+
+Child 435 (p):
+ 
+
+Child 436 (tbl):
+3.4Restrictions on the Service Providers
+
+Child 437 (p):
+ 
+
+Child 438 (p):
+3.4.1        The Service Providers shall, and shall cause any other member of the Service Provider Group to, refrain from taking any action that is not in compliance with or would violate any Laws or that otherwise would not be permitted by the Governing Instruments of the Service Recipients. If any Service Provider or any member of the Service Provider Group is instructed to take any action that is not in such compliance by a Service Recipient’s Governing Body, such person will promptly notify such Governing Body of its judgment that such action would not comply with or violate any such Laws or otherwise would not be permitted by such Governing Instrument.
+
+Child 439 (p):
+ 
+
+Child 440 (p):
+3.4.2        In performing its duties under this Agreement, each member of the Service Provider Group shall be entitled to rely in good faith on qualified experts, professionals and other agents (including on accountants, appraisers, consultants, legal counsel and other, professional advisors) and shall be permitted to rely in good faith upon the direction of a Service Recipient’s Governing Body to evidence any approvals or authorizations that are required under this Agreement. All references in this Agreement to the Service Recipients or Governing Body for the purposes of instructions, approvals and requests to the Service Providers will refer to the Governing Body.
+
+Child 441 (p):
+ 
+
+Child 442 (p):
+3.4.3        The Dubai Service Provider hereby acknowledge and agrees that it does not owe, at any time nor in any circumstances, a duty of best execution to any of the Service Recipients.
+
+Child 443 (p):
+ 
+
+Child 444 (tbl):
+3.5Errors and Omissions Insurance
+
+Child 445 (p):
+ 
+
+Child 446 (p):
+Each of the Service Providers shall, and shall cause any other member of the Service Provider Group to, at all times during the term of this Agreement maintain “errors and omissions” insurance coverage and other insurance coverage which is customarily carried by Persons performing functions that are similar to those performed by the members of the Service Provider Group under this Agreement and in an amount which is comparable to that which is customarily maintained by such other Persons.
+
+Child 447 (p):
+ 
+
+Child 448 (p):
+ARTICLE 4
+
+Child 449 (p):
+RELATIONSHIP BETWEEN THE SERVICE PROVIDERS AND THE SERVICE RECIPIENTS
+
+Child 450 (p):
+ 
+
+Child 451 (tbl):
+4.1Other Activities
+
+Child 452 (p):
+ 
+
+Child 453 (p):
+Subject to the terms of the Relationship Agreement, no member of the Service Provider Group (and no Affiliate, director, officer, member, partner, shareholder or employee of any member of the Service Provider Group) shall be prohibited from engaging in other business activities or sponsoring, or providing services to, third parties that compete directly or indirectly with the Service Recipients.
+
+Child 454 (p):
+ 
+
+Child 455 (tbl):
+ -16- 
+
+Child 456 (p):
+ 
+
+Child 457 (tbl):
+4.2Exclusivity
+
+Child 458 (p):
+ 
+
+Child 459 (p):
+Except as expressly provided for herein, the Service Recipients shall not, during the term of this Agreement, engage any other Person to provide any services comparable to the Services without the prior written consent of the Service Providers, which may be withheld in the absolute discretion of the Service Providers.
+
+Child 460 (p):
+ 
+
+Child 461 (p):
+ 
+
+Child 462 (p):
+ 
+
+Child 463 (p):
+ARTICLE 5
+
+Child 464 (p):
+MANAGEMENT AND EMPLOYEES
+
+Child 465 (p):
+ 
+
+Child 466 (tbl):
+5.1Management and Employees
+
+Child 467 (p):
+ 
+
+Child 468 (p):
+5.1.1        The Service Providers shall arrange, or shall arrange for another member of the Service Provider Group to arrange, for such qualified personnel and support staff to be available to carry out the Services. Such personnel and support staff shall devote such of their time to the provision of the Services to the Service Recipients as the relevant member of the Service Provider Group reasonably deems necessary and appropriate in order to fulfill its obligations hereunder. Such personnel and support staff need not have as their primary responsibility the provision of the Services to the Service Recipients or be dedicated exclusively to the provision of the Services to the Service Recipients.
+
+Child 469 (p):
+ 
+
+Child 470 (p):
+5.1.2        Each of the Service Recipients shall do all things reasonably necessary on its part as requested by any member of the Service Provider Group consistent with the terms of this Agreement to enable the members of the Service Provider Group to fulfill their obligations, covenants and responsibilities and to exercise their rights pursuant to this Agreement, including making available to the Service Provider Group, and granting the Service Provider Group access to, the employees and contractors of the Service Recipients as any member of the Service Provider Group may from time to time request.
+
+Child 471 (p):
+ 
+
+Child 472 (p):
+5.1.3        The Service Providers covenant and agree to exercise the power and discharge the duties conferred under this Agreement honestly and in good faith, and shall exercise the degree of care, diligence and skill that a reasonably prudent person would exercise in comparable circumstances, subject to, and after taking into account, the terms and conditions of the Relationship Agreement.
+
+Child 473 (p):
+ 
+
+Child 474 (tbl):
+ -17- 
+
+Child 475 (p):
+ 
+
+Child 476 (tbl):
+5.2Compensation Charges
+
+Child 477 (p):
+ 
+
+Child 478 (p):
+5.2.1        The parties acknowledge and agree that, at the request of BEP, it may be desirable for employees and other personnel of any member of the BEP Group to receive long-term incentive compensation pursuant to one or more programs or other arrangements offered by any member of the Brookfield Group. In these cases, all or a portion of such long-term incentive compensation (including cash, options or other security-based compensation) paid or payable by the Brookfield Group to such employees or other personnel of the BEP Group shall be allocated to the applicable member of the BEP Group (a “Compensation Charge”).
+
+Child 479 (p):
+ 
+
+Child 480 (p):
+5.2.2        The amount of any Compensation Charge allocated to a member of the BEP Group shall be reported to the Nominating and Governance Committee of the Managing General Partner on an annual basis.
+
+Child 481 (p):
+ 
+
+Child 482 (p):
+ARTICLE 6
+
+Child 483 (p):
+INFORMATION AND RECORDS
+
+Child 484 (p):
+ 
+
+Child 485 (tbl):
+6.1Books and Records
+
+Child 486 (p):
+ 
+
+Child 487 (p):
+6.1.1        The Service Providers shall, or shall cause any other member of the Service Provider Group to, as applicable, maintain proper books, records and documents in which complete, true and correct entries, in conformity in all material respects with generally accepted accounting principles and all requirements of applicable Laws, will be made.
+
+Child 488 (p):
+ 
+
+Child 489 (p):
+6.1.2        The Service Recipients shall maintain proper books, records and documents in which complete, true and correct entries, in conformity in all material respects with generally accepted accounting principles and all requirements of applicable Laws, will be made.
+
+Child 490 (p):
+ 
+
+Child 491 (tbl):
+6.2Examination of Records by the Service Recipients
+
+Child 492 (p):
+ 
+
+Child 493 (p):
+Upon reasonable prior notice by the Service Recipients to the relevant member of the Service Provider Group, the relevant member of the Service Provider Group will make available to the Service Recipients and their authorized representatives, for examination during normal business hours on any Business Day, all books, records and documents required to be maintained under Section 6.1.1. In addition, the Service Provider Group will make available to the Service Recipients or their authorized representatives such financial and operating data in respect of the performance of the Services under this Agreement as may be in existence and as the Service Recipients or their authorized representatives will from time to time reasonably request, including for the purposes of conducting any audit in respect of expenses of the Service Recipients or other matters necessary or advisable to be audited in order to conduct an audit of the financial affairs of the Service Recipients. Any examination of records will be conducted in a manner which will not unduly interfere with the conduct of the Service Recipients’ activities or of the Service Provider Group’s business in the ordinary course.
+
+Child 494 (p):
+ 
+
+Child 495 (tbl):
+ -18- 
+
+Child 496 (p):
+ 
+
+Child 497 (tbl):
+6.3Access to Information by Service Provider Group
+
+Child 498 (p):
+ 
+
+Child 499 (p):
+6.3.1         The Service Recipients shall:
+
+Child 500 (p):
+ 
+
+Child 501 (p):
+6.3.1.1        grant, or cause to be granted, to the Service Provider Group full access to all documentation and information, including all of the books, records, and documents required to be maintained under Section 6.1.2, necessary in order for the Service Provider Group to perform its obligations, covenants and responsibilities pursuant to the terms hereof and to enable the Service Provider Group to provide the Services; and
+
+Child 502 (p):
+ 
+
+Child 503 (p):
+ 
+
+Child 504 (tbl):
+6.4Additional Information
+
+Child 505 (p):
+ 
+
+Child 506 (p):
+The parties acknowledge and agree that conducting the activities and providing the Services contemplated herein may have the incidental effect of providing additional information which may be utilized with respect to, or may augment the value of, business interests and related assets in which any of member of the Service Provider Group or any of its Affiliates has an interest and that, subject to compliance with this Agreement, none of the members of the Service Provider Group or any of their respective Affiliates will be liable to account to the Service Recipients with respect to such activities or results; provided, however, that the relevant member of the Service Provider Group will not (and will cause its Affiliates not to), in making any use of such additional information, do so in any manner that the relevant member of the Service Provider Group or its Affiliates knows, or ought reasonably to know, would cause or result in a breach of any confidentiality provision of agreements to which any Service Recipient is a party or is bound.
+
+Child 507 (p):
+ 
+
+Child 508 (p):
+ARTICLE 7
+
+Child 509 (p):
+FEES AND EXPENSES
+
+Child 510 (p):
+ 
+
+Child 511 (tbl):
+7.1Net Base Management Fee and Base Management Fee Adjustment
+
+Child 512 (p):
+ 
+
+Child 513 (p):
+7.1.1        BRELP hereby agrees to pay as provided by this Article 7, during the term of this Agreement, the Net Base Management Fee, quarterly in arrears.
+
+Child 514 (p):
+ 
+
+Child 515 (p):
+7.1.2        The amount of the Net Base Management Fee payable hereunder for any Quarter will be equal to the amount of the Base Management Fee reduced (the “Base Management Fee Adjustment”) by the following amounts, to the extent that such amounts have not previously reduced the amount of the Base Management Fee as a result of the application of the Base Management Fee Adjustment in a previous Quarter:
+
+Child 516 (p):
+ 
+
+Child 517 (tbl):
+ -19- 
+
+Child 518 (p):
+ 
+
+Child 519 (p):
+7.1.2.1        any Service Agreement Fees paid in or payable for that Quarter; and
+
+Child 520 (p):
+ 
+
+Child 521 (p):
+7.1.2.2        any Creditable Operating Entity Payments paid in or payable for that Quarter.
+
+Child 522 (p):
+ 
+
+Child 523 (p):
+7.1.3        For greater certainty, the Base Management Fee will not be reduced by operation of this Agreement by the amount of any (i) Incentive Distribution paid or payable by any Service Recipient or Operating Entity to any member of the Brookfield Group; (ii) any fees for Operational and Other Services that are paid or payable by any Operating Entity to any member of the Brookfield Group; or (iii) any Transaction Fees.
+
+Child 524 (p):
+ 
+
+Child 525 (tbl):
+7.2Maximum Fees Payable by Service Recipients
+
+Child 526 (p):
+ 
+
+Child 527 (p):
+In no event shall BRELP, or any of the Service Recipients, be obligated under this Agreement and the Service Agreements to pay, in the aggregate in respect of any Quarter, any amount exceeding the Base Management Fee payable for that Quarter, after giving effect to any reductions for Creditable Operating Entity Payments contemplated by Section 7.1.2.
+
+Child 528 (p):
+ 
+
+Child 529 (tbl):
+7.3Currency
+
+Child 530 (p):
+ 
+
+Child 531 (p):
+For the purposes of Section 7.1.2 hereof, if a payment giving rise to a Base Management Fee Adjustment was denominated in a currency other than the U.S. dollar, the amount of such payment will be deemed to be equal to the amount in U.S. dollars into which such payment could have been converted on the last day of the relevant Quarter using the exchange rate between such other currency and the U.S. dollars published in the “Exchange Rates” table of the Wall Street Journal on such date or, in the event that the “Exchange Rates” table of the Wall Street Journal was not published on such date, the closest date immediately preceding the date of such payment on which the “Exchange Rates” table of the Wall Street Journal was published.
+
+Child 532 (p):
+ 
+
+Child 533 (tbl):
+7.4Computation and Payment of Net Base Management Fee
+
+Child 534 (p):
+ 
+
+Child 535 (p):
+ 
+
+Child 536 (p):
+ 
+
+Child 537 (tbl):
+ -20- 
+
+Child 538 (p):
+ 
+
+Child 539 (p):
+7.4.3             If BRELP elects to pay all or any portion of the Net Base Management Fee for any Quarter in Units or BRELP Units, the Service Recipients shall take or cause to be taken all appropriate action to issue such Units or BRELP Units, as applicable, including any action required to ensure that such Units or BRELP Units, as applicable, are issued in accordance with applicable Laws and listed on any applicable stock exchanges and public quotation systems.
+
+Child 540 (p):
+ 
+
+Child 541 (tbl):
+7.5Expenses
+
+Child 542 (p):
+ 
+
+Child 543 (p):
+7.5.1             The Service Providers acknowledge and agree that the Service Recipients will not be required to reimburse any member of the Service Provider Group for the salaries and other remuneration of the management, personnel or support staff who provide the Services to such Service Recipients or overhead for such persons.
+
+Child 544 (p):
+ 
+
+Child 545 (p):
+7.5.2            Each of the Service Recipients shall reimburse the relevant member of the Service Provider Group for all out-of-pocket fees, costs and expenses, including those of any third party (other than those contemplated by Section 7.5.1) (“Expenses”), incurred by the relevant member of the Service Provider Group in connection with the provision of the Services. Such Expenses are expected to include, among other things:
+
+Child 546 (p):
+ 
+
+Child 547 (p):
+7.5.2.1            fees, costs and expenses relating to any debt or equity financing;
+
+Child 548 (p):
+ 
+
+Child 549 (p):
+7.5.2.2            fees, costs and expenses incurred in connection with the general administration of any Service Recipient;
+
+Child 550 (p):
+ 
+
+Child 551 (p):
+7.5.2.3            taxes, licenses and other statutory fees or penalties levied against or in respect of a Service Recipient in respect of Services;
+
+Child 552 (p):
+ 
+
+Child 553 (p):
+7.5.2.4            amounts paid by the relevant member of the Service Provider Group under indemnification, contribution or similar arrangements;
+
+Child 554 (p):
+ 
+
+Child 555 (p):
+7.5.2.5            fees, costs and expenses relating to financial reporting, regulatory filings and investor relations and the fees, costs and expenses of agents, advisors and other Persons who provide Services to a Service Recipient;
+
+Child 556 (p):
+ 
+
+Child 557 (tbl):
+ -21- 
+
+Child 558 (p):
+ 
+
+Child 559 (p):
+7.5.2.6            any other fees, costs and expenses incurred by the relevant member of the Service Provider Group that are reasonably necessary for the performance by the relevant member of the Service Provider Group of its duties and functions under this Agreement or any Service Agreement; and
+
+Child 560 (p):
+ 
+
+Child 561 (p):
+7.5.2.7            fees, expenses and costs incurred in connection with the investigation, acquisition, holding or disposal of any asset or business that is made or that is proposed to be made.
+
+Child 562 (p):
+ 
+
+Child 563 (p):
+ 
+
+Child 564 (tbl):
+7.6Governmental Charges
+
+Child 565 (p):
+ 
+
+Child 566 (p):
+Without limiting Section 7.5, the Service Recipients shall pay or reimburse the relevant member of the Service Provider Group for all sales taxes, use taxes, value added taxes, goods and services taxes, harmonized sales taxes, withholding taxes or other similar taxes, customs duties or other governmental charges (“Governmental Charges”) that are levied or imposed by any Governmental Authority by reason of this Agreement, any Service Agreement or any other agreement contemplated by this Agreement, or the fees or other amounts payable hereunder or thereunder, except for any income taxes, corporation taxes, capital taxes or other similar taxes payable by any member of the Service Provider Group which are personal to such member of the Service Provider Group. Any failure by the Service Provider Group to collect monies on account of these Governmental Charges shall not constitute a waiver of the right to do so.
+
+Child 567 (p):
+ 
+
+Child 568 (tbl):
+7.7Computation and Payment of Expenses and Governmental Charges
+
+Child 569 (p):
+ 
+
+Child 570 (p):
+From time to time the Service Providers shall, or shall cause the other members of the Service Provider Group to, prepare statements (each an “Expense Statement”) documenting the Expenses and Governmental Charges to be reimbursed pursuant to this Article 7 and shall deliver such statements to the relevant Service Recipient. All Expenses and Governmental Charges reimbursable pursuant to this Article 7 shall be reimbursed by the relevant Service Recipient no later than the date which is 30 days after receipt of an Expense Statement. The provisions of this Section 7.7 shall survive the termination of this Agreement.
+
+Child 571 (p):
+ 
+
+Child 572 (p):
+ARTICLE 8
+
+Child 573 (p):
+BROOKFIELD’S OBLIGATION AND CONSENT RIGHT
+
+Child 574 (tbl):
+8.1Provision of Services to the Service Recipients
+
+Child 575 (p):
+ 
+
+Child 576 (p):
+Brookfield’s sole obligation pursuant to this Agreement shall be to cause the members of the Service Provider Group to provide Services to the Service Recipients in accordance with the terms of this Agreement.
+
+Child 577 (p):
+ 
+
+Child 578 (tbl):
+ -22- 
+
+Child 579 (p):
+ 
+
+Child 580 (tbl):
+8.2Consent to Issuance of Class A Shares
+
+Child 581 (p):
+ 
+
+Child 582 (p):
+8.2.1             Except as set forth in Section 8.2.2, prior to the issuance by BEPC of any Exchangeable Shares, BEPC shall obtain the written consent of Brookfield, which consent shall be provided or withheld in Brookfield’s sole discretion, provided that Brookfield shall deliver its written decision on whether or not to provide such consent within 10 Business Days of receiving a written request from BEPC, in respect of such issuance. Brookfield shall be entitled to such consent right for as long as Brookfield is a party to the Rights Agreement.
+
+Child 583 (p):
+ 
+
+Child 584 (p):
+8.2.2             Notwithstanding Section 8.2.1, Brookfield’s consent right does not apply to the issuance by BEPC of any Exchangeable Shares in satisfaction of BEPC’s restricted stock unit awards.
+
+Child 585 (p):
+ 
+
+Child 586 (p):
+ARTICLE 9
+
+Child 587 (p):
+REPRESENTATIONS AND WARRANTIES
+
+Child 588 (p):
+OF THE SERVICE PROVIDERS AND THE SERVICE RECIPIENTS
+
+Child 589 (p):
+ 
+
+Child 590 (tbl):
+9.1Representations and Warranties of the Service Providers
+
+Child 591 (p):
+ 
+
+Child 592 (p):
+Each of the Service Providers hereby represents and warrants to the Service Recipients that:
+
+Child 593 (p):
+ 
+
+Child 594 (p):
+9.1.1          it is validly organized and existing under the Laws governing its formation and existence;
+
+Child 595 (p):
+ 
+
+Child 596 (p):
+9.1.2          it, or another member of the Service Provider Group, holds such Permits necessary to perform its obligations hereunder and is not aware of any reason why such Permits might be cancelled;
+
+Child 597 (p):
+ 
+
+Child 598 (p):
+9.1.3          it has the power, capacity and authority to enter into this Agreement and to perform its obligations hereunder;
+
+Child 599 (p):
+ 
+
+Child 600 (p):
+9.1.4          it has taken all necessary action to authorize the execution, delivery and performance of this Agreement;
+
+Child 601 (p):
+ 
+
+Child 602 (p):
+9.1.5          the execution and delivery of this Agreement by it and the performance by it of its obligations hereunder do not and will not contravene, breach or result in any default under its Governing Instruments, or under any mortgage, lease, agreement or other legally binding instrument, Permit or applicable Law to which it is a party or by which it or any of its properties or assets may be bound;
+
+Child 603 (p):
+ 
+
+Child 604 (p):
+9.1.6          no authorization, consent or approval, or filing with or notice to any Person is required in connection with the execution, delivery or performance by it of this Agreement; and
+
+Child 605 (p):
+ 
+
+Child 606 (p):
+9.1.7          this Agreement constitutes a valid and legally binding obligation of it enforceable against it in accordance with its terms, subject to (i) applicable bankruptcy, insolvency, moratorium, fraudulent conveyance, reorganization and other laws of general application limiting the enforcement of creditors’ rights and remedies generally and (ii) general principles of equity, including standards of materiality, good faith, fair dealing and reasonableness, equitable defenses and limits as to the availability of equitable remedies, whether such principles are considered in a proceeding at law or in equity.
+
+Child 607 (p):
+ 
+
+Child 608 (tbl):
+ -23- 
+
+Child 609 (p):
+ 
+
+Child 610 (tbl):
+9.2Representations and Warranties of the Service Recipients
+
+Child 611 (p):
+ 
+
+Child 612 (p):
+Each of the Service Recipients hereby represents and warrants to the Service Providers that:
+
+Child 613 (p):
+ 
+
+Child 614 (p):
+9.2.1          it (and, if applicable, its general partner) is validly organized and existing under the Laws governing its formation and existence;
+
+Child 615 (p):
+ 
+
+Child 616 (p):
+9.2.2          it, or the relevant Operating Entity, holds such Permits necessary to own and operate the Power Operations that it directly or indirectly owns or operates from time to time and is not aware of any reason why such Permits might be cancelled;
+
+Child 617 (p):
+ 
+
+Child 618 (p):
+9.2.3          it (or, as applicable, its general partner on its behalf) has the power, capacity and authority to enter into this Agreement and to perform its duties and obligations hereunder;
+
+Child 619 (p):
+ 
+
+Child 620 (p):
+9.2.4          it (or, as applicable, its general partner) has taken all necessary action to authorize the execution, delivery and performance of this Agreement;
+
+Child 621 (p):
+ 
+
+Child 622 (p):
+9.2.5          the execution and delivery of this Agreement by it (or, as applicable, its general partner on its behalf) and the performance by it of its obligations hereunder do not and will not contravene, breach or result in any default under its Governing Instruments (or, if applicable, the Governing Instruments of its general partner), or under any mortgage, lease, agreement or other legally binding instrument, Permit or applicable Law to which it is a party or by which any of its properties or assets may be bound;
+
+Child 623 (p):
+ 
+
+Child 624 (p):
+9.2.6          no authorization, consent or approval, or filing with or notice to any Person is required in connection with the execution, delivery or performance by it (or, as applicable, its general partner on its behalf) of this Agreement; and
+
+Child 625 (p):
+ 
+
+Child 626 (p):
+9.2.7          this Agreement constitutes a valid and legally binding obligation of it enforceable against it in accordance with its terms, subject to: (i) applicable bankruptcy, insolvency, moratorium, fraudulent conveyance, reorganization and other laws of general application limiting the enforcement of creditors’ rights and remedies generally; and (ii) general principles of equity, including standards of materiality, good faith, fair dealing and reasonableness, equitable defenses and limits as to the availability of equitable remedies, whether such principles are considered in a proceeding at law or in equity.
+
+Child 627 (p):
+ 
+
+Child 628 (p):
+ARTICLE 10
+
+Child 629 (p):
+LIABILITY AND INDEMNIFICATION
+
+Child 630 (p):
+ 
+
+Child 631 (tbl):
+10.1Indemnity
+
+Child 632 (p):
+ 
+
+Child 633 (p):
+10.1.1      The Service Recipients hereby jointly and severally agree, to the fullest extent permitted by applicable Laws, to indemnify and hold harmless each member of the Service Provider Group, any of its Affiliates (other than any member of the BEP Group) and any directors, officers, agents, subcontractors, delegates, members, partners, shareholders, employees and other representatives of each of the foregoing (each, a “Service Provider Indemnified Party”) from and against any claims, liabilities, losses, damages, costs or expenses (including legal fees) (“Liabilities”) incurred by them or threatened in connection with any and all actions, suits, investigations, proceedings or claims of any kind whatsoever, whether arising under statute or action of a Governmental Authority or otherwise or in connection with the business, investments and activities of the Service Recipients or in respect of or arising from this Agreement or the Services provided hereunder (“Claims”), including any Claims arising on account of the Governmental Charges contemplated by Section 7.6; provided that no Service Provider Indemnified Party shall be so indemnified with respect to any Claim to the extent that such Claim is finally determined by a final and non-appealable judgment entered by a court of competent jurisdiction, or pursuant to a settlement agreement agreed to by such Service Provider Indemnified Party, to have resulted from such Service Provider Indemnified Party’s bad faith, fraud, wilful misconduct, gross negligence or, in the case of a criminal matter, conduct undertaken with knowledge that the conduct was unlawful.
+
+Child 634 (p):
+ 
+
+Child 635 (tbl):
+ -24- 
+
+Child 636 (p):
+ 
+
+Child 637 (p):
+10.1.2         The Service Providers hereby jointly and severally agree, to the fullest extent permitted by applicable Laws, to indemnify and hold harmless each of the Service Recipients, any of its Affiliates (other than any member of the Service Provider Group), and any directors, officers, agents, members, partners, shareholders, employees and other representatives of each of the foregoing (each, a “BEP Indemnified Party”) from and against any Liabilities resulting from any member of the Service Provider Group’s bad faith, fraud, wilful misconduct, gross negligence and, in the case of a criminal matter, conduct undertaken with the knowledge that the conduct was unlawful.
+
+Child 638 (p):
+ 
+
+Child 639 (p):
+10.1.3         If any action, suit, investigation, proceeding or claim is made or brought by any third party with respect to which an Indemnifying Party is obligated to provide indemnification under this Agreement (a “Third Party Claim”), the Indemnified Party will have the right to employ its own counsel in connection therewith, and the reasonable fees and expenses of such counsel, as well as the reasonable costs (excluding an amount reimbursed to such Indemnified Party for the time spent in connection therewith) and out-of-pocket expenses incurred in connection therewith will be paid by the Indemnifying Party in such case, as incurred but subject to recoupment by the Indemnifying Party if ultimately it is not liable to pay indemnification hereunder.
+
+Child 640 (p):
+ 
+
+Child 641 (p):
+10.1.4         The Indemnified Party and the Indemnifying Party agree that, promptly after the receipt of notice of the commencement of any Third Party Claim, the Indemnified Party in such case will notify the Indemnifying Party in writing of the commencement of such Third Party Claim (provided that any accidental failure to provide any such notice will not prejudice the right of any such Indemnified Party hereunder) and, throughout the course of such Third Party Claim, such Indemnified Party will use its best efforts to provide copies of all relevant documentation to such Indemnifying Party and will keep the Indemnifying Party apprised of the progress thereof and will discuss with the Indemnifying Party all significant actions proposed.
+
+Child 642 (p):
+ 
+
+Child 643 (p):
+10.1.5         The parties hereto expressly acknowledge and agree that the right to indemnity provided in this Section 10.1 shall be in addition to and not in derogation of any other liability which the Indemnifying Party in any particular case may have or of any other right to indemnity or contribution which any Indemnified Party may have by statute or otherwise at law.
+
+Child 644 (p):
+ 
+
+Child 645 (tbl):
+ -25- 
+
+Child 646 (p):
+ 
+
+Child 647 (p):
+ 
+
+Child 648 (tbl):
+10.2  Limitation of Liability
+
+Child 649 (p):
+ 
+
+Child 650 (p):
+ 
+
+Child 651 (p):
+10.2.2         The Service Recipients hereby agree that no Service Provider Indemnified Party will be liable to a Service Recipient, a Service Recipient’s Governing Body (including, for greater certainty, a director or officer of a Service Recipient or another individual with similar function or capacity) or any security holder or partner of a Service Recipient for any Liabilities that may occur as a result of any acts or omissions by the Service Provider Indemnified Party pursuant to or in accordance with this Agreement, except to the extent that such Liabilities are finally determined by a final and non-appealable judgment entered by a court of competent jurisdiction to have resulted from the Service Provider Indemnified Party’s bad faith, fraud, wilful misconduct, gross negligence, or in the case of a criminal matter, conduct undertaken with knowledge that the conduct was unlawful.
+
+Child 652 (p):
+ 
+
+Child 653 (p):
+ 
+
+Child 654 (p):
+ 
+
+Child 655 (tbl):
+10.3 Benefit to all Indemnified Parties
+
+Child 656 (p):
+ 
+
+Child 657 (p):
+10.3.1        The Service Recipients hereby constitute the Service Providers as trustees for each of the Service Provider Indemnified Parties of the covenants of the Service Recipients under this Article 10 with respect to such Service Provider Indemnified Parties and the Service Providers hereby accept such trust and agree to hold and enforce such covenants on behalf of the Indemnified Parties.
+
+Child 658 (p):
+ 
+
+Child 659 (p):
+10.3.2       The Service Providers hereby constitute the Service Recipients as trustees for each of the BEP Indemnified Parties of the covenants of the Service Providers under this Article 10 with respect to such BEP Indemnified Parties and the Service Recipients hereby accept such trust and agree to hold and enforce such covenants on behalf of the BEP Indemnified Parties.
+
+Child 660 (p):
+ 
+
+Child 661 (tbl):
+ -26- 
+
+Child 662 (p):
+ 
+
+Child 663 (tbl):
+10.4No Waiver
+
+Child 664 (p):
+ 
+
+Child 665 (p):
+U.S. federal and state securities laws impose liabilities under certain circumstances on Persons who act in good faith; nothing herein shall constitute a waiver or limitation of any rights which the Service Recipients may have, if any, under any applicable U.S. federal and state securities laws.
+
+Child 666 (p):
+ 
+
+Child 667 (p):
+ARTICLE 11
+
+Child 668 (p):
+TERM AND TERMINATION
+
+Child 669 (p):
+ 
+
+Child 670 (tbl):
+11.1Term
+
+Child 671 (p):
+ 
+
+Child 672 (p):
+This Agreement shall continue in full force and effect, in perpetuity, until terminated in accordance with Section 11.2 or Section 11.3.
+
+Child 673 (p):
+ 
+
+Child 674 (tbl):
+11.2Termination by the Service Recipients
+
+Child 675 (p):
+ 
+
+Child 676 (p):
+11.2.1        The Service Recipients may, subject to Section 11.2.2, terminate this Agreement effective upon written notice of termination to the Service Providers without payment of any termination fee if:
+
+Child 677 (p):
+ 
+
+Child 678 (p):
+ 
+
+Child 679 (p):
+11.2.1.2       any of the Service Providers engages in any act of fraud, misappropriation of funds or embezzlement against any Service Recipient that results in material harm to the Service Recipients;
+
+Child 680 (p):
+ 
+
+Child 681 (p):
+11.2.1.3       there is an event of any gross negligence on the part of any of the Service Providers in the performance of its obligations under this Agreement and such gross negligence results in material harm to the Service Recipients; or
+
+Child 682 (p):
+ 
+
+Child 683 (p):
+11.2.1.4       each of the Service Providers makes a general assignment for the benefit of its creditors, institutes proceedings to be adjudicated voluntarily bankrupt, consents to the filing of a petition of bankruptcy against it, is adjudicated by a court of competent jurisdiction as being bankrupt or insolvent, seeks reorganization under any bankruptcy law or consents to the filing of a petition seeking such reorganization or has a decree entered against it by a court of competent jurisdiction appointing a receiver liquidator, trustee or assignee in bankruptcy or in insolvency.
+
+Child 684 (p):
+ 
+
+Child 685 (tbl):
+ -27- 
+
+Child 686 (p):
+ 
+
+Child 687 (p):
+ 
+
+Child 688 (p):
+ 
+
+Child 689 (tbl):
+11.3Termination by the Service Providers
+
+Child 690 (p):
+ 
+
+Child 691 (p):
+11.3.1         The Service Providers may terminate this Agreement effective upon written notice of termination to the Service Recipients without payment of any termination fee if:
+
+Child 692 (p):
+ 
+
+Child 693 (p):
+ 
+
+Child 694 (p):
+11.3.1.2        any Service Recipient makes a general assignment for the benefit of its creditors, institutes proceedings to be adjudicated voluntarily bankrupt, consents to the filing of a petition of bankruptcy against it, is adjudicated by a court of competent jurisdiction as being bankrupt or insolvent, seeks reorganization under any bankruptcy law or consents to the filing of a petition seeking such reorganization or has a decree entered against it by a court of competent jurisdiction appointing a receiver liquidator, trustee or assignee in bankruptcy or in insolvency.
+
+Child 695 (p):
+ 
+
+Child 696 (tbl):
+11.4Survival Upon Termination
+
+Child 697 (p):
+ 
+
+Child 698 (p):
+If this Agreement is terminated pursuant to this Article 11, such termination will be without any further liability or obligation of any party hereto, except as provided in Section 6.4, Section 11.5, Section 11.6 and Section 13.3.
+
+Child 699 (p):
+ 
+
+Child 700 (tbl):
+11.5Action Upon Termination
+
+Child 701 (p):
+ 
+
+Child 702 (p):
+11.5.1         From and after the effective date of the termination of this Agreement, the Service Providers shall not be entitled to receive the Base Management Fee for further Services under this Agreement, but will be paid all compensation accruing to and including the date of termination (including such day).
+
+Child 703 (p):
+ 
+
+Child 704 (tbl):
+ -28- 
+
+Child 705 (p):
+ 
+
+Child 706 (p):
+11.5.2         Upon any termination of this Agreement, the Service Providers shall forthwith:
+
+Child 707 (p):
+ 
+
+Child 708 (p):
+11.5.2.1        after deducting any accrued compensation and reimbursements for any Expenses to which it is then entitled, pay over to the Service Recipients all money collected and held for the account of the Service Recipients pursuant to this Agreement;
+
+Child 709 (p):
+ 
+
+Child 710 (p):
+11.5.2.2        deliver to the Service Recipients’ Governing Bodies a full accounting, including a statement showing all payments collected by it and a statement of all money held by it, covering the period following the date of the last accounting furnished to the Governing Bodies with respect to the Service Recipients; and
+
+Child 711 (p):
+ 
+
+Child 712 (p):
+11.5.2.3        deliver to the Service Recipients’ Governing Bodies all property and documents of the Service Recipients then in the custody of the Service Provider Group.
+
+Child 713 (p):
+ 
+
+Child 714 (tbl):
+11.6Release of Money or other Property Upon Written Request
+
+Child 715 (p):
+ 
+
+Child 716 (p):
+The Service Providers hereby agree that any money or other property of the Service Recipients or their Subsidiaries held by the Service Provider Group under this Agreement shall be held by the relevant member of the Service Provider Group as custodian for such Person, and the relevant member of the Service Provider Group’s records shall be appropriately marked clearly to reflect the ownership of such money or other property by such Person. Upon the receipt by the relevant member of the Service Provider Group of a written request signed by a duly authorized representative of a Service Recipient requesting the relevant member of the Service Provider Group to release to the Service Recipient any money or other property then held by the relevant member of the Service Provider Group for the account of such Service Recipient under this Agreement, the relevant member of the Service Provider Group shall release such money or other property to the Service Recipient within a reasonable period of time, but in no event later than 60 days following such request. The relevant member of the Service Provider Group shall not be liable to any Service Recipient, a Service Recipient’s Governing Body or any other Person for any acts performed or omissions to act by a Service Recipient in connection with the money or other property released to the Service Recipient in accordance with the second sentence of this Section 11.6. Each Service Recipient shall indemnify and hold harmless the relevant member of the Service Provider Group, any of its Affiliates (other than any member of the BEP Group) and any directors, officers, agents, subcontractors, delegates, members, partners, shareholders and employees and other representatives of each of the foregoing from and against any and all Liabilities which arise in connection with the relevant member of the Service Provider Group’s release of such money or other property to the Service Recipient in accordance with the terms of this Section 11.6. Indemnification pursuant to this provision shall be in addition to any right of such Persons to indemnification under Section 10.1 hereof. For the avoidance of doubt, the provisions of this Section 11.6 shall survive termination of this Agreement. The Service Recipients hereby constitute the Service Providers as trustees for each Person entitled to indemnification pursuant to this Section 11.6 of the covenants of the Service Recipients under this Section 11.6 with respect to such Persons and the Service Providers hereby accept such trust and agree to hold and enforce such covenants on behalf of such Persons.
+
+Child 717 (p):
+ 
+
+Child 718 (tbl):
+ -29- 
+
+Child 719 (p):
+ 
+
+Child 720 (p):
+ARTICLE 12
+
+Child 721 (p):
+ARBITRATION
+
+Child 722 (p):
+ 
+
+Child 723 (tbl):
+12.1Dispute
+
+Child 724 (p):
+ 
+
+Child 725 (p):
+Any dispute or disagreement of any kind or nature between the parties arising out of or in connection with this Agreement (a “Dispute”) shall be resolved in accordance with this Article 12, to the extent permitted by applicable Laws.
+
+Child 726 (p):
+ 
+
+Child 727 (tbl):
+12.2Arbitration
+
+Child 728 (p):
+ 
+
+Child 729 (p):
+12.2.1         Any Dispute shall be submitted to arbitration (the “Arbitration”) by one Arbitrator pursuant to the procedure set forth in this Section 12.2 and pursuant to the arbitration rules set forth in the Arbitration Act, 1991 (Ontario) (the “Act”). If the provisions of this Section 12.2 are inconsistent with the provisions of the Act and to the extent of such inconsistency, the provisions of this Section 12.2 shall prevail in any Arbitration.
+
+Child 730 (p):
+ 
+
+Child 731 (p):
+ 
+
+Child 732 (p):
+12.2.3         Within thirty (30) days after any demand for Arbitration under Section 12.2.2, the parties shall have agreed on the designation of the Arbitrator or should the parties fail to do so, the Arbitrator may be appointed by a judge of the Ontario Superior Court of Justice upon motion of either party (in either case, the “Arbitrator”).
+
+Child 733 (p):
+ 
+
+Child 734 (p):
+12.2.4         The Arbitration hearings shall be held in a location in Ontario specified in the demand for Arbitration and shall commence no later than thirty (30) days after the determination of the Arbitrator under Section 12.2.3. The decision of the Arbitrator shall be made not later than sixty (60) days after its appointment. The decision of the Arbitrator, shall be final without appeal and binding on the parties.
+
+Child 735 (p):
+ 
+
+Child 736 (p):
+12.2.5         Each party shall bear the costs and expenses of all lawyers, consultants, advisors, witnesses and employees retained by it in any Arbitration. The expenses of the Arbitrator shall be paid equally by the parties unless the Arbitrator otherwise provides in its award.
+
+Child 737 (p):
+ 
+
+Child 738 (tbl):
+12.3Continued Performance
+
+Child 739 (p):
+ 
+
+Child 740 (p):
+During the conduct of Dispute resolution procedures pursuant to this Article 12, the parties shall continue to perform their respective obligations under this Agreement and neither party shall exercise any other remedies to resolve a Dispute.
+
+Child 741 (p):
+ 
+
+Child 742 (tbl):
+ -30- 
+
+Child 743 (p):
+ 
+
+Child 744 (p):
+ARTICLE 13
+
+Child 745 (p):
+GENERAL PROVISIONS
+
+Child 746 (p):
+ 
+
+Child 747 (tbl):
+13.1Limited Liability of Limited Partners of BEP and BRELP
+
+Child 748 (p):
+ 
+
+Child 749 (p):
+13.1.1      Each of the parties acknowledges that (i) each of BEP and BRELP is a limited partnership formed under the laws of Bermuda, a limited partner of which is liable for any liabilities or losses of the relevant partnership only to the extent of the amount that such limited partner has contributed, or agreed to contribute, to the capital of the relevant partnership and such limited partner’s pro rata share of any undistributed income; (ii) BRELP General Partner is the sole general partner of BRELP GP LP; BRELP GP LP is the sole general partner of BRELP; and the Managing General Partner is the sole general partner of BEP; and (iii) the only Person with whom such party has had dealings on behalf of BRELP is BRELP GP LP; the only Person with whom such party has had dealings on behalf of the BRELP GP LP is BRELP General Partner; and the only Person with whom such party has had dealings on behalf of BEP is the Managing General Partner.
+
+Child 750 (p):
+ 
+
+Child 751 (tbl):
+13.2Assignment
+
+Child 752 (p):
+ 
+
+Child 753 (p):
+ 
+
+Child 754 (p):
+13.2.2      Notwithstanding Section 13.2.1, this Agreement will not be assigned (within the meaning of the Advisers Act) by any Service Provider that is registered with the SEC as an investment adviser without the prior written consent of BEP.
+
+Child 755 (p):
+ 
+
+Child 756 (p):
+13.2.3     This Agreement shall not be assigned by any of the Service Recipients without the prior written consent of the Service Providers, except in the case of assignment by any such Service Recipient to a Person that is its successor by merger, consolidation or purchase of assets, in which case the successor shall be bound under this Agreement and by the terms of the assignment in the same manner as such Service Recipient is bound under this Agreement.
+
+Child 757 (p):
+ 
+
+Child 758 (p):
+13.2.4      Any purported assignment of this Agreement in violation of this Article 13 shall be null and void.
+
+Child 759 (p):
+ 
+
+Child 760 (tbl):
+13.3Failure to Pay When Due
+
+Child 761 (p):
+ 
+
+Child 762 (p):
+Any amount payable by any Service Recipient to any member of the Service Provider Group hereunder which is not remitted when so due will remain due (whether on demand or otherwise) and interest will accrue on such overdue amounts (both before and after judgment) at a rate per annum equal to the Interest Rate.
+
+Child 763 (p):
+ 
+
+Child 764 (tbl):
+ -31- 
+
+Child 765 (p):
+ 
+
+Child 766 (tbl):
+13.4Enurement
+
+Child 767 (p):
+ 
+
+Child 768 (p):
+This Agreement will enure to the benefit of and be binding upon the parties hereto and their respective successors and permitted assigns.
+
+Child 769 (p):
+ 
+
+Child 770 (tbl):
+13.5Notices
+
+Child 771 (p):
+ 
+
+Child 772 (p):
+ 
+
+Child 773 (p):
+13.5.1        if to BEP:
+
+Child 774 (p):
+ 
+
+Child 775 (p):
+Brookfield Renewable Partners Limited
+
+Child 776 (p):
+73 Front Street, 5th FloorHamilton HM 12Bermuda
+
+Child 777 (p):
+ 
+
+Child 778 (p):
+Attention: Secretary
+
+Child 779 (p):
+ 
+
+Child 780 (p):
+13.5.2        if to BRELP:
+
+Child 781 (p):
+ 
+
+Child 782 (p):
+BRP Bermuda GP Limited
+
+Child 783 (p):
+73 Front Street, 5th FloorHamilton HM 12Bermuda
+
+Child 784 (p):
+ 
+
+Child 785 (p):
+Attention: Secretary
+
+Child 786 (p):
+ 
+
+Child 787 (p):
+13.5.3        if to Brookfield:
+
+Child 788 (p):
+ 
+
+Child 789 (p):
+Brookfield Corporation.
+
+Child 790 (p):
+Suite 100, Brookfield Place
+
+Child 791 (p):
+181 Bay Street, Box 762
+
+Child 792 (p):
+Toronto, Ontario M5J 2T3
+
+Child 793 (p):
+ 
+
+Child 794 (p):
+Attention: Chief Legal Officer
+
+Child 795 (p):
+ 
+
+Child 796 (tbl):
+ -32- 
+
+Child 797 (p):
+ 
+
+Child 798 (p):
+13.5.4        if to the Canadian Service Provider:
+
+Child 799 (p):
+ 
+
+Child 800 (p):
+Brookfield Asset Management Private Institutional Capital Adviser (Canada), L.P.
+
+Child 801 (p):
+Suite 100, Brookfield Place
+
+Child 802 (p):
+181 Bay Street, Box 762
+
+Child 803 (p):
+Toronto, Ontario M5J 2T3
+
+Child 804 (p):
+ 
+
+Child 805 (p):
+13.5.5        if to the Canadian Service Provider II:
+
+Child 806 (p):
+ 
+
+Child 807 (p):
+Brookfield Canada Renewable Manager LP
+
+Child 808 (p):
+Suite 100, Brookfield Place
+
+Child 809 (p):
+181 Bay Street, Box 762
+
+Child 810 (p):
+Toronto, Ontario M5J 2T3
+
+Child 811 (p):
+ 
+
+Child 812 (tbl):
+13.5.6if to the US Service Provider:
+
+Child 813 (p):
+ 
+
+Child 814 (p):
+Brookfield Renewable Energy Group LLC250 Vesey Street, 15th FloorNew York, NY 10281-1023
+
+Child 815 (p):
+ 
+
+Child 816 (tbl):
+13.5.7if to the International Service Provider:
+
+Child 817 (p):
+ 
+
+Child 818 (p):
+Brookfield Renewable Energy Group LLC250 Vesey Street, 15th FloorNew York, NY 10281-1023
+
+Child 819 (p):
+ 
+
+Child 820 (p):
+13.5.8         if to the UK Service Provider:
+
+Child 821 (p):
+ 
+
+Child 822 (p):
+Brookfield Global Renewable Energy Advisor Limited
+
+Child 823 (p):
+One Canada Square
+
+Child 824 (p):
+Level 25, Canary Wharf
+
+Child 825 (p):
+London E14 5AA
+
+Child 826 (p):
+United Kingdom
+
+Child 827 (p):
+ 
+
+Child 828 (p):
+13.5.9         if to the Dubai Service Provider:
+
+Child 829 (p):
+ 
+
+Child 830 (p):
+Brookfield Private Capital (DIFC) Limited
+
+Child 831 (p):
+Unit 24-00, Level 24
+
+Child 832 (p):
+ICD Brookfield Place
+
+Child 833 (p):
+Dubai International Financial Centre
+
+Child 834 (p):
+Dubai
+
+Child 835 (p):
+United Arab Emirates
+
+Child 836 (p):
+ 
+
+Child 837 (tbl):
+13.5.10if to any new Service Provider appointed pursuant to Section 2.3, at the address listed in the joinder agreement executed by the new Service Provider; and
+
+Child 838 (p):
+ 
+
+Child 839 (tbl):
+ -33- 
+
+Child 840 (p):
+ 
+
+Child 841 (tbl):
+13.5.11if to any of the Holding Entities, at the applicable address listed on Schedule A hereto
+
+Child 842 (p):
+ 
+
+Child 843 (p):
+or to such other addresses as a party may from time to time notify the others in accordance with this Section 13.5.
+
+Child 844 (p):
+ 
+
+Child 845 (tbl):
+13.6Further Assurances
+
+Child 846 (p):
+ 
+
+Child 847 (p):
+Each of the parties hereto will promptly do, make, execute or deliver, or cause to be done, made, executed or delivered, all such further acts, documents and things as the other party hereto may reasonably require from time to time for the purpose of giving effect to this Agreement and will use reasonable efforts and take all such steps as may be reasonably within its power to implement to their full extent the provisions of this Agreement.
+
+Child 848 (p):
+ 
+
+Child 849 (tbl):
+13.7Counterparts
+
+Child 850 (p):
+ 
+
+Child 851 (p):
+This Agreement may be signed in counterparts and each of such counterparts will constitute an original document and such counterparts, taken together, will constitute one and the same instrument.
+
+Child 852 (p):
+ 
+
+Child 853 (tbl):
+13.8Other Holding Entities
+
+Child 854 (p):
+ 
+
+Child 855 (p):
+The parties acknowledge that any Holding Entity that is not a party to this Agreement will execute a counterpart of this Agreement agreeing to be bound by the terms of this Agreement.
+
+Child 856 (p):
+ 
+
+Child 857 (p):
+ 
+
+Child 858 (p):
+ 
+
+Child 859 (p):
+[NEXT PAGE IS SIGNATURE PAGE]
+
+Child 860 (p):
+ 
+
+Child 861 (p):
+ 
+
+Child 862 (p):
+IN WITNESS WHEREOF the parties have executed this Agreement as of the date first above written.
+
+Child 863 (p):
+ 
+
+Child 864 (p):
+ 
+
+Child 865 (p):
+ 
+
+Child 866 (p):
+Schedule A
+
+Child 867 (p):
+ 
+
+Child 868 (p):
+IN WITNESS WHEREOF the Holding Entities have executed this Agreement as of the date first above written.
+
+Child 869 (p):
+ 
+
+Child 870 (tbl):
+ BROOKFIELD BRP HOLDINGS (CANADA) INC.
+
+Child 871 (p):
+ 
+
+Child 872 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 873 (p):
+Schedule B
+
+Child 874 (p):
+ 
+
+Child 875 (p):
+JOINDER TO MASTER SERVICES AGREEMENT
+
+Child 876 (p):
+ 
+
+Child 877 (p):
+ 
+
+Child 878 (p):
+RECITALS:
+
+Child 879 (p):
+ 
+
+Child 880 (p):
+A.                The Master Services Agreement provides that any Service Provider may, from time to time, appoint an Affiliate of Brookfield to act as a new Service Provider under that agreement;
+
+Child 881 (p):
+ 
+
+Child 882 (p):
+B.                 The New Service Provider is an Affiliate of Brookfield; and
+
+Child 883 (p):
+ 
+
+Child 884 (p):
+C.                 The ■ Service Provider wishes to appoint the New Service Provider to act as a new Service Provider under the Master Services Agreement and the New Service Provider wishes to accept such appointment.
+
+Child 885 (p):
+ 
+
+Child 886 (p):
+  NOW THEREFORE in consideration of good and valuable consideration (the receipt and sufficiency of which are hereby acknowledged), the New Service Provider agrees as follows:
+
+Child 887 (p):
+ 
+
+Child 888 (p):
+1.                  Agreement to be Bound. The New Service Provider hereby agrees that upon execution of this Joinder, it shall become a party to the Master Services Agreement and acknowledges that it is fully bound by, and subject to, all of the covenants, representations, terms and conditions of this Joinder and of the Service Providers under the Master Services Agreement.
+
+Child 889 (p):
+ 
+
+Child 890 (p):
+ 
+
+Child 891 (p):
+3.                  Enurement. This Joinder will enure to the benefit of and be binding upon the parties hereto and their respective successors and permitted assigns.
+
+Child 892 (p):
+ 
+
+Child 893 (p):
+4.                  Notices. Notices and other communications to the New Service Provider will be addressed as follows:
+
+Child 894 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 895 (p):
+ 
+
+Child 896 (p):
+5.                  Counterparts. This Joinder may be signed in counterparts and each of such counterparts will constitute an original document and such counterparts, taken together, will constitute one and the same instrument.
+
+Child 897 (p):
+ 
+
+Child 898 (p):
+6.                  Governing Law. This Joinder will be governed by and interpreted and enforced in accordance with the laws of the Province of Ontario and the federal laws of Canada applicable therein.
+
+Child 899 (p):
+ 
+
+Child 900 (p):
+ 
+
+Child 901 (p):
+ 
+
+Child 902 (p):
+[NEXT PAGE IS THE SIGNATURE PAGE]
+
+Child 903 (p):
+ 
+
+Child 904 (p):
+ 
+
+Child 905 (p):
+ 
+
+Child 906 (p):
+ 
+
+Child 907 (p):
+ 
+
+Child 908 (p):
+ 
+
+Child 909 (p):
+ 
+
+Child 910 (p):
+ 
+
+Child 911 (p):
+     IN WITNESS WHEREOF the parties have executed this Joinder as of the day and year first above written.
+
+Child 912 (p):
+ 
+
+Child 913 (tbl):
+ [■ SERVICE PROVIDER]       By:   Name:  Title:       [NEW SERVICE PROVIDER]       By:   Name:  Title: 
+
+Child 914 (p):
+ 
+
+Child 915 (p):
+ 
+
+Child 916 (p):
+***THIS IS AN EMPTY PARA***
+

@@ -1,0 +1,385 @@
+Results for PurchaseandSupplyAgmt-written-contract.txt
+Clause: 'PURCHASE AND SUPPLY AGREEMENT'
+Legal-BERT Prediction: counterparts (Confidence: 0.09349651634693146)
+Legal-RoBERTa Prediction: entire agreement (Confidence: 0.06880897283554077)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'This Purchase and Supply Agreement (“Agreement”) dated as of [●] is entered into by and between [Buyer Name] (“Buyer”), a company having its registered office at [●], and [Seller Name] (“Seller”), a company having its registered office at [●] and a wholly-owned subsidiary of [Parent Company Name], a company having its registered office at [●] (“Parent”).'
+Legal-BERT Prediction: non-solicitation (Confidence: 0.07369577884674072)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.16813211143016815)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'RECITALS'
+Legal-BERT Prediction: counterparts (Confidence: 0.0836561769247055)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05439211055636406)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'WHEREAS, Buyer, through its [●] division, is a developer and supplier of ultra linear, high-performance radio amplifiers for the wireless infrastructure market;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07315564900636673)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.20687538385391235)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'WHEREAS, Buyer, Parent and Seller have entered into an Asset Purchase Agreement, dated [●] (the “Asset Purchase Agreement”), pursuant to which, among other things, Seller shall purchase Buyer’s [●] business division; and'
+Legal-BERT Prediction: counterparts (Confidence: 0.07704277336597443)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.11973528563976288)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'WHEREAS, following the purchase of Buyer’s [●] business division, Seller wishes to supply Buyer with high-performance radio frequency power semiconductors and integrated modules and related components and systems (collectively, “Components”) and Buyer wishes to acquire such Components from Seller.'
+Legal-BERT Prediction: intellectual property (Confidence: 0.07534679025411606)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1452786773443222)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'ARTICLE I.'
+Legal-BERT Prediction: amendment (Confidence: 0.07189911603927612)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04973984882235527)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'TERM, QUANTITY, QUALITY, PRICING AND PAYMENT'
+Legal-BERT Prediction: amendment (Confidence: 0.07543516904115677)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.19545114040374756)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'Section 1.3 Guaranteed Capacity. Seller agrees that it will allocate sufficient production capacity to Buyer to meet [●] of the Minimum Commitment, subject to the other provisions of this Agreement, including the provisions of Section 2.4 regarding lead times.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.06869938224554062)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07647129148244858)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Section 1.4 Performance and Component Availability. (a) Buyer will provide Seller with quarterly product roadmaps and specifications for future Buyer products. Buyer will consider in good faith utilizing Components from Seller in products under development by Buyer provided that such Components are Competitive. Buyer and Seller shall in good faith discuss, and mutually agree in writing from time to time, upon the requirements for Components to be deemed “Competitive”. The requirements will be based upon whether such products (i) have key performance parameter limits that are within the key performance parameter limits for a third party component that Buyer might otherwise utilize, (ii) meet the specification requirements of Buyer’s product design, (iii) have been fully released to manufacturing by Seller, (iv) are to be projected to be available in quantities necessary to support the projected Buyer production requirements and (v) have a competitive price. The parties agree that the Components listed on Schedule 1.4 hereto are deemed to be Competitive in the Buyer products for which they currently are utilized as of the date hereof. Seller shall be afforded a period of [●]  months from the date that production parts are commercially available (or, if later, from the date the parties have mutually agreed upon the requirements for a Component to be Competitive) in which to develop and release such Competitive products to manufacturing.'
+Legal-BERT Prediction: non-competition (Confidence: 0.10705863684415817)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.13654348254203796)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Section 1.6 Qualified Die Bank Purchases. From time to time, Buyer may request that Seller provide it with Qualified Die Bank without regard to the Life Time Buy provisions above. The approval by Seller of such a Buyer request will not be unreasonably withheld, but Buyer shall bear the risk for die yield. The price for such Qualified Die Bank shall be [●] of Seller’s standard manufacturing cost (which shall include a reasonable manufacturing overhead allocation). Any such purchase of Qualified Die Bank shall be credited against the Minimum Commitment for the quarter in which such purchase is made. Such Qualified Die Bank may be held by Buyer and thereafter submitted to Seller for Component finishing, in which case the price of the Component shall be the difference between the Component price determined pursuant to Section 1.7 and the price previously paid for such Qualified Die Bank. The differential in price shall be credited against the Minimum Commitment for the quarter in which such Component is shipped. Any Qualified Die Bank purchased by Buyer hereunder may not be sold or transferred to any party other than Seller.'
+Legal-BERT Prediction: termination (Confidence: 0.07991398125886917)
+Legal-RoBERTa Prediction: notice (Confidence: 0.11674070358276367)
+Final Prediction: notice
+================================================================================
+
+Clause: 'Notwithstanding the foregoing, Seller shall provide Buyer with its “most favoured customers” pricing with respect all of Buyer’s Component purchases (without regard to volume or mix) for all purchase orders placed during the [●]  consecutive [●] month periods following the Effective Date, with the “most favoured customer pricing” determined at the time Buyer submits its purchase order.'
+Legal-BERT Prediction: termination (Confidence: 0.08851396292448044)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.10411681979894638)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: '(b) The Component prices do not include sales, use, consumption or excise taxes of any taxing authority. The amount of such taxes, if any, will be added to the Component prices in effect at the time of shipment thereof and shall be reflected in the invoices submitted to Buyer by Seller pursuant to this Agreement. Buyer shall pay the amount of such taxes to Seller in accordance with the payment provisions of this Agreement.'
+Legal-BERT Prediction: assignment (Confidence: 0.07114587724208832)
+Legal-RoBERTa Prediction: costs (Confidence: 0.10939714312553406)
+Final Prediction: costs
+================================================================================
+
+Clause: 'Section 1.8 Payment. Buyer shall pay Seller the applicable price for the Components that Seller ships to Buyer hereunder within [●] days from the date of the invoice therefor. All payments due to Seller under this Agreement shall be made in Indian Rupees by Buyer by wire transfer to an account to be designated in writing by Seller from time to time. All amounts not paid when due shall bear interest at the rate of [●] percent ([●]%) per month (or such other percentage, if lower, as shall not exceed the maximum rate permitted by law) commencing [●] days from the date of the relevant invoice. Buyer shall be responsible for reasonable attorneys’ fees and any other reasonable expenses incurred by Seller in connection with the collection of any amounts due and payable hereunder.'
+Legal-BERT Prediction: costs (Confidence: 0.08818000555038452)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.1336967498064041)
+Final Prediction: indemnity
+================================================================================
+
+Clause: 'ARTICLE II.'
+Legal-BERT Prediction: amendment (Confidence: 0.0783793106675148)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05056888237595558)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'FORECASTS, LEAD TIMES AND ORDERS'
+Legal-BERT Prediction: amendment (Confidence: 0.07132329046726227)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.09435661137104034)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'Section 2.2 Firm Orders. The first two months of each Standard Component Forecast and the first three months of each Custom Component Forecast shall be deemed to be a “Firm Order”, against which Seller shall ship Components to Buyer. Firm Orders shall include a delivery date determined in accordance with Section 2.4 hereof. The Firm Orders shall be binding on both parties, and Buyer shall be obligated to purchase and Seller shall be obligated to supply Components in the quantities indicated therein. Firm Orders may not be cancelled or modified by either party without the written consent of the other party.'
+Legal-BERT Prediction: counterparts (Confidence: 0.07611073553562164)
+Legal-RoBERTa Prediction: notice (Confidence: 0.12483768165111542)
+Final Prediction: notice
+================================================================================
+
+Clause: 'Section 2.5 Existing Purchase Orders. Seller shall continue to honour the terms and conditions of all third-party purchase orders as provided in the Asset Purchase Agreement.'
+Legal-BERT Prediction: termination (Confidence: 0.0650269091129303)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.07455207407474518)
+Final Prediction: insurance
+================================================================================
+
+Clause: 'Section 2.6 Future Purchase Orders. The terms and conditions of Buyer’s standard purchase order and Seller’s standard purchase order acceptance form attached hereto as Schedule 2.6 shall be exchanged by the parties, in Buyer’s case to confirm the Components and delivery dates ordered pursuant to the Component Forecasts, and in Seller’s case to confirm its acceptance of orders and agreement to the delivery dates, but shall otherwise be considered exchanged as an administrative convenience only, without adding to or modifying any of the provisions of this Agreement.'
+Legal-BERT Prediction: waiver (Confidence: 0.07934077084064484)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.11631826311349869)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'ARTICLE III.'
+Legal-BERT Prediction: amendment (Confidence: 0.07505124807357788)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05055413022637367)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'DELIVERY AND SHIPPING'
+Legal-BERT Prediction: counterparts (Confidence: 0.10462501645088196)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05743320658802986)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Section 3.1 Delivery. Seller shall deliver Components to Buyer on the dates requested by Buyer and agreed to by Seller in the purchase orders (the “Original Delivery Dates”); provided, however, that Seller may fill Firm Orders up to [●] days before or after the Original Delivery Dates and still be in compliance with the delivery terms hereof; provided, further, however, that for purposes of the Minimum Commitment the purchase date shall be deemed to be the Original Delivery Dates.'
+Legal-BERT Prediction: termination (Confidence: 0.0813666582107544)
+Legal-RoBERTa Prediction: notice (Confidence: 0.24659939110279083)
+Final Prediction: notice
+================================================================================
+
+Clause: 'Section 3.2 Shipping. All sales of Components under this Agreement are made F.O.B. shipping point. Buyer shall be responsible for all transportation costs and title and risk of loss shall pass to Buyer upon shipment by Seller.'
+Legal-BERT Prediction: joint and several liability (Confidence: 0.06758161634206772)
+Legal-RoBERTa Prediction: notice (Confidence: 0.12542571127414703)
+Final Prediction: notice
+================================================================================
+
+Clause: 'ARTICLE IV.'
+Legal-BERT Prediction: amendment (Confidence: 0.08010870218276978)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05165085569024086)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'INSPECTION'
+Legal-BERT Prediction: non-solicitation (Confidence: 0.07167971134185791)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05025496706366539)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: 'Section 4.1 Prompt Notice. Promptly after receiving each shipment of Components, Buyer shall examine such Components for any damage, defect, non-conformance or shortage. Buyer shall notify Seller within [●] days of receipt of Component if the Component does not comply with the Component specification (determined by reference to [●]’s published specifications as in effect on the date hereof or as otherwise may be mutually agreed to in writing) and Seller shall, upon Buyer’s request and as soon as reasonably possible, replace the non-conforming Component with a Component meeting the Component specification.'
+Legal-BERT Prediction: notice (Confidence: 0.06759070605039597)
+Legal-RoBERTa Prediction: notice (Confidence: 0.21593260765075684)
+Final Prediction: notice
+================================================================================
+
+Clause: 'ARTICLE V.'
+Legal-BERT Prediction: counterparts (Confidence: 0.08175883442163467)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05024634674191475)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'PRODUCT WARRANTY'
+Legal-BERT Prediction: amendment (Confidence: 0.07264042645692825)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04773128405213356)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Section 5.1 Warranty Period. Seller agrees to assume the warranty obligation for [●] products which were shipped to external customers during the [●]  period prior to the Effective Date. Buyer represents to Seller that the aggregate amount of shipments to third parties prior to the date hereof does not exceed [●] and that Buyer is unaware of any defects therein and has not received notice of any warranty or similar claims with respect thereto'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.08309362083673477)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.14280587434768677)
+Final Prediction: insurance
+================================================================================
+
+Clause: 'As of the date of the Asset Purchase Agreement, the amount is not greater than [●]. The amount to be inserted will be the actual amount of such sales as of the Effective Date.'
+Legal-BERT Prediction: counterparts (Confidence: 0.08042556792497635)
+Legal-RoBERTa Prediction: costs (Confidence: 0.08541562408208847)
+Final Prediction: costs
+================================================================================
+
+Clause: 'which have not previously been remedied in accordance with the warranty obligations assumed by Seller hereunder or under the Asset Purchase Agreement. With respect to products shipped after the Effective Date, Seller agrees to a Component warranty period of [●] from the date of Component shipment. The warranty provided by Seller shall be as set forth on Schedule 5.1 hereto.'
+Legal-BERT Prediction: termination (Confidence: 0.08384082466363907)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.08892916142940521)
+Final Prediction: indemnity
+================================================================================
+
+Clause: 'Section 5.2 Scope of Warranty. Seller agrees that the Components shipped by it pursuant to this Agreement shall be entitled to the warranty terms set forth on Schedule 5.2 hereto.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.0749809518456459)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.16481506824493408)
+Final Prediction: insurance
+================================================================================
+
+Clause: 'ARTICLE VI.'
+Legal-BERT Prediction: amendment (Confidence: 0.07992590963840485)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.053232140839099884)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'LIMITATION OF LIABILITY'
+Legal-BERT Prediction: amendment (Confidence: 0.07458455115556717)
+Legal-RoBERTa Prediction: joint and several liability (Confidence: 0.0631314218044281)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Section 6.1 Limitation of Liability. IN NO EVENT SHALL ANY PARTY BE LIABLE TO ANY OTHER PARTY FOR ANY INDIRECT, SPECIAL, OR CONSEQUENTIAL DAMAGES INCLUDING, WITHOUT LIMITATION, LOST PROFITS, IRRESPECTIVE OF THE WAY IN WHICH SUCH DAMAGES MAY ARISE, EVEN IF THE PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.'
+Legal-BERT Prediction: damages (Confidence: 0.08736978471279144)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.2011556327342987)
+Final Prediction: indemnity
+================================================================================
+
+Clause: 'ARTICLE VII.'
+Legal-BERT Prediction: amendment (Confidence: 0.0778241902589798)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.052550144493579865)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'CONFIDENTIALITY'
+Legal-BERT Prediction: counterparts (Confidence: 0.09009869396686554)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.046612102538347244)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Section 7.1 Confidentiality. Any information disclosed by one party or its Affiliates to the other party or its Affiliates in connection with the performance of this Agreement and designated in writing by the disclosing party at the time of the disclosure as confidential (collectively, the “Confidential Information”) shall be received and maintained in confidence by the receiving party using the same standard of care that the receiving party uses to protect its own like confidential information, but not less than reasonable care. The Confidential Information may be used by the receiving party only to perform its obligations under this Agreement, and shall not be disclosed to a third party without the prior written consent of the disclosing party. The disclosure of Confidential Information shall be restricted only to those employees of the receiving party requiring access to the Confidential Information to perform its obligations under this Agreement. As used herein, “Affiliate” shall mean, with respect to a party, any other person or entity which, directly or indirectly, controls, is controlled by or is under common control with such party, where “control” and “controlled” mean ownership of more than fifty percent (50%) of the outstanding equity interests having voting rights with respect to the election of the board or directors or comparable governing authority. Each party shall be responsible for any breach by its Affiliates of the obligations of this Article VII.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.31868401169776917)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.44375473260879517)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'The provisions of this Section 7.1 shall not apply to Confidential Information which is: (a) already known to the receiving party without an obligation of confidentiality (it being understood that information of either party in the possession of the other party prior to the Effective Date shall be covered by this exception); (b) publicly known or becomes publicly known through no unauthorized act of the receiving party; (c) rightfully received by the receiving party without obligation of confidentiality from a third party; (d) disclosed to a third party by the disclosing party without similar restrictions; (e) approved for disclosure by the disclosing party; or (f) required to be disclosed pursuant to a requirement of a governmental agency or by law as long as the receiving party provides to the disclosing party notice of the requirement prior to any disclosure.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.27052921056747437)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.37071892619132996)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'Section 7.2 Return of Confidential Information. Upon the expiration or termination of this agreement for any reason, each party shall upon request return to the other party or certify in writing the destruction of all Confidential Information received in tangible form by it or its Affiliates from the other party or its Affiliates and cease any further use of such Confidential Information.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.1708350032567978)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.2197922319173813)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'ARTICLE VIII.'
+Legal-BERT Prediction: amendment (Confidence: 0.07958604395389557)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05226584151387215)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'DISPUTE RESOLUTION'
+Legal-BERT Prediction: counterparts (Confidence: 0.08254983276128769)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05626960098743439)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Section 8.1 Dispute Resolution. All controversies, disputes or claims arising among the parties in connection with, or with respect to, any provision of this Agreement which has not been resolved within [●] days after either Parent, on the one hand, or Buyer, on the other hand, have notified the other in writing of such controversy, dispute or claim, shall be submitted for arbitration in accordance with the rules of the [●] or any successor thereof. Arbitration shall take place at an appointed time and place in [●].'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.1032213345170021)
+Legal-RoBERTa Prediction: entire agreement (Confidence: 0.07600831240415573)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: 'Section 8.4 Arbitration Rules. All disputes and claims shall be determined by arbitration in accordance with the Arbitration Rules of the [●] (the “Rules”) in effect on the date hereof, except that such Rules shall be modified by this Agreement.'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.15519845485687256)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.08683124929666519)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: 'Section 8.5 Arbitration Proceedings. All arbitral proceedings arising under, or in connection with, this Agreement shall be governed by the [●]. Notwithstanding the previous sentence, the arbitrators’ award shall be made no later than [●] days after their appointment. Subject to the parties’ right to be treated fairly, the arbitrators may shorten the periods of time otherwise applicable to the arbitral proceedings under the Rules or the [●] to permit the award to be made within the time limitation set forth in the previous sentence.'
+Legal-BERT Prediction: termination (Confidence: 0.08900574594736099)
+Legal-RoBERTa Prediction: termination (Confidence: 0.07570111006498337)
+Final Prediction: termination
+================================================================================
+
+Clause: 'ARTICLE IX.'
+Legal-BERT Prediction: amendment (Confidence: 0.0830419659614563)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04999976605176926)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'MISCELLANEOUS'
+Legal-BERT Prediction: counterparts (Confidence: 0.08286220580339432)
+Legal-RoBERTa Prediction: costs (Confidence: 0.05770250782370567)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Section 9.2 Notices. All notices required or permitted to be given under this Agreement shall be in writing and shall be sent by facsimile transmission or mailed by registered or certified mail addressed to the party to whom such notice is required or permitted to be given as set forth in the Asset Purchase Agreement. Any party may, by written notice to the other parties, as provided herein designate a new address to which notices to the party giving the notice shall thereafter be mailed.'
+Legal-BERT Prediction: notice (Confidence: 0.23281899094581604)
+Legal-RoBERTa Prediction: notice (Confidence: 0.5278330445289612)
+Final Prediction: notice
+================================================================================
+
+Clause: 'Except as otherwise provided in this Agreement, all such communications shall be deemed to have been duly given: when delivered by hand, if personally delivered; one Business Day after being timely delivered to a next-day air courier; five business days after being deposited in the mail, postage prepaid, if mailed.'
+Legal-BERT Prediction: notice (Confidence: 0.14358557760715485)
+Legal-RoBERTa Prediction: notice (Confidence: 0.4140181839466095)
+Final Prediction: notice
+================================================================================
+
+Clause: 'Section 9.4 Successors And Assigns. This Agreement shall be binding upon and shall inure to the benefit of the parties hereto and their respective successors and assigns, provided that this Agreement and the rights and obligations contained herein or in any exhibit or schedule hereto shall not be assignable, in whole or in part, without the prior written consent of the parties hereto and any attempt to effect any such assignment without such consent shall be void, provided, further, that other party’s consent shall not be necessary for the assignment of a party’s rights and obligations hereunder to a person or entity which has acquired all or substantially all of such party’s assets if the purchaser assumes and agrees in writing for the benefit of the other party to perform the selling party’s obligations hereunder. In the event that more than fifty percent (50%) of the outstanding capital stock of Parent or Buyer shall be acquired by a third party, Seller or Buyer, as applicable, shall be obligated to cause such third party to acknowledge and to assume and agree in writing, for the benefit of the other party hereto, to perform the obligations of Seller or Buyer, as the case may be.'
+Legal-BERT Prediction: assignment (Confidence: 0.2897399067878723)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.41100040078163147)
+Final Prediction: assignment
+================================================================================
+
+Clause: 'In the event that more than fifty percent (50%) of the equity interest of Parent or Buyer shall be acquired by a third party, such third party shall be required to acknowledge the obligations of Seller or Buyer, as the case may be.'
+Legal-BERT Prediction: assignment (Confidence: 0.08564379811286926)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.17637525498867035)
+Final Prediction: assignment
+================================================================================
+
+Clause: 'Section 9.7 Attachments. The attachments to this Agreement shall be construed with and as an integral part of this Agreement to the same extent as if they had been set forth in full in this Agreement.'
+Legal-BERT Prediction: entire agreement (Confidence: 0.10948821902275085)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.19913709163665771)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Section 9.8 Severability. The remedies provided herein are cumulative and not exclusive of any remedies provided by law. If any term, provision, covenant or restriction of this Agreement is held by a court of competent jurisdiction to be invalid, illegal, void or unenforceable, the remainder of the terms, provisions, covenants and restrictions set forth herein shall remain in full force and effect and shall in no way be affected, impaired or invalidated, and the parties hereto shall use their reasonable efforts to find and employ an alternative means to achieve the same or substantially the same result as that contemplated by such term, provision, covenant or restriction. It is hereby stipulated and declared to be the intention of the parties that they would have executed the remaining terms, provisions, covenants and restrictions without including any of such that may be hereafter declared invalid, illegal, void or unenforceable.'
+Legal-BERT Prediction: severability (Confidence: 0.2667312026023865)
+Legal-RoBERTa Prediction: severability (Confidence: 0.46692541241645813)
+Final Prediction: severability
+================================================================================
+
+Clause: 'Section 9.9 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of India, as applied to contracts made and performed within India without regard to principles of conflicts of law.'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.2552940249443054)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.5608698725700378)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: 'Section 9.10 Counterparts. This Agreement may be executed in any number of counterparts and by the parties hereto in separate counterparts, each of which when so executed shall be deemed to be an original and, all of which taken together shall constitute one and the same Agreement.'
+Legal-BERT Prediction: counterparts (Confidence: 0.46922439336776733)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.5820857882499695)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Section 9.11 Entire Agreement. This Agreement contains the entire understanding of the parties hereto with respect to the subject matter hereof. This Agreement supersedes all prior agreements and understandings, oral and written, with respect to its subject matter.'
+Legal-BERT Prediction: entire agreement (Confidence: 0.2860288918018341)
+Legal-RoBERTa Prediction: entire agreement (Confidence: 0.4170128405094147)
+Final Prediction: entire agreement
+================================================================================
+
+Clause: 'Section 9.12 Force Majeure. No party shall be liable to the other party for any failure to perform any obligation under this Agreement (other than the payment of money owed hereunder) where such failure is due to causes beyond the reasonable control of the party. Such causes include, but are not limited to acts of war, government export controls, other governmental acts (including without limitation changes in applicable law), industrial dispute, lock-out, accident, fire, explosion, transport delays, acts of a third party, or loss or damage to any equipment due to acts of God. Each party shall use its best efforts to comply with its respective obligations under this Agreement despite the intervention or occurrence of any such cause, and to resume compliance with those obligations as soon as any such cause ceases to affect the performance of its obligations under this Agreement.'
+Legal-BERT Prediction: indemnity (Confidence: 0.09420624375343323)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.1869456022977829)
+Final Prediction: indemnity
+================================================================================
+
+Clause: 'Section 9.13 Termination. Either party may terminate this Agreement in the event that (a) the other party materially breaches this Agreement; (b) the other party becomes insolvent or enters bankruptcy, receivership, liquidation, composition of creditors, dissolution or any similar proceeding; or (c) a significant portion of the assets of the other party necessary for the performance of this Agreement become subject to attachment, embargo or expropriation.'
+Legal-BERT Prediction: termination (Confidence: 0.13295279443264008)
+Legal-RoBERTa Prediction: termination (Confidence: 0.2676245868206024)
+Final Prediction: termination
+================================================================================
+
+Clause: 'The provisions of this Article IX are without prejudice to any other rights or remedies either party may have by reason of the default of the other party.'
+Legal-BERT Prediction: waiver (Confidence: 0.12739399075508118)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.09289175271987915)
+Final Prediction: waiver
+================================================================================
+
+Clause: 'In the event a competitor of Buyer in the wireless infrastructure market acquires a significant interest in Seller (directly or indirectly), Seller will provide Buyer with reasonable assurances that Seller will utilize its best efforts to preserve the confidentiality of all information related to products produced for Buyer and Buyer product programs.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.13606248795986176)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.29008856415748596)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'The provisions of Articles VI and VII shall survive termination of the Agreement. The termination of this Agreement shall not affect any rights either party has accrued at the time the termination becomes effective.'
+Legal-BERT Prediction: termination (Confidence: 0.16717888414859772)
+Legal-RoBERTa Prediction: termination (Confidence: 0.2114819437265396)
+Final Prediction: termination
+================================================================================
+
+Clause: 'Section 9.14 Attorneys’ Fees. In any action or proceeding brought to enforce any provision of this Agreement, or where any provision hereof is validly asserted as a defense, the prevailing party, as determined by the court, shall be entitled to recover its reasonable attorneys’ fees in addition to any other available remedy.'
+Legal-BERT Prediction: counterparts (Confidence: 0.08702743798494339)
+Legal-RoBERTa Prediction: costs (Confidence: 0.3499368131160736)
+Final Prediction: costs
+================================================================================
+
+Clause: 'IN WITNESS WHEREOF, Buyer and Seller have caused this Agreement to be executed in multiple counterparts by their duly authorized representatives.'
+Legal-BERT Prediction: counterparts (Confidence: 0.2763456702232361)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.18910947442054749)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'SELLER   BUYERBy:            By:         Name: Its:    Name: Its: Date:    Date:'
+Legal-BERT Prediction: entire agreement (Confidence: 0.07090308517217636)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.09229104965925217)
+Final Prediction: non-competition
+================================================================================
+

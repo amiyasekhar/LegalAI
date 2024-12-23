@@ -1,0 +1,241 @@
+Results for ResellerAgmt_LINE_BY_LINE.txt
+Clause: 'Reseller Agreement & Account Application'
+Legal-BERT Prediction: counterparts (Confidence: 0.08743638545274734)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06925161927938461)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'This Agreement is made and entered into by and between [Seller Name]. Whose principal office and place of business is, [Seller Address] and herein after referred to as “Seller” and [Buyer Name], whose principal office and place of business is, [Buyer Address] and herein after referred to as “Buyer”.'
+Legal-BERT Prediction: notice (Confidence: 0.06460238993167877)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.11074478179216385)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Seller and Buyer agree that the terms and conditions of this Agreement shall govern the sale of certain Seller Products in this case [Product Name] to the Buyer.'
+Legal-BERT Prediction: entire agreement (Confidence: 0.0872972384095192)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.0628819540143013)
+Final Prediction: entire agreement
+================================================================================
+
+Clause: 'AGREEMENT TERMS'
+Legal-BERT Prediction: counterparts (Confidence: 0.08501335978507996)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.0515286847949028)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'The Term of this Agreement is the period of time between the Effective Date and Expiration Date, inclusive. At the end of the initial [●] month term, the Agreement shall continue in full force and effect, upon the same terms and conditions provided herein, until one or the other party provides a written [●] day notice of cancellation.'
+Legal-BERT Prediction: termination (Confidence: 0.1962822526693344)
+Legal-RoBERTa Prediction: termination (Confidence: 0.20810876786708832)
+Final Prediction: termination
+================================================================================
+
+Clause: 'Either party shall have the right to terminate this Agreement prior to the Expiration Date, effective upon a [●] day written notice to the other party in the event that (a) the other party shall become insolvent or shall be adjudicated as bankrupt, or shall petition for or consent to any relief under any bankruptcy reorganization or moratorium statute, or (b) the other party shall neglect or fail to perform or observe any of its obligations under this Agreement.'
+Legal-BERT Prediction: termination (Confidence: 0.11838144809007645)
+Legal-RoBERTa Prediction: termination (Confidence: 0.2518784999847412)
+Final Prediction: termination
+================================================================================
+
+Clause: 'The expiration or termination of this Agreement shall not operate to terminate any Purchase Orders still outstanding after the termination of this Agreement, and the terms and conditions of this Agreement shall apply to such Purchase Orders, if any, until payment for shipments of Product against such Purchase Orders has been made.'
+Legal-BERT Prediction: termination (Confidence: 0.16091933846473694)
+Legal-RoBERTa Prediction: termination (Confidence: 0.24472396075725555)
+Final Prediction: termination
+================================================================================
+
+Clause: 'DEFINITIONS'
+Legal-BERT Prediction: counterparts (Confidence: 0.08973033726215363)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04819047078490257)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '"Products" as used in this Agreement shall mean [●] of any such Product. "Purchase Orders" from Buyer, to be eligible for inclusion under this Agreement, must be accepted by Seller during the Term of this Agreement, must reference this Agreement and must specify at least a partial shipment of Product from Seller to Buyer within [●] days of the Purchase Order date. Seller and Buyer agree that any terms and conditions accompanying a Purchase Order under this Agreement shall be subordinate to the terms and conditions of this Agreement.'
+Legal-BERT Prediction: termination (Confidence: 0.09623654931783676)
+Legal-RoBERTa Prediction: notice (Confidence: 0.13505485653877258)
+Final Prediction: notice
+================================================================================
+
+Clause: 'The term "On Order" shall refer to Products not yet shipped to Buyer for which a Purchase Order has been issued to Seller by Buyer and accepted by Seller.'
+Legal-BERT Prediction: counterparts (Confidence: 0.07715961337089539)
+Legal-RoBERTa Prediction: notice (Confidence: 0.1519913375377655)
+Final Prediction: notice
+================================================================================
+
+Clause: '"Confidential Information" means proprietary information not generally known about Seller or Buyer, including but not limited to information relating to research, plans, manufacturing, engineering, marketing, and selling, including information furnished by other parties with whom Seller or Buyer has a confidential or business relationship, or any information designated by either party as confidential or proprietary.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.13806676864624023)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.4262232482433319)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '"Day" shall mean one (1) calendar day unless specified otherwise.'
+Legal-BERT Prediction: amendment (Confidence: 0.06775090098381042)
+Legal-RoBERTa Prediction: notice (Confidence: 0.07929441332817078)
+Final Prediction: notice
+================================================================================
+
+Clause: 'PRICES'
+Legal-BERT Prediction: counterparts (Confidence: 0.100433848798275)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.051998935639858246)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Buyer agrees to purchase from Seller, and Seller agrees to sell to Buyer, the Products listed in Exhibit A, according to the quantity discount schedule in Exhibit A, during the Term of this Agreement, and any extended month-to-month terms, as described in Paragraph 1.'
+Legal-BERT Prediction: termination (Confidence: 0.0738886371254921)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.07466008514165878)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: 'PRICE INCREASES'
+Legal-BERT Prediction: counterparts (Confidence: 0.0933748334646225)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.051556605845689774)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Seller reserves the right to execute price changes of the Products by giving a [●] day written notice to Buyer, and Buyer agrees that it will accept subsequent price changes. Such price changes, if any, shall apply to all Purchase Orders issued under this Agreement [●] days after notification of the price change by Seller.'
+Legal-BERT Prediction: termination (Confidence: 0.09856167435646057)
+Legal-RoBERTa Prediction: notice (Confidence: 0.06770219653844833)
+Final Prediction: termination
+================================================================================
+
+Clause: 'TAXES'
+Legal-BERT Prediction: counterparts (Confidence: 0.08565515279769897)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04917287826538086)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Prices under this Agreement are exclusive of Goods and Services Tax (G.S.T.)'
+Legal-BERT Prediction: amendment (Confidence: 0.09217357635498047)
+Legal-RoBERTa Prediction: costs (Confidence: 0.11288408935070038)
+Final Prediction: costs
+================================================================================
+
+Clause: 'SHIPMENT'
+Legal-BERT Prediction: insurance (Confidence: 0.0645536407828331)
+Legal-RoBERTa Prediction: termination (Confidence: 0.047922853380441666)
+Final Prediction: insurance
+================================================================================
+
+Clause: 'Seller agrees, subject to circumstances beyond its control, to ship Products [●] days or earlier following receipt of a Purchase Order. Buyer agrees that a price premium may apply on Products ordered by it specifying shipment within [●] days if such shipment schedule is met by Seller. Any such premium shall be agreed upon at time of order placement.'
+Legal-BERT Prediction: termination (Confidence: 0.07810099422931671)
+Legal-RoBERTa Prediction: notice (Confidence: 0.16528508067131042)
+Final Prediction: notice
+================================================================================
+
+Clause: 'Shipment of Products under this Agreement shall be from Seller’s Factory, with destination as specified by individual Purchase Orders. Shipping charges shall be paid by Buyer, with risk of loss passing to Buyer, upon delivery of the Products to carrier at Seller’s plant. The Buyer is responsible for such risk of loss or damage during shipment, and for insurance against such shipment risks.'
+Legal-BERT Prediction: termination (Confidence: 0.08101598173379898)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.1683303564786911)
+Final Prediction: insurance
+================================================================================
+
+Clause: 'PAYMENT'
+Legal-BERT Prediction: counterparts (Confidence: 0.09703579545021057)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.053432125598192215)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Payments from Buyer to Seller under this Agreement shall be due and payable within [●] days from the date of a non-disputed invoice.'
+Legal-BERT Prediction: termination (Confidence: 0.08892960101366043)
+Legal-RoBERTa Prediction: notice (Confidence: 0.1993369460105896)
+Final Prediction: notice
+================================================================================
+
+Clause: 'In the event that a non-disputed invoice is not paid when due, Seller will notify Buyer of such deficiency. If such deficiency is not corrected within the [●] day period beginning with the day notice of the deficiency is received by Buyer, Buyer will not be granted the quantity discount on that invoice. Seller may, at its sole discretion, withhold future shipments, regardless of any acceptance or acknowledgement by Seller of any Purchase Order from Buyer, for failure to make prompt payment of non-disputed invoices'
+Legal-BERT Prediction: costs (Confidence: 0.06908608973026276)
+Legal-RoBERTa Prediction: notice (Confidence: 0.21625985205173492)
+Final Prediction: notice
+================================================================================
+
+Clause: 'WARRANTY'
+Legal-BERT Prediction: counterparts (Confidence: 0.08669287711381912)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.055295612663030624)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Seller warrants, to Buyer, that any new Product sold by Seller shall be free of defects in material and workmanship, and shall conform to applicable specifications contained in the applicable Product's documentation.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.12420163303613663)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.11139348149299622)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'THE FOREGOING WARRANTIES ARE EXCLUSIVE AND IN LIEU OF ALL OTHER WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR PARTICULAR PURPOSE, AND OF ANY OTHER TYPE, WHETHER EXPRESS OR IMPLIED.'
+Legal-BERT Prediction: entire agreement (Confidence: 0.11502482742071152)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.18673734366893768)
+Final Prediction: indemnity
+================================================================================
+
+Clause: 'PRODUCT CHANGES'
+Legal-BERT Prediction: counterparts (Confidence: 0.08087096363306046)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.058248378336429596)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Seller reserves the right, without prior approval from or notice to Buyer, to make changes to Products (a) which do not affect form, fit, functional interchangeability, or performance at a higher level of assembly, or (b) when required to do so for purposes of safety or government regulations. Change documentation will be provided to Buyer at least [●] days in advance of implementation into production deliveries by Seller.'
+Legal-BERT Prediction: termination (Confidence: 0.07751452177762985)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.10906188189983368)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'EXPORTS'
+Legal-BERT Prediction: counterparts (Confidence: 0.08008218556642532)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04843992367386818)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Buyer understands and agrees that export of Seller Products is subject to certain restrictions promulgated by laws and regulations of India. Buyer agrees that it will abide by such laws and regulations and will provide Seller with such information as it may require from time to time in order to ensure compliance with such laws and regulations.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.07251924276351929)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.29959264397621155)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'NON-DISCLOSURE'
+Legal-BERT Prediction: amendment (Confidence: 0.08149857819080353)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05630609393119812)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Seller and Buyer acknowledge that Confidential Information may be furnished by one party to the other party from time to time in the performance of this Agreement.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.15885315835475922)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.37203365564346313)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'Seller and Buyer agree that they will not disclose such Confidential Information to other persons or organizations without prior permission in writing, unless required by law or made publicly known by a third party not subject to this Agreement. Under no circumstances shall either Seller or Buyer be required to utilize or disclose Confidential Information owned by a third party in the performance of this Agreement. Furthermore, Seller and Buyer agree that the Confidential Information will be used only for its intended purposes. These provisions shall survive termination of this Agreement.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.27411967515945435)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.5080423951148987)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'In the event Buyer is to resell or lease Products to third parties, permission is granted by Seller to reproduce or incorporate documentation normally provided by Seller to its customers, as may be required for the installation, operation, and service of the Products.'
+Legal-BERT Prediction: indemnity (Confidence: 0.06273218989372253)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.1429687738418579)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'INDEMNIFICATION'
+Legal-BERT Prediction: indemnity (Confidence: 0.06754548102617264)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05117167532444)
+Final Prediction: indemnity
+================================================================================
+
+Clause: 'Seller shall indemnify Buyer against claims of any third party for infringement of any Trademark, Patent, Copyright, or other Intellectual property right by the Product(s). Should a suit or any such proceeding be brought against Buyer based on a claimed infringement, and Buyer gives prompt notice in writing to Seller, then Seller shall defend (at Seller’s expense) and hold Buyer harmless from any such suit.'
+Legal-BERT Prediction: indemnity (Confidence: 0.09973865002393723)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.3885863721370697)
+Final Prediction: indemnity
+================================================================================
+
+Clause: 'Remedy: In case of a final court awarded injunction enjoining Buyer's or Buyer's customer's use of the Products, Seller shall either (a) replace the Products with non-infringing equivalent products; (b) obtain a license for continued use of the Products by Buyer and Buyer's customers; (c) modify the Products so as to render them non-infringing; or (d) accept return of infringing Products and refund the purchase price.'
+Legal-BERT Prediction: termination (Confidence: 0.089102603495121)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.13286711275577545)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: 'The preceding shall not apply to any Product or part of a product manufactured to Buyer's design or to the use of any Product furnished hereunder in conjunction with any other product in a combination furnished by one party to the other party as part of this Agreement. With respect to any such Product, part, or use in combination with other products, Seller assumes no liability whatsoever for patent or copyright infringement and Buyer agrees to hold Seller harmless against any infringement claims arising therefrom.'
+Legal-BERT Prediction: assignment (Confidence: 0.08675583451986313)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.15368254482746124)
+Final Prediction: indemnity
+================================================================================
+
+Clause: 'The foregoing states the entire liability of Seller for patent or copyright infringement by said Products or any part thereof.'
+Legal-BERT Prediction: joint and several liability (Confidence: 0.08181526511907578)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.17091159522533417)
+Final Prediction: indemnity
+================================================================================
+

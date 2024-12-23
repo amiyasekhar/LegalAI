@@ -1,0 +1,199 @@
+Results for Employment Agreement-written-contract.txt
+Clause: 'EMPLOYMENT AGREEMENT'
+Legal-BERT Prediction: counterparts (Confidence: 0.089596226811409)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.06087639927864075)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'THIS EMPLOYMENT AGREEMENT (this “Agreement”) between [Name of the Employer], along with its successors and/or assigns, (the “Company”) and [Name of the Employee] (the “Employee”) is entered into and dated as of [] (the “Effective Date”).'
+Legal-BERT Prediction: termination (Confidence: 0.0981307253241539)
+Legal-RoBERTa Prediction: limitation of liability (Confidence: 0.09608789533376694)
+Final Prediction: termination
+================================================================================
+
+Clause: 'Employee currently serves as  [] of the Company;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07435442507266998)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.16754858195781708)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'The Company and Employee desire to establish the terms and conditions of Employee’s employment with the Company and the compensation and benefits (if any) to be paid to Employee if his employment with the Company is terminated;'
+Legal-BERT Prediction: termination (Confidence: 0.10930097103118896)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.136043518781662)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'NOW, THEREFORE, in consideration of the foregoing and the mutual promises and covenants contained herein, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:'
+Legal-BERT Prediction: entire agreement (Confidence: 0.10257662087678909)
+Legal-RoBERTa Prediction: entire agreement (Confidence: 0.11471366137266159)
+Final Prediction: entire agreement
+================================================================================
+
+Clause: 'Compensation.'
+Legal-BERT Prediction: counterparts (Confidence: 0.09377631545066833)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.06694523245096207)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Base Salary. During the term of this Agreement, the Company shall pay Employee a base salary at the annual rate of []. The Company shall pay the annual base salary in equal pro rata installments on the Company’s regular payroll dates. The Company shall also withhold and deduct from such installment payments such amounts as are required under federal, state and local law to be withheld for income tax or Social Security withholding purposes.'
+Legal-BERT Prediction: termination (Confidence: 0.08747293055057526)
+Legal-RoBERTa Prediction: notice (Confidence: 0.0675467699766159)
+Final Prediction: termination
+================================================================================
+
+Clause: 'Incentive Compensation. Based on the Company’s successful financial performance and/or other applicable criteria, Employee shall be eligible to be paid an annual bonus as determined by the [] in its sole discretion.'
+Legal-BERT Prediction: amendment (Confidence: 0.0848345011472702)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.10427464544773102)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: 'Stock Options. On [], the Company granted to Employee options to purchase up to [] shares of the Company’s common stock, subject to the terms and conditions set forth in the Company’s Stock Option Plan. The options shall vest as follows: []options shall vest on [],provided that Employee remains employed with the Company under this Agreement on the foregoing vesting dates.'
+Legal-BERT Prediction: termination (Confidence: 0.09976901859045029)
+Legal-RoBERTa Prediction: termination (Confidence: 0.10445365309715271)
+Final Prediction: termination
+================================================================================
+
+Clause: 'Termination.'
+Legal-BERT Prediction: counterparts (Confidence: 0.07907205820083618)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.10138827562332153)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'Termination by the Company for Cause. The Company may terminate this Agreement for Cause effective immediately upon notice to Employee of such termination. “Cause” means (i) material willful failure by Employee to meet objectives set by the [] of the Company, (ii) material willful failure by Employee to perform Employee’s duties under this Agreement or comply with the directions of the [] of the Company, (iii) malfeasance or gross negligence in the performance of Employee’s duties under this Agreement, (iv) Employee’s commission of (a) a felony, (b) material unethical business practice on the part of Employee in connection with the affairs of the Company or (c) a material breach of any of the provisions of this Agreement.'
+Legal-BERT Prediction: non-solicitation (Confidence: 0.12125049531459808)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.16056020557880402)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'Termination by the Company without Cause. The Company may terminate this Agreement without Cause, effective immediately upon notice to Employee. In the event of termination of this Agreement by the Company without Cause, and provided that Employee executes a general release of all claims in a form acceptable to the Company, the Company shall pay Employee severance compensation in the form of continuing payment of Employee’s base salary for a period of [] months following the date of termination or until Employee enters into an employment, consulting, or other business arrangement or relationship with another person/entity, whichever date is earlier. Employee understands and agrees that his receipt of severance compensation pursuant to this paragraph is expressly conditioned on his execution of a full and complete general release of claims in a form acceptable to Company. If Employee does not sign such a general release of claims, Employee shall not be entitled to receive any further compensation under the provisions of this Agreement after the date of termination. Any severance payment made under this Agreement will be paid according to Company’s normal payroll schedule and policies, except that the first payment (which will include all payments deferred pursuant to this clause) will be made on the [] day following termination of this Agreement, provided that Employee executes and does not revoke the general release of claims and all rescission periods have expired by such [] day.'
+Legal-BERT Prediction: termination (Confidence: 0.1256464719772339)
+Legal-RoBERTa Prediction: termination (Confidence: 0.11688508838415146)
+Final Prediction: termination
+================================================================================
+
+Clause: 'Termination After Change of Control.'
+Legal-BERT Prediction: amendment (Confidence: 0.08623957633972168)
+Legal-RoBERTa Prediction: termination (Confidence: 0.12113530188798904)
+Final Prediction: termination
+================================================================================
+
+Clause: 'Effect of Termination after Change of Control. Notwithstanding the provisions of Section 4, if a Change of Control of the Company occurs during the term of this Agreement and within [] months after the occurrence of the Change of Control Employee’s employment is terminated (i) by the Company, other than for Cause or by reason of Employee’s Death or Disability, or (ii) by Employee for Good Reason, Employee will be entitled to the benefits provided below:'
+Legal-BERT Prediction: termination (Confidence: 0.1244291216135025)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.13761486113071442)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'The Company shall promptly pay Employee all compensation and all expense reimbursement, allowance or other remuneration as is due and owing to Employee as of the date of termination.'
+Legal-BERT Prediction: costs (Confidence: 0.1481807380914688)
+Legal-RoBERTa Prediction: costs (Confidence: 0.2709369957447052)
+Final Prediction: costs
+================================================================================
+
+Clause: 'Confidential Information.'
+Legal-BERT Prediction: counterparts (Confidence: 0.06745822727680206)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.15015994012355804)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'Non-Disclosure; Non-Use; Employee agrees that at all times during the period of Employee’s employment and after the termination thereof for any reason whatsoever, Employee will hold in the strictest confidence, will keep secret, and will not disclose, use, or publish any of the Company’s Confidential Information, except as such disclosure, use or publication may be required in connection with Employee’s work for the Company. Employee hereby assigns to the Company any rights Employee may have or acquire in the Confidential Information and agrees that all of the Confidential Information is and shall be the sole property of the Company and its successors and assigns. Employee acknowledges and agrees that the Company’s Confidential Information constitutes a unique and valuable asset of the Company and represents a substantial investment of time and expense by the Company, and that any disclosure or other use of such knowledge or information other than for the sole benefit of the Company would be wrongful and would cause irreparable harm to the Company. Employee further understands and agrees that the confidentiality obligations set forth in this Article are continuing in nature, survive the termination of this Agreement or Employee’s employment, and restrict Employee’s activities following the termination of this Agreement or Employee’s employment.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.2533681094646454)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.4593387544155121)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'Employee Non-Solicitation Agreement; Employee understands and agrees that the Company’s workforce constitutes an important and vital aspect of its business. Employee agrees that during the term of his employment by the Company, and for a period [] consecutive months from the date of termination of such employment for whatever reason (whether occasioned by Employee or Company), Employee shall not, directly or indirectly, on behalf of himself or any person, firm, corporation, association or other entity, (a) solicit, or assist anyone else in the solicitation of, any of the Company’s then-current employees to terminate their employment with the Company; (b) hire or engage any of the Company’s then-current employees; or (c) otherwise encourage or induce any of the Company’s then-current employees to terminate their employment with the Company.'
+Legal-BERT Prediction: non-solicitation (Confidence: 0.28591489791870117)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.37087947130203247)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: 'Obligations to Third Parties; Employee hereby confirms, represents and warrants that Employee is under no contractual or other legal commitments to any other person or entity that would restrict or prevent Employee’s performance of duties for the Company. Employee shall provide the Company with copies of any previous employment agreements or contracts with any of Employee’s prior employers, or confirm that he is not subject to any agreements with any other employers. If Employee possesses any proprietary information of another person or entity as a result of prior employment or relationship, Employee shall honor any legal obligation that Employee has with that person or entity with respect to such proprietary information and Employee shall not use or disseminate any such proprietary information at any time during his employment with the Company.'
+Legal-BERT Prediction: non-solicitation (Confidence: 0.1621658205986023)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.21015821397304535)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'General'
+Legal-BERT Prediction: counterparts (Confidence: 0.08887826651334763)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.047951649874448776)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Assignment. This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and permitted assigns, except that neither this Agreement nor any of the rights, interests or obligations hereunder may be assigned by Employee without the prior written consent of the Company.'
+Legal-BERT Prediction: assignment (Confidence: 0.29024994373321533)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.48252376914024353)
+Final Prediction: assignment
+================================================================================
+
+Clause: 'Severability. If any provision of this Agreement is determined to be prohibited by or unenforceable or invalid under applicable law, such provision will be ineffective only to the extent of such prohibition or invalidity, without invalidating the remainder of such provision or the remaining provisions of this Agreement.'
+Legal-BERT Prediction: severability (Confidence: 0.26789990067481995)
+Legal-RoBERTa Prediction: severability (Confidence: 0.5680068731307983)
+Final Prediction: severability
+================================================================================
+
+Clause: 'Entire Agreement. This Agreement contains the entire agreement between the parties with respect to the subject matter hereof and supersedes any prior understandings, agreements or representations by or between the parties.'
+Legal-BERT Prediction: entire agreement (Confidence: 0.3000752031803131)
+Legal-RoBERTa Prediction: entire agreement (Confidence: 0.41705402731895447)
+Final Prediction: entire agreement
+================================================================================
+
+Clause: 'Governing Law. The validity, interpretation, performance and enforcement of this Agreement shall be governed by the laws of the[], without regard to conflicts of laws principles thereof.'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.24519258737564087)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.31185346841812134)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: 'IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.'
+Legal-BERT Prediction: counterparts (Confidence: 0.09117517620325089)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.121816486120224)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'By: [Name of the Company]'
+Legal-BERT Prediction: amendment (Confidence: 0.08127399533987045)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.0922941118478775)
+Final Prediction: insurance
+================================================================================
+
+Clause: '[Authorised Representative of the Company]'
+Legal-BERT Prediction: counterparts (Confidence: 0.12156528979539871)
+Legal-RoBERTa Prediction: amendment (Confidence: 0.0880315825343132)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '[Designation]'
+Legal-BERT Prediction: counterparts (Confidence: 0.08478736132383347)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.054205842316150665)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '[Date]'
+Legal-BERT Prediction: counterparts (Confidence: 0.0917007252573967)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0600784569978714)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '[Address]'
+Legal-BERT Prediction: counterparts (Confidence: 0.09133481234312057)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06650680303573608)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '[Name of the Employee]'
+Legal-BERT Prediction: counterparts (Confidence: 0.08013074845075607)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.14013095200061798)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '[Date]'
+Legal-BERT Prediction: counterparts (Confidence: 0.0917007252573967)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0600784569978714)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '[Address]'
+Legal-BERT Prediction: counterparts (Confidence: 0.09133481234312057)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06650680303573608)
+Final Prediction: counterparts
+================================================================================
+

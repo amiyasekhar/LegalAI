@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://lmss.sali.org/"
+     xml:base="http://lmss.sali.org/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:v1="http://www.loc.gov/mads/rdf/v1#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:lmss="http://lmss.sali.org/"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+     xmlns:lmss1="http://lmss.sali.org/2506"
+     xmlns:schema="http://schema.org/"
+     xmlns:ontology="http://www.geonames.org/ontology#">
+
+    <owl:Class rdf:about="http://www.w3.org/2002/07/owl#Thing"/>
+
+
+    <owl:Ontology rdf:about="http://lmss.sali.org/">
+        <dc:description>The Legal Matter Specification Standard (LMSS) from SALI (Standards Advancement for the Legal Industry).</dc:description>
+        <dc:title>The LMSS ontology</dc:title>
+    </owl:Ontology>
+
+    <owl:ObjectProperty rdf:about="http://lmss.sali.org/RB9zpRJFhAzcELy6OTNxqNT">
+        <rdfs:domain rdf:resource="http://lmss.sali.org/RDSYPGgBlFz5eWNtwoMA2c5"/>
+        <rdfs:range rdf:resource="http://lmss.sali.org/Rjco9ohucVSJ0XxprM5Opb"/>
+        <rdfs:label>sali:ruledUpon</rdfs:label>
+    </owl:ObjectProperty>
+
+
+    <owl:Class rdf:about="http://lmss.sali.org/RDSYPGgBlFz5eWNtwoMA2c5">
+        <rdfs:label>Decisionmaker for Legal Disputes</rdfs:label>
+        <skos:altLabel xml:lang="en-gb">Decisionmaker for Legal Disputes</skos:altLabel>
+        <skos:altLabel xml:lang="es-es">Decisor para Disputas Legales</skos:altLabel>
+        <skos:altLabel xml:lang="fr-fr">Décideur pour les litiges juridiques</skos:altLabel>
+        <skos:altLabel xml:lang="de-de">Entscheidungsträger für Rechtsstreitigkeiten</skos:altLabel>
+        <skos:altLabel xml:lang="es-mx">Tomador de decisiones para disputas legales</skos:altLabel>
+        <skos:altLabel xml:lang="pt-br">Tomador de decisão para disputas legais</skos:altLabel>
+        <skos:altLabel xml:lang="he-il">קבלן החלטות לסכסוכים משפטיים</skos:altLabel>
+        <skos:altLabel xml:lang="hi-in">कानूनी विवादों के लिए फैसले लेने वाला</skos:altLabel>
+        <skos:altLabel xml:lang="zh-cn">法律争议的决策者</skos:altLabel>
+        <skos:altLabel xml:lang="ja-jp">法的紛争の決定者</skos:altLabel>
+        <skos:definition>A person, entity, or group that makes legal or factual determinations in a legal proceeding.</skos:definition>
+    </owl:Class>
+
+    <owl:Class rdf:about="http://lmss.sali.org/RDnLOdTNWmEc4EhZ0SZXDm7">
+        <rdfs:subClassOf rdf:resource="http://lmss.sali.org/RDSYPGgBlFz5eWNtwoMA2c5"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://lmss.sali.org/RB9zpRJFhAzcELy6OTNxqNT"/>
+                <owl:someValuesFrom rdf:resource="http://lmss.sali.org/Rjco9ohucVSJ0XxprM5Opb"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.w3.org/2002/07/owl#isAuthor"/>
+                <owl:someValuesFrom rdf:resource="http://lmss.sali.org/R7ibFsNNncTIYF5AjKUDg7b"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        
+        <legacyIdentifier>http://code.sali.org/v1/LMSS/#PlayR-JUDG</legacyIdentifier>
+        <dc:identifier>JUDG</dc:identifier>
+        <rdfs:label>Judge</rdfs:label>
+        <skos:altLabel xml:lang="en-gb">Judge</skos:altLabel>
+        <skos:altLabel xml:lang="es-es">Juez</skos:altLabel>
+        <skos:altLabel xml:lang="es-mx">Juez</skos:altLabel>
+        <skos:altLabel xml:lang="fr-fr">Juge</skos:altLabel>
+        <skos:altLabel xml:lang="pt-br">Juiz</skos:altLabel>
+        <skos:altLabel xml:lang="de-de">Richter</skos:altLabel>
+        <skos:altLabel xml:lang="he-il">שופט</skos:altLabel>
+        <skos:altLabel xml:lang="hi-in">न्यायाधीश</skos:altLabel>
+        <skos:altLabel xml:lang="zh-cn">法官</skos:altLabel>
+        <skos:altLabel xml:lang="ja-jp">裁判官</skos:altLabel>
+        <skos:altLabel>Judge</skos:altLabel>
+        <skos:definition>A judge is a public official appointed to decide cases in a court of law.</skos:definition>
+        <skos:hiddenLabel>JUDG</skos:hiddenLabel>
+    </owl:Class>
+
+    <owl:Class rdf:about="http://lmss.sali.org/Rjco9ohucVSJ0XxprM5Opb">
+        <rdfs:label>Litigation Document</rdfs:label>
+        <skos:altLabel xml:lang="fr-fr">Document de contentieux</skos:altLabel>
+        <skos:altLabel xml:lang="es-es">Documento de litigio</skos:altLabel>
+        <skos:altLabel xml:lang="es-mx">Documento de litigio</skos:altLabel>
+        <skos:altLabel xml:lang="pt-br">Documento de litígio</skos:altLabel>
+        <skos:altLabel xml:lang="en-gb">Litigation Document</skos:altLabel>
+        <skos:altLabel xml:lang="de-de">Prozessdokument</skos:altLabel>
+        <skos:altLabel xml:lang="he-il">מסמך תביעה</skos:altLabel>
+        <skos:altLabel xml:lang="hi-in">लिटिगेशन दस्तावेज़</skos:altLabel>
+        <skos:altLabel xml:lang="ja-jp">訴訟書類</skos:altLabel>
+        <skos:altLabel xml:lang="zh-cn">诉讼文件</skos:altLabel>
+        <skos:altLabel>Court Records</skos:altLabel>
+        <skos:definition>A document used in litigation.</skos:definition>
+    </owl:Class>
+
+    <owl:Class rdf:about="http://lmss.sali.org/R7ibFsNNncTIYF5AjKUDg7b">
+        <rdfs:label>Judicial Order</rdfs:label>
+        <skos:altLabel xml:lang="de-de">Gerichtlicher Beschluss</skos:altLabel>
+        <skos:altLabel xml:lang="en-gb">Judicial Order</skos:altLabel>
+        <skos:altLabel xml:lang="pt-br">Ordem judicial</skos:altLabel>
+        <skos:altLabel xml:lang="es-es">Orden Judicial</skos:altLabel>
+        <skos:altLabel xml:lang="es-mx">Orden Judicial</skos:altLabel>
+        <skos:altLabel xml:lang="fr-fr">Ordonnance judiciaire</skos:altLabel>
+        <skos:altLabel xml:lang="he-il">צו ביתי</skos:altLabel>
+        <skos:altLabel xml:lang="hi-in">न्यायिक आदेश</skos:altLabel>
+        <skos:altLabel xml:lang="ja-jp">司法命令</skos:altLabel>
+        <skos:altLabel xml:lang="zh-cn">司法命令</skos:altLabel>
+        <skos:definition>A judicial order is a written directive issued by a court, typically in response to a motion or petition, that directs a party to take or refrain from taking a particular action.</skos:definition>
+    </owl:Class>
+
+</rdf:RDF>

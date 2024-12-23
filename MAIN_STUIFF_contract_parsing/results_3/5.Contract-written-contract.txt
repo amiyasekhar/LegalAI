@@ -1,0 +1,1416 @@
+Child 1 (p):
+ 
+
+Child 2 (p):
+MASTER SERVICE AGREEMENT
+
+Child 3 (p):
+ 
+
+Child 4 (p):
+This MASTER SERVICE AGREEMENT (this “Agreement”) is made and entered into as of January 8, 2021 (the “Effective Date”) by and between Humanigen, Inc., a Delaware corporation (“Client”), and EVERSANA Life Science Services, LLC, and its affiliates, a Wisconsin limited liability company (“EVERSANA”). Client and EVERSANA may each be referred to herein as a “party” or collectively as the “parties”.
+
+Child 5 (p):
+ 
+
+Child 6 (p):
+RECITALS
+
+Child 7 (p):
+ 
+
+Child 8 (p):
+A.       Client is a clinical stage biopharmaceutical company, developing an COVID-19, immunology, immuno-oncology portfolio of monoclonal antibodies.
+
+Child 9 (p):
+ 
+
+Child 10 (p):
+B.       EVERSANA, either directly or through subcontractors, is in the business of furnishing services including, but not limited to patient services, compliance services, product channel distribution, professional services, marketing and market access services, data and analytics, HEOR/RWE and field solution services (“Services”).
+
+Child 11 (p):
+ 
+
+Child 12 (p):
+C.       Client desires to have EVERSANA furnish certain Services described in this Agreement, and EVERSANA desires to perform such Services upon the terms and conditions set forth in this Agreement.
+
+Child 13 (p):
+ 
+
+Child 14 (p):
+AGREEMENT
+
+Child 15 (p):
+ 
+
+Child 16 (p):
+NOW, THEREFORE, in consideration of the recitals, mutual covenants and conditions herein contained and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows.
+
+Child 17 (p):
+ 
+
+Child 18 (tbl):
+1.DEFINITIONS. For purposes of this Agreement, the following words shall have the meanings set forth below:
+
+Child 19 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 20 (p):
+ 
+
+Child 21 (tbl):
+Page 1 of 23  
+
+Child 22 (p):
+  
+
+Child 23 (p):
+ 
+
+Child 24 (p):
+ 
+
+Child 25 (p):
+ 
+
+Child 26 (tbl):
+B.“PHI” means Protected Health Information and “e-PHI” means Electronic Protected Health Information.
+
+Child 27 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 28 (tbl):
+C.“Products” means all of the biologic products manufactured, distributed, or marketed by Client which Client distributes or desires to distribute.
+
+Child 29 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 30 (tbl):
+D.“Work Product” means all inventions, products, designs, drawings, notes, documents, data, user statistics, analysis, information, documentation, works of authorship, processes, techniques, know-how, algorithms, specifications, biological or chemical specimens or samples, hardware, circuits, computer programs, databases, user interfaces, encoding techniques, and other materials of any kind that EVERSANA may make, conceive, develop or reduce to practice, alone or jointly with others, as a direct result of performing the Services, or that are specifically related to such Services, whether or not they are eligible for patent, copyright, mask work, trade secret, trademark or other legal protection.
+
+Child 31 (p):
+ 
+
+Child 32 (p):
+GENERAL TERMS AND CONDITIONS
+
+Child 33 (p):
+ 
+
+Child 34 (tbl):
+1.SERVICES.
+
+Child 35 (p):
+ 
+
+Child 36 (p):
+Available Services and additional terms and conditions applicable to each such Service are outlined in the Exhibits to this Agreement. Statement(s) of Work and/or Exhibits (“SOW”) will set forth the Services to be provided by EVERSANA to Client and the fees to be paid by Client to EVERSANA in connection therewith.
+
+Child 37 (p):
+ 
+
+Child 38 (tbl):
+2.FEES.
+
+Child 39 (p):
+ 
+
+Child 40 (p):
+2.1       Fees and Expenses. As compensation for EVERSANA’s performance of the Services, Client shall pay fees and expenses (“Fees”) in accordance with the applicable SOW, including any initial one-time set- up fee as described in the applicable SOW. Client shall reimburse EVERSANA for reasonable and properly documented out-of-pocket expenses necessarily incurred in performing Services under this Agreement as the same shall be set forth in a SOW.
+
+Child 41 (p):
+ 
+
+Child 42 (p):
+2.2       Fee Increases. On each twelve-month anniversary of the Effective Date, EVERSANA shall have the right to unilaterally increase any then-current transaction or monthly fees for the Services provided under a SOW by [***] percent ([***]%).
+
+Child 43 (p):
+ 
+
+Child 44 (p):
+ 
+
+Child 45 (p):
+ 
+
+Child 46 (p):
+2.4       Disputed Fees. Notwithstanding the foregoing, if Client disputes any charges or amounts on any invoice, and such dispute cannot be resolved promptly through good faith discussions between Client and EVERSANA, then Client will pay the amount of the invoice less the disputed amount, provided that Client shall diligently proceed to work with EVERSANA to resolve any such disputed amount. Any sums withheld pursuant to this paragraph shall not accrue service charges, but if the contested invoice is later determined to be valid in amount, Client shall pay the amount withheld.
+
+Child 47 (p):
+ 
+
+Child 48 (p):
+ 
+
+Child 49 (tbl):
+3.TERM AND TERMINATION.
+
+Child 50 (p):
+ 
+
+Child 51 (p):
+ 
+
+Child 52 (p):
+3.1       Termination for Lack of Approval. Notwithstanding the foregoing, in the event the FDA does not approve an EUA for the Product by April 30, 2021 or such later date as to which the parties otherwise may agree, either party may terminate the Agreement immediately. In the event of a termination pursuant to this Section 3.1, EVERSANA shall cancel the Initial Invoice and Client shall not be required to pay any of the Deferred Fees.
+
+Child 53 (p):
+ 
+
+Child 54 (p):
+3.2       Change in Law. This Agreement may be terminated by either party giving written notice of termination to the other party if there is any change in the law that makes operation of the Services as contemplated in this Agreement illegal or commercially impractical.
+
+Child 55 (p):
+ 
+
+Child 56 (p):
+3.3       Material Breach. This Agreement may be terminated by the non-breaching party giving written notice of such termination to the other party if the other party breaches a material provision of this Agreement and such breach remains uncured for thirty (30) days.
+
+Child 57 (p):
+ 
+
+Child 58 (p):
+3.4       Insolvency. Immediately upon notification or at any time thereafter, either party may terminate this Agreement in the event that:
+
+Child 59 (p):
+ 
+
+Child 60 (tbl):
+(i)the other party shall file any petition under any bankruptcy, reorganization, insolvency or moratorium laws, or any other law or laws for the relief of or in relation to the relief of debtors;
+
+Child 61 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 62 (tbl):
+(ii)there shall be filed against the other party any involuntary petition under any bankruptcy statute or a receiver or trustee shall be appointed to take possession of all or substantial part of the assets of the party which has not been dismissed or terminated within ninety
+
+Child 63 (p):
+(90) days of the date of such filing or appointment;
+
+Child 64 (tbl):
+(iii)the other party shall make a general assignment for the benefit of creditors or shall become unable or admit in writing its inability to meet its obligations as they mature; or
+
+Child 65 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 66 (tbl):
+(iv)the other party shall institute any proceedings for liquidation or the winding up of its business other than for purposes of reorganization, consolidation or merger.
+
+Child 67 (p):
+ 
+
+Child 68 (p):
+ 
+
+Child 69 (p):
+3.5       Effect of Termination. Termination or expiration of this Agreement for any reason provided herein does not relieve either party from its obligation to perform up to the effective date of such termination or expiration or to perform such obligations as may survive termination or expiration of this Agreement. If payments attributable to Services performed before the termination or expiration remain unpaid upon the termination or expiration of the Agreement, Client shall make such payments promptly after the termination or expiration of this Agreement. In the event of termination, EVERSANA will use reasonable efforts to terminate work being performed by firms outside of EVERSANA (e.g. subcontracted resources) and other related commitments entered into by EVERSANA but Client will be responsible for all costs incurred by EVERSANA from such other firms and such other commitments approved by Client that could not be terminated. Client will be responsible for all EVERSANA time and expenses for Services performed up to date of termination. Upon the termination or expiration of this Agreement or any SOW, EVERSANA shall provide reasonable transition services, for a period not to exceed [***] days, as requested by the Client to facilitate the orderly transfer of Services to Client or another services provider. EVERSANA shall provide the transition services on a time and materials basis at the rates set forth [***].
+
+Child 70 (p):
+ 
+
+Child 71 (p):
+3.6       Survival. The rights and obligations of the parties under Sections 2, 3.5, 6-9, 12, 14-15, 21-23 and 25 will survive the expiration or termination of this Agreement.
+
+Child 72 (p):
+ 
+
+Child 73 (p):
+ 
+
+Child 74 (tbl):
+4.NON-ASSIGNMENT.
+
+Child 75 (p):
+ 
+
+Child 76 (p):
+Neither Client nor EVERSANA shall assign this Master Services Agreement or any of their rights and obligations under this Master Services Agreement to another party without the prior written consent of the other party; provided, however, that in the event of a Change in Control (as defined above), either party may assign its rights and obligations hereunder, by no less than thirty (30) days written notice to the other party, to a successor or transferee (whether by merger, consolidation, purchase or otherwise) of either all or substantially all of the assets of such party or any part of the business to which it pertains. This contract will inure for the benefit of and be binding upon Client and EVERSANA and their respective successors and permitted assigns including, without limitation, any acquirer of either Client or EVERSANA.
+
+Child 77 (p):
+ 
+
+Child 78 (tbl):
+5.FORCE MAJEURE.
+
+Child 79 (p):
+ 
+
+Child 80 (p):
+Neither party shall be deemed in default in the performance of its obligations under the Agreement to the extent such performance is temporarily prevented or delayed because of war, hostilities, riots, acts of terrorism, civil commotion, epidemic, earthquake, accident, fire, wind, flood, strike or comparable labor shutdowns outside of the reasonable control of the party, or any other act of God; provided that prompt notice of such Force Majeure shall be given by such party to the other party followed within a reasonable time by written confirmation. In such event, the noticing party shall be temporarily relieved of its obligations during the period of such event to the extent such event prevents its performance. If the Force Majeure event continues for one or more related periods of at least sixty (60) days, the other party shall have the unilateral right to terminate this Agreement by fourteen (14) days prior written notice. 
+
+Child 81 (p):
+ 
+
+Child 82 (tbl):
+6.CONFIDENTIAL INFORMATION.
+
+Child 83 (p):
+ 
+
+Child 84 (p):
+As used in this Agreement, the term “Confidential Information” shall mean any and all trade secrets and other confidential information disclosed by a party or its affiliates, agents, employees and representatives (the “Disclosing Party”). “Confidential Information” shall include, without limitation, any information concerning the Disclosing Party’s business plan, processes and methods, product or process specifications and designs, inventions, technical know-how, trade secrets, business and marketing plans, financial information, customer data, research and development activities and other materials or information relating to its business or activities which are not generally known to the public, all confidential information of third-parties in the possession of the Disclosing Party; and all reports, notes, analyses, compilations, studies, summaries, memoranda and other material prepared by or for the Disclosing Party containing, reflecting or based, in whole or in part, on any information included in the foregoing. For the avoidance of doubt, the parties acknowledge and agree that information and data gathered by the parties relating to patients, including, without limitation, patient numbers, locations and the manner in which Client identified such patients, shall be Client’s Confidential Information and EVERSANA shall be deemed to be the Receiving Party of such Confidential Information regardless of the party that discloses the Confidential Information hereunder. The term “Confidential Information” shall not include any information that is (i) publicly known or becomes publicly known through no breach of this Agreement by the party receiving or accessing the Confidential Information (the “Receiving Party”) or on the Receiving Party’s behalf, (ii) rightfully received from a third party without an obligation of confidentiality to the Disclosing Party with respect to the information received, or (iii) approved by the Disclosing Party for disclosure.
+
+Child 85 (p):
+ 
+
+Child 86 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 87 (tbl):
+7.NON-DISCLOSURE.
+
+Child 88 (p):
+ 
+
+Child 89 (p):
+During the Term of this Agreement and for a period of [***] years (or such longer period if required by law) thereafter, the Receiving Party shall keep the Disclosing Party’s Confidential Information in the strictest confidence (whether such Confidential Information was disclosed to the Receiving Party before, on or after the Effective Date) and shall not disclose, or permit the disclosure of, any Confidential Information to any third party without the prior consent of the Disclosing Party. The Receiving Party shall not use, or permit the use of, any Confidential Information, without the prior consent of the Disclosing Party, for any purpose other than in connection with the proper performance of the Receiving Party’s obligations under this Agreement. The Receiving Party shall use its best efforts to prevent any inadvertent disclosure or unauthorized reproduction or use of the Confidential Information. The Receiving Party shall protect the Disclosing Party’s Confidential Information with no less than the same degree of care as the Receiving Party would protect its own Confidential Information, and in any event, no less than a reasonable degree of care. The Receiving Party shall be liable for breach of its obligations under this Section 7 by its employees and contractors. The Receiving Party will immediately advise the Disclosing Party in writing if the Receiving Party becomes aware of any misappropriation or misuse by any person of the Disclosing Party’s Confidential Information. Notwithstanding the foregoing, the Receiving Party may disclose the Confidential Information of the other party to the extent such Confidential Information is required to be disclosed pursuant to a requirement of a Regulatory Authority or law, provided that: (a) the Receiving Party has given the Disclosing Party prior written notice of such disclosure and takes all available steps to maintain the confidentiality of the information disclosed; and (b) to the extent legally permitted, the Disclosing Party has been afforded a reasonable opportunity to contest the necessity and scope of such disclosure. The Receiving Party acknowledges and agrees that the Disclosing Party considers the Confidential Information to be valuable, confidential and a trade secret. Unless otherwise required by law, the Receiving Party shall, at Disclosing Party’s election, destroy (unless prohibited by applicable law) or promptly return to the Disclosing Party, in good order, the originals and all copies of Confidential Information, regardless of the medium in which they are stored, upon the termination or expiration of this Agreement or at any other time upon the reasonable request of the Disclosing Party except for:
+
+Child 90 (p):
+ 
+
+Child 91 (tbl):
+a.archival electronic information that is electronically archived in the normal course and not in general use;
+
+Child 92 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 93 (tbl):
+b.information which must otherwise be maintained as a requirement of law or regulation; and
+
+Child 94 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 95 (tbl):
+c.one (1) copy of the Confidential Information to the extent reasonable to permit the Receiving Party to keep evidence that it has performed its obligations under this Agreement
+
+Child 96 (p):
+ 
+
+Child 97 (p):
+provided, in each case of clause 7(a) to 7(c), that the confidentiality and non-use restrictions set out in clause 7, shall continue to apply to such Confidential Information, except that the Receiving Party shall not make any further use or disclosure of the Confidential Information.
+
+Child 98 (p):
+ 
+
+Child 99 (tbl):
+8.INTELLECTUAL PROPERTY
+
+Child 100 (p):
+ 
+
+Child 101 (p):
+8.1       Client Property. EVERSANA understands and agrees that all rights to the intellectual property, information and materials of Client that are provided in connection with this Agreement, including, without limitation, the Products or Client Confidential Information, are owned solely by Client (“Client Property”). Client hereby grants EVERSANA a non-exclusive, world-wide, non-transferable, non-sublicensable, royalty-free, fully paid up license to use the Client Property for the purpose of performing the Services hereunder or pursuant to any SOW, and only for so long as the Services are being performed by EVERSANA pursuant to the applicable SOW. Neither EVERSANA nor any of EVERSANA’s employees, contractors or agents shall reverse engineer, disassemble or decompile any prototypes, software, algorithms, or other tangible or intangible objects which are embodied in Client Property or Client’s Confidential Information and which are made available to EVERSANA and its employees, contractors or agents hereunder. EVERSANA shall not (i) modify, translate, or otherwise create derivative works based on Client Property, or (ii) use, analyze, transcribe or transmit any Client Property. EVERSANA shall not remove or alter any proprietary rights notices in or on the original Client Property or Client’s Confidential Information. EVERSANA shall immediately notify Client in the event of any unauthorized use or disclosure of Client Property of which EVERSANA becomes aware and shall indemnify Client for any violations of this Section by EVERSANA or its employees, contractors or agents.
+
+Child 102 (p):
+ 
+
+Child 103 (p):
+ 
+
+Child 104 (p):
+ 
+
+Child 105 (p):
+8.4       Treatment of EVERSANA Property. Neither Client nor any of Client’s employees, contractors or agents shall reverse engineer, disassemble or decompile any prototypes, software, algorithms, or other tangible or intangible objects which are embodied in EVERSANA Property or EVERSANA Confidential Information and which are made available to Client and its employees, contractors or agents hereunder. Except as expressly set forth under Section 8.2, Client shall not (i) modify, translate, or otherwise create derivative works based on EVERSANA Property, or (ii) use, analyze, transcribe or transmit any EVERSANA Property. Client shall not use or disclose any EVERSANA Property either by itself or in coordination with other third parties, to offer or perform services substantially similar to those offered and/or provided by EVERSANA hereunder, or that are competitive, directly or indirectly, to the business of EVERSANA. Client shall not remove or alter any proprietary rights notices in or on the original EVERSANA Property or Confidential Information. Client shall immediately notify EVERSANA in the event of any unauthorized use or disclosure of EVERSANA Property of which Client becomes aware and shall indemnify EVERSANA for any violations of this Section by Client or its employees, contractors or agents.
+
+Child 106 (p):
+ 
+
+Child 107 (p):
+8.5       Priority. To the extent any of the provisions in this Section 8 conflict with those in a specific Exhibit hereto, the provisions of that Exhibit shall prevail with respect to the Services described in said Exhibit.
+
+Child 108 (p):
+ 
+
+Child 109 (p):
+ 
+
+Child 110 (tbl):
+9.NON-SOLICITATION.
+
+Child 111 (p):
+ 
+
+Child 112 (p):
+During the Term of this Agreement and for a period of twelve (12) months thereafter, without the prior written consent of EVERSANA, Client shall not, directly or indirectly, in any manner solicit or induce for employment, or hire or engage the Services of, any employee of EVERSANA or its affiliates who performed any work under this Agreement. A general advertisement or notice of a job listing or opening or other similar general publication of a job search or availability to fill employment positions, including on the internet, shall not be construed as a solicitation or inducement for the purposes of this provision so long as the circumstances indicate that the same was not targeted or directed at EVERSANA employees.
+
+Child 113 (p):
+ 
+
+Child 114 (p):
+If Client breaches this provision, Client shall pay to EVERSANA a sum equal to one year’s base salary that was payable by EVERSANA to that employee, plus the recruitment costs incurred by EVERSANA in replacing such individual.
+
+Child 115 (p):
+ 
+
+Child 116 (tbl):
+10.GOVERNING LAW; INTERPRETATION.
+
+Child 117 (p):
+ 
+
+Child 118 (p):
+This Agreement shall be governed by and interpreted in accordance with the internal laws of the State of Delaware, United States of America.
+
+Child 119 (p):
+ 
+
+Child 120 (tbl):
+11.NOTICE.
+
+Child 121 (p):
+ 
+
+Child 122 (p):
+All notices and other communications that may be or are required to be given hereunder shall be in writing and delivered via electronic mail; shall be deemed to have been duly given on the date of delivery; and shall be addressed as follows:
+
+Child 123 (p):
+ 
+
+Child 124 (p):
+If to EVERSANA:
+
+Child 125 (p):
+General Counsel
+
+Child 126 (p):
+EVERSANA Life Science Services, LLC 190 N. Milwaukee Street
+
+Child 127 (p):
+Milwaukee, WI 53202 E-mail: 
+
+Child 128 (p):
+ 
+
+Child 129 (tbl):
+Page 7 of 23  
+
+Child 130 (p):
+  
+
+Child 131 (p):
+ 
+
+Child 132 (p):
+ 
+
+Child 133 (p):
+ 
+
+Child 134 (p):
+If to Client:
+
+Child 135 (p):
+Chief Executive Officer
+
+Child 136 (p):
+Humanigen, Inc.
+
+Child 137 (p):
+533 Airport Blvd., Suite 400
+
+Child 138 (p):
+Burlingame, CA 94010
+
+Child 139 (p):
+E-mail: cdurrant@humanigen.com
+
+Child 140 (p):
+ 
+
+Child 141 (p):
+With a copy, which shall not constitute notice hereunder, to:
+
+Child 142 (p):
+ 
+
+Child 143 (p):
+Chief Commercial Officer Humanigen, Inc.
+
+Child 144 (p):
+533 Airport Blvd., Suite 400
+
+Child 145 (p):
+Burlingame, CA 94010
+
+Child 146 (p):
+E-mail: ejordan@humanigen.com
+
+Child 147 (p):
+ 
+
+Child 148 (p):
+Either party may change its address for purposes of notice pursuant to this Agreement by notifying the other party of such change of address in the manner set forth above, except that notices for changes of address are effective only upon receipt by the other party.
+
+Child 149 (p):
+ 
+
+Child 150 (tbl):
+12.ATTORNEYS’ FEES.
+
+Child 151 (p):
+ 
+
+Child 152 (p):
+The prevailing party in any suit, proceeding or other action brought against the other party to enforce the terms of this Agreement or any rights or obligations hereunder shall be entitled to receive reimbursement of its reasonable costs, expenses and disbursements (including court costs and attorneys’ fees) incurred in connection with such enforcement.
+
+Child 153 (p):
+ 
+
+Child 154 (p):
+ 
+
+Child 155 (p):
+ 
+
+Child 156 (tbl):
+14.INDEMNIFICATION.
+
+Child 157 (p):
+ 
+
+Child 158 (p):
+ 
+
+Child 159 (p):
+ 
+
+Child 160 (p):
+ 
+
+Child 161 (p):
+Client shall reimburse EVERSANA for all of the out-of-pocket costs and expenses (including, reasonable attorneys’ fees) incurred by EVERSANA in connection with any of the following events or occurrences, except to the extent that such events or occurrences are caused by gross negligence, bad faith or reckless or intentional misconduct by EVERSANA or a breach by EVERSANA of its express obligations contained in this Agreement: (i) any directed inspection, investigation or inquiry by any regulatory authority attributable to Client or its Products or business practices; or (ii) any court or regulatory authority order, subpoena, interrogatory, demand, request for admission or other process of law directed to EVERSANA and specifically attributable to Client or its Products or business practices; or (iii) any request by Client to produce documentation or information, or give testimony or other services in connection with either (i) or (ii) above.
+
+Child 162 (p):
+ 
+
+Child 163 (p):
+The parties hereto acknowledge that EVERSANA has not had and will not have any role in the manufacture, labeling, or packaging of Products and that, as between the parties, Client shall have the sole liability for any product liability or similar claims (regardless of the legal theory upon which such claims may be brought) with respect to Products.
+
+Child 164 (p):
+ 
+
+Child 165 (p):
+ 
+
+Child 166 (tbl):
+(i)Any defect(s) in the manufacture of any Product, inherent safety risks of any Product or dangerous side effects of any Product;
+
+Child 167 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 168 (tbl):
+(ii)The manufacturing, labeling, and packaging of any Product;
+
+Child 169 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 170 (tbl):
+(iii)Marketing practices of Client, off-label usage of any Product or the promotion of off-label usage, fraud, criminal or civil investigation, inspection or inquiry by or on behalf of any regulatory agency or other entity in connection with any Product, Client, its business or its representatives;
+
+Child 171 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 172 (tbl):
+(iv)Any actual or asserted violation of the Federal Food, Drug and Cosmetic Act or any other Law by virtue of which any Product is alleged or determined to be adulterated, misbranded, mislabeled or otherwise not in full compliance with such law;
+
+Child 173 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 174 (tbl):
+(v)Any actual or asserted infringement or violation of any patent, trademark, trade name, copyright or other intellectual or proprietary rights of any third party with respect to any Product or information relating to any such Product (excluding the Work Product or other hardware, software, data, or materials provided by EVERSANA under this Agreement); or
+
+Child 175 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 176 (tbl):
+(vi)EVERSANA’s use of or reliance upon any information, documents, direction or instruction provided, supplied or approved by Client or its representatives regarding any Product, Client, or its business.
+
+Child 177 (p):
+ 
+
+Child 178 (tbl):
+15.LIMITATION OF CERTAIN DAMAGES; NO OTHER WARRANTIES.
+
+Child 179 (p):
+ 
+
+Child 180 (p):
+Except in circumstances of gross negligence, bad faith or reckless or intentional misconduct by a party or its affiliates or subcontractors, or with respect to a party’s indemnity obligations under this Agreement, a party’s confidentiality obligations under this Agreement, a party’s violation of law, or third party claims, in no event shall either party, its affiliates or their respective shareholders, managers, directors, officers, employees and agents be liable for any indirect, special, exemplary, punitive or consequential damages (including lost profits), whether or not contemplated or foreseeable, whether a claim is brought at law or in equity and regardless of whether any claim is based upon contract, tort or other principles.
+
+Child 181 (p):
+ 
+
+Child 182 (tbl):
+Page 9 of 23  
+
+Child 183 (p):
+  
+
+Child 184 (p):
+ 
+
+Child 185 (p):
+ 
+
+Child 186 (p):
+ 
+
+Child 187 (p):
+Except in circumstances of negligence, bad faith or reckless or intentional misconduct by a party or its affiliates or subcontractors, or with respect to a party’s indemnity obligations under this Agreement, a party’s confidentiality obligations under this Agreement, a party’s violation of law, or third party claims, each party acknowledges and agrees that each party’s maximum liability to the other party arising out of any claim under this Agreement shall in no event exceed [***] dollars ($[***]) during the twelve (12) months following the Effective Date and [***] dollars ($[***]) thereafter.
+
+Child 188 (p):
+ 
+
+Child 189 (p):
+EVERSANA represents and warrants to the Client that (i) it will use qualified personnel to perform the Services in a professional and workmanlike manner consistent with commercially reasonable standards, (ii) it will perform the Services in compliance with all applicable laws, rules, and regulations, (iii) no Work Product or EVERSANA Property provided by EVERSANA under this Agreement infringes or misappropriates any third party’s Intellectual Property, and (iv) it has the full power and authority to grant the Intellectual Property and other rights granted in this Agreement without the further consent of any third party.
+
+Child 190 (p):
+ 
+
+Child 191 (p):
+Except as expressly set forth in this Agreement, EVERSANA makes no other representations, warranties or promises, express or implied, including any warranty of merchantability or fitness for a particular purpose.
+
+Child 192 (p):
+ 
+
+Child 193 (tbl):
+16.ENTIRE AGREEMENT.
+
+Child 194 (p):
+ 
+
+Child 195 (p):
+This Agreement, together with the Exhibits and SOWs attached hereto, contains the entire understanding between the parties and supersedes and cancels any and all prior agreements, written or oral, between them regarding the within subject matter. There are no representations, agreements, arrangements or understandings, oral or written, between or among the parties hereto relating to the subject matter of this Agreement that are not fully expressed herein.
+
+Child 196 (p):
+ 
+
+Child 197 (tbl):
+17.SEVERABILITY.
+
+Child 198 (p):
+ 
+
+Child 199 (p):
+If any provision of this Agreement is held invalid or unenforceable by a court of competent jurisdiction, the remaining provisions of this Agreement will remain in full force and effect, and the provision affected will be construed so as to be enforceable to the maximum extent permissible by law.
+
+Child 200 (p):
+ 
+
+Child 201 (tbl):
+18.WAIVER.
+
+Child 202 (p):
+ 
+
+Child 203 (p):
+The failure by either party to enforce any provision of this Agreement will not constitute a waiver of future enforcement of that or any other provision.
+
+Child 204 (p):
+ 
+
+Child 205 (p):
+ 
+
+Child 206 (tbl):
+19.EQUAL OPPORTUNITY EMPLOYER.
+
+Child 207 (p):
+ 
+
+Child 208 (p):
+EVERSANA provides equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, handicap, disability, or status as a Vietnam- era or special disabled veteran in accordance with applicable state or federal laws.
+
+Child 209 (p):
+ 
+
+Child 210 (tbl):
+20.COUNTERPARTS.
+
+Child 211 (p):
+ 
+
+Child 212 (p):
+This Agreement may be signed by the parties in separate counterparts, which shall together constitute one and the same agreement. Facsimile signatures shall have the same effect as originals.
+
+Child 213 (p):
+ 
+
+Child 214 (p):
+ 
+
+Child 215 (p):
+ 
+
+Child 216 (tbl):
+21.DISPUTE RESOLUTION.
+
+Child 217 (p):
+ 
+
+Child 218 (p):
+Except to the extent necessary to prevent irreparable harm or preserve rights or remedies, if any dispute between the parties arises out of or relates to this Agreement, or the alleged breach thereof, the parties agree to the following mandatory, binding alternative dispute resolution procedures in lieu of litigation:
+
+Child 219 (p):
+ 
+
+Child 220 (tbl):
+(i)Within five (5) business days of receipt by one party of a written claim or notice of dispute by the other party, the parties shall commence good faith negotiations to settle the dispute.
+
+Child 221 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 222 (tbl):
+(ii)If the dispute cannot be settled through negotiation after thirty (30) days, any remaining controversy
+
+Child 223 (p):
+or claim shall be settled and determined by arbitration administered by the American Arbitration
+
+Child 224 (tbl):
+(iii)The arbitrator also shall determine which is the prevailing party and shall include in the award or
+
+Child 225 (p):
+relief the reasonable attorney's fees and costs of such prevailing party in the arbitration. The arbitrator
+
+Child 226 (p):
+shall make his or her decision based upon the applicable legal principles and upon the evidence presented by the parties, and at the request of any party prior to conclusion of the hearing, shall provide a written reasoned decision which shall include findings of fact and conclusions of law supporting the decision. This Section does not limit either party’s right to provisional or ancillary remedies from a court of competent jurisdiction, and the exercise of any such remedy does not waive either party’s right to arbitration. Judgment on an arbitration award may be entered by any court with competent jurisdiction.
+
+Child 227 (p):
+ 
+
+Child 228 (tbl):
+22.SUB-CONTRACTING.
+
+Child 229 (p):
+ 
+
+Child 230 (p):
+In the event that EVERSANA contracts with a subcontractor any of its obligations hereunder, Eversana shall (i) remain liable for the performance of such obligations and will be responsible for the acts and omissions of its subcontractors, (ii) require its permitted subcontractors to agree in writing to be bound by the obligations of this Agreement, and (iii) remain Client’s sole point of contact regarding the Services provided hereunder (including any deliverables), including with respect to payment.
+
+Child 231 (p):
+ 
+
+Child 232 (tbl):
+23.RECORDS AND AUDITS.
+
+Child 233 (p):
+ 
+
+Child 234 (p):
+Each party shall keep full, complete and accurate records in connection with its provision of the Services and use of the Services during the Term of this Agreement and for a period of three years thereafter, or for such periods as are required to comply with applicable laws (if longer). Following conclusion of the Services transfer of such records by EVERSANA to Client shall relieve EVERSANA of any further obligation under this provision. Each party shall have the right, upon not less than fourteen (14) days advance written notice and during normal business hours, to inspect or audit, or have inspected or audited at its cost, all such records, including records stored electronically, for the purpose of verifying fees or compliance with other terms and conditions of this Agreement. Any such inspection shall not last more than one (1) business day or eight (8) total hours, whichever is less, and audit may not be performed more often than once in any twelve (12) month period.
+
+Child 235 (p):
+ 
+
+Child 236 (tbl):
+24.AGREEMENT MODIFICATIONS.
+
+Child 237 (p):
+ 
+
+Child 238 (p):
+No modification of this Agreement shall be effective unless it is in writing and signed by an authorized representative of each party.
+
+Child 239 (p):
+ 
+
+Child 240 (p):
+ 
+
+Child 241 (tbl):
+25.COMPLIANCE WITH LAW.
+
+Child 242 (p):
+ 
+
+Child 243 (p):
+Both Client and EVERSANA shall obtain and maintain all applicable material, professional and institutional licenses and certifications required by federal and state laws and professional boards having jurisdiction over the Services to be provided hereunder. In providing the product and performing the Services, as applicable, both Client and EVERSANA will comply with all applicable federal, state and local laws, including without limitation, all applicable regulations and rules relating to Health Insurance Portability and Accountability Act of 1996 (“HIPAA”), as well as drug manufacturing, pharmacy, health care provider and insurance laws. The parties shall execute one or more business associate or other agreements with respect to HIPAA compliance and certain other data governance and security matters, in each such case in mutually agreeable form.
+
+Child 244 (p):
+ 
+
+Child 245 (tbl):
+26.PUBLICITY.
+
+Child 246 (p):
+ 
+
+Child 247 (p):
+Neither party shall directly or indirectly publish, approve or issue any press release or public statement relating to the relationship of the parties to this Agreement or any products furnished or Services performed by EVERSANA for Client (each, a “Press Release”), without the prior written consent of the other party as to both content and timing of such Press Release, which approval may not be unreasonably withheld, delayed or conditioned by the non-publishing party.
+
+Child 248 (p):
+ 
+
+Child 249 (tbl):
+27.[INTENTIONALLY OMITTED].
+
+Child 250 (p):
+ 
+
+Child 251 (p):
+ 
+
+Child 252 (p):
+ 
+
+Child 253 (tbl):
+28.INSURANCE.
+
+Child 254 (p):
+ 
+
+Child 255 (tbl):
+28.1Insurance by Client. Client shall maintain during the Term the following insurance coverage:
+
+Child 256 (p):
+ 
+
+Child 257 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 258 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 259 (tbl):
+(iii)Upon request, Client shall provide EVERSANA with a Certificate of Insurance which shall indicate all insurance coverage required by this provision herein and that EVERSANA will be provided with notice prior to substantial modification or cancellation of such policies in accordance with policy provisions. Notwithstanding the foregoing, Client will be responsible for providing EVERSANA with no less than thirty (30) days’ notice of any substantial change or cancellation of Client’s insurance.
+
+Child 260 (p):
+28.2       Insurance by EVERSANA. EVERSANA shall maintain during the Term the following insurance coverage:
+
+Child 261 (p):
+ 
+
+Child 262 (tbl):
+(i)Warehouseman’s legal liability insurance in the amount of at least $5,000,000. Client acknowledges that such warehouseman’s legal liability insurance also insures property in the possession of EVERSANA other than products of Client.
+
+Child 263 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 264 (tbl):
+(ii)Worker’s Compensation insurance as required by law.
+
+Child 265 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 266 (tbl):
+(iii)Commercial general liability insurance and umbrella insurance having a combined limit of not less than $1,000,000 per occurrence and $10,000,000 annual aggregate. Such insurance shall be written on an ISO claims made form CG 00 02 1204 (or a substitute for providing equivalent coverage).
+
+Child 267 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 268 (tbl):
+(iv)Professional Liability and Errors and Omissions Liability insurance covering liability for loss or damage due to an act, error or negligence having a limit of $10,000,000 annual aggregate.
+
+Child 269 (p):
+ 
+
+Child 270 (p):
+Upon request, EVERSANA shall provide Client with a Certificate of Insurance which shall indicate all insurance coverage required by this provision herein and that Client will be provided with notice prior to substantial modification or cancellation of such policies in accordance with policy provisions. Notwithstanding the foregoing, EVERSANA will be responsible for providing Client with no less than thirty (30) days’ notice of any substantial change or cancellation of EVERSANA’s insurance. Such insurance coverage, or the failure or inability to obtain such insurance coverage or its application, shall not relieve, limit, or decrease a party’s responsibilities under this Agreement for any Losses including Losses in excess of insurance limits or otherwise.
+
+Child 271 (p):
+ 
+
+Child 272 (tbl):
+29.AUTHORITY.
+
+Child 273 (p):
+ 
+
+Child 274 (p):
+Each party represents and warrants to the other, as of the Effective Date, that (i) such party has the full right, power and authority to enter into this Agreement; (ii) the execution, delivery and performance by such party of this Agreement are within its powers and have been duly authorized by all necessary action; (iii) the execution of this Agreement by such party and the performance by such party of its obligations and duties hereunder do not and will not violate any agreement, applicable law, judgment, injunction, order or decree to which it is a party or by which it is otherwise bound; and (iv) when executed and delivered by it, this Agreement shall constitute the legal, valid and binding obligation of such party, enforceable against such party in accordance with its terms.
+
+Child 275 (p):
+ 
+
+Child 276 (tbl):
+Page 13 of 23  
+
+Child 277 (p):
+ 
+
+Child 278 (p):
+ 
+
+Child 279 (p):
+ 
+
+Child 280 (tbl):
+30.DEBARMENT.
+
+Child 281 (p):
+ 
+
+Child 282 (p):
+ 
+
+Child 283 (p):
+(Signature Page Follows)
+
+Child 284 (p):
+ 
+
+Child 285 (tbl):
+Page 14 of 23  
+
+Child 286 (p):
+  
+
+Child 287 (p):
+ 
+
+Child 288 (p):
+ 
+
+Child 289 (p):
+ 
+
+Child 290 (p):
+This agreement has been entered into as of the Effective Date. 
+
+Child 291 (p):
+ 
+
+Child 292 (tbl):
+EVERSANA Life Science Services, LLC Humanigen, Inc.    By: /s/ Edgar Gutierrez By: /s/ Edward JordanName: Edgar Gutierrez Name: Edward JordanTitle:  Director, Contracts Title: Chief Commercial OfficerDate:  1/9/2021 Date: 1/9/2021
+
+Child 293 (p):
+ 
+
+Child 294 (tbl):
+Page 15 of 23  
+
+Child 295 (p):
+  
+
+Child 296 (p):
+ 
+
+Child 297 (p):
+ 
+
+Child 298 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 299 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 300 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 301 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 302 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 303 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 304 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 305 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 306 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 307 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 308 (p):
+ 
+
+Child 309 (p):
+Exhibit AMarketing and Market Access
+
+Child 310 (p):
+ 
+
+Child 311 (p):
+Recitals
+
+Child 312 (p):
+ 
+
+Child 313 (p):
+A Master Services Agreement (“Agreement”) was entered into by and between EVERSANA and Client effective January 8, 2021.
+
+Child 314 (p):
+Pursuant to Section 1 of the Agreement, the parties now enter into this Exhibit A for the purposes of setting forth additional terms and conditions applicable to the specific market access services to be provided by EVERSANA to Client.
+
+Child 315 (p):
+ 
+
+Child 316 (p):
+Services
+
+Child 317 (p):
+ 
+
+Child 318 (p):
+A.       Client desires to have EVERSANA furnish Marketing and Market Access services (“Marketing and Market Access Services”).
+
+Child 319 (p):
+B.       These Marketing and Market Access Services are more fully described in the primary SOW executed by the Parties. The primary SOW shall set forth a detailed description of the Marketing and Market Access Services to be provided by EVERSANA to Client and the fees to be paid to EVERSANA by Client in connection therewith. This Exhibit B sets forth additional terms and conditions applicable to the Parties in connection with the Market Access Services described in a SOW executed by the parties.
+
+Child 320 (p):
+ 
+
+Child 321 (p):
+Additional Terms and Conditions
+
+Child 322 (p):
+ 
+
+Child 323 (p):
+ 
+
+Child 324 (p):
+2          Trade Secrets. It is the policy of Client to respect the trade secrets of all other parties, including EVERSANA, and to comply with all relevant state and federal laws regarding trade secrets. EVERSANA hereby warrants that, to the best of its knowledge, it does not employ any information-gathering methods that violate state or federal laws governing trade secrets, and that it will not employ any information- gathering methods that violate state or federal laws governing trade secrets in the performance of this Agreement. EVERSANA further warrants that it will not, during its performance under this Agreement, seek to learn any trade secret of any third party, and that it will not at any time disclose to Client any trade secrets belonging to any third party. EVERSANA hereby indemnifies Client and holds Client harmless for any violations of state or federal laws regarding trade secrets arising out of EVERSANA’s activities under this Agreement.
+
+Child 325 (p):
+ 
+
+Child 326 (tbl):
+3.Working Arrangements
+
+Child 327 (p):
+ 
+
+Child 328 (p):
+3.1       All Marketing and Market Access Services shall be performed at EVERSANA’s premises or another site mutually agreed by the parties. Client shall provide the items set forth in each SOW. Upon receipt of notice from Client that a consultant is not suitable, EVERSANA shall remove such consultant from the performance of Market Access Services, and will provide a qualified replacement as quickly as possible.
+
+Child 329 (p):
+ 
+
+Child 330 (p):
+ 
+
+Child 331 (p):
+ 
+
+Child 332 (p):
+ 
+
+Child 333 (p):
+3.2       Client will ensure that all Client personnel who may be necessary or appropriate for the successful performance of the Marketing and Market Access Services will, on reasonable notice: (i) be available to assist EVERSANA personnel by answering business, technical and operational questions and providing requested documents, guidelines and procedures in a timely manner; (ii) reasonably cooperate in the Market Access Services as reasonably necessary for performance under a SOW; and (iii) be available to assist EVERSANA with any other activities or tasks required to complete the Market Access Services in accordance with the SOW.
+
+Child 334 (p):
+ 
+
+Child 335 (p):
+4.         EVERSANA Personnel. Neither EVERSANA nor its personnel are or shall be deemed to be employees of Client. EVERSANA shall be responsible for the compensation of its personnel, in addition to any applicable employment taxes, workmen's compensation and any other taxes, insurance or provisions associated with the employment of personnel.
+
+Child 336 (p):
+ 
+
+Child 337 (tbl):
+5.Fees.
+
+Child 338 (p):
+ 
+
+Child 339 (p):
+5.1       When EVERSANA contracts with broadcast or print media for Marketing and Market Access Services performed under this Agreement (“Media Buys”), EVERSANA will, wherever practicable, contract on behalf of Client in a format substantially similar to that promulgated by the American Association of Advertising Agencies (“AAAA”). EVERSANA will use commercially reasonable efforts to guard against loss to Client through failure of media suppliers to properly execute their commitments; however, under no circumstance shall EVERSANA be responsible for the acts or omissions of media suppliers. Media Buys will be subject to EVERSANA’s standard mark-up, as referenced on the applicable SOW, and will be invoiced by EVERSANA upon issuance of the insertion order.
+
+Child 340 (p):
+ 
+
+Child 341 (p):
+5.2       When EVERSANA contracts with broadcast or print media for Marketing and Market Access Services performed under the SOW, EVERSANA will guard against loss to Client through failure of media suppliers to properly execute their commitments. EVERSANA will secure for Client’s account all credits and adjustments due to Client from media by reason of the publication or broadcast of any of Client’s advertising not in accordance with the contract specifications or trade custom. In addition, EVERSANA will either credit or pay to Client, at Client’s sole option, the proportionate share of EVERSANA’s total rebates, credits or other adjustments which EVERSANA receives from media in a ration equal to the percentage that Client’s business bears to EVERSANA’s total business.
+
+Child 342 (p):
+ 
+
+Child 343 (p):
+5.3       Sales, use and other similar taxes by a governmental authority will be reimbursed by Client in a similar manner to other expenses associated with each Project. All pass-through costs invoiced to Client will be at actual cost with no mark-up.
+
+Child 344 (p):
+ 
+
+Child 345 (p):
+ 
+
+Child 346 (tbl):
+Page 17 of 23  
+
+Child 347 (p):
+ 
+
+Child 348 (p):
+ 
+
+Child 349 (p):
+ 
+
+Child 350 (tbl):
+6.0Third Party Approvals
+
+Child 351 (p):
+ 
+
+Child 352 (p):
+6.1       Each SOW submitted to Client by EVERSANA is subject to the review and written approval of Client prior to the time EVERSANA incurs liability to third parties in connection with the projects contained in such SOW. Furthermore, all drafts of any deliverables prepared by EVERSANA including but not limited to, proposed journal advertisements, training materials, media copy, advertisements or other promotional material used to promote the products (collectively, the “Promotional Material”) will be prepared by EVERSANA using commercially reasonable efforts to ensure compliance with all applicable laws, rules and regulations, and will be submitted to Client for review and approval prior to publication or use. Client is responsible for reviewing all deliverables (including Promotional Material) prepared by EVERSANA and, for ensuring such deliverables comply with all applicable laws, rules and regulations. Client will have the right to make any editorial changes it desires prior to publication or use; provided, however, that Client must notify EVERSANA in writing of either its approval or disapproval and/or required editing of Promotional Material as promptly as practicable, but in no event less than 48-hours prior to the planned publication or use. Client shall be responsible for all cancellation fees.
+
+Child 353 (p):
+ 
+
+Child 354 (p):
+ 
+
+Child 355 (p):
+ 
+
+Child 356 (p):
+ 
+
+Child 357 (tbl):
+Page 18 of 23  
+
+Child 358 (p):
+ 
+
+Child 359 (p):
+ 
+
+Child 360 (p):
+ 
+
+Child 361 (p):
+Exhibit B
+
+Child 362 (p):
+Field Solution Services
+
+Child 363 (p):
+ 
+
+Child 364 (p):
+ 
+
+Child 365 (p):
+Recitals
+
+Child 366 (p):
+ 
+
+Child 367 (p):
+A Master Services Agreement (“Agreement”) was entered into by and between EVERSANA and Client effective January 8, 2021.
+
+Child 368 (p):
+Pursuant to Section 1 of the Agreement, the parties now enter into this Exhibit B for the purposes of setting forth additional terms and conditions applicable to the specific field solution services to be provided by EVERSANA to Client.
+
+Child 369 (p):
+ 
+
+Child 370 (p):
+Services
+
+Child 371 (p):
+ 
+
+Child 372 (tbl):
+A.Client desires to have EVERSANA provide Field Solution services (the “Field Solution Services”).
+
+Child 373 (p):
+B.  The Field Solution Services are more fully described in the primary SOW executed by the Parties, and include the provision of Field Sales, Market Access and Medical Affairs teams to include all supporting services. The primary SOW shall set forth a detailed description of the Field Solution Services to be provided by EVERSANA to Client and the fees to be paid to EVERSANA by Client in connection therewith. This Exhibit D sets forth additional terms and conditions applicable to the Parties in connection with the Field Solution Services described in a SOW executed by the parties.
+
+Child 374 (p):
+ 
+
+Child 375 (p):
+Additional Terms and Conditions
+
+Child 376 (p):
+ 
+
+Child 377 (tbl):
+1.Representations and Warranties Specific to the Field Solution Services
+
+Child 378 (p):
+ 
+
+Child 379 (tbl):
+1.1EVERSANA represents warrants and covenants that:
+
+Child 380 (p):
+ 
+
+Child 381 (p):
+1.1.1       EVERSANA shall perform the Field Solution Services in a professional, workmanlike manner and in accordance with those specifications and timelines which are agreed to in advance and in writing by EVERSANA and Client;
+
+Child 382 (p):
+ 
+
+Child 383 (p):
+1.1.2       the personnel assigned to perform the Field Solution Services shall be capable professionally to perform the Field Solution Services in accordance with any agreed upon hiring profile that may be set forth in a SOW;
+
+Child 384 (p):
+ 
+
+Child 385 (p):
+ 
+
+Child 386 (p):
+1.1.4       EVERSANA is not a party to any agreement which would prevent it from fulfilling its obligations under a Field Solution Services SOW and that during the term thereof, it will not enter into any agreement to provide services which would prevent it from performing the Field Solution Services to Client under an executed SOW.
+
+Child 387 (p):
+ 
+
+Child 388 (tbl):
+Page 19 of 23  
+
+Child 389 (p):
+ 
+
+Child 390 (p):
+ 
+
+Child 391 (p):
+ 
+
+Child 392 (p):
+ 
+
+Child 393 (tbl):
+1.2Client represents warrants and covenants that:
+
+Child 394 (p):
+ 
+
+Child 395 (p):
+1.2.1       Client will act in good faith to provide EVERSANA with the necessary materials, information, product training, and assistance reasonably required to enable EVERSANA to perform the Field Solution Services in compliance with all applicable law. Certain Client obligations and responsibilities unique to a specific SOW may be specified within a SOW;
+
+Child 396 (p):
+ 
+
+Child 397 (p):
+1.2.2       Client either owns the product(s) that is the subject of a SOW, or has received all lawful authority from a third party necessary to grant EVERSANA the right to provide the Field Solution Services described in a SOW. Client’s patents, copyrights, trademarks, trade names and trade dress do not infringe on any intellectual property or product rights of any third party;
+
+Child 398 (p):
+ 
+
+Child 399 (p):
+1.2.3       Client is responsible for reviewing and approving Client’s product promotional materials and literature and for ensuring all such materials comply with applicable laws;
+
+Child 400 (p):
+ 
+
+Child 401 (p):
+1.2.4       the program(s) pursuant to which EVERSANA is performing the Field Solution Services is a Client program that is being implemented by EVERSANA and as such, Client is responsible for ensuring that the program set forth in a SOW adheres to applicable law;
+
+Child 402 (p):
+ 
+
+Child 403 (tbl):
+1.2.5Client is responsible for complying with all state and county drug disposal
+
+Child 404 (p):
+ordinances;
+
+Child 405 (p):
+ 
+
+Child 406 (p):
+1.2.6       Client is responsible for all decisions concerning the marketing, planning, strategy and detailing of its Product, and shall have the sole right and responsibility for establishing and modifying the terms and conditions of the sale of its Product, including without limitation, terms and conditions such as the price at which the Product will be sold, whether the Product shall be subject to any discounts, the distribution of the Product, and whether credit is to be granted or refused in connection with the sale of any Product; and
+
+Child 407 (p):
+ 
+
+Child 408 (p):
+ 
+
+Child 409 (p):
+1.2.8       Except as set forth in Section 4 of this Exhibit, Client is responsible for any severance payments, if any, due to any of the EVERSANA sales representatives or other field service employees, for any sales representative that is terminated by EVERSANA as a result of a termination request made by Client.
+
+Child 410 (p):
+ 
+
+Child 411 (p):
+ 
+
+Child 412 (p):
+ 
+
+Child 413 (p):
+(i)       the balance due for any un-cancellable expenses or future financial obligations directly related to the promotion of the Client’s Product; and
+
+Child 414 (p):
+ 
+
+Child 415 (tbl):
+Page 20 of 23  
+
+Child 416 (p):
+ 
+
+Child 417 (p):
+ 
+
+Child 418 (p):
+ 
+
+Child 419 (p):
+ 
+
+Child 420 (p):
+(ii)       any severance payments due any of the EVERSANA sales representatives or other field service employees, if any, terminated by EVERSANA as a result of the termination of the Field Solution SOW.
+
+Child 421 (p):
+ 
+
+Child 422 (p):
+(b)       In the event EVERSANA employees were provided with use of a fleet automobile, a one-time fee per leased vehicle as a lease early termination fee (if any) would apply; and
+
+Child 423 (p):
+ 
+
+Child 424 (p):
+(i)       a vehicle disposal fee in the amount equal to the net loss to EVERSANA on such fleet vehicles determined by deducting the net sale proceeds from the remaining book value or each fleet vehicle, as of date the fleet vehicle is returned to EVERSANA’s fleet vehicle provider (the “Vehicle Disposal Calculation”), plus costs to transport vehicle for remarketing and all costs and auction fees to prepare the fleet vehicle for sale and remarket; and
+
+Child 425 (p):
+ 
+
+Child 426 (p):
+(ii)     all remaining interest obligations, management fee changes and depreciation payments due between the month the fleet vehicle lease is terminated and the 24-month anniversary of the fleet vehicle lease;
+
+Child 427 (p):
+ 
+
+Child 428 (p):
+ 
+
+Child 429 (tbl):
+3.Conversion
+
+Child 430 (p):
+ 
+
+Child 431 (p):
+(a)       Notwithstanding Section 8 of the Agreement, during the Term of the Field Solution SOW, Client may solicit, employ or retain one or more EVERSANA sales representatives performing Services hereunder (a “Conversion”) provided that: (i) such hiring may not occur prior to the first anniversary of date the sales representative commenced provision of the Field Solution Services (the “Deployment Date”) and (ii) Client provides at least ninety (90) days prior written notice to EVERSANA of any Conversion. In the event Client wishes to implement a Conversion prior to the first anniversary of the applicable Deployment Date, Client shall pay EVERSANA a fee of [***] Fees per sales representative . There shall be no Conversion fee due thereafter.
+
+Child 432 (p):
+ 
+
+Child 433 (p):
+(b)       Client understands and agrees that EVERSANA cannot guaranty that any sales representative will agree to participate in a Conversion.
+
+Child 434 (p):
+ 
+
+Child 435 (p):
+(c)       In the event Client implements a Conversion, the parties agree that any and all training materials made available to the sales representatives will be returned to EVERSANA, it being understood and agreed that the EVERSANA proprietary training modules constitutes valuable and proprietary information of EVERSANA and is subject to the confidentiality obligations set forth in Sections 6 and 7 of the Agreement.
+
+Child 436 (p):
+ 
+
+Child 437 (p):
+ 
+
+Child 438 (tbl):
+Page 21 of 23  
+
+Child 439 (p):
+ 
+
+Child 440 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 441 (p):
+ 
+
+Child 442 (p):
+ 
+
+Child 443 (p):
+ 
+
+Child 444 (tbl):
+4.Performance of the Field Solution Services
+
+Child 445 (p):
+ 
+
+Child 446 (p):
+ 
+
+Child 447 (p):
+ 
+
+Child 448 (p):
+ 
+
+Child 449 (p):
+ 
+
+Child 450 (p):
+5.2       EVERSANA is, and at all times shall remain, solely responsible for the human resource and performance management functions of all EVERSANA personnel provided to perform the Field Solution Services. EVERSANA shall be solely responsible for all disciplinary, probationary and termination actions taken by it, and for the formulation, content and dissemination of all employment policies and rules (including written disciplinary, probationary and termination policies) applicable to its employees, agents and contractors (individually, an “EVERSANA Employee” and collectively, the “EVERSANA Employees”).
+
+Child 451 (p):
+ 
+
+Child 452 (tbl):
+Page 22 of 23  
+
+Child 453 (p):
+ 
+
+Child 454 (p):
+***THIS IS AN EMPTY PARA***
+
+Child 455 (p):
+ 
+
+Child 456 (p):
+ 
+
+Child 457 (p):
+5.3       EVERSANA shall obtain and maintain worker’s compensation insurance and other insurances required for EVERSANA Employees performing the Field Solution Services and acknowledges that Client does not, and shall not obtain or maintain such insurances, all of which shall be EVERSANA’s sole responsibility.
+
+Child 458 (p):
+ 
+
+Child 459 (p):
+ 
+
+Child 460 (p):
+5.5       Except as otherwise set out in this Agreement or in a SOW, Client shall have no responsibility to EVERSANA or any EVERSANA Employee for any compensation, expense reimbursements or benefits (including, without limitation, vacation and holiday remuneration, healthcare coverage or insurance, life insurance, pension or profit-sharing benefits and disability benefits), payroll-related or withholding taxes, or any governmental charges or benefits (including, without limitation, unemployment and disability insurance contributions or benefits and workers compensation contributions or benefits) that may be imposed upon or be related to the performance by EVERSANA or its employees, agents or contractors of the obligations under this Agreement or any SOW, all of which shall be the sole responsibility of EVERSANA. To clarify, Client will not withhold any income tax or payroll tax of any kind on behalf of EVERSANA.
+
+Child 461 (p):
+ 
+
+Child 462 (p):
+5.6       Limitations. Notwithstanding anything to the contrary in this Section 5, EVERSANA shall have no obligation or responsibility for any damages, liability, loss and costs, including but not limited to attorney’s fees (collectively, “Liability”) to the extent such Liability is attributed to either. discriminatory and/or intentional acts of Client, its employees, agents or contractors.
+
+Child 463 (p):
+ 
+
+Child 464 (tbl):
+6.Training Obligations of the Parties
+
+Child 465 (p):
+ 
+
+Child 466 (p):
+The training responsibilities of the parties are as follows:
+
+Child 467 (p):
+ 
+
+Child 468 (p):
+(a)       EVERSANA shall train all EVERSANA sales representatives concerning: selling skills, compliance with applicable laws, use of sales force automation software, expense management policies, EVERSANA human resource policies, procedures and administration and other applicable EVERSANA internal human resource and general compliance policies and procedures, and recruiting/onboarding. Client shall have the opportunity to review all training materials used by EVERSANA in advance of such training and may require revisions as deemed appropriate by the Client. Client may assist EVERSANA personnel in such training.
+
+Child 469 (p):
+ 
+
+Child 470 (p):
+(b)       Client shall provide all training content and sales and training objectives, including but not limited to, clinical studies, regulatory documents, Product-specific information including Product complaint-handling procedures, applicable specific Client health care compliance policies and Client customer service policies and procedures, orientation to Clients’ businesses, and adverse event reporting policies and procedures to EVERSANA (the “Training Material”). EVERSANA shall train all EVERSANA sales representatives in accordance with the sales and training objectives provided by Client and described in the Training Materials. The parties agree to work together to mutually determine if, when, and at what cost additional training shall be provided.
+
+Child 471 (p):
+ 
+
+Child 472 (p):
+***THIS IS AN EMPTY PARA***
+

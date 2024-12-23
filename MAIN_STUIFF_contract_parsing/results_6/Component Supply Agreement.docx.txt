@@ -1,0 +1,290 @@
+Paragraph 1:
+Type(s): Other
+Content: SUPPLY AGREEMENT
+--------------------------------------------------------------------------------
+Paragraph 2:
+Type(s): Other
+Content: This Agreement, dated [●], is made between  [●] (“Supplier”), having offices at  [●] and  [●] having its office at  [●] Purchaser.
+--------------------------------------------------------------------------------
+Paragraph 3:
+Type(s): Other
+Content: RECITALS
+--------------------------------------------------------------------------------
+Paragraph 4:
+Type(s): Other
+Content: WHEREAS, Supplier is capable of manufacturing those components described in the attached Exhibit A (the “Components); and
+--------------------------------------------------------------------------------
+Paragraph 5:
+Type(s): Other
+Content: WHEREAS, Purchaser desires to purchase the Components from Supplier for use in Implanted Devices, as such term is hereinafter defined; and
+--------------------------------------------------------------------------------
+Paragraph 6:
+Type(s): Other
+Content: WHEREAS, Supplier wishes to sell Components to Purchaser.
+--------------------------------------------------------------------------------
+Paragraph 7:
+Type(s): Delivery, Notices
+Content: NOW, THEREFORE, in consideration of the terms and provisions of this Agreement, and for other good and valuable consideration, the receipt and sufficiency of which is acknowledged by the execution and delivery thereof, Supplier and Purchaser agree as follows:
+--------------------------------------------------------------------------------
+Paragraph 8:
+Type(s): Other
+Content: Definitions
+--------------------------------------------------------------------------------
+Paragraph 9:
+Type(s): Other
+Content: For purposes of this Agreement, the terms hereinafter set forth shall be defined as follows:
+--------------------------------------------------------------------------------
+Paragraph 10:
+Type(s): Security, Trade Secrets, Termination for Cause, Privacy, Confidentiality, Audit Rights, Confidentiality and Non-Disclosure
+Content: (A) “Confidential Information” means such confidential and/or proprietary information disclosed by one party to the other prior to the date hereof or during the term of this Agreement. Such information may include, but is not limited to, know-how, trade secrets, formulations, product data, complaint and safety information, and regulatory information. Information will not be considered Confidential Information if (i) it is at the time of disclosure or thereafter part of the public domain, without the fault of the party claiming such information is not Confidential Information, (ii) the party claiming such information is not Confidential Information can show through tangible records that it already knew the information before it was received, (iii) the party claiming such information is not Confidential Information can show through tangible records that the information was developed independently without reliance on such information, or (iv) the party claiming such information is not Confidential Information obtained such information from a third party without breach of an obligation of confidentiality or (v) it is disclosed verbally, except where the disclosure is subsequently reduced to writing and marked as confidential or proprietary by the disclosing party and furnished to the receiving party within [●] days of the verbal disclosure.
+--------------------------------------------------------------------------------
+Paragraph 11:
+Type(s): Other
+Content: (B) “Implanted Device” means any medical device that (i) is manufactured by or for Purchaser, (ii) which contains one or more Components, and (iii) is designed to be permanently or temporarily implanted inside the human body.
+--------------------------------------------------------------------------------
+Paragraph 12:
+Type(s): Other
+Content: (C) “Effective Date” means the date first above written.
+--------------------------------------------------------------------------------
+Paragraph 13:
+Type(s): Ownership
+Content: (D) “Affiliate” means a corporation or other business entity that directly or indirectly through one or more intermediaries, controls, or is controlled by, or under common control with a party to this Agreement. For this purpose, “control” means beneficial ownership of more than fifty percent (50%) of the voting stock or more than fifty percent (50%) interest in the income of that corporation or other business entity.
+--------------------------------------------------------------------------------
+Paragraph 14:
+Type(s): Representations and Warranties
+Content: Purchaser ‘s Representations
+--------------------------------------------------------------------------------
+Paragraph 15:
+Type(s): Warranty, Representations and Warranties
+Content: Purchaser represents and warrants to Supplier that:
+--------------------------------------------------------------------------------
+Paragraph 16:
+Type(s): Other
+Content: (A) Purchaser is a manufacturer of Implanted Devices.
+--------------------------------------------------------------------------------
+Paragraph 17:
+Type(s): Other
+Content: (B) Purchaser has determined that the Components are suitable for the applications in which it uses the Components in Implanted Devices.
+--------------------------------------------------------------------------------
+Paragraph 18:
+Type(s): Compliance with Laws, Governing Regulations, Regulatory Compliance
+Content: (C) Purchaser has in its employ or has retained consultants who are experienced and knowledgeable in the properties, processing techniques and potential hazards of the Components and their use in Implanted Devices. Purchaser has a regulatory staff properly trained in the requirements of the United States Federal Food, Drug and Cosmetic Act and pertinent regulations and similar statutes and regulations of states and other countries in which Implanted Devices may be sold and qualified medical staff, consultants and or clinical investigators to conduct such studies as are needed to evaluate the safety and efficacy of and the proper labelling for the Implanted Devices.
+--------------------------------------------------------------------------------
+Paragraph 19:
+Type(s): Other
+Content: Purchase and Sale
+--------------------------------------------------------------------------------
+Paragraph 20:
+Type(s): Acceptance
+Content: (A) Supplier agrees to manufacturer and sell the Components to Purchaser and Purchaser agrees to purchase the Components solely for integration into Implanted Devices. All sales of Components shall be subject solely to the terms and conditions of this Agreement. It is the intention of the parties that this Agreement be controlling over additional or different terms of any purchase order, confirmation, invoice or similar document, even if accepted in writing by both parties.
+--------------------------------------------------------------------------------
+Paragraph 21:
+Type(s): Delivery, Acceptance, Notices
+Content: (B) On the Effective Date, Purchaser shall provide Supplier with a forecast of its requirements of the Components for the first [●] months period in addition to a firm purchase order for the nearest three months of that twelvemonth period. Quarterly thereafter, Purchaser shall provide Supplier with updated rolling [●] month forecasts of its requirements of the Components in addition to a firm purchase order for the nearest three months of that twelve-month period. Each forecast will include the Component code, unit quantity and requested delivery date which will include a lead time of at least [●] days. In the event Purchaser issues a firm purchase order for a quantity of Components which exceeds [●]% of the quantity as forecasted by Purchaser, the parties shall promptly negotiate a mutually acceptable time schedule for delivery of such product.
+--------------------------------------------------------------------------------
+Paragraph 22:
+Type(s): Delivery, Payment Terms, Notices, Warranty
+Content: (C) The price and minimum purchase requirements for Components are set forth in Exhibits B and C hereto. Payment terms are [●] days from date of shipment. During each specified time period in Exhibit B, Purchaser guarantees that it will purchase and take delivery of the applicable minimum purchase requirement set forth in Exhibit B. If, at the end of any such specified time period, Purchaser has not purchased and taken delivery of such minimum quantity of units, Supplier shall have the right to invoice Purchaser for the difference between such minimum quantity and the lesser quantity of the Components as Purchaser purchased and took delivery of during such specified time period. Purchaser will pay any such invoice within [●] days of its receipt.
+--------------------------------------------------------------------------------
+Paragraph 23:
+Type(s): Delivery, Confidentiality, Notices, Confidentiality and Non-Disclosure
+Content: (D) Supplier shall ship the Components F.O.B. Bard’s distribution facility at [●],facility at [●]. All Components delivered pursuant to this Agreement will be suitably packed for air freight shipment in Supplier’s standard shipping cartons, marked for shipment to the address specified by Purchaser in its purchase order, and delivered to Purchaser or its carrier for shipment.
+--------------------------------------------------------------------------------
+Paragraph 24:
+Type(s): Inspection and Testing, Governing Regulations, Delivery, Acceptance, Privacy, Notices, Audit Rights, Compliance with Laws, Quality Assurance
+Content: (E) Purchaser will inspect all Components promptly upon receipt thereof and may reject any Component that fails upon delivery to conform to this Agreement. Components not rejected within [●]days of their delivery to Purchaser shall be deemed accepted by Purchaser. Each shipment must include appropriate QA data, including but not limited to the certificate of compliance for each lot and the inspection data, if available.
+--------------------------------------------------------------------------------
+Paragraph 25:
+Type(s): Other
+Content: Purchaser’s Covenants
+--------------------------------------------------------------------------------
+Paragraph 26:
+Type(s): Other
+Content: Purchaser covenants and agrees to the following:
+--------------------------------------------------------------------------------
+Paragraph 27:
+Type(s): Other
+Content: (A) Purchaser will be responsible for and will perform or has performed all tests necessary to provide reasonable assurance of the suitability of the Components for the applications in which Purchaser uses the Components in Implanted Devices.
+--------------------------------------------------------------------------------
+Paragraph 28:
+Type(s): Non-Solicitation
+Content: (B) Purchaser will provide its customers with all warnings reasonably necessary for the appropriate use of the Implanted Devices.
+--------------------------------------------------------------------------------
+Paragraph 29:
+Type(s): Governing Regulations, Confidentiality, Audit Rights, Compliance with Laws, Quality Assurance, Confidentiality and Non-Disclosure, Regulatory Compliance
+Content: (C) Purchaser will maintain lot traceability records in compliance with quality system regulations and ISO 9001 standards.
+--------------------------------------------------------------------------------
+Paragraph 30:
+Type(s): Other
+Content: (D) Purchaser will not resell the Components as stand alone items, except solely as a replacement part for any Components previously incorporated into Implanted Devices and sold by Purchaser.
+--------------------------------------------------------------------------------
+Paragraph 31:
+Type(s): Other
+Content: SUPPLIER’s Covenants
+--------------------------------------------------------------------------------
+Paragraph 32:
+Type(s): Other
+Content: Supplier covenants and agrees to the following:
+--------------------------------------------------------------------------------
+Paragraph 33:
+Type(s): Confidentiality, Confidentiality and Non-Disclosure, Trade Secrets
+Content: (A) As may be agreed by Supplier and Purchaser in writing with respect to individual Components, Supplier will cooperate with Purchaser by providing information reasonably requested by Purchaser regarding the Components for the purpose of Purchaser obtaining governmental approvals for Implanted Devices as well as such other information as may be reasonably requested by Purchaser in writing relating to health and safety aspects of the Components supplied under this Agreement. All such information disclosed to Purchaser by Supplier shall be deemed Confidential Information of Supplier
+--------------------------------------------------------------------------------
+Paragraph 34:
+Type(s): Inspection and Testing
+Content: (B) Supplier agrees that it will not make a change in any specification for the Component which materially affects the characteristics of a Component without notifying Purchaser in writing prior to implementing the change, such as: (1) source or composition of any raw material used in the manufacture of the Component, or (2) method of producing, processing or testing the Component. If the Purchaser does not authorize such change, Supplier may proceed with the change if the Purchaser is provided with an opportunity to submit a final purchase order of the Component (according to the specifications in effect prior to any change) for an amount of product not to exceed the amount actually purchased by Purchaser in the prior [●] months.
+--------------------------------------------------------------------------------
+Paragraph 35:
+Type(s): Work Product
+Content: (C) Supplier agrees, in its sole discretion, to provide Purchaser with the results of certain tests undertaken on a product of Supplier that may be equivalent to the Component, which may include the dossier relating to such product, which results may enable the Purchaser to file applications with appropriate regulatory bodies.
+--------------------------------------------------------------------------------
+Paragraph 36:
+Type(s): Performance Standards, Confidentiality, Audit Rights, Quality Assurance, Confidentiality and Non-Disclosure
+Content: (D) Supplier agrees, in its sole discretion, to allow the Purchaser access to and copies of certain applicable quality documents as deemed reasonably necessary to perform vendor audits in accordance with ISO 9001 or other applicable quality standards.
+--------------------------------------------------------------------------------
+Paragraph 37:
+Type(s): Warranty, Representations and Warranties
+Content: SUPPLIER’S Warranty/Limitation of Supplier’s Liability
+--------------------------------------------------------------------------------
+Paragraph 38:
+Type(s): Governing Regulations, Delivery, Compliance with Laws, Regulatory Compliance, Non-Solicitation, Warranty, Environmental Compliance, Representations and Warranties
+Content: (A) Supplier warrants that the Components sold to Purchaser hereunder will: (i) be manufactured in accordance with applicable quality system regulations; (ii) to the extent sold in the [●], comply at the time of shipment with the requirements of the India’s Drug and Cosmetic Act, 1940 and applicable regulations promulgated thereunder; and (iii) be free from defects in design, material and workmanship for a period of one year after shipment to Purchaser. Subject to Purchaser’s and its customers’ compliance with all instructions and requirements regarding the use of the Components, Supplier agrees in its sole discretion and as Purchaser’s sole remedy to either repair or replace any Component sold hereunder that is demonstrated to have a defect in design, material or workmanship and of which defect Supplier is notified in writing by Purchaser within [●] days after Purchaser receives notice from a customer of the alleged defect in the Component or repay any applicable purchase price paid to Supplier for such Component.
+--------------------------------------------------------------------------------
+Paragraph 39:
+Type(s): Remedies, Patent Rights, Ownership, Intellectual Property Rights, Non-Solicitation, Warranty, Representations and Warranties
+Content: (B) EXCEPT FOR THE FOREGOING WARRANTIES, SUPPLIER MAKES NO WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, A WARRANTY OF MERCHANTABILITY, A WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE OR A WARRANTY OF INTELLECTUAL PROPERTY NON-INFRINGEMENT, INCLUDING, BUT NOT LIMITED TO PATENT NON-INFRINGEMENT, ALL OF WHICH ARE EXPRESSLY DISCLAIMED, WHETHER EXPRESS OR IMPLIED, IN FACT OR BY LAW, AND SUPPLIER SHALL HAVE NO FURTHER OBLIGATION OR LIABILITY WITH RESPECT TO THE COMPONENTS. SUPPLIER DOES NOT MAKE ANY WARRANTY TO PURCHASER’S CUSTOMERS OR AGENTS. SUPPLIER HAS NOT AUTHORIZED ANYONE TO MAKE ANY REPRESENTATION OR WARRANTY OTHER THAN AS PROVIDED ABOVE. SUPPLIER SHALL IN NO EVENT BE LIABLE FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL, PUNITIVE, INCIDENTAL OR SIMILAR DAMAGES, INCLUDING WITHOUT LIMITATION, DAMAGES FOR HARM TO BUSINESS, LOST PROFITS OR LOST SAVINGS, EVEN IF SUPPLIER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, REGARDLESS OF THE FORM OF ACTION.
+--------------------------------------------------------------------------------
+Paragraph 40:
+Type(s): Indemnification
+Content: Indemnification
+--------------------------------------------------------------------------------
+Paragraph 41:
+Type(s): Remedies, Patent Rights, Ownership, Assignment, Intellectual Property Rights, Dispute Resolution, Obligations of the Parties, Indemnification, Pricing and Fees, Non-Solicitation, Payment Terms, Environmental Compliance, Representations and Warranties
+Content: (A) Purchaser agrees to indemnify, defend and hold harmless SUPPLIER and its Affiliates (including without limitation is directors, officers, employees, agent, representatives and shareholders) from and against any and all claims by any third party for personal injury or property damage, including any claims, actions, suits, proceedings, liabilities, obligations, losses, damages (including any fines, penalties or punitive damages), settlement, interests, costs and expenses (including attorneys’ fees, court costs and other reasonable out-of-pocket expenses incurred in investigating, preparing or defending any of the foregoing or in enforcing rights hereunder) resulting therefrom by reason of or in connection with or arising out of or relating to any sale, transfer, or use by any person of any Implanted Device sold or otherwise made available by Purchaser or any related persons or entities (including without limitation any current or former direct or indirect parent or subsidiary or any Affiliate or associate thereof) in which a Component is incorporated or otherwise involved, except to the extent arising or resulting from (i) a defect in the design, material or workmanship of a Component and such defect is proved to be the actual and proximate cause of the claimed personal injury or property damage, or (ii) the infringement by Component of the patents or other intellectual property rights of any third party, such patents and other intellectual property rights limited to compositions and excluding any methods of manufacture or devices or use thereof.
+--------------------------------------------------------------------------------
+Paragraph 42:
+Type(s): Confidentiality, Dispute Resolution, Obligations of the Parties, Indemnification, Audit Rights, Amendments, Confidentiality and Non-Disclosure
+Content: (B) Any entity seeking indemnification hereunder must notify Purchaser within [●] calendar days of the date of actual notice of any claim for which it seeks indemnification, provided that any such failure shall not relieve Purchaser of its obligations hereunder except to the extent that Purchaser is actually prejudiced by such failure to notify. In the event that Purchaser shall be called upon to provide the indemnification set forth herein, Purchaser shall control the defense, litigation and/or settlement of such claim (except to the extent that any settlement involves some commitments, responsibilities and/or obligations on the part of SUPPLIER, in which case such settlement shall require the prior written consent of the SUPPLIER), action or proceeding with attorneys of its choosing, and the SUPPLIER and all other indemnified entities shall cooperate as may reasonably be required by Purchaser (but at Purchaser’s expense in such defense, litigation and/or settlement). SUPPLIER reserves the right to participate at its own cost in any proceedings with counsel of its own choosing. SUPPLIER, Purchaser and their respective counsel will cooperate fully and make available all books, records, information and witnesses under their control and reasonably necessary or useful in connection with the defense of any such claim. Purchaser shall not, in the defense of any such claim or proceeding, except with the prior written consent of SUPPLIER, consent to the entry of any judgment or enter into any settlement which would be to the financial or other detriment of SUPPLIER.
+--------------------------------------------------------------------------------
+Paragraph 43:
+Type(s): Termination
+Content: (C) The provisions of this section shall survive the termination of this Agreement.
+--------------------------------------------------------------------------------
+Paragraph 44:
+Type(s): Confidentiality, Confidentiality and Non-Disclosure, Privacy
+Content: Confidentiality
+--------------------------------------------------------------------------------
+Paragraph 45:
+Type(s): Trade Secrets, Termination, Confidentiality, Obligations of the Parties, Confidentiality and Non-Disclosure, Non-Solicitation
+Content: With respect to Confidential Information supplied by SUPPLIER to Purchaser or by Purchaser to SUPPLIER, the recipient of such Confidential Information agrees: (i) not to use any such Confidential Information other than for the purpose of this Agreement; or (ii) not to disclose any Confidential Information to any third party other than to its employees, consultants and agents who are under an obligation of non-disclosure and who have a reasonable need for access to the Confidential Information. Upon termination of this Agreement, each party will return the Confidential Information of the other or dispose of such Confidential Information and all copies of it (except as required by regulatory authorities) but one copy may be retained for archival purposes. The parties’ obligations under this section will extend for a period of three years after termination of this Agreement.
+--------------------------------------------------------------------------------
+Paragraph 46:
+Type(s): Termination
+Content: Term and Termination
+--------------------------------------------------------------------------------
+Paragraph 47:
+Type(s): Termination
+Content: (A) This Agreement will commence on the Effective Date and terminate automatically without notice on the date that is [●] years from the Effective Date, unless the term of the Agreement is extended by mutual written agreement executed and delivered by both parties at least [●] days prior to the expiration of the initial term or renewal term, as applicable.
+--------------------------------------------------------------------------------
+Paragraph 48:
+Type(s): Termination, Notices
+Content: (B) At its sole option, SUPPLIER may terminate this Agreement upon [●] days prior written notice if Purchaser does not achieve any of the minimum purchase requirements in Exhibit B.
+--------------------------------------------------------------------------------
+Paragraph 49:
+Type(s): Governing Regulations, Termination, Termination for Cause, Confidentiality, Notices, Compliance with Laws, Confidentiality and Non-Disclosure
+Content: (C) If either party materially defaults in the performance of this Agreement and such default or noncompliance shall not have been remedied within [●] calendar days after the receipt by the defaulting party of a written notice thereof from the other party, the party not in default may terminate this Agreement. It will not be a default under this Agreement if a party materially defaults in the performance of this Agreement where such default cannot reasonably be cured within [●] calendar days after the receipt by the defaulting party of a written notice thereof from the other party if the defaulting party shall begin promptly to remedy such default and shall continue diligent efforts to cure such default as soon as reasonably practicable, as long as such default is cured within [●] calendar days of receipt of such written notice.
+--------------------------------------------------------------------------------
+Paragraph 50:
+Type(s): Termination, Warranty, Representations and Warranties
+Content: (D) All representations or warranties made in this Agreement and all terms and provisions of this Agreement intended to be observed and performed after the termination hereof, including the provisions in Sections VII and VIII, shall survive such termination and continue, thereafter, in full force and effect.
+--------------------------------------------------------------------------------
+Paragraph 51:
+Type(s): Termination, Notices
+Content: (E) At its sole option, Purchaser may terminate the minimum purchase requirements in Exhibit B upon [●]days prior written notice if Purchaser’s clinical trials are placed on clinical hold due to adverse safety events. In such event, SUPPLIER may also terminate this Agreement or elect to change the prices at which the Components are sold to Purchaser hereunder to equal the full list price for the Components (or an equivalent product) as set from time to time by SUPPLIER.
+--------------------------------------------------------------------------------
+Paragraph 52:
+Type(s): Governing Law, Dispute Resolution
+Content: Governing Law and Dispute Resolution
+--------------------------------------------------------------------------------
+Paragraph 53:
+Type(s): Compliance with Laws, Governing Law
+Content: (A) This Agreement shall be governed by and construed in accordance with the laws of  [●] India without giving effect to any choice or conflict of law provision or rule that would cause the application of the laws of any jurisdiction[●].
+--------------------------------------------------------------------------------
+Paragraph 54:
+Type(s): Governing Law, Confidentiality, Dispute Resolution, Governing Body, Environmental Compliance, Confidentiality and Non-Disclosure, Pricing and Fees, Payment Terms, Non-Compete, Representations and Warranties
+Content: (B) Any dispute between the parties arising out of or related to this Agreement shall, in the first instance, be the subject of a meeting between the parties to negotiate a resolution of such dispute. The meeting shall be conducted by at least one individual from each party who has full decision making authority with respect to the dispute at issue. Should the negotiations not lead to a settlement of the dispute within  [●] calendar days of the date of the meeting, either party may then initiate binding arbitration in accordance with the  [●] (the “Rules”). In the event that a party refuses to participate in the meeting, then the other party may immediately initiate binding arbitration as otherwise provided in this Section. A single arbitrator shall be appointed in accordance with the Rules. The arbitrator shall be a person experienced in the area of supply of medical devices. The arbitration shall take place in  [●] and be based upon [●] law. No written opinion shall be prepared by the arbitrator, other than the arbitrator’s ruling and any award thereon. The party prevailing in the arbitration proceedings conducted pursuant to this Section shall be immediately reimbursed by the other party for all reasonable costs, including reasonable attorney’s fees, incurred relating to such arbitration proceeding. No party has a right to appeal the arbitrator’s ruling, to any court or otherwise. Judgment upon the arbitrator’s ruling may be entered in any Court of competent jurisdiction.
+--------------------------------------------------------------------------------
+Paragraph 55:
+Type(s): Other
+Content: Other Provisions
+--------------------------------------------------------------------------------
+Paragraph 56:
+Type(s): Change of Control, Amendments, Assignment
+Content: (A) Neither party may assign this Agreement without the written consent of the other party, provided, however, that Supplier may assign this Agreement, upon notice to, but without the consent of, Purchaser to: (a) any Supplier Affiliate; (b) any person or entity which purchases substantially all of its stock or substantially all of its assets relating to its vascular graft business; or (c) any successor by way of merger or consolidation.
+--------------------------------------------------------------------------------
+Paragraph 57:
+Type(s): No Partnership, Export Controls, Relationship of Parties, Confidentiality, Privacy, Dispute Resolution, Obligations of the Parties, Service Level Agreement, Force Majeure, Confidentiality and Non-Disclosure
+Content: (B) A party shall not be liable for non-performance or delay in performance (other than of obligations regarding payment of money or confidentiality) caused by any event reasonably beyond the control of such party including, but not limited to, wars, hostilities, revolutions, riots, civil commotion, national emergency, strikes, lockouts, unavailability of supplies, epidemics, fire, flood, earthquake, force of nature, explosion, embargo, or any other Act of God, or any law, proclamation, regulation, ordinance, or other act or order of any court, government or governmental agency, provided that the party seeking such relief from non-performance makes reasonable efforts to overcome any such occurrences and promptly notifies the other party in writing of such circumstances.
+--------------------------------------------------------------------------------
+Paragraph 58:
+Type(s): Waiver, Termination for Cause, Entire Agreement, Amendments, Environmental Compliance, Representations and Warranties
+Content: (C) This Agreement contains all of the terms and conditions with respect to the sale and purchase of the Components. These terms and conditions supersede any prior agreements and no modifications of the Agreement will be binding on the parties unless separately contracted in writing and agreed to by duly authorized representatives of the parties. Waiver of either party of any default by the other shall not be deemed a waiver by such party of any default by the other that may thereafter occur.
+--------------------------------------------------------------------------------
+Paragraph 59:
+Type(s): Remedies
+Content: (D) Nothing in this Agreement is intended to create any rights by persons not a party to this Agreement and no other party will be construed to be a third party beneficiary of this Agreement or otherwise have any legal or equitable rights under it. This Agreement does not constitute the grant of a license to Purchaser.
+--------------------------------------------------------------------------------
+Paragraph 60:
+Type(s): Dispute Resolution, Severability
+Content: (E)  If any part of this Agreement is held by a court to be illegal, invalid, or unenforceable, the remainder of this Agreement will remain in full force and effect and will be interpreted to achieve, to the greatest extent possible, the objectives of this Agreement taken as a whole, including the illegal, invalid or unenforceable provision.
+--------------------------------------------------------------------------------
+Paragraph 61:
+Type(s): Delivery, Counterparts, Environmental Compliance, Notices
+Content: (F) All notices required or permitted under this Agreement will be in writing and will be deemed to be given when delivered personally; or ten (10) business days after being mailed by registered or certified mail, postage prepaid; when received if sent by any other method (including air courier) which provides for a signed receipt upon delivery; and when received if sent by facsimile transmission, addressed as follows, or to such other person or address as may be designated by notice to the other party from time-to-time.
+--------------------------------------------------------------------------------
+Paragraph 62:
+Type(s): Other
+Content: If to Purchaser:	 	Name:[●]
+--------------------------------------------------------------------------------
+Paragraph 63:
+Type(s): Notices
+Content: Address:[●]
+--------------------------------------------------------------------------------
+Paragraph 64:
+Type(s): Other
+Content: If to SUPPLIER:
+--------------------------------------------------------------------------------
+Paragraph 65:
+Type(s): Other
+Content: Name:[●]
+--------------------------------------------------------------------------------
+Paragraph 66:
+Type(s): Notices
+Content: Address: [●]
+--------------------------------------------------------------------------------
+Paragraph 67:
+Type(s): Other
+Content: With a copy to:	 	Name: [●]
+--------------------------------------------------------------------------------
+Paragraph 68:
+Type(s): Notices
+Content: Address: [●]
+--------------------------------------------------------------------------------
+Paragraph 69:
+Type(s): Other
+Content: IN WITNESS WHEREOF, the parties have caused this Agreement to be duly executed and delivered by their respective duly authorized officers as of the Effective Date.
+--------------------------------------------------------------------------------
+Paragraph 70:
+Type(s): Other
+Content: Supplier	 	Purchaser
+--------------------------------------------------------------------------------
+Paragraph 71:
+Type(s): Other
+Content: By:	 	[●]	 	By:	 	[●]
+--------------------------------------------------------------------------------
+Paragraph 72:
+Type(s): Ownership
+Content: Title:	 	[●]	 	Title:	 	[●]
+--------------------------------------------------------------------------------
+
+====================================================================================================

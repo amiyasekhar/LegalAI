@@ -1,0 +1,1567 @@
+Results for 3.Contract-written-contract.txt
+Clause: 'CORPORATE MASTER SERVICE AGREEMENT'
+Legal-BERT Prediction: counterparts (Confidence: 0.09087838232517242)
+Legal-RoBERTa Prediction: amendment (Confidence: 0.06221625581383705)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'RECITALS'
+Legal-BERT Prediction: counterparts (Confidence: 0.0836561769247055)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05439211055636406)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'WHEREAS, each Service Recipient wishes to obtain from Service Provider, and Service Provider wishes to provide to each Service Recipient, certain professional services as described herein (collectively, the “Services”); and'
+Legal-BERT Prediction: costs (Confidence: 0.05822402238845825)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.09731046855449677)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'WHEREAS, all such Services are necessary for the operation of each Service Recipient’s businesses, and each Service Recipient desires to utilize such Services so as to better carry on the operation of its businesses; and'
+Legal-BERT Prediction: costs (Confidence: 0.09019464254379272)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.12749029695987701)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'WHEREAS, CVR Energy and CVR Partners are owners of certain marks as indicated on Exhibit C attached hereto and incorporated herein (the “Marks”), and each desires to allow Service Provider and other Service Recipients the right to use the Marks on and in connection with their businesses and products (the “Business and Goods”).'
+Legal-BERT Prediction: intellectual property (Confidence: 0.1467515379190445)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.2140575349330902)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: 'AGREEMENT'
+Legal-BERT Prediction: counterparts (Confidence: 0.08771365880966187)
+Legal-RoBERTa Prediction: amendment (Confidence: 0.04662970453500748)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '1.SERVICES.'
+Legal-BERT Prediction: amendment (Confidence: 0.07823769748210907)
+Legal-RoBERTa Prediction: termination (Confidence: 0.08123262971639633)
+Final Prediction: termination
+================================================================================
+
+Clause: '(a)The Services provided under this Agreement are described in Exhibit B attached hereto and incorporated herein, which exhibit may be updated from time to time by written agreement between the Parties.'
+Legal-BERT Prediction: amendment (Confidence: 0.12759603559970856)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.11432700604200363)
+Final Prediction: amendment
+================================================================================
+
+Clause: '(c)The Parties hereby agree that in discharging its obligations hereunder, Service Provider may engage any of its Affiliates or other Persons to perform the Services (or any part of the Services) on its behalf and that the performance of the Services (or any part of the Services) by any such Affiliate or other Person shall be treated as if Service Provider performed such Services itself. No such delegation by Service Provider to Affiliates or other Persons shall relieve Service Provider of its obligations hereunder.'
+Legal-BERT Prediction: costs (Confidence: 0.08965877443552017)
+Legal-RoBERTa Prediction: joint and several liability (Confidence: 0.07053179293870926)
+Final Prediction: costs
+================================================================================
+
+Clause: '2.CHARGE FOR SERVICES.'
+Legal-BERT Prediction: costs (Confidence: 0.0979885533452034)
+Legal-RoBERTa Prediction: notice (Confidence: 0.07007146626710892)
+Final Prediction: costs
+================================================================================
+
+Clause: '(a)Monthly Fee. Each Service Recipient shall pay Service Provider a monthly fee (the “Monthly Fee”), the amount of which shall be determined in January of each year during the Term by the Parties and which shall be equal to the amount of the direct or indirect expenses incurred by Service Provider in connection with the provision of the Services to such Service Recipient (the “Allocations”), determined as follows:'
+Legal-BERT Prediction: costs (Confidence: 0.06651803106069565)
+Legal-RoBERTa Prediction: notice (Confidence: 0.09821247309446335)
+Final Prediction: notice
+================================================================================
+
+Clause: '1'
+Legal-BERT Prediction: counterparts (Confidence: 0.09008417278528214)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.045040059834718704)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'i. A pro rata share of all Personnel Costs of Shared Personnel, as determined by Service Provider on a commercially reasonable basis, based on the estimated percent of total working time that such respective personnel are engaged in performing any of the Services taking into consideration the reasonableness of the most recently completed fiscal year actual allocations, current back office operations of Service Provider and other relevant factors deemed pertinent by Service Provider; plus'
+Legal-BERT Prediction: non-competition (Confidence: 0.09029357135295868)
+Legal-RoBERTa Prediction: costs (Confidence: 0.12358450889587402)
+Final Prediction: costs
+================================================================================
+
+Clause: 'ii. A pro rata share of all general and administrative costs (excluding Personnel Costs) relating to such Service Recipient, as determined by Service Provider on a commercially reasonable basis, based on the estimated portion of such general and administrative services that are for the benefit of such Service Recipient taking into consideration the reasonableness of the most recently completed fiscal year actual allocations, current back office operations of Service Provider and other relevant factors deemed pertinent by Service Provider; plus'
+Legal-BERT Prediction: costs (Confidence: 0.06526700407266617)
+Legal-RoBERTa Prediction: costs (Confidence: 0.3339496850967407)
+Final Prediction: costs
+================================================================================
+
+Clause: 'iii. For each Service Recipient, the reasonable and actual amount of any additional direct costs or expenses incurred by Service Provider or its Affiliates in connection with the Services; plus'
+Legal-BERT Prediction: costs (Confidence: 0.1752946525812149)
+Legal-RoBERTa Prediction: costs (Confidence: 0.4125022888183594)
+Final Prediction: costs
+================================================================================
+
+Clause: 'iv. Any other cost or expense agreed to by the Parties, including those based on any Services added following the date hereof; minus'
+Legal-BERT Prediction: indemnity (Confidence: 0.060915909707546234)
+Legal-RoBERTa Prediction: costs (Confidence: 0.40046563744544983)
+Final Prediction: costs
+================================================================================
+
+Clause: 'v. Any costs and expenses that are direct charged to such Service Recipient, such as commercial insurance costs.'
+Legal-BERT Prediction: costs (Confidence: 0.1674260050058365)
+Legal-RoBERTa Prediction: costs (Confidence: 0.44587740302085876)
+Final Prediction: costs
+================================================================================
+
+Clause: '(b)Annual True-Up. At least annually, Service Provider and each Service Recipient shall conduct a true-up under which Service Provider shall compare the Monthly Fee paid by such Service Recipient to the actual Allocations incurred by Service Provider or its Affiliates in connection with the provision of Services to such Service Recipient. Service Provider or such Service Recipient, as applicable, shall pay to the other Party the net amount owing as a result of any such true-up (the “True-Up Amount”), at such time and on such terms as may be agreed to by Service Provider and such Service Recipient. Notwithstanding the foregoing, Service Provider may, for any reason including upon request by any Service Recipient, in Service Provider’s sole discretion and at any time, perform such true-ups more frequently than annually.'
+Legal-BERT Prediction: termination (Confidence: 0.07241369783878326)
+Legal-RoBERTa Prediction: notice (Confidence: 0.08878310024738312)
+Final Prediction: notice
+================================================================================
+
+Clause: '(c)The Services which are being provided by Service Provider and for which each Service Recipient is being charged hereunder provide a direct benefit to such Service Recipient and are necessary to the generation of income by such Service Recipient or its Affiliates.'
+Legal-BERT Prediction: non-competition (Confidence: 0.08074740320444107)
+Legal-RoBERTa Prediction: notice (Confidence: 0.094715416431427)
+Final Prediction: notice
+================================================================================
+
+Clause: '(d)There shall be no charge for services performed by Service Provider that merely duplicate a service that a Service Recipient is already performing for itself. Services which are provided under other agreements between Service Provider and each Service Recipient shall not be part of this Agreement.'
+Legal-BERT Prediction: costs (Confidence: 0.08383793383836746)
+Legal-RoBERTa Prediction: costs (Confidence: 0.10087792575359344)
+Final Prediction: costs
+================================================================================
+
+Clause: '3.REPORTS AND PAYMENTS.'
+Legal-BERT Prediction: amendment (Confidence: 0.0732041671872139)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.089581198990345)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '(a)Each Service Recipient shall pay the Monthly Fee on such date as may be agreed to by the Parties, but no later than the 25th of each month. Any True-Up Amount shall be paid by Service Provider or Service Recipients, as applicable, within 30 days following written request of the Party entitled to receive a True-Up Amount hereunder. All payments shall be in immediately available US Dollars, unless otherwise agreed by Service Provider and such Service Recipient. Any undisputed amounts not paid within thirty days following the due date shall bear interest at the Default Rate.'
+Legal-BERT Prediction: termination (Confidence: 0.10034114122390747)
+Legal-RoBERTa Prediction: notice (Confidence: 0.18074452877044678)
+Final Prediction: notice
+================================================================================
+
+Clause: '2'
+Legal-BERT Prediction: counterparts (Confidence: 0.09153002500534058)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04427765682339668)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '(b)Service Provider shall retain all accounting records and related work papers and documents supporting the Monthly Fee and any True-Up Amount (collectively, “Backup”) for a reasonable period of time consistent with Service Provider’s records retention policies, and shall provide access to such Backup upon the reasonable request of any Service Recipient.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.06545743346214294)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.17709331214427948)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '(c)ANY SERVICE RECIPIENT MAY, WITHIN 30 DAYS AFTER RECEIPT OF A CHARGE FROM SERVICE PROVIDER, TAKE WRITTEN EXCEPTION TO SUCH CHARGE, ON THE GROUND THAT THE SAME WAS NOT A REASONABLE COST INCURRED BY SERVICE PROVIDER OR ITS AFFILIATES IN CONNECTION WITH THE SERVICES. SERVICE RECIPIENT WILL NEVERTHELESS PAY IN FULL WHEN DUE THE FULL PAYMENT AMOUNT OWED TO SERVICE PROVIDER. SUCH PAYMENT SHALL NOT BE DEEMED A WAIVER OF THE RIGHT OF SERVICE RECIPIENT TO RECOUP ANY CONTESTED PORTION OF ANY AMOUNT SO PAID. HOWEVER, IF THE AMOUNT AS TO WHICH SUCH WRITTEN EXCEPTION IS TAKEN, OR ANY PART THEREOF, IS ULTIMATELY DETERMINED NOT TO BE A REASONABLE COST INCURRED BY SERVICE PROVIDER IN CONNECTION WITH ITS PROVIDING THE SERVICES HEREUNDER, SUCH AMOUNT OR PORTION THEREOF (AS THE CASE MAY BE) WILL BE REFUNDED BY SERVICE PROVIDER TO SERVICE RECIPIENT TOGETHER WITH INTEREST THEREON AT THE DEFAULT RATE DURING THE PERIOD FROM THE DATE OF PAYMENT BY SERVICE RECIPIENT TO THE DATE OF REFUND BY SERVICE PROVIDER.'
+Legal-BERT Prediction: costs (Confidence: 0.10070252418518066)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.18006914854049683)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '5.GRANT OF LICENSE TO USE MARKS. CVR Energy and CVR Partners (each, a “Mark Owner”), as applicable, each grant to Service Provider and Service Recipients (each, a “Mark User”) a non-exclusive and non-transferable license to use the Marks on and in connection with the Business and Goods, with the right to sublicense subject to the following terms and conditions:'
+Legal-BERT Prediction: intellectual property (Confidence: 0.12069114297628403)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.12528781592845917)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: '(b)Each Mark User agrees that the nature and quality of the Business and Goods will conform to standards currently applied by Mark Owner;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.13546349108219147)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.14258022606372833)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '(c)Each Mark User will permit reasonable inspection of its operations, and will supply Mark Owner with specimens of use of the Marks upon request;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.09688572585582733)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.09665385633707047)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '3'
+Legal-BERT Prediction: counterparts (Confidence: 0.09091069549322128)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04575730115175247)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '(d)Each Mark User acknowledges that Mark Owner owns all right, title and interest in and to the Marks, agrees that it will do nothing inconsistent with Mark Owner’s ownership of the Marks and that all use of the Marks by Mark User will inure to the benefit of and be on behalf of Mark Owner;'
+Legal-BERT Prediction: intellectual property (Confidence: 0.07215853035449982)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.12507405877113342)
+Final Prediction: assignment
+================================================================================
+
+Clause: '(e)Each Mark User agrees that nothing in this Agreement will give Mark User any right, title or interest in the Marks, other than the right to use the Marks in accordance with this Agreement and each Mark User agrees that it will not attack the title of Mark Owner to the Marks or attack the validity of the license granted hereunder; and'
+Legal-BERT Prediction: intellectual property (Confidence: 0.11361367255449295)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.18208041787147522)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: '(f)Each Mark User agrees that Mark Owner will have the sole right and discretion, but not the obligation, to bring infringement or unfair competition proceedings involving the Marks.'
+Legal-BERT Prediction: assignment (Confidence: 0.06614743918180466)
+Legal-RoBERTa Prediction: joint and several liability (Confidence: 0.10157855600118637)
+Final Prediction: joint and several liability
+================================================================================
+
+Clause: '7.CONFIDENTIALITY.'
+Legal-BERT Prediction: amendment (Confidence: 0.09502214938402176)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.07558498531579971)
+Final Prediction: amendment
+================================================================================
+
+Clause: '(a)Service Recipients and Service Provider each acknowledge and agree that all documents, instruments, records, reports and information (regardless of how embodied or conveyed) which are received from the other Party during the Term (collectively, “Confidential Information”) are highly confidential and shall be maintained in strict confidence. Accordingly, each of the Service Recipients and Service Provider agrees that it shall not, at any time during or after the expiration of this Agreement, use in a manner unauthorized by the disclosing Party, any Confidential Information of the disclosing Party or, without the prior written consent of the disclosing Party, directly or indirectly disclose any such Confidential Information to any other Person, other than to any Affiliate, provided that the receiving Party shall require the same agreement from such Affiliate to whom Confidential Information is disclosed.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.3396444618701935)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.5080134272575378)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '(b)The term “Confidential Information” does not include any data or information which the receiving Party can establish is already known to the receiving Party at the time it was initially disclosed to the receiving Party. Furthermore, the term “Confidential Information” does not include any data or information which before being divulged by the receiving Party, the receiving Party can establish (a) has become generally known to the public through no wrongful act of the receiving Party or breach of its obligations under this Agreement; (b) has been rightfully received by the receiving Party from a third party without restriction on disclosure and without, to the knowledge of the receiving Party, a breach of an obligation of confidentiality running directly or indirectly to the disclosing Party; or (c) has been approved for release by a written authorization by the disclosing Party.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.2257353663444519)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.4336526393890381)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '(c)In the event that the receiving Party is legally requested or required (by oral questions, interrogatories, requests for information or documents, subpoena, civil investigative demand or similar process, or, in the opinion of counsel for such Party, by federal or state securities or other statutes, regulations, or laws) to disclose any Confidential Information, such Party shall, to the extent practicable without violation of applicable legal requirements, promptly notify the disclosing Party of such requests or requirement prior to disclosure so that the disclosing Party may, at its expense, seek an appropriate protective order and/or waive compliance with the terms of this Agreement.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.11608503013849258)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.3363036513328552)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '4'
+Legal-BERT Prediction: counterparts (Confidence: 0.0868670791387558)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04607295244932175)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '(a)the gross negligence, willful misconduct, bad faith or reckless disregard of such Indemnified Party in the performance of any Services hereunder; or'
+Legal-BERT Prediction: damages (Confidence: 0.0996117815375328)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.16754946112632751)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '(b)fraudulent or dishonest acts of such Indemnified Party with respect to the Service Recipients.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.08411745727062225)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.10406620055437088)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'The rights of any Indemnified Party referred to above are in addition to any rights that such Indemnified Party otherwise has at law or in equity. Without the prior written consent of the Service Recipients, no Indemnified Party may settle, compromise or consent to the entry of any judgment in, or otherwise seek to terminate any, claim, action, proceeding or investigation in respect of which indemnification could be sought hereunder unless (A) such Indemnified Party indemnifies the Service Recipients from any liabilities arising out of such claim, action, proceeding or investigation, (B) such settlement, compromise or consent includes an unconditional release of the Service Recipients and Indemnified Party from all liability arising out of such claim, action, proceeding or investigation and (C) the parties involved agree that the terms of such settlement, compromise or consent remain confidential. In the event that indemnification is provided for under any other agreements between CVR Energy or any of its Affiliates and any of the Service Recipients or any of their Affiliates, and such indemnification is for any particular Losses, then such indemnification (and any limitations thereon) as provided in such other agreement applies as to such particular Losses and will supersede and be in lieu of any indemnification that would otherwise apply to such particular Losses under this Agreement.'
+Legal-BERT Prediction: indemnity (Confidence: 0.12153168767690659)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.16280338168144226)
+Final Prediction: indemnity
+================================================================================
+
+Clause: 'In the event that any indemnity provisions of this Agreement are contrary to the law governing this Agreement, then the indemnity obligations applicable hereunder will be construed to be to the fullest extent allowed by applicable law.'
+Legal-BERT Prediction: severability (Confidence: 0.12444333732128143)
+Legal-RoBERTa Prediction: severability (Confidence: 0.22312907874584198)
+Final Prediction: severability
+================================================================================
+
+Clause: '5'
+Legal-BERT Prediction: counterparts (Confidence: 0.08797793835401535)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04696935787796974)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'with the performance of any Services under this Agreement, except for a liability or loss resulting from gross negligence, willful misconduct, bad faith or reckless disregard in the performance of the Services, or (b) any fraudulent or dishonest acts with respect to Service Recipient. In no event, whether based on contract, indemnity, warranty, tort (including negligence), strict liability or otherwise, shall any Service Provider Party be liable for loss of profits or revenue or special, incidental, exemplary, punitive or consequential damages; provided, however, that the foregoing limitation does not preclude recourse to any insurance coverage maintained by the Parties pursuant to the requirements of this Agreement or otherwise.'
+Legal-BERT Prediction: damages (Confidence: 0.08829710632562637)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.3013508915901184)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '11.TERM OF AGREEMENT/TERMINATION. This Agreement shall be effective from the Effective Date and shall continue in effect until January 1, 2025, and shall be automatically renewed for successive five-year terms (collectively, the “Term”), unless terminated by either Party at any time during the initial term or any renewal term by providing the other Party at least 90 days prior written notice of termination, or as otherwise agreed to by the Parties. Notwithstanding the foregoing, this Agreement shall automatically terminate as to a Party without any further action by any Party immediately prior to the time at which such Party ceases to be under common control (measured with respect to indirect equity ownership or, in the case of CVR Partners, ownership of its general partner) with the other Parties.'
+Legal-BERT Prediction: termination (Confidence: 0.16410772502422333)
+Legal-RoBERTa Prediction: termination (Confidence: 0.18580405414104462)
+Final Prediction: termination
+================================================================================
+
+Clause: '12.NOTICES. All notices, offers, acceptances, waivers and other communications under this Agreement shall be in writing and shall be deemed to have been given and received (i) upon receipt when delivered by hand, (ii) upon transmission, if sent by electronic mail transmission (in each case with receipt verified by electronic confirmation), or (iii) one business day after being sent by overnight courier or express delivery service; provided, that in each case the notice or other communication is sent to the address, electronic mail address set forth beneath the name of such Party below (or to such other address or electronic mail address as such Party shall have specified in a written notice given to the other Parties hereto):'
+Legal-BERT Prediction: notice (Confidence: 0.21085011959075928)
+Legal-RoBERTa Prediction: notice (Confidence: 0.48670947551727295)
+Final Prediction: notice
+================================================================================
+
+Clause: '(a)If to Service Provider:'
+Legal-BERT Prediction: counterparts (Confidence: 0.07969013601541519)
+Legal-RoBERTa Prediction: notice (Confidence: 0.15569603443145752)
+Final Prediction: notice
+================================================================================
+
+Clause: 'CVR Services, LLC'
+Legal-BERT Prediction: counterparts (Confidence: 0.10589297860860825)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05586088076233864)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '2277 Plaza Drive, Suite 500'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.0710453987121582)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05814534053206444)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'Sugar Land, Texas 77479'
+Legal-BERT Prediction: counterparts (Confidence: 0.11008819937705994)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05132327601313591)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Attention: Chief Accounting Officer'
+Legal-BERT Prediction: amendment (Confidence: 0.085456982254982)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08489946275949478)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Email: mwbley@CVREnergy.com'
+Legal-BERT Prediction: counterparts (Confidence: 0.1282719224691391)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08196112513542175)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'With a copy to the Office of the General Counsel at the above address'
+Legal-BERT Prediction: counterparts (Confidence: 0.12247072905302048)
+Legal-RoBERTa Prediction: notice (Confidence: 0.2237216979265213)
+Final Prediction: notice
+================================================================================
+
+Clause: 'Email: LegalServices@CVREnergy.com'
+Legal-BERT Prediction: counterparts (Confidence: 0.148281991481781)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10134661197662354)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '(b)If to any Service Recipient other than CVR Partners or one of its subsidiaries:'
+Legal-BERT Prediction: termination (Confidence: 0.08956814557313919)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.09117169678211212)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Service Recipient'
+Legal-BERT Prediction: counterparts (Confidence: 0.08852686733007431)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.06319136172533035)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '2277 Plaza Drive, Suite 500'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.0710453987121582)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05814534053206444)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'Sugar Land, Texas 77479'
+Legal-BERT Prediction: counterparts (Confidence: 0.11008819937705994)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05132327601313591)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Attention: EVP & Chief Financial Officer'
+Legal-BERT Prediction: counterparts (Confidence: 0.09002751857042313)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1212523877620697)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Email: tdjackson@CVREnergy.com'
+Legal-BERT Prediction: counterparts (Confidence: 0.12809279561042786)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08418469876050949)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'With a copy to the Office of the General Counsel at the above address'
+Legal-BERT Prediction: counterparts (Confidence: 0.12247072905302048)
+Legal-RoBERTa Prediction: notice (Confidence: 0.2237216979265213)
+Final Prediction: notice
+================================================================================
+
+Clause: 'Email: LegalServices@CVREnergy.com'
+Legal-BERT Prediction: counterparts (Confidence: 0.148281991481781)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10134661197662354)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '(c)If to any Service Recipient that is CVR Partners or one of its subsidiaries:'
+Legal-BERT Prediction: termination (Confidence: 0.09623859077692032)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.11706852912902832)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Service Recipient'
+Legal-BERT Prediction: counterparts (Confidence: 0.08852686733007431)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.06319136172533035)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '2277 Plaza Drive, Suite 500'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.0710453987121582)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05814534053206444)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'Sugar Land, Texas 77479'
+Legal-BERT Prediction: counterparts (Confidence: 0.11008819937705994)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05132327601313591)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '6'
+Legal-BERT Prediction: counterparts (Confidence: 0.09248616546392441)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04571327194571495)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Attention: President & Chief Executive Officer'
+Legal-BERT Prediction: counterparts (Confidence: 0.0903283879160881)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08441516011953354)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Email: mpytosh@CVREnergy.com'
+Legal-BERT Prediction: counterparts (Confidence: 0.12938810884952545)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08440687507390976)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'With a copy to the Office of the General Counsel at the above address'
+Legal-BERT Prediction: counterparts (Confidence: 0.12247072905302048)
+Legal-RoBERTa Prediction: notice (Confidence: 0.2237216979265213)
+Final Prediction: notice
+================================================================================
+
+Clause: 'Email: LegalServices@CVREnergy.com'
+Legal-BERT Prediction: counterparts (Confidence: 0.148281991481781)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10134661197662354)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '13.ASSIGNMENT. This Agreement and all of the provisions hereof shall be binding upon and inure to the benefit of each of the Parties hereto and their respective successors and permitted assigns. Service Provider may not assign this Agreement or any rights, benefits or obligations set forth herein without the prior written consent of each Service Recipient. No Service Recipient may assign this Agreement or any rights, benefits or obligations set forth herein without the prior written consent of Service Provider.'
+Legal-BERT Prediction: assignment (Confidence: 0.3016369044780731)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.464975506067276)
+Final Prediction: assignment
+================================================================================
+
+Clause: '14.ENTIRE AGREEMENT. This Agreement sets forth the entire agreement of the Parties and supersedes all prior representations, agreements and understandings, oral or written, between the Parties with respect to the matters contained herein. The Parties agree that all prior agreements between the Parties are hereby terminated to the extent they relate to Services.'
+Legal-BERT Prediction: entire agreement (Confidence: 0.31203633546829224)
+Legal-RoBERTa Prediction: entire agreement (Confidence: 0.3912585973739624)
+Final Prediction: entire agreement
+================================================================================
+
+Clause: '15.NO THIRD PARTY BENEFICIARIES. The Parties each acknowledge and agree that there are no third party beneficiaries, including any employees of Service Provider or any Service Recipient, having rights under or with respect to this Agreement.'
+Legal-BERT Prediction: entire agreement (Confidence: 0.10398168861865997)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.13526570796966553)
+Final Prediction: assignment
+================================================================================
+
+Clause: '17.GOVERNING LAW AND VENUE. This Agreement shall be governed by and construed in accordance with the internal laws of the State of Texas, without regard to conflict of law principles (whether of the State of Texas or any other jurisdiction) that would cause the application of the laws of any jurisdiction other than the State of Texas. Each Party hereby submits to the exclusive jurisdiction of the state and federal courts in the State of Texas and to venue in Houston, Texas, and hereby waives any objection thereto.'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.2646888792514801)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.6089037656784058)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: '20.DEFINITIONS.'
+Legal-BERT Prediction: counterparts (Confidence: 0.07473617047071457)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.0653400793671608)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '(a)“Affiliate” means with respect to any Person, any other Person that directly or indirectly through one or more intermediaries, controls, is controlled by, or is under common control with, such specified Person. For purposes of this definition, “control” when used with respect to any Person means the power to direct the management and policies of such Person, directly or indirectly, through the'
+Legal-BERT Prediction: non-competition (Confidence: 0.06774894148111343)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.16252413392066956)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '7'
+Legal-BERT Prediction: counterparts (Confidence: 0.09440033882856369)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04591860994696617)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'ownership of voting securities, by contract or otherwise (provided that, solely for purposes of this Agreement, the Service Recipients shall not be deemed Affiliates of Service Provider). Notwithstanding anything herein to the contrary, no Person may be an Affiliate of either Service Recipient or Service Provider unless such Person is CVR Energy, Inc. or a wholly-owned subsidiary of CVR Energy, Inc.'
+Legal-BERT Prediction: termination (Confidence: 0.08551900088787079)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.09845010191202164)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '(b)“Agreement” has the meaning set forth in the preamble.'
+Legal-BERT Prediction: amendment (Confidence: 0.08612743020057678)
+Legal-RoBERTa Prediction: entire agreement (Confidence: 0.12107652425765991)
+Final Prediction: entire agreement
+================================================================================
+
+Clause: '(c)“Allocations” has the meaning set forth in Section 2(a).'
+Legal-BERT Prediction: termination (Confidence: 0.07444745302200317)
+Legal-RoBERTa Prediction: severability (Confidence: 0.07526204735040665)
+Final Prediction: severability
+================================================================================
+
+Clause: '(d)“Backup” has the meaning set forth in Section 3(b).'
+Legal-BERT Prediction: termination (Confidence: 0.10085368901491165)
+Legal-RoBERTa Prediction: severability (Confidence: 0.05948513001203537)
+Final Prediction: termination
+================================================================================
+
+Clause: '(e)“Business and Goods” has the meaning set forth in the Recitals.'
+Legal-BERT Prediction: amendment (Confidence: 0.07436240464448929)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06970307976007462)
+Final Prediction: amendment
+================================================================================
+
+Clause: '(f)“Confidential information” has the meaning set forth in Section 7(a).'
+Legal-BERT Prediction: amendment (Confidence: 0.07375705242156982)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.1980210840702057)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '(g)“Default Rate” means an interest rate (which in no event will be higher than the rate permitted by applicable law) equal to 300 basis points over LIBOR.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.05834905058145523)
+Legal-RoBERTa Prediction: termination (Confidence: 0.07972560077905655)
+Final Prediction: termination
+================================================================================
+
+Clause: '(h)“Effective Date” has the meaning set forth in the preamble.'
+Legal-BERT Prediction: amendment (Confidence: 0.08483336120843887)
+Legal-RoBERTa Prediction: notice (Confidence: 0.08137496560811996)
+Final Prediction: amendment
+================================================================================
+
+Clause: '(i)“Indemnified Party” has the meaning set forth in Section 8.'
+Legal-BERT Prediction: termination (Confidence: 0.07695455849170685)
+Legal-RoBERTa Prediction: limitation of liability (Confidence: 0.07653879374265671)
+Final Prediction: termination
+================================================================================
+
+Clause: '(j)“Losses” has the meaning set forth in Section 8.'
+Legal-BERT Prediction: termination (Confidence: 0.07811766117811203)
+Legal-RoBERTa Prediction: costs (Confidence: 0.05983465537428856)
+Final Prediction: termination
+================================================================================
+
+Clause: '(k)“Marks” has the meaning set forth in the Recitals.'
+Legal-BERT Prediction: amendment (Confidence: 0.07949595898389816)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.0807686597108841)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '(l)“Mark Owner” has the meaning set forth in Section 5.'
+Legal-BERT Prediction: termination (Confidence: 0.08730296790599823)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.061749838292598724)
+Final Prediction: termination
+================================================================================
+
+Clause: '(m)“Mark User” has the meaning set forth in Section 5.'
+Legal-BERT Prediction: termination (Confidence: 0.09039785712957382)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.06530739367008209)
+Final Prediction: termination
+================================================================================
+
+Clause: '(n)“Monthly Fee” shall have the meaning set forth in Section 2(a).'
+Legal-BERT Prediction: termination (Confidence: 0.08827657252550125)
+Legal-RoBERTa Prediction: notice (Confidence: 0.07253120094537735)
+Final Prediction: termination
+================================================================================
+
+Clause: '(o)“Party” has the meaning set forth in the preamble.'
+Legal-BERT Prediction: amendment (Confidence: 0.08312028646469116)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.07376109808683395)
+Final Prediction: amendment
+================================================================================
+
+Clause: '(p)“Person” means an individual, corporation, partnership, joint venture, trust, limited liability company, unincorporated organization or other entity.'
+Legal-BERT Prediction: entire agreement (Confidence: 0.07359468936920166)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08770891278982162)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '(q)“Personnel Costs” means all compensation costs incurred by an employer in connection with the employment by such employer of applicable personnel, including all payroll and benefits but excluding any share-based compensation costs.'
+Legal-BERT Prediction: costs (Confidence: 0.11886204779148102)
+Legal-RoBERTa Prediction: costs (Confidence: 0.29925668239593506)
+Final Prediction: costs
+================================================================================
+
+Clause: '(r)“Service Provider” has the meaning set forth in the preamble.'
+Legal-BERT Prediction: termination (Confidence: 0.08465143293142319)
+Legal-RoBERTa Prediction: notice (Confidence: 0.07304935157299042)
+Final Prediction: termination
+================================================================================
+
+Clause: '(s)“Service Provider Party” has the meaning set forth in Section 10.'
+Legal-BERT Prediction: termination (Confidence: 0.10230916738510132)
+Legal-RoBERTa Prediction: notice (Confidence: 0.07457274198532104)
+Final Prediction: termination
+================================================================================
+
+Clause: '(t)“Service Recipient” has the meaning set forth in the preamble.'
+Legal-BERT Prediction: amendment (Confidence: 0.08197349309921265)
+Legal-RoBERTa Prediction: notice (Confidence: 0.1010514497756958)
+Final Prediction: notice
+================================================================================
+
+Clause: '(u)“Services” has the meaning set forth in the Recitals.'
+Legal-BERT Prediction: amendment (Confidence: 0.08259569853544235)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.0661645382642746)
+Final Prediction: amendment
+================================================================================
+
+Clause: '(v)“Shared Personnel” means individuals who are employed by Service Provider or any of its Affiliates and provided on a part-time basis to the Service Recipients in connection with provision of the Services.'
+Legal-BERT Prediction: non-competition (Confidence: 0.08454672992229462)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.2070261389017105)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '(w)“Term” has the meaning set forth in Section 11.'
+Legal-BERT Prediction: amendment (Confidence: 0.08490435034036636)
+Legal-RoBERTa Prediction: severability (Confidence: 0.08897341787815094)
+Final Prediction: severability
+================================================================================
+
+Clause: '8'
+Legal-BERT Prediction: counterparts (Confidence: 0.08752930164337158)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04693767428398132)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '(x)“True-Up Amount” has the meaning set forth in Section 2(b).'
+Legal-BERT Prediction: termination (Confidence: 0.08210325986146927)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06134093925356865)
+Final Prediction: termination
+================================================================================
+
+Clause: '[Remainder of page intentionally left blank. Signature page follows.]'
+Legal-BERT Prediction: amendment (Confidence: 0.07204639166593552)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.08331556618213654)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '9'
+Legal-BERT Prediction: counterparts (Confidence: 0.09090618789196014)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.0467899926006794)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'IN WITNESS WHEREOF, the Parties have executed this Agreement on the date set forth below, to be effective as of the date first written above.'
+Legal-BERT Prediction: counterparts (Confidence: 0.10038795322179794)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.106224425137043)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'CVR SERVICES, LLC'
+Legal-BERT Prediction: counterparts (Confidence: 0.10589297860860825)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05221861973404884)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'By: /s/ Matthew W. Bley'
+Legal-BERT Prediction: amendment (Confidence: 0.09672220051288605)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07018642872571945)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Name:  Matthew W. Bley'
+Legal-BERT Prediction: amendment (Confidence: 0.07982877641916275)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08173353970050812)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Title:  Chief Accounting Officer'
+Legal-BERT Prediction: amendment (Confidence: 0.07587048411369324)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08413321524858475)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Date:  February 19, 2020'
+Legal-BERT Prediction: termination (Confidence: 0.06722915917634964)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06541483849287033)
+Final Prediction: termination
+================================================================================
+
+Clause: 'WYNNEWOOD ENERGY COMPANY, LLC'
+Legal-BERT Prediction: counterparts (Confidence: 0.08072230964899063)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05612422525882721)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'By: /s/ Tracy D. Jackson'
+Legal-BERT Prediction: amendment (Confidence: 0.08608114719390869)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06284492462873459)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Name: Tracy D. Jackson'
+Legal-BERT Prediction: amendment (Confidence: 0.07759888470172882)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05816008523106575)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Title: EVP & Chief Financial Officer'
+Legal-BERT Prediction: counterparts (Confidence: 0.0931551456451416)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10532242804765701)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Date:  February 19, 2020'
+Legal-BERT Prediction: termination (Confidence: 0.06722915917634964)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06541483849287033)
+Final Prediction: termination
+================================================================================
+
+Clause: 'WYNNEWOOD REFINING COMPANY, LLC'
+Legal-BERT Prediction: counterparts (Confidence: 0.08680654317140579)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.059315890073776245)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'By: /s/ Tracy D. Jackson'
+Legal-BERT Prediction: amendment (Confidence: 0.08608114719390869)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06284492462873459)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Name: Tracy D. Jackson'
+Legal-BERT Prediction: amendment (Confidence: 0.07759888470172882)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05816008523106575)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Title: EVP & Chief Financial Officer'
+Legal-BERT Prediction: counterparts (Confidence: 0.0931551456451416)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10532242804765701)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Date:  February 19, 2020'
+Legal-BERT Prediction: termination (Confidence: 0.06722915917634964)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06541483849287033)
+Final Prediction: termination
+================================================================================
+
+Clause: 'COFFEYVILLE RESOURCES REFINING & MARKETING, LLC'
+Legal-BERT Prediction: counterparts (Confidence: 0.09456632286310196)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07541005313396454)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'By: /s/ Tracy D. Jackson'
+Legal-BERT Prediction: amendment (Confidence: 0.08608114719390869)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06284492462873459)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Name: Tracy D. Jackson'
+Legal-BERT Prediction: amendment (Confidence: 0.07759888470172882)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05816008523106575)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Title: EVP & Chief Financial Officer'
+Legal-BERT Prediction: counterparts (Confidence: 0.0931551456451416)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10532242804765701)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Date:  February 19, 2020'
+Legal-BERT Prediction: termination (Confidence: 0.06722915917634964)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06541483849287033)
+Final Prediction: termination
+================================================================================
+
+Clause: 'COFFEYVILLE RESOURCES CRUDE TRANSPORTATION, LLC'
+Legal-BERT Prediction: counterparts (Confidence: 0.09726216644048691)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0775328055024147)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'By: /s/ Tracy D. Jackson'
+Legal-BERT Prediction: amendment (Confidence: 0.08608114719390869)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06284492462873459)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Name: Tracy D. Jackson'
+Legal-BERT Prediction: amendment (Confidence: 0.07759888470172882)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05816008523106575)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Title: EVP & Chief Financial Officer'
+Legal-BERT Prediction: counterparts (Confidence: 0.0931551456451416)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10532242804765701)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Date:  February 19, 2020'
+Legal-BERT Prediction: termination (Confidence: 0.06722915917634964)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06541483849287033)
+Final Prediction: termination
+================================================================================
+
+Clause: 'Signature Page to Corporate Master Service Agreement'
+Legal-BERT Prediction: amendment (Confidence: 0.08555822819471359)
+Legal-RoBERTa Prediction: amendment (Confidence: 0.07488806545734406)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'COFFEYVILLE RESOURCES TERMINAL, LLC'
+Legal-BERT Prediction: counterparts (Confidence: 0.08285246789455414)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.061725128442049026)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'By: /s/ Tracy D. Jackson'
+Legal-BERT Prediction: amendment (Confidence: 0.08608114719390869)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06284492462873459)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Name: Tracy D. Jackson'
+Legal-BERT Prediction: amendment (Confidence: 0.07759888470172882)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05816008523106575)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Title: EVP & Chief Financial Officer'
+Legal-BERT Prediction: counterparts (Confidence: 0.0931551456451416)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10532242804765701)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Date:  February 19, 2020'
+Legal-BERT Prediction: termination (Confidence: 0.06722915917634964)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06541483849287033)
+Final Prediction: termination
+================================================================================
+
+Clause: 'COFFEYVILLE RESOURCES PIPELINE, LLC'
+Legal-BERT Prediction: counterparts (Confidence: 0.09064658731222153)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06604216247797012)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'By: /s/ Tracy D. Jackson'
+Legal-BERT Prediction: amendment (Confidence: 0.08608114719390869)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06284492462873459)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Name: Tracy D. Jackson'
+Legal-BERT Prediction: amendment (Confidence: 0.07759888470172882)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05816008523106575)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Title: EVP & Chief Financial Officer'
+Legal-BERT Prediction: counterparts (Confidence: 0.0931551456451416)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10532242804765701)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Date:  February 19, 2020'
+Legal-BERT Prediction: termination (Confidence: 0.06722915917634964)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06541483849287033)
+Final Prediction: termination
+================================================================================
+
+Clause: 'CVR REFINING, LP'
+Legal-BERT Prediction: counterparts (Confidence: 0.11108294129371643)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05487074702978134)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'By: CVR Refining GP, LLC, its general partner'
+Legal-BERT Prediction: counterparts (Confidence: 0.08909814804792404)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.12215813249349594)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'By: /s/ Tracy D. Jackson'
+Legal-BERT Prediction: amendment (Confidence: 0.08608114719390869)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06284492462873459)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Name: Tracy D. Jackson'
+Legal-BERT Prediction: amendment (Confidence: 0.07759888470172882)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05816008523106575)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Title: EVP & Chief Financial Officer'
+Legal-BERT Prediction: counterparts (Confidence: 0.0931551456451416)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10532242804765701)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Date:  February 19, 2020'
+Legal-BERT Prediction: termination (Confidence: 0.06722915917634964)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06541483849287033)
+Final Prediction: termination
+================================================================================
+
+Clause: 'CVR REFINING GP, LLC'
+Legal-BERT Prediction: counterparts (Confidence: 0.11330576986074448)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06532715260982513)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'By: /s/ Tracy D. Jackson'
+Legal-BERT Prediction: amendment (Confidence: 0.08608114719390869)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06284492462873459)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Name: Tracy D. Jackson'
+Legal-BERT Prediction: amendment (Confidence: 0.07759888470172882)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05816008523106575)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Title: EVP & Chief Financial Officer'
+Legal-BERT Prediction: counterparts (Confidence: 0.0931551456451416)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10532242804765701)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Date:  February 19, 2020'
+Legal-BERT Prediction: termination (Confidence: 0.06722915917634964)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06541483849287033)
+Final Prediction: termination
+================================================================================
+
+Clause: 'CVR REFINING, LLC'
+Legal-BERT Prediction: counterparts (Confidence: 0.11130277812480927)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05537464842200279)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'By: /s/ Tracy D. Jackson'
+Legal-BERT Prediction: amendment (Confidence: 0.08608114719390869)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06284492462873459)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Name: Tracy D. Jackson'
+Legal-BERT Prediction: amendment (Confidence: 0.07759888470172882)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05816008523106575)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Title: EVP & Chief Financial Officer'
+Legal-BERT Prediction: counterparts (Confidence: 0.0931551456451416)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10532242804765701)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Date:  February 19, 2020'
+Legal-BERT Prediction: termination (Confidence: 0.06722915917634964)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06541483849287033)
+Final Prediction: termination
+================================================================================
+
+Clause: 'Signature Page to Corporate Master Service Agreement'
+Legal-BERT Prediction: amendment (Confidence: 0.08555822819471359)
+Legal-RoBERTa Prediction: amendment (Confidence: 0.07488806545734406)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'COFFEYVILLE RESOURCES NITROGEN FERTILIZER, LLC'
+Legal-BERT Prediction: counterparts (Confidence: 0.09943516552448273)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07235681265592575)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'By: /s/ Mark A. Pytosh'
+Legal-BERT Prediction: amendment (Confidence: 0.09246780723333359)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05966756120324135)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Name: Mark A. Pytosh'
+Legal-BERT Prediction: amendment (Confidence: 0.0705239474773407)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05758104845881462)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Title: President & Chief Executive Officer'
+Legal-BERT Prediction: counterparts (Confidence: 0.0933961346745491)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08396371454000473)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Date:  February 19, 2020'
+Legal-BERT Prediction: termination (Confidence: 0.06722915917634964)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06541483849287033)
+Final Prediction: termination
+================================================================================
+
+Clause: 'EAST DUBUQUE NITROGEN FERTILIZER, LLC'
+Legal-BERT Prediction: counterparts (Confidence: 0.10766202211380005)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.0738452821969986)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'By: /s/ Mark A. Pytosh'
+Legal-BERT Prediction: amendment (Confidence: 0.09246780723333359)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05966756120324135)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Name: Mark A. Pytosh'
+Legal-BERT Prediction: amendment (Confidence: 0.0705239474773407)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05758104845881462)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Title: President & Chief Executive Officer'
+Legal-BERT Prediction: counterparts (Confidence: 0.0933961346745491)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08396371454000473)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Date:  February 19, 2020'
+Legal-BERT Prediction: termination (Confidence: 0.06722915917634964)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06541483849287033)
+Final Prediction: termination
+================================================================================
+
+Clause: 'CVR NITROGEN HOLDINGS, LLC'
+Legal-BERT Prediction: counterparts (Confidence: 0.10634302347898483)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.056003786623477936)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'By: /s/ Mark A. Pytosh'
+Legal-BERT Prediction: amendment (Confidence: 0.09246780723333359)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05966756120324135)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Name: Mark A. Pytosh'
+Legal-BERT Prediction: amendment (Confidence: 0.0705239474773407)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05758104845881462)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Title: President & Chief Executive Officer'
+Legal-BERT Prediction: counterparts (Confidence: 0.0933961346745491)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08396371454000473)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Date:  February 19, 2020'
+Legal-BERT Prediction: termination (Confidence: 0.06722915917634964)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06541483849287033)
+Final Prediction: termination
+================================================================================
+
+Clause: 'CVR NITROGEN, LLC'
+Legal-BERT Prediction: counterparts (Confidence: 0.10592273622751236)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05544457584619522)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'By: /s/ Mark A. Pytosh'
+Legal-BERT Prediction: amendment (Confidence: 0.09246780723333359)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05966756120324135)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Name: Mark A. Pytosh'
+Legal-BERT Prediction: amendment (Confidence: 0.0705239474773407)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05758104845881462)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Title: President & Chief Executive Officer'
+Legal-BERT Prediction: counterparts (Confidence: 0.0933961346745491)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08396371454000473)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Date:  February 19, 2020'
+Legal-BERT Prediction: termination (Confidence: 0.06722915917634964)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06541483849287033)
+Final Prediction: termination
+================================================================================
+
+Clause: 'CVR NITROGEN, LP'
+Legal-BERT Prediction: counterparts (Confidence: 0.11138705164194107)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05332033708691597)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'By: CVR Nitrogen GP, LLC, its general partner'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07549832761287689)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.12337753176689148)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'By: /s/ Mark A. Pytosh'
+Legal-BERT Prediction: amendment (Confidence: 0.09246780723333359)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05966756120324135)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Name: Mark A. Pytosh'
+Legal-BERT Prediction: amendment (Confidence: 0.0705239474773407)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05758104845881462)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Title: President & Chief Executive Officer'
+Legal-BERT Prediction: counterparts (Confidence: 0.0933961346745491)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08396371454000473)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Date:  February 19, 2020'
+Legal-BERT Prediction: termination (Confidence: 0.06722915917634964)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06541483849287033)
+Final Prediction: termination
+================================================================================
+
+Clause: 'Signature Page to Corporate Master Service Agreement'
+Legal-BERT Prediction: amendment (Confidence: 0.08555822819471359)
+Legal-RoBERTa Prediction: amendment (Confidence: 0.07488806545734406)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'CVR NITROGEN FINANCE CORPORATION'
+Legal-BERT Prediction: counterparts (Confidence: 0.09710673242807388)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.057810429483652115)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'By: /s/ Mark A. Pytosh'
+Legal-BERT Prediction: amendment (Confidence: 0.09246780723333359)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05966756120324135)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Name: Mark A. Pytosh'
+Legal-BERT Prediction: amendment (Confidence: 0.0705239474773407)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05758104845881462)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Title: President & Chief Executive Officer'
+Legal-BERT Prediction: counterparts (Confidence: 0.0933961346745491)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08396371454000473)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Date:  February 19, 2020'
+Legal-BERT Prediction: termination (Confidence: 0.06722915917634964)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06541483849287033)
+Final Prediction: termination
+================================================================================
+
+Clause: 'CVR PARTNERS, LP'
+Legal-BERT Prediction: counterparts (Confidence: 0.11274228990077972)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06035931408405304)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'By CVR GP, LLC, its general partner'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.08136432617902756)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10560571402311325)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'By: /s/ Mark A. Pytosh'
+Legal-BERT Prediction: amendment (Confidence: 0.09246780723333359)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05966756120324135)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Name: Mark A. Pytosh'
+Legal-BERT Prediction: amendment (Confidence: 0.0705239474773407)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05758104845881462)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Title: President & Chief Executive Officer'
+Legal-BERT Prediction: counterparts (Confidence: 0.0933961346745491)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08396371454000473)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Date:  February 19, 2020'
+Legal-BERT Prediction: termination (Confidence: 0.06722915917634964)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06541483849287033)
+Final Prediction: termination
+================================================================================
+
+Clause: 'CVR GP, LLC'
+Legal-BERT Prediction: counterparts (Confidence: 0.10165949165821075)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.054371390491724014)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'By: /s/ Mark A. Pytosh'
+Legal-BERT Prediction: amendment (Confidence: 0.09246780723333359)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05966756120324135)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Name: Mark A. Pytosh'
+Legal-BERT Prediction: amendment (Confidence: 0.0705239474773407)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05758104845881462)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Title: President & Chief Executive Officer'
+Legal-BERT Prediction: counterparts (Confidence: 0.0933961346745491)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08396371454000473)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Date:  February 19, 2020'
+Legal-BERT Prediction: termination (Confidence: 0.06722915917634964)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06541483849287033)
+Final Prediction: termination
+================================================================================
+
+Clause: 'CVR ENERGY, INC.'
+Legal-BERT Prediction: counterparts (Confidence: 0.10700879991054535)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05843576416373253)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'By: /s/ Tracy D. Jackson'
+Legal-BERT Prediction: amendment (Confidence: 0.08608114719390869)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06284492462873459)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Name: Tracy D. Jackson'
+Legal-BERT Prediction: amendment (Confidence: 0.07759888470172882)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05816008523106575)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Title: EVP & Chief Financial Officer'
+Legal-BERT Prediction: counterparts (Confidence: 0.0931551456451416)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10532242804765701)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Date:  February 19, 2020'
+Legal-BERT Prediction: termination (Confidence: 0.06722915917634964)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06541483849287033)
+Final Prediction: termination
+================================================================================
+
+Clause: 'WYNNEWOOD INSURANCE CORPORATION'
+Legal-BERT Prediction: amendment (Confidence: 0.08112113177776337)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.07599201798439026)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'By: /s/ Tracy D. Jackson'
+Legal-BERT Prediction: amendment (Confidence: 0.08608114719390869)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06284492462873459)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Name: Tracy D. Jackson'
+Legal-BERT Prediction: amendment (Confidence: 0.07759888470172882)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05816008523106575)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Title: EVP & Chief Financial Officer'
+Legal-BERT Prediction: counterparts (Confidence: 0.0931551456451416)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10532242804765701)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Date:  February 19, 2020'
+Legal-BERT Prediction: termination (Confidence: 0.06722915917634964)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06541483849287033)
+Final Prediction: termination
+================================================================================
+
+Clause: 'Signature Page to Corporate Master Service Agreement'
+Legal-BERT Prediction: amendment (Confidence: 0.08555822819471359)
+Legal-RoBERTa Prediction: amendment (Confidence: 0.07488806545734406)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'CVR AVIATION, LLC'
+Legal-BERT Prediction: counterparts (Confidence: 0.07889536023139954)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.055252548307180405)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'By: /s/ Tracy D. Jackson'
+Legal-BERT Prediction: amendment (Confidence: 0.08608114719390869)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06284492462873459)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Name: Tracy D. Jackson'
+Legal-BERT Prediction: amendment (Confidence: 0.07759888470172882)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05816008523106575)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Title: EVP & Chief Financial Officer'
+Legal-BERT Prediction: counterparts (Confidence: 0.0931551456451416)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10532242804765701)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Date:  February 19, 2020'
+Legal-BERT Prediction: termination (Confidence: 0.06722915917634964)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06541483849287033)
+Final Prediction: termination
+================================================================================
+
+Clause: 'CVR ENERGY HOLDINGS, INC.'
+Legal-BERT Prediction: counterparts (Confidence: 0.10240615904331207)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.06378937512636185)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'By: /s/ Tracy D. Jackson'
+Legal-BERT Prediction: amendment (Confidence: 0.08608114719390869)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06284492462873459)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Name: Tracy D. Jackson'
+Legal-BERT Prediction: amendment (Confidence: 0.07759888470172882)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05816008523106575)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Title: EVP & Chief Financial Officer'
+Legal-BERT Prediction: counterparts (Confidence: 0.0931551456451416)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10532242804765701)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Date:  February 19, 2020'
+Legal-BERT Prediction: termination (Confidence: 0.06722915917634964)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06541483849287033)
+Final Prediction: termination
+================================================================================
+
+Clause: 'Signature Page to Corporate Master Service Agreement'
+Legal-BERT Prediction: amendment (Confidence: 0.08555822819471359)
+Legal-RoBERTa Prediction: amendment (Confidence: 0.07488806545734406)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'EXHIBIT A'
+Legal-BERT Prediction: counterparts (Confidence: 0.07373962551355362)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.046045493334531784)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Service Recipients'
+Legal-BERT Prediction: counterparts (Confidence: 0.08505123108625412)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07283342629671097)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '1.Wynnewood Energy Company, LLC a Delaware limited liability company'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07294834405183792)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.09888423979282379)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '2.Wynnewood Refining Company, LLC, a Delaware limited liability company'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.0730951577425003)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.09385190904140472)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '3.Coffeyville Resources Refining & Marketing, LLC, a Delaware limited liability company'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07202939689159393)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.09820917248725891)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '4.Coffeyville Resources Crude Transportation, LLC, a Delaware limited liability company'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07588893920183182)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08613955974578857)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '5.Coffeyville Resources Terminal, LLC, a Delaware limited liability company'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.06948849558830261)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.11104756593704224)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '6.Coffeyville Resources Pipeline, LLC, a Delaware limited liability company'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.06965132802724838)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0874580666422844)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '7.CVR Refining, LP, a Delaware limited partnership'
+Legal-BERT Prediction: counterparts (Confidence: 0.10645999014377594)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10873014479875565)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '8.CVR Refining GP, LLC, a Delaware limited liability company'
+Legal-BERT Prediction: counterparts (Confidence: 0.0790516585111618)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.09752882272005081)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '9.CVR Refining, LLC, a Delaware limited liability company'
+Legal-BERT Prediction: counterparts (Confidence: 0.07853005081415176)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08923538029193878)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '10.Coffeyville Resources Nitrogen Fertilizer, LLC, a Delaware limited liability company'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.0768275335431099)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.09988009184598923)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '11.East Dubuque Nitrogen Fertilizer, LLC, a Delaware limited liability company'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07292523980140686)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.09886728227138519)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '12.CVR Nitrogen Holdings, LLC, a Delaware limited liability company'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07670044153928757)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07839805632829666)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '13.CVR Nitrogen, LLC, a Delaware limited liability company'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07176841050386429)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08174644410610199)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '14.CVR Nitrogen, LP, a Delaware limited partnership'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07452340424060822)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10676491260528564)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '15.CVR Nitrogen Finance Corporation, a Delaware corporation'
+Legal-BERT Prediction: amendment (Confidence: 0.07539750635623932)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08512133359909058)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '16.CVR Partners, LP, a Delaware limited partnership (“CVR Partners”)'
+Legal-BERT Prediction: entire agreement (Confidence: 0.0674477368593216)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1239844411611557)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '17.CVR GP, LLC'
+Legal-BERT Prediction: counterparts (Confidence: 0.10889286547899246)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07887089252471924)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '18.CVR Energy, Inc., a Delaware corporation (“CVR Energy”)'
+Legal-BERT Prediction: termination (Confidence: 0.06681177765130997)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.11609940975904465)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '19.Wynnewood Insurance Corporation, a Delaware corporation'
+Legal-BERT Prediction: amendment (Confidence: 0.08500353246927261)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.1327623426914215)
+Final Prediction: insurance
+================================================================================
+
+Clause: '20.CVR Aviation, LLC, a Delaware limited liability company'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.0691857859492302)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.09447423368692398)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '21.CVR Energy Holdings, Inc., a Delaware corporation'
+Legal-BERT Prediction: counterparts (Confidence: 0.06627475470304489)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08793451637029648)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Exhibit A'
+Legal-BERT Prediction: counterparts (Confidence: 0.07373962551355362)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.044774118810892105)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'EXHIBIT B'
+Legal-BERT Prediction: counterparts (Confidence: 0.0869639664888382)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04646560177206993)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'The following comprise the Services to be provided by Service Provider to Service Recipient under this Agreement:'
+Legal-BERT Prediction: costs (Confidence: 0.07432243227958679)
+Legal-RoBERTa Prediction: notice (Confidence: 0.08730876445770264)
+Final Prediction: notice
+================================================================================
+
+Clause: '1.Executive Services. Services in capacities equivalent to the capacities of corporate executive officers, except that the persons serving in such capacities will serve in such capacities as Shared Personnel on a shared, part-time basis only, unless and to the extent otherwise agreed by Services Provider.'
+Legal-BERT Prediction: costs (Confidence: 0.09565462172031403)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1410718411207199)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '2.Information Technology (“IT”) Management Services. Management of IT resources to facilitate business of Service Recipients.'
+Legal-BERT Prediction: costs (Confidence: 0.06835241615772247)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1734037548303604)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '4.Accounting, Analysis and Audit Services. Accounting services including establishing and maintaining books and records of Service Recipients in accordance with customary practice and generally accepted accounting principles and performance of external reporting, including filings with the Securities and Exchange Commission. Coordination of external audit services. Financial analysis including forecasting, annual budgeting and business analytics and reporting.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.11747883260250092)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.13809236884117126)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '7.Legal Services. Legal services relating to contracts, regulatory matters, finance, corporate governance, mergers and acquisitions and all other legal matters of the Service Recipients including management and oversight of litigation, administrative or regulatory proceedings, investigations or any other reviews of Service Recipients’ business or operations that may arise in the ordinary course of business or otherwise, subject to the approval of the board of directors or other governing authority of such Service Recipient to the extent necessary in connection with the settlement, compromise, consent to the entry of an order or judgment or other agreement resolving any of the foregoing.'
+Legal-BERT Prediction: costs (Confidence: 0.07541194558143616)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08643259108066559)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '8.Corporate Compliance and Enterprise Risk Management Services. Administration of corporate compliance and enterprise risk management functions including maintenance and administration of whistleblower hotlines, enterprise risk management and mapping, monitoring of emerging enterprise risks and related activities.'
+Legal-BERT Prediction: non-competition (Confidence: 0.09235608577728271)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.14763933420181274)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '9.Business Development Services. Corporate planning and business development including mergers and acquisitions activity and related services.'
+Legal-BERT Prediction: costs (Confidence: 0.07502714544534683)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.15618959069252014)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Exhibit B'
+Legal-BERT Prediction: counterparts (Confidence: 0.0869639664888382)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0450468435883522)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '10.Environmental, Health, Safety & Security (“EHS&S”) Advisory Services. Corporate oversight over certain EHS&S compliance programs including management of corporate audits, facility support, engagement with regulators, periodic reporting and related services, provided that no EHS&S services provided hereunder shall replace or impair the sole responsibility of each facility for EHS&S at each such facility.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.08812995254993439)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.1382828801870346)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '11.Corporate Affairs Services. Government affairs services including advocacy and lobbying; corporate communications services including employee engagement, media engagement and public relations; charitable giving services including management of community impact committees and related activities; and advertising and sponsorship services.'
+Legal-BERT Prediction: costs (Confidence: 0.08654539287090302)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.17521466314792633)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '12.Human Resources (“HR”) Services. Corporate HR services including management and administration of investment and benefits committees, employee services, labor relations management, and other related activities.'
+Legal-BERT Prediction: costs (Confidence: 0.07299848645925522)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1834668517112732)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '13.Insurance Services. Corporate insurance and related services including establishing and maintaining appropriate insurance policies with respect to Service Recipients’ business and operations, management of claims and other insurance-related risk management services.'
+Legal-BERT Prediction: insurance (Confidence: 0.10521361976861954)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.24299533665180206)
+Final Prediction: insurance
+================================================================================
+
+Clause: '15.Other Services. Any other services as may be agreed to between Service Provider and Service Recipient from time to time.'
+Legal-BERT Prediction: amendment (Confidence: 0.07334891706705093)
+Legal-RoBERTa Prediction: further assurance (Confidence: 0.08446364849805832)
+Final Prediction: further assurance
+================================================================================
+

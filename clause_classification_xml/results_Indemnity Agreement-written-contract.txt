@@ -1,0 +1,127 @@
+Results for Indemnity Agreement-written-contract.txt
+Clause: 'INDEMNITY AGREEMENT'
+Legal-BERT Prediction: counterparts (Confidence: 0.09264003485441208)
+Legal-RoBERTa Prediction: limitation of liability (Confidence: 0.05626288056373596)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'This INDEMNITY AGREEMENT is entered into as of [] (this “Agreement”), by and between [] (“Party A”) , and  [] (“Party B”)'
+Legal-BERT Prediction: entire agreement (Confidence: 0.06446173042058945)
+Legal-RoBERTa Prediction: entire agreement (Confidence: 0.15965120494365692)
+Final Prediction: entire agreement
+================================================================================
+
+Clause: 'WHEREAS, [] is the Indemnifying Party under a certain [Name of the Agreement] dated [] with respect to [];'
+Legal-BERT Prediction: counterparts (Confidence: 0.06985544413328171)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.16540533304214478)
+Final Prediction: indemnity
+================================================================================
+
+Clause: 'WHEREAS, , the Parties have agreed to indemnify each other as provided herein;'
+Legal-BERT Prediction: costs (Confidence: 0.09549162536859512)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.17186324298381805)
+Final Prediction: indemnity
+================================================================================
+
+Clause: 'NOW, THEREFORE, in consideration of the premises and the covenants contained herein, parties do hereby covenant and agree as follows:'
+Legal-BERT Prediction: entire agreement (Confidence: 0.09838427603244781)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.107052281498909)
+Final Prediction: assignment
+================================================================================
+
+Clause: 'Other Rights to Indemnification. The rights to indemnification and advances provided by this Agreement shall not be deemed exclusive of any other rights to which the Indemnified Party may now or in the future be entitled under any other agreement or any provision of applicable law.'
+Legal-BERT Prediction: waiver (Confidence: 0.1033397689461708)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.15831226110458374)
+Final Prediction: indemnity
+================================================================================
+
+Clause: 'Enforcement.'
+Legal-BERT Prediction: counterparts (Confidence: 0.0910501554608345)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.07711124420166016)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'a. Each party unconditionally and irrevocably agrees that its execution of this Agreement shall also constitute a stipulation by which it shall be irrevocably bound in any court in which a proceeding by the other party for enforcement of its rights shall have been commenced, continued or appealed that obligations of each party set forth in this Agreement are unique and special, and that failure of either party to comply with the provisions of this Agreement will cause irreparable and irremediable injury to the other party, for which a remedy at law will be inadequate. As a result, in addition to any other right or remedy each party may have at law or in equity with respect to a violation of this Agreement, each party shall be entitled to injunctive or mandatory relief directing specific performance by the other party of its obligations under this Agreement. Each party further irrevocably stipulates and agrees that it shall not, except in good faith, raise any objections not specifically relating to the merits of the other party’s claim.'
+Legal-BERT Prediction: severability (Confidence: 0.10073135793209076)
+Legal-RoBERTa Prediction: waiver (Confidence: 0.11185087263584137)
+Final Prediction: waiver
+================================================================================
+
+Clause: 'b. In the event that either party is subject to or intervenes in any legal action in which the validity or enforceability of this Agreement is at issue or institutes any legal action, for specific performance or otherwise, to enforce its rights under, or to recover damages for breach of, this Agreement, such party shall, within [] days after written request to the other party therefore, be indemnified by or receive advances from the other party in respect of all costs and expenses (including reasonable attorney’s fees and disbursements) incurred by it in connection therewith; provided, however, that in connection with any such action between Party B and Party A, the prevailing party shall be entitled to all costs, expenses and reasonable attorney’s fees that may be incurred or paid by the prevailing party in enforcing the covenants and agreements of the other party in this Agreement.'
+Legal-BERT Prediction: damages (Confidence: 0.1229422315955162)
+Legal-RoBERTa Prediction: costs (Confidence: 0.2773333489894867)
+Final Prediction: costs
+================================================================================
+
+Clause: 'Duration of Agreement;.'
+Legal-BERT Prediction: amendment (Confidence: 0.07706911116838455)
+Legal-RoBERTa Prediction: waiver (Confidence: 0.07997474074363708)
+Final Prediction: waiver
+================================================================================
+
+Clause: 'b. This Agreement shall be binding upon Party A and its successors and assigns and shall inure to the benefit of Party B and its successors and assigns.'
+Legal-BERT Prediction: assignment (Confidence: 0.2485080510377884)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.225620836019516)
+Final Prediction: assignment
+================================================================================
+
+Clause: 'Severability. If any provision or provisions of this Agreement shall be held to be invalid, illegal or unenforceable under any particular circumstances or for any reason whatsoever (i) the validity, legality and enforceability of the remaining provisions of this Agreement (including, without limitation, all other portions of any Section, paragraph or clause of this Agreement that contains any provision that has been found to be invalid, illegal or unenforceable), or the validity, legality or enforceability under any other circumstances shall not in any way be affected or impaired thereby and (ii) to the fullest extent possible consistent with applicable law, the provisions of this Agreement (including, without limitation, all other portions of any Section, paragraph or clause of this Agreement that contains any such provision that has been found to be invalid, illegal or unenforceable) shall be deemed revised, and shall be construed so as to give effect to the intent manifested by this Agreement (including the provision held invalid, illegal or unenforceable).'
+Legal-BERT Prediction: severability (Confidence: 0.281282901763916)
+Legal-RoBERTa Prediction: severability (Confidence: 0.5546618103981018)
+Final Prediction: severability
+================================================================================
+
+Clause: 'Notification and Defense of Claim. Each party agrees to promptly notify the other party in writing upon being served with any summons, citation, subpoena, complaint, indictment, information or other document relating to any matter which may be subject to indemnification covered hereunder, whether civil, criminal or investigative; provided, however, that the failure of a party to give such notice to the other party shall not adversely affect such party’s rights under this Agreement so long as the other party is not prejudiced as a result of such failure.'
+Legal-BERT Prediction: costs (Confidence: 0.07491184771060944)
+Legal-RoBERTa Prediction: notice (Confidence: 0.2269694209098816)
+Final Prediction: notice
+================================================================================
+
+Clause: 'Notices and Payments. All notices, requests, demands and other communications hereunder shall be in writing and shall be deemed to have been duly given upon delivery thereof if (i) delivered by hand, or sent via telecopy, facsimile, email or other electronic transmission, in each case receipted for by the party to whom such notice or other communication shall have been directed or transmitted, (ii) mailed by certified or registered mail with postage prepaid or (iii) delivered by overnight courier service:'
+Legal-BERT Prediction: notice (Confidence: 0.19139647483825684)
+Legal-RoBERTa Prediction: notice (Confidence: 0.4652212858200073)
+Final Prediction: notice
+================================================================================
+
+Clause: 'if to Party A:'
+Legal-BERT Prediction: counterparts (Confidence: 0.08270450681447983)
+Legal-RoBERTa Prediction: notice (Confidence: 0.05656654015183449)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'if to Party B:'
+Legal-BERT Prediction: counterparts (Confidence: 0.09401347488164902)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05945857614278793)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Governing Law; Due Authorization; Assignment. The parties hereto agree that this Agreement shall be governed by, and construed and enforced in accordance with, the laws of the [] without regard to conflict of law principles thereunder. This Agreement has been duly authorized by the Board of Directors of Party A and Party B, as evidenced by the Board of Directors resolutions attached hereto as Exhibit A and Exhibit B, respectively. Party A may not assign its interest in this Agreement without the prior written consent of Party B, which may be withheld in its sole discretion.'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.1599750965833664)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.2716818153858185)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: 'IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the day and year first above written.'
+Legal-BERT Prediction: counterparts (Confidence: 0.0976862907409668)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.12245646864175797)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Party A By: [] Name: []Title: []Duly Authorized'
+Legal-BERT Prediction: amendment (Confidence: 0.07757990807294846)
+Legal-RoBERTa Prediction: notice (Confidence: 0.06979214400053024)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'PARTY B By: [] Name: []Title: []Duly Authorized'
+Legal-BERT Prediction: amendment (Confidence: 0.0683918446302414)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.06808889657258987)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'L'
+Legal-BERT Prediction: counterparts (Confidence: 0.08484111726284027)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04535314068198204)
+Final Prediction: counterparts
+================================================================================
+

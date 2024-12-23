@@ -1,0 +1,3144 @@
+<?xml version="1.0" ?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14">
+  <w:body>
+    <w:p w14:paraId="6CD076E6" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="000E3687" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:hanging="540"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="000E3687">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:br/>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="146E535D" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>EMPLOYMENT AGREEMENT</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6780C95C" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="52B9BF90" w14:textId="1DF1ED68" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>THIS EMPLOYMENT AGREEMENT (this “</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Agreement</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">”) between </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[Name of the Employer]</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>, along with its successors and/or assigns, (the “</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Company</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">”) and </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[Name of the Employee]</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> (the “</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Employee</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>”) is entered into and dated as of [</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>] (the “</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Effective Date</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>”).</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3AF6DBCB" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="4BD109E3" w14:textId="2FA1840C" w:rsidR="002512D0" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:left="720" w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Employee currently serves as </w:t>
+      </w:r>
+      <w:r w:rsidR="002512D0" w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> [</w:t>
+      </w:r>
+      <w:r w:rsidR="002512D0" w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidR="002512D0" w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">] </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>of the Company</w:t>
+      </w:r>
+      <w:r w:rsidR="00A33A98" w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>;</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="056AEB8D" w14:textId="77777777" w:rsidR="002512D0" w:rsidRPr="00F937F3" w:rsidRDefault="002512D0" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="5BDF4627" w14:textId="3AFC3776" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:left="720" w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>The Company and Employee desire to establish the terms and conditions of Employee’s employment with the Company and the compensation and benefits (if any) to be paid to Employee if his employment with the Company is terminated</w:t>
+      </w:r>
+      <w:r w:rsidR="00A33A98" w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>;</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1F9336F0" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="6DAF56D2" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>NOW, THEREFORE</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>, in consideration of the foregoing and the mutual promises and covenants contained herein, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7AA2BAFC" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="4FEC49C3" w14:textId="73E50BC3" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="atLeast"/>
+        <w:ind w:left="720" w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Employment</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t> During the term of this Agreement, the Company shall employ Employee as [</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>]. Employee shall have such authority, responsibilities and duties as may from time to time be assigned by the [</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">] of the Company. Employee agrees to serve the Company faithfully and to the best of Employee’s ability, and to devote Employee’s full business time, attention and efforts to the business and affairs of the Company. Employee will perform all of his responsibilities in compliance with all applicable laws and regulations, and he will </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>endeavor</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> to ensure that all Company operations comply with all applicable laws and regulations. Further, Employee will comply with all rules, policies and procedures of the Company as modified from time to time.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="36D68D31" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="5FF351FD" w14:textId="59203F63" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="atLeast"/>
+        <w:ind w:left="720" w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Compensation</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="149D31CD" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="6D8C459C" w14:textId="4B1A0B52" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="3"/>
+        </w:numPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="atLeast"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Base Salary</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t> During the term of this Agreement, the Company shall pay Employee a base salary at the annual rate of [</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">]. The Company shall pay the annual base salary in equal pro rata </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>installments</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> on the Company</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>’</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">s regular payroll dates. The Company shall also withhold and deduct from such </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>installment</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> payments such amounts as are required under federal, state and local law to be withheld for income tax or Social Security withholding purposes.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="39575E18" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="67C19243" w14:textId="21B9A9C3" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="3"/>
+        </w:numPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="atLeast"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Benefits</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t> Employee may participate in all benefit plans, retirement plans and fringe benefits which may be available from time to time to employees of Employee’s level of employment in accordance with the Company’s policies. Employee shall be entitled to up to four weeks of non-accountable vacation per year. Non-accountable means no amounts shall be accrued, no amounts shall be carried over and no amounts shall be due Employee upon termination of employment. Employee’s participation in such benefits shall be subject to the terms of the applicable plans, as the same may be amended from time to time. The Company does not guarantee the adoption or continuance of any particular employee benefit during Employee’s employment, and nothing in this Agreement is intended to or shall in any way restrict the right of the Company to amend, modify or terminate any of its benefits during the term of this Agreement or Employee’s employment with the Company.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0815027D" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="290D2956" w14:textId="4ADBF515" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="3"/>
+        </w:numPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="atLeast"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t>Incentive Compensation</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> Based on the Company’s successful financial performance and/or other applicable criteria, Employee shall be eligible to be paid an annual bonus as determined by the </w:t>
+      </w:r>
+      <w:r w:rsidR="00C1693F" w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[</w:t>
+      </w:r>
+      <w:r w:rsidR="00C1693F" w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidR="00C1693F" w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">] </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>in its sole discretion.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="78F79D5C" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="4E5CB973" w14:textId="68CB9C61" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="3"/>
+        </w:numPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="atLeast"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Stock Options</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t> On [</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>], the Company granted to Employee options to purchase up to [</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>] shares of the Company’s common stock, </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>s</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>ubject to the terms and conditions set forth in the Company’s Stock Option Plan. The options shall vest as follows: [</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>]options shall vest on [</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>],provided that Employee remains employed with the Company under this Agreement on the foregoing vesting dates.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5D2459CE" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:bookmarkStart w:id="0" w:name="s4f01a7c66c0743478b338d3807bcb203"/>
+    </w:p>
+    <w:p w14:paraId="79852345" w14:textId="4BD83065" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="atLeast"/>
+        <w:ind w:left="720" w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Term</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t> The term of this Agreement shall begin on the Effective Date and end on [</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>], unless earlier terminated pursuant to Section 4.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="03A6F5C5" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="372F4907" w14:textId="4778D989" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="atLeast"/>
+        <w:ind w:left="720" w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Termination</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2C116FCE" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="33FAF8A5" w14:textId="733ACE1D" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="4"/>
+        </w:numPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="atLeast"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Termination by the Company for Cause</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t> The Company may terminate this Agreement for Cause effective immediately upon notice to Employee of such termination. </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>“</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Cause</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>”</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t> means (</w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>i</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">) material </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>willful</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> failure by Employee to meet objectives set by the [</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">] of the Company, (ii) material </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>willful</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> failure by Employee to perform Employee’s duties under this Agreement or comply with the directions of the [</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>] of the Company, (iii) malfeasance or gross negligence in the performance of Employee</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>’</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">s duties under this Agreement, (iv) Employee’s commission of (a) a felony, (b) material unethical business practice on the part of Employee in connection with the affairs of the Company or (c) a material breach of any of the provisions of this Agreement. </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3E219E5E" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="2AC5607B" w14:textId="1F55658D" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="4"/>
+        </w:numPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="atLeast"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Termination by the Company without Cause</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> The Company may terminate this Agreement without Cause, effective immediately upon notice to Employee. In the event of termination of this Agreement by the Company without Cause, and provided that Employee executes a general release of all claims in a form acceptable to the Company, the Company shall pay Employee severance compensation in the form of continuing payment of Employee’s base salary for a period of </w:t>
+      </w:r>
+      <w:r w:rsidR="00C93F9F" w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[</w:t>
+      </w:r>
+      <w:r w:rsidR="00C93F9F" w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidR="00C93F9F" w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">] </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">months following the date of termination or until Employee enters into an employment, consulting, or other business arrangement or relationship with another person/entity, whichever date is earlier. Employee understands and agrees that his receipt of severance compensation pursuant to this paragraph is expressly conditioned on his execution of a full and complete general release of claims in a form acceptable to Company. If Employee does not sign such a general release of claims, Employee shall not be entitled to receive any further compensation under the provisions of this Agreement after the date of termination. Any severance payment made under this Agreement will be paid according to Company’s normal payroll schedule and policies, except that the first payment (which will include all payments deferred pursuant to this clause) will be made on the </w:t>
+      </w:r>
+      <w:r w:rsidR="00C93F9F" w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[</w:t>
+      </w:r>
+      <w:r w:rsidR="00C93F9F" w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidR="00C93F9F" w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>]</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> day following termination of this Agreement, provided that Employee executes and does not revoke the general release of claims and all rescission periods have expired by such </w:t>
+      </w:r>
+      <w:r w:rsidR="00C93F9F" w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[</w:t>
+      </w:r>
+      <w:r w:rsidR="00C93F9F" w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidR="00C93F9F" w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">] </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>day.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="43E8A68E" w14:textId="77777777" w:rsidR="00F937F3" w:rsidRDefault="00F937F3" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="012CCD7D" w14:textId="1FA1C52B" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="atLeast"/>
+        <w:ind w:left="720" w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Termination After Change of Control</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2ED3F393" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="14342CF7" w14:textId="430B6252" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="5"/>
+        </w:numPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="atLeast"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Effect of Termination after Change of Control</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> Notwithstanding the provisions of Section 4, if a Change of Control of the Company occurs during the term of this Agreement and within </w:t>
+      </w:r>
+      <w:r w:rsidR="00C93F9F" w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[</w:t>
+      </w:r>
+      <w:r w:rsidR="00C93F9F" w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidR="00C93F9F" w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">] </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>months after the occurrence of the Change of Control Employee’s employment is terminated (</w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>i</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>) by the Company, other than for Cause or by reason of Employee’s Death or Disability, or (ii) by Employee for Good Reason, Employee will be entitled to the benefits provided below:</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="30ADC78D" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="41F258B0" w14:textId="1BE10168" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="5"/>
+        </w:numPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="atLeast"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>The Company shall promptly pay Employee all compensation and all expense reimbursement, allowance or other remuneration as is due and owing to Employee as of the date of termination.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2CA4CBE7" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="492F2D04" w14:textId="4E038718" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="atLeast"/>
+        <w:ind w:left="720" w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Confidential Information</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="31DED2F6" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="73354119" w14:textId="05037276" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="6"/>
+        </w:numPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="atLeast"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Definition of Confidential Information</w:t>
+      </w:r>
+      <w:r w:rsidR="00F937F3" w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>;</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t> Employee understands and agrees that as an employee of the Company, Employee will receive, have access to, or contribute various proprietary, confidential, and/or trade secret information concerning the Company, its business operations, affairs, strategies, and clients, including, without limitation: trade secrets; customer lists, records and other information regarding customers (whether or not evidenced in writing); information regarding actual or prospective</w:t>
+      </w:r>
+      <w:r w:rsidR="00C93F9F" w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>customer needs or preferences; price lists and pricing policies, financial plans, projections, records, ledgers and information; vendor profiles; purchase orders, agreements and related data; business development plans; sales, marketing and/or advertising plans or strategies; merchandising plans and strategies; research and development plans; employment records, data and policies, including information regarding the skills and abilities of Company personnel; tax or financial information; business and sales methods and operations; billing practices; business correspondence, memoranda and other records; inventions, improvements and discoveries; processes and methods; and business operations and related data formulae; computer records and related data; software code, know-how, research and development; trademark, technology, technical information, and copyrighted material; plans, designs, and related know-how; and any other confidential or proprietary data and information which Employee encounters during employment with the Company, whether in written, electronic or other form (collectively referred to hereafter as “</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Confidential Information</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>”).</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5D0F52C4" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="2FE71E9E" w14:textId="4356691A" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="6"/>
+        </w:numPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="atLeast"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Non-Disclosure; Non-Use</w:t>
+      </w:r>
+      <w:r w:rsidR="00F937F3" w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>;</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t> Employee agrees that at all times during the period of Employee’s employment and after the termination thereof for any reason whatsoever, Employee will hold in the strictest confidence, will keep secret, and will not disclose, use, or publish any of the Company’s Confidential Information, except as such disclosure, use or publication may be required in connection with Employee’s work for the Company. Employee hereby assigns to the Company any rights Employee may have or acquire in the Confidential Information and agrees that all of the Confidential Information is and shall be the sole property of the Company and its successors and assigns. Employee acknowledges and agrees that the Company’s Confidential Information constitutes a unique and valuable asset of the Company and represents a substantial investment of time and expense by the Company, and that any disclosure or other use of such knowledge or information other than for the sole benefit of the Company would be wrongful and would cause irreparable harm to the Company. Employee further understands and agrees that the confidentiality obligations set forth in this Article are continuing in nature, survive the termination of this Agreement or Employee’s employment, and restrict Employee’s activities following the termination of this Agreement or Employee’s employment.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="508E5F13" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="03D52D70" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="243CCF79" w14:textId="7E95F8A7" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="atLeast"/>
+        <w:ind w:left="720" w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Employee Non-Solicitation Agreement</w:t>
+      </w:r>
+      <w:r w:rsidR="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>;</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> Employee understands and agrees that the Company’s workforce constitutes an important and vital aspect of its business. Employee agrees that during the term of his employment by the Company, and for a period </w:t>
+      </w:r>
+      <w:r w:rsidR="00C93F9F" w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[</w:t>
+      </w:r>
+      <w:r w:rsidR="00C93F9F" w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidR="00C93F9F" w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>]</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> consecutive months from the date of termination of such employment for whatever reason (whether occasioned by Employee or Company), Employee shall not, directly or indirectly, on behalf of himself or any person, firm, corporation, association or other </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t>entity, (a) solicit, or assist anyone else in the solicitation of, any of the Company’s then-current employees to terminate their employment with the Company; (b) hire or engage any of the Company’s then-current employees; or (c) otherwise encourage or induce any of the Company’s then-current employees to terminate their employment with the Company.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4BF01341" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="34855D63" w14:textId="32CAB877" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="atLeast"/>
+        <w:ind w:left="720" w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Obligations to Third Parties</w:t>
+      </w:r>
+      <w:r w:rsidR="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">; </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Employee hereby confirms, represents and warrants that Employee is under no contractual or other legal commitments to any other person or entity that would restrict or prevent Employee’s performance of duties for the Company. Employee shall provide the Company with copies of any previous employment agreements or contracts with any of Employee’s prior employers, or confirm that he is not subject to any agreements with any other employers. If Employee possesses any proprietary information of another person or entity as a result of prior employment or relationship, Employee shall </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>honor</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> any legal obligation that Employee has with that person or entity with respect to such proprietary</w:t>
+      </w:r>
+      <w:r w:rsidR="00C93F9F" w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>information and Employee shall not use or disseminate any such proprietary information at any time during his employment with the Company.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7B5C7B33" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="7C87A7B0" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="7B38F435" w14:textId="26138BA4" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="atLeast"/>
+        <w:ind w:left="720" w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>General</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="52FD9D66" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="668C2D8A" w14:textId="16D68805" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="7"/>
+        </w:numPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="atLeast"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Assignment</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t> This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and permitted assigns, except that neither this Agreement nor any of the rights, interests or obligations hereunder may be assigned by Employee without the prior written consent of the Company.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2ABBFF05" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="09332E46" w14:textId="446039D6" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="7"/>
+        </w:numPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="atLeast"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Severability</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t> If any provision of this Agreement is determined to be prohibited by or unenforceable or invalid under applicable law, such provision will be ineffective only to the extent of such prohibition or invalidity, without invalidating the remainder of such provision or the remaining provisions of this Agreement.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0B82E38A" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="375FC9C6" w14:textId="3CB0B8FC" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="7"/>
+        </w:numPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="atLeast"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Entire Agreement</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t> This Agreement contains the entire agreement between the parties with respect to the subject matter hereof and supersedes any prior understandings, agreements or representations by or between the parties.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="70CC83F3" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="70EEE501" w14:textId="58618841" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="7"/>
+        </w:numPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="atLeast"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>No Waiver</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t> No term or condition of this Agreement shall be deemed to have been waived except by a statement in writing signed by the party against whom enforcement of the waiver or estoppel is sought.</w:t>
+      </w:r>
+    </w:p>
+    <w:bookmarkEnd w:id="0"/>
+    <w:p w14:paraId="3E727F00" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="497EFCD7" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:hanging="540"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="746523CC" w14:textId="391818E6" w:rsidR="000E3687" w:rsidRPr="00315782" w:rsidRDefault="000E3687" w:rsidP="00315782">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="7"/>
+        </w:numPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="atLeast"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Governing Law</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t> The validity, interpretation, performance and enforcement of this Agreement shall be governed by the laws of the</w:t>
+      </w:r>
+      <w:r w:rsidR="00C93F9F" w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[</w:t>
+      </w:r>
+      <w:r w:rsidR="00C93F9F" w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidR="00C93F9F" w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>]</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>, without regard to conflicts of laws principles thereof.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="671B3B39" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="1ABBEC20" w14:textId="4EDCB3C2" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="00F937F3">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:hanging="540"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.</w:t>
+      </w:r>
+      <w:r w:rsidR="0041662B">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="365E491D" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="000E3687">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:left="0"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="5B5D4906" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="000E3687">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:left="0" w:hanging="360"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="24C756EE" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="000E3687">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:left="0" w:hanging="360"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="0E5EA395" w14:textId="01F4387E" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="000E3687">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:left="0" w:hanging="360"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>By: </w:t>
+      </w:r>
+      <w:r w:rsidR="00C93F9F" w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[Name of the Company]</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5FB64AAB" w14:textId="4518B2AA" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="00C93F9F" w:rsidP="000E3687">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:left="0"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[Authorised Representative of the Company]</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6FF82CE3" w14:textId="71AE4E12" w:rsidR="00C93F9F" w:rsidRPr="00F937F3" w:rsidRDefault="00C93F9F" w:rsidP="000E3687">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:left="0"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[Designation]</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="27550C52" w14:textId="66B49E76" w:rsidR="00C93F9F" w:rsidRPr="00F937F3" w:rsidRDefault="00C93F9F" w:rsidP="000E3687">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:left="0"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[Date]</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0C969435" w14:textId="604954DC" w:rsidR="00C93F9F" w:rsidRPr="00F937F3" w:rsidRDefault="00C93F9F" w:rsidP="000E3687">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:left="0"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t>[Address]</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1F11BBF9" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="000E3687">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:left="0" w:hanging="360"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="0664FD6D" w14:textId="77777777" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="000E3687" w:rsidP="000E3687">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:left="0" w:hanging="360"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="53D57459" w14:textId="3057CC6B" w:rsidR="000E3687" w:rsidRPr="00F937F3" w:rsidRDefault="00C93F9F" w:rsidP="000E3687">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:u w:val="single"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[Name of the Employee]</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="01254308" w14:textId="2F6F8EB7" w:rsidR="00C93F9F" w:rsidRPr="00F937F3" w:rsidRDefault="00C93F9F" w:rsidP="000E3687">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[Date]</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="383C9C66" w14:textId="7CA288F4" w:rsidR="00C93F9F" w:rsidRPr="000E3687" w:rsidRDefault="00C93F9F" w:rsidP="00C93F9F">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="264" w:lineRule="atLeast"/>
+        <w:ind w:left="0"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F937F3">
+        <w:rPr>
+          <w:rFonts w:ascii="inherit" w:eastAsia="Times New Roman" w:hAnsi="inherit" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[Address]</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4DE15769" w14:textId="5F03E916" w:rsidR="000E3687" w:rsidRPr="000E3687" w:rsidRDefault="000E3687" w:rsidP="002512D0">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="atLeast"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="261316E0" w14:textId="77777777" w:rsidR="00685229" w:rsidRDefault="00685229"/>
+    <w:sectPr w:rsidR="00685229">
+      <w:pgSz w:w="11906" w:h="16838"/>
+      <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="708" w:footer="708" w:gutter="0"/>
+      <w:cols w:space="708"/>
+      <w:docGrid w:linePitch="360"/>
+    </w:sectPr>
+  </w:body>
+</w:document>

@@ -1,0 +1,1189 @@
+Results for 9.Contract-written-contract.txt
+Clause: 'MASTER SERVICES AGREEMENT'
+Legal-BERT Prediction: counterparts (Confidence: 0.0733708068728447)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0566202849149704)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'This Master Services Agreement (“MSA”) is executed on this [] (hereinafter referred to as “Effective Date”).'
+Legal-BERT Prediction: amendment (Confidence: 0.08662980794906616)
+Legal-RoBERTa Prediction: termination (Confidence: 0.08580677956342697)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'By and Between'
+Legal-BERT Prediction: amendment (Confidence: 0.07972398400306702)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04903285205364227)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'ABC India Private Limited, a company incorporated under the provisions of the Companies Act, 1956, having its registered office at [], hereinafter referred to as “ABC” (which expression shall unless repugnant to the context or contrary to the meaning thereof mean and include its successors and permitted assigns) of the FIRST PART.'
+Legal-BERT Prediction: assignment (Confidence: 0.08699814975261688)
+Legal-RoBERTa Prediction: limitation of liability (Confidence: 0.07052824646234512)
+Final Prediction: assignment
+================================================================================
+
+Clause: 'AND'
+Legal-BERT Prediction: counterparts (Confidence: 0.09874362498521805)
+Legal-RoBERTa Prediction: termination (Confidence: 0.044542521238327026)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'XYZ Limited, a company incorporated under the provisions of the Companies Act, [], having its registered office at [], hereinafter referred to as “BSL” (which expression shall unless repugnant to the context or contrary to the meaning thereof mean and include its successors and permitted assigns) of the SECOND PART.'
+Legal-BERT Prediction: assignment (Confidence: 0.09755266457796097)
+Legal-RoBERTa Prediction: notice (Confidence: 0.07601560652256012)
+Final Prediction: assignment
+================================================================================
+
+Clause: '“ABC” and “BSL” hereto shall hereinafter be collectively referred to as the “Parties” and individually as a “Party”.'
+Legal-BERT Prediction: joint and several liability (Confidence: 0.06401374191045761)
+Legal-RoBERTa Prediction: joint and several liability (Confidence: 0.07314664870500565)
+Final Prediction: joint and several liability
+================================================================================
+
+Clause: 'WHEREAS'
+Legal-BERT Prediction: counterparts (Confidence: 0.08504955470561981)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.049451541155576706)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'ABC is a wholly owned subsidiary of MQZ Private Limited which is, one of the leading international companies in Information and Communications Technology (ICT).'
+Legal-BERT Prediction: insurance (Confidence: 0.07607603073120117)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.17290709912776947)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'BSL is engaged in the business of IT resource and staffing company which has 18+ years of rich experience with extensive and successful large global program delivery experience.'
+Legal-BERT Prediction: non-competition (Confidence: 0.09291049838066101)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.18270255625247955)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'ABC is currently providing IT services and undertaking offshore technical consultancy services to FGPQ Automotive Germany GmbH (“SEG”) and similar other clients on several enterprise level platforms.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.0757126733660698)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.17924854159355164)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Based on the representations of the BSL, ABC is keen to engage BSL for providing Contractual Services (defined below) and BSL has agreed to accept an engagement of ABC on the terms and conditions hereinafter contained.'
+Legal-BERT Prediction: costs (Confidence: 0.07497067749500275)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.09480556845664978)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: 'Parties agrees to use this MSA for similar clients to the extent as possible.'
+Legal-BERT Prediction: amendment (Confidence: 0.08837379515171051)
+Legal-RoBERTa Prediction: joint and several liability (Confidence: 0.06571929156780243)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'NOW, THEREFORE, in consideration of the mutual promises herein, the Parties agree as follows:'
+Legal-BERT Prediction: entire agreement (Confidence: 0.08727768808603287)
+Legal-RoBERTa Prediction: entire agreement (Confidence: 0.10360820591449738)
+Final Prediction: entire agreement
+================================================================================
+
+Clause: 'DEFINITIONS'
+Legal-BERT Prediction: counterparts (Confidence: 0.08973033726215363)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04819047078490257)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'In this MSA, unless the context otherwise requires, the following expressions have the following meanings:'
+Legal-BERT Prediction: termination (Confidence: 0.06919839978218079)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.08910118043422699)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '“Applicable Data Protection Laws” EU General Data Protection Laws, Information Technology Act, 2000, The Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules 2011 or any other statute, laws, regulations, ordinances, rules, determination, judgments, rule of law, orders, decrees, policies, guidelines to the extent applicable to the Parties of this MSA.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.09149186313152313)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.34758350253105164)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '“Applicable Laws” means all Indian statutes, laws, regulations, ordinances, rules, determination, judgments, rule of law, orders, decrees, policies, guidelines, permits, approvals, concessions, grants, franchises, licenses, requirements, or any similar form of decision of, or any provision or condition of any permit, license or other operating authorization issued by any governmental authority having or asserting jurisdiction over the matter or matters in question, whether now or hereafter in effect, to the extent applicable to the Parties to this MSA.”'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.2321234941482544)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.3490947186946869)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '“Client Contract” means contractual arrangements made by ABC with SEG and such other clients.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07689975202083588)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.11569178849458694)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: '“Confidential Information” means this MSA and all information obtained by one Party from the other, pursuant to this MSA, which is expressly marked as confidential or which is manifestly confidential or which is confirmed in writing to be confidential within 7 (seven) days of its disclosure, and each Party’s confidential information shall include without limitation all operational, business, commercial and financial information, business or trade secrets, personnel information, its products and/or prospective products, ideas, marketing information, technical and commercial know-how, tools, specifications, inventions, processes and initiatives that have been disclosed to the other Party, or the other Party becomes aware of, in the course of the MSA.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.20279809832572937)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.4854692220687866)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '“Consultants” means those employees and sub-contractors of BSL engaged from time to time in providing the Contractual Services and any employees of any such sub-contractors who are so engaged;'
+Legal-BERT Prediction: costs (Confidence: 0.07547701150178909)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1558459848165512)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '“Contractual Services” means the services to be provided by BSL pursuant to the engagement with SEG.'
+Legal-BERT Prediction: counterparts (Confidence: 0.0818021148443222)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10112448781728745)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '“Developed Works” means any and all works of authorship and materials developed, written or prepared by BSL, its employees, agents or sub-contractors in the course of providing the Contractual Services (whether individually, collectively or jointly with the ABC and on whatever media).'
+Legal-BERT Prediction: non-solicitation (Confidence: 0.06839071214199066)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.15169604122638702)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '“Force Majeure Event” shall mean any unforeseen event which arises after the date of the MSA, which obstructs the MSA, and/or either Party from executing part or all of the its obligations under the MSA, and which by the exercise of reasonable diligence of the said Party is unable to prevent, including without limitation:'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07790137082338333)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.0741516724228859)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'Acts of God (such as, but not limited to, fires, explosions, storm, earthquakes, drought, tidal waves and floods), except to the extent that such an act of God is caused, or its effects contributed to, by the Party claiming force majeure, and/or'
+Legal-BERT Prediction: entire agreement (Confidence: 0.06636977195739746)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.0849856436252594)
+Final Prediction: indemnity
+================================================================================
+
+Clause: 'War, hostilities (whether declared or not), invasion, act of public or enemies, mobilization, requisition, or embargoes or other import restrictions, acts of terrorism, rebellion, revolution, insurrection, or military or usurped power, or civil war, and/or'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.06861566007137299)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.08001644909381866)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: 'contamination by radioactivity from any nuclear fuel, or from any nuclear waste from the combustion of nuclear fuel, radio-active toxic explosive, or other hazardous properties of any explosive nuclear assembly or nuclear component of such assembly, and/or'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07416009902954102)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.08023563027381897)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'Riot, commotion, strikes, go slows, industrial disturbances, sabotage, lock outs or disorder, except where solely restricted to employees of the Party, or breakdown of or injury to any facilities used for production, and/or'
+Legal-BERT Prediction: indemnity (Confidence: 0.08005662262439728)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.11850447952747345)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'change in governmental law and/or policies, government prohibitions, lockdown, epidemic, pandemic, strike and/or emergency, and/or'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07898566126823425)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.0942310020327568)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'cyber-attack, cyber terrorism, and/or malicious damage.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07762914150953293)
+Legal-RoBERTa Prediction: costs (Confidence: 0.07644850015640259)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '“Intellectual Property Rights” means patents, copyright and related rights, trademarks, trade names and domain names, rights in get-up, rights in goodwill or to sue for passing off, rights in designs, rights in computer software, database rights, rights in confidential information (including know-how and trade secrets) and any other intellectual property rights, in each case whether registered or unregistered and including all applications (or rights to apply) for, and renewals or extensions of, such rights and all similar or equivalent rights or forms of protection which may now or in the future subsist in any part of the world;'
+Legal-BERT Prediction: intellectual property (Confidence: 0.19638097286224365)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.28535106778144836)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: 'INTERPRETATION'
+Legal-BERT Prediction: counterparts (Confidence: 0.09244592487812042)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05632231757044792)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'In this MSA:'
+Legal-BERT Prediction: counterparts (Confidence: 0.11363305151462555)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05689319223165512)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'any reference to a Party to this MSA includes a reference to his successors in title and permitted assigns;'
+Legal-BERT Prediction: assignment (Confidence: 0.11481563746929169)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.0900995135307312)
+Final Prediction: assignment
+================================================================================
+
+Clause: 'the headings to the clauses are for ease of reference only and shall not affect the interpretation or construction of this MSA.'
+Legal-BERT Prediction: counterparts (Confidence: 0.08589004725217819)
+Legal-RoBERTa Prediction: severability (Confidence: 0.13721130788326263)
+Final Prediction: severability
+================================================================================
+
+Clause: 'SCOPE OF MSA'
+Legal-BERT Prediction: amendment (Confidence: 0.09681263566017151)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.052419599145650864)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'This MSA sets out overall framework for the provision of Contractual Services to be provided by BSL to ABC on a back to back arrangement pursuant to Client Contract.'
+Legal-BERT Prediction: counterparts (Confidence: 0.061160530894994736)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.11125420778989792)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'The Parties shall, from time to time during the Term of this MSA, enter into individual agreements (“Purchase Order”) to set out the scope of Contractual Services to be performed by BSL under this MSA or Client Contract and consequent to any instructions given by SEG or any other similar clients. For the purpose of this MSA, SEG and such other clients shall be deemed to be as Principal Contractor.'
+Legal-BERT Prediction: further assurance (Confidence: 0.06372040510177612)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.13708195090293884)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Purchase Order shall be concluded on the basis of the template attached to this MSA as “Schedule A”.'
+Legal-BERT Prediction: amendment (Confidence: 0.10176496207714081)
+Legal-RoBERTa Prediction: notice (Confidence: 0.09383923560380936)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Unless otherwise agreed in writing as a specific variation to this MSA, this MSA shall apply to the provision of all Contractual Services performed by BSL under each Purchase Order.'
+Legal-BERT Prediction: amendment (Confidence: 0.08592122793197632)
+Legal-RoBERTa Prediction: joint and several liability (Confidence: 0.06978216767311096)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'TERM'
+Legal-BERT Prediction: counterparts (Confidence: 0.08954531699419022)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.047439299523830414)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'This MSA shall commence with effect from Effective Date and shall continue until terminated in accordance with Clause 15 (“Term”).'
+Legal-BERT Prediction: termination (Confidence: 0.1644991636276245)
+Legal-RoBERTa Prediction: termination (Confidence: 0.19679132103919983)
+Final Prediction: termination
+================================================================================
+
+Clause: 'REPRESENTATION AND WARRANTIES'
+Legal-BERT Prediction: counterparts (Confidence: 0.08037431538105011)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.06482967734336853)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Each Party represents that:'
+Legal-BERT Prediction: counterparts (Confidence: 0.10399129986763)
+Legal-RoBERTa Prediction: joint and several liability (Confidence: 0.08577828109264374)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'It has the legal right and authority to enter into this MSA and is not barred by any agency or under Applicable Laws.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.09427155554294586)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.1692022681236267)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: 'All the information and disclosures made in respect to this MSA are true and accurate.'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.06580668687820435)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.11614933609962463)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'It has taken all necessary authorizations and approvals for the purpose of execution of this MSA.'
+Legal-BERT Prediction: counterparts (Confidence: 0.15825390815734863)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.1043430045247078)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'BSL represents and warrants to ABC that:'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07644792646169662)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.08925925940275192)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'it guarantees the functionality of the Developed Work under the Purchase Order.'
+Legal-BERT Prediction: counterparts (Confidence: 0.08599250018596649)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.10053545236587524)
+Final Prediction: insurance
+================================================================================
+
+Clause: 'in the event of any defect in Developed Work, BSL shall modify the Developed Work in accordance terms of the Purchase Order without any additional charge.'
+Legal-BERT Prediction: costs (Confidence: 0.085342176258564)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.09420622885227203)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'BSL and the Consultants will have the necessary skill and expertise to provide the Contractual Services on the terms set out in this MSA.'
+Legal-BERT Prediction: further assurance (Confidence: 0.0791996419429779)
+Legal-RoBERTa Prediction: further assurance (Confidence: 0.06700707226991653)
+Final Prediction: further assurance
+================================================================================
+
+Clause: 'the Developed Works will, so far as they do not comprise pre-existing material originating from the ABC, its employees, agents, third party or contractors, be original works of authorship and the use or possession thereof by the ABC or BSL will not subject the ABC or BSL to any claim for infringement of any proprietary rights of any third party;'
+Legal-BERT Prediction: intellectual property (Confidence: 0.09586197882890701)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.1788415014743805)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: 'the Contractual Services will be provided in a timely and professional manner with reasonable skill and care and on a best effort basis.'
+Legal-BERT Prediction: further assurance (Confidence: 0.08383401483297348)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.08482930064201355)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'It shall, neither by itself nor through any persons employed or acting on its behalf (including employees, directors, agents, Consultants, or approved subcontractors) (i) give, offer, or promise to give, directly or indirectly, or accept, receive or agree to accept or receive anything of value (including, but not limited to, money, services, product samples, commissions, contributions, fees, gifts, bribes, rebates, payoffs, travel expenses, entertainment, influence payments, kickbacks or any other payment), regardless of form, to any person (including the professionals) to secure a business advantage, to obtain or retain business or to direct business to or away from any entity.'
+Legal-BERT Prediction: non-solicitation (Confidence: 0.14358411729335785)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.1786409616470337)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: 'it owns all Intellectual Property Rights or has the right to use and assign such Intellectual Property Rights in the Developed Works. If BSL recognizes or must recognize that such breach is imminent there is a duty to inform ABC without any delay. In this context, ABC shall be provided with all information concerning the assertion of claims by third parties, in particular concerning the type and scope of the alleged infringement of Intellectual Property Rights.'
+Legal-BERT Prediction: intellectual property (Confidence: 0.13829810917377472)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.1496395617723465)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: 'to the extent necessary it shall ensure its employees, subcontractors and Consultants are fully aware of the terms of this MSA that relate to them and that they comply with the same.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.0743248462677002)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.17810943722724915)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'any facts, opinions or property provided by BSL contained in any Developed Works, is accurate, is not misleading or defamatory, and otherwise complies with all Applicable Laws.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.15008778870105743)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.17841827869415283)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'in implementing Purchase Order BSL shall also use technical solutions that are produced on the basis of generally offered network platforms of BSL and third parties. If technical modifications are made to individual features of the Developed Work these changes must also be implemented in this MSA. BSL shall inform ABC to the extent technically possible, avoid any disadvantages for ABC. The conversion of Developed Work by BSL is generally free of charge for ABC.'
+Legal-BERT Prediction: intellectual property (Confidence: 0.062429312616586685)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10761009156703949)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'upon ABC request BSL shall permit ABC to sublet its IT Infrastructure even in part or any other transfer of use to third parties.'
+Legal-BERT Prediction: non-solicitation (Confidence: 0.08991371095180511)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.10053306072950363)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: 'for the purpose of providing Contractual Services, it shall adhere to all the provisions or guidelines set out in the Client Contract.'
+Legal-BERT Prediction: termination (Confidence: 0.08092484623193741)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.21752533316612244)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'ABC represents to BSL that it shall:'
+Legal-BERT Prediction: non-solicitation (Confidence: 0.09077741950750351)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.1183680072426796)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'ensure that its employees and any sub-contractors co-operate fully and promptly with BSL and the Consultants in relation to the provision of the Contractual Services and that such employees and any such sub-contractors will be qualified to carry out any tasks which they may be assigned;'
+Legal-BERT Prediction: further assurance (Confidence: 0.0914294496178627)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.1589013636112213)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'furnish BSL with such information and documents as it may reasonably requested for the proper performance of Contractual Services;'
+Legal-BERT Prediction: further assurance (Confidence: 0.11934984475374222)
+Legal-RoBERTa Prediction: further assurance (Confidence: 0.10445582121610641)
+Final Prediction: further assurance
+================================================================================
+
+Clause: 'ensure that its employees, subcontractors and consultants are fully aware of the terms of this MSA and any related document hereto and comply with the same.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.0618441067636013)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.13428348302841187)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'PERSONNEL'
+Legal-BERT Prediction: counterparts (Confidence: 0.0854436457157135)
+Legal-RoBERTa Prediction: costs (Confidence: 0.06105839088559151)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'The Parties shall each appoint a representative who shall have full authority to take all necessary binding decisions regarding the provision of the Contractual Services including the written variation of this MSA (“Personnel”) and shall adhere to any confidentiality which may be required under the Client Contract.'
+Legal-BERT Prediction: amendment (Confidence: 0.09500745683908463)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.13897554576396942)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'BSL shall ensure that, while any of the Consultants are on ABC’s premises, they will conform to the ABC’s normal codes of staff and security practice.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.10175734013319016)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.23117370903491974)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'RIGHTS OF USE TO SOFTWARE PROVIDED BY ABC/SEG'
+Legal-BERT Prediction: amendment (Confidence: 0.08100142329931259)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.08714357018470764)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: 'ABC on behalf of SEG may grant BSL the non-exclusive, non-transferable right, limited to the respective location of the IT infrastructure and limited in time to the Term of this MSA, to use the software used by the ABC on the IT infrastructure provided or individual elements thereof (this also includes, for example, photographs or trademarks) and the data and content stored by the ABC on the IT infrastructure provided as part of the performance of the contractual obligations, in particular to reproduce it. Duplications and the use of copies made may be made primarily for backup and security purposes.'
+Legal-BERT Prediction: assignment (Confidence: 0.07186178863048553)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.1488383561372757)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'To the extent that BSL hosts an Internet website for ABC it grants BSL the non-exclusive, non-transferable, worldwide right, limited in time and to Term of this MSA, to transmit the data and content, the website or individual elements of the website via the BSL communications link to the public in such a way that third parties may access them at any time and from any place they choose.'
+Legal-BERT Prediction: termination (Confidence: 0.08903516083955765)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.12187670916318893)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'OWNERSHIP OF INTELLECTUAL PROPERTY RIGHTS'
+Legal-BERT Prediction: counterparts (Confidence: 0.09617730975151062)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.06413918733596802)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'In the absence of any provisions to the contrary in the Purchase Order, BSL irrevocably and unconditionally grants the exclusive, perpetual, worldwide and transferable right to use the Developed Work, without use restrictions, to ABC for the purpose of Client Contract. The right of use shall include, in particular, the right to, load, install, configure, access, execute, display, copy (including for back-up or archival purposes) and save the Developed Work, and to make the Developed Work available for use (also via network, e.g. by providing application services).'
+Legal-BERT Prediction: assignment (Confidence: 0.08958280086517334)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.15059016644954681)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: 'ABC is entitled to modify the Developed Work, at its own discretion, either itself or via third parties, and to use the modified Developed Work in the same manner as the original Developed Work.'
+Legal-BERT Prediction: counterparts (Confidence: 0.09348665922880173)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.06893745064735413)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'ABC is entitled to transfer and/or sublicense rights of use in respect of the Developed Work.'
+Legal-BERT Prediction: assignment (Confidence: 0.08500663191080093)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.15331876277923584)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: 'The provisions of this Clause shall survive the expiration or termination of this MSA.'
+Legal-BERT Prediction: termination (Confidence: 0.1158471405506134)
+Legal-RoBERTa Prediction: entire agreement (Confidence: 0.10518696904182434)
+Final Prediction: termination
+================================================================================
+
+Clause: 'INTELLECTUAL PROPERTY INDEMNITY'
+Legal-BERT Prediction: counterparts (Confidence: 0.08999567478895187)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07516398280858994)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'CHARGES AND INVOICE'
+Legal-BERT Prediction: costs (Confidence: 0.08248365670442581)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05266415700316429)
+Final Prediction: costs
+================================================================================
+
+Clause: 'ABC shall pay BSL the charges for the Contractual Services at such rates or fees as specified in the in the Purchase Order.  The charges payable under this MSA are inclusive of goods and services tax and any tax, which shall be paid by the ABC at the rate and in the manner for the time being prescribed by law.'
+Legal-BERT Prediction: termination (Confidence: 0.06965827941894531)
+Legal-RoBERTa Prediction: costs (Confidence: 0.11641442030668259)
+Final Prediction: costs
+================================================================================
+
+Clause: 'Except for Force Majeure, if BSL fails to adhere to the timescale prescribed in Purchase Order for performing Contractual Services, BSL shall pay penalty to ABC for each week of delay amounting to [] % of the total charges for Contractual Services. If the delay is more than []  weeks, ABC is entitled to forthwith terminate this MSA. Notwithstanding the foregoing, BSL shall still be responsible for penalty set forth in this MSA or Purchase Order.'
+Legal-BERT Prediction: termination (Confidence: 0.07980221509933472)
+Legal-RoBERTa Prediction: notice (Confidence: 0.11886696517467499)
+Final Prediction: notice
+================================================================================
+
+Clause: 'RIGHT TO AUDIT'
+Legal-BERT Prediction: counterparts (Confidence: 0.08247333765029907)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.07645758986473083)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'ABC shall have the right to audit the BSL's compliance with the contractual obligations.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.08851595968008041)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.10635438561439514)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'BSL agrees and warrants that at the reasonable request of ABC and upon reasonable notice of seven (7) business days, to allow the ABC to conduct an audit of the BSL 's processes, systems, infrastructure and facilities that are used to manage the ABC’s data.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.0722961276769638)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.14674673974514008)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'ABC shall have the right to carry out the audit itself and/or select and appoint an external third party auditors.  ABC agrees to ensure that, and be responsible for, the members of the third party are bound by reasonable obligations of confidentiality in the event that they are required to conduct an audit.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.08089877665042877)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.07936536520719528)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'CONFIDENTIAL INFORMATION'
+Legal-BERT Prediction: counterparts (Confidence: 0.08372540771961212)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.047857616096735)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Subject to Clause 12.2, neither Party shall use or divulge or communicate to any person (other than with the authority of the other Party or to such employees, agents and sub-contractors with a need to know) any Confidential Information of the other Party which may be disclosed or come to that Party’s knowledge in the course of providing the Contractual Services.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.24614541232585907)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.47584593296051025)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'Each Party shall ensure that its employees, agents and sub-contractors are aware of and comply with the confidentiality and non-disclosure provisions contained in this Clause. Each Party shall be liable to the other for any breach of this Clause by such employees, agents and sub-contractors.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.2208302915096283)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.1699475198984146)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'If either Party becomes aware of any breach of confidence by any of its employees, agents or sub-contractors it shall promptly notify the other Party and give the other Party all reasonable assistance in connection with any proceedings which the other Party may institute against any such persons. Each Party shall be entitled to procure appropriate injunctive remedies and all such legal and contractual remedies in relation to such unauthorised use or disclosure of Confidential Information.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.18254224956035614)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.08646026998758316)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'The provisions of this Clause shall survive the expiration or termination of this MSA but the restrictions contained in sub-clause 12.1 shall not apply to any Confidential Information which:'
+Legal-BERT Prediction: confidentiality (Confidence: 0.14721646904945374)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.20337381958961487)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'comes into the public domain otherwise than through unauthorised disclosure by the disclosing party, its employees, agents or sub-contractors;'
+Legal-BERT Prediction: confidentiality (Confidence: 0.10494748502969742)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.2667572498321533)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'is already known to the disclosing party prior to the commencement of the Contractual Services;'
+Legal-BERT Prediction: entire agreement (Confidence: 0.07167923450469971)
+Legal-RoBERTa Prediction: notice (Confidence: 0.10295122861862183)
+Final Prediction: notice
+================================================================================
+
+Clause: 'is lawfully acquired from a third party who owes no duty of confidence to the disclosing party; or'
+Legal-BERT Prediction: confidentiality (Confidence: 0.11441703140735626)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.3031773865222931)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'is required by any court of competent jurisdiction or by a governmental or regulatory authority to be disclosed or where there is a legal right, duty or requirement to disclose.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.12043677270412445)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.14981478452682495)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'DATA PROTECTION AND INFORMATION SECURITY'
+Legal-BERT Prediction: amendment (Confidence: 0.0681966096162796)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.06310263276100159)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Each Party shall, in its provision or use of the Contractual Services, comply with the requirements Applicable Data Protection Laws.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.10447826236486435)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.3279576897621155)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'The documents, knowledge and experience provided to the other Party shall be used exclusively for the purposes of this MSA. Furthermore, the Parties agree to maintain confidentiality about the content of this MSA and about the knowledge gained during its execution.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.1922597438097)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.44932836294174194)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'BSL shall ensure proper data processing and compliance with technical and organizational data security measures in accordance with Applicable Data Protection Laws. At request of ABC, BSL shall inform BSL in more detail about the measures.'
+Legal-BERT Prediction: indemnity (Confidence: 0.0718206986784935)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.20004209876060486)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'ASSIGNMENT'
+Legal-BERT Prediction: counterparts (Confidence: 0.0882517620921135)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04773920774459839)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Neither Party shall be entitled to assign or sub-contract any of its rights or obligations under this MSA without the consent in writing of the other Party, not to be unreasonably withheld or delayed.'
+Legal-BERT Prediction: assignment (Confidence: 0.23616217076778412)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.40728482604026794)
+Final Prediction: assignment
+================================================================================
+
+Clause: 'TERMINATION'
+Legal-BERT Prediction: counterparts (Confidence: 0.0939769297838211)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05107185244560242)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'ABC shall be entitled to forthwith terminate this MSA or any Purchase Order upon occurrence of one or more following events:'
+Legal-BERT Prediction: termination (Confidence: 0.1148872822523117)
+Legal-RoBERTa Prediction: termination (Confidence: 0.26584938168525696)
+Final Prediction: termination
+================================================================================
+
+Clause: 'If any insolvency or bankruptcy proceedings are initiated by and/or against the BSL, if a receiver is appointed over any of the BSL’s assets, and/or if BSL unable to pay its debts (if any) as and when they fall due, and/or'
+Legal-BERT Prediction: termination (Confidence: 0.0915512666106224)
+Legal-RoBERTa Prediction: notice (Confidence: 0.07653740048408508)
+Final Prediction: termination
+================================================================================
+
+Clause: 'upon the occurrence of a change of control of BSL;'
+Legal-BERT Prediction: termination (Confidence: 0.08932802826166153)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.08067239820957184)
+Final Prediction: termination
+================================================================================
+
+Clause: 'In the event, any of the representations and warranties made by BSL is incorrect, false, fraudulent, negligent, incomplete or misleading or in any manner whatsoever;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.10105562210083008)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.08411680907011032)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'if any Client Contract is terminated in accordance with the terms thereof.'
+Legal-BERT Prediction: termination (Confidence: 0.12846659123897552)
+Legal-RoBERTa Prediction: termination (Confidence: 0.25656718015670776)
+Final Prediction: termination
+================================================================================
+
+Clause: 'ABC shall have the right to terminate this MSA prematurely for good cause shall remain unaffected.'
+Legal-BERT Prediction: termination (Confidence: 0.11989892274141312)
+Legal-RoBERTa Prediction: termination (Confidence: 0.14349167048931122)
+Final Prediction: termination
+================================================================================
+
+Clause: 'EFFECT ON TERMINATION'
+Legal-BERT Prediction: amendment (Confidence: 0.08960489928722382)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.06074022501707077)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'On the expiration or termination of this MSA:'
+Legal-BERT Prediction: termination (Confidence: 0.1284872591495514)
+Legal-RoBERTa Prediction: termination (Confidence: 0.20855849981307983)
+Final Prediction: termination
+================================================================================
+
+Clause: 'BSL shall promptly return any Confidential Information and/or copied thereof that are in its possession or destroy the same and by providing a certificate of compliance thereof to the ABC.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.14509065449237823)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.20992781221866608)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'each Party will return to the other any property of the other that it then has in its possession or control.'
+Legal-BERT Prediction: counterparts (Confidence: 0.08142414689064026)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.11541502922773361)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: 'Upon written request from ABC, BSL shall assist ABC with a post termination transition of the Contractual Services (the “Transition Services”).'
+Legal-BERT Prediction: counterparts (Confidence: 0.07559812068939209)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.141754150390625)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'LIABILITY'
+Legal-BERT Prediction: counterparts (Confidence: 0.08979963511228561)
+Legal-RoBERTa Prediction: joint and several liability (Confidence: 0.05113832280039787)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'BSL's liability, irrespective of the legal grounds, for all claims arising from and in connection with this MSA or Purchase Order shall be limited as follows:'
+Legal-BERT Prediction: joint and several liability (Confidence: 0.10036611557006836)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.189416766166687)
+Final Prediction: indemnity
+================================================================================
+
+Clause: 'In the event of damage caused by simple negligence, BSL shall be liable per individual Purchase Order up to an amount of 10 % of the respective individually agreed remuneration of the last 12 (twelve) months per event of damage within a 12 (twelve) month period, however, up to a maximum of 25 % of the individually agreed remuneration of the last 12 (twelve) months and up to a maximum of INR 9 Crore.'
+Legal-BERT Prediction: indemnity (Confidence: 0.07034382224082947)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.17364250123500824)
+Final Prediction: indemnity
+================================================================================
+
+Clause: 'In the event of gross negligence, BSL shall be liable per individual contract within a 12 (twelve) month period up to an amount of 30% of the remuneration agreed in the individual Purchase Order for the last 12 (twelve) months. In case of a contract duration of less than 2 months, the fee actually incurred shall replace the fee for the last 12 months. In the event of a loss occurring within the first 12 (twelve) month period after conclusion of the contract, the charges incurred up to that point shall be extrapolated to 12 (twelve) months.'
+Legal-BERT Prediction: termination (Confidence: 0.08414700627326965)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.13166683912277222)
+Final Prediction: indemnity
+================================================================================
+
+Clause: 'In the event of personal injury caused by ordinary negligence, BSL shall be liable up to a maximum amount of INR 5 Crores per damaging event; in the event of gross negligence, BSL shall be liable without limitation.'
+Legal-BERT Prediction: indemnity (Confidence: 0.07969997078180313)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.1575276404619217)
+Final Prediction: indemnity
+================================================================================
+
+Clause: 'Notwithstanding the foregoing, BSL shall be liable for actual amount of damages suffered by the ABC in case of:'
+Legal-BERT Prediction: joint and several liability (Confidence: 0.0875215008854866)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.1987614780664444)
+Final Prediction: indemnity
+================================================================================
+
+Clause: 'breach of the confidentiality provisions;'
+Legal-BERT Prediction: amendment (Confidence: 0.08837053924798965)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.06747698038816452)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'infringement by BSL of a third party’s IPR;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.08145135641098022)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.0830577090382576)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'indirect damages, special damages and consequential damages;'
+Legal-BERT Prediction: costs (Confidence: 0.13378070294857025)
+Legal-RoBERTa Prediction: costs (Confidence: 0.13132809102535248)
+Final Prediction: costs
+================================================================================
+
+Clause: 'any other liability that cannot be capped or excluded as a matter of Applicable Laws.'
+Legal-BERT Prediction: termination (Confidence: 0.072974793612957)
+Legal-RoBERTa Prediction: joint and several liability (Confidence: 0.08351960778236389)
+Final Prediction: joint and several liability
+================================================================================
+
+Clause: 'NOTICES'
+Legal-BERT Prediction: counterparts (Confidence: 0.09183359146118164)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.046805478632450104)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'All notices required or permitted to be given under this MSA shall be in writing and shall be duly given if delivered by  hand  or  sent  by pre-paid  registered  post  to  the address of the applicable set  out below,  or to such other address as may  from time  to time be duly notified to  the other  party for  the purpose.  Notices may be duly given by email to the address so specified below, providing that such notice is also sent by hand or pre-paid registered post to the address below on the same day as the email is sent:'
+Legal-BERT Prediction: notice (Confidence: 0.18550962209701538)
+Legal-RoBERTa Prediction: notice (Confidence: 0.5239955186843872)
+Final Prediction: notice
+================================================================================
+
+Clause: 'If addressed to ABCName: []Designation: []Email: []If addressed to BSL            Name: []Designation: [] Email: []'
+Legal-BERT Prediction: amendment (Confidence: 0.07706844806671143)
+Legal-RoBERTa Prediction: notice (Confidence: 0.12643639743328094)
+Final Prediction: notice
+================================================================================
+
+Clause: 'FORCE MAJEURE'
+Legal-BERT Prediction: amendment (Confidence: 0.0726979523897171)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.07034705579280853)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Neither Party shall be liable for any delay or non-performance of obligations under this MSA, to the extent it can establish that the performance of such obligations is prevented by any Force Majeure Event which arises after the date of the MSA, and which could not be reasonably foreseen at the date of the MSA.'
+Legal-BERT Prediction: joint and several liability (Confidence: 0.07466378062963486)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.241211399435997)
+Final Prediction: indemnity
+================================================================================
+
+Clause: 'If a Party considers that a Force Majeure Event has occurred which has materially affected the performance of its obligations, then it shall forthwith notify the other in writing to that effect giving full details of the circumstances giving rise to the Force Majeure Event, and the causality between the Force Majeure Event and its obligations, no later than seven (7) days from the advent of the purported Force Majeure Event. The affected Party should notify (a) the steps taken to remedy the non-execution of their obligations and to limit the ensuing consequences on the completion of the supplied, (b) the predictable duration of the halt of activity or of its obstruction, (c) the possible effect of this event on the contractual schedule.'
+Legal-BERT Prediction: termination (Confidence: 0.06529264152050018)
+Legal-RoBERTa Prediction: notice (Confidence: 0.1827903687953949)
+Final Prediction: notice
+================================================================================
+
+Clause: 'As soon as it is established that Force Majeure lasts longer than 6 (six) months each Party is entitled to terminate the MSA or Purchase Order by giving a written notice of 30 days.'
+Legal-BERT Prediction: termination (Confidence: 0.11080494523048401)
+Legal-RoBERTa Prediction: termination (Confidence: 0.1990496814250946)
+Final Prediction: termination
+================================================================================
+
+Clause: 'GOVERNING LAW, JURISDICTION & DISPUTES'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.13398604094982147)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.07814718782901764)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: 'This MSA shall be governed by Indian laws without any reference to its or any other jurisdiction conflict of laws principle.'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.23130196332931519)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.4087192714214325)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: 'In the event of any dispute, controversy or claim arising out of or relating in any way to this MSA, including without limitation any dispute concerning the construction, validity, interpretation, enforceability or breach of this MSA, the complaining Party shall notify the other Party in writing about the said dispute, controversy, or claim, and within thirty (30) days of such notice, management level representatives of both Parties shall meet at an agreed location to attempt to resolve the dispute in good faith through amicable negotiations.'
+Legal-BERT Prediction: costs (Confidence: 0.05867769196629524)
+Legal-RoBERTa Prediction: notice (Confidence: 0.09712794423103333)
+Final Prediction: notice
+================================================================================
+
+Clause: 'MISCELLANEOUS'
+Legal-BERT Prediction: counterparts (Confidence: 0.08286220580339432)
+Legal-RoBERTa Prediction: costs (Confidence: 0.05770250782370567)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'No Relationship: Nothing in this MSA shall create or deem to create any special relationship between the Parties, including without limitation, partnership, agency, employer/employee relationship and joint venture. Neither Party has the authority to, and shall not, act as an agent of the other Party, or represent or bind the other Party in any manner whatsoever.'
+Legal-BERT Prediction: counterparts (Confidence: 0.08078785985708237)
+Legal-RoBERTa Prediction: relationship (Confidence: 0.1504790484905243)
+Final Prediction: relationship
+================================================================================
+
+Clause: 'Severability: If any term, provision or part of this MSA is, becomes, or is held or declared to be, void, voidable, illegal, invalid or unenforceable under the Applicable Laws, such term, provision or part hereof shall be severed, and the remainder of the MSA shall remain in full force and effect.  The Parties shall negotiate in good faith in order to agree the terms of a mutually satisfactory substitution, to the severed term, provision or part of this MSA, which as nearly as possible gives effect to the Parties’ contractual intentions as expressed herein.'
+Legal-BERT Prediction: severability (Confidence: 0.25312620401382446)
+Legal-RoBERTa Prediction: severability (Confidence: 0.5041478276252747)
+Final Prediction: severability
+================================================================================
+
+Clause: 'Survivability: The sections & clauses in relation to confidentiality, indemnity, liability, representations and warranties, dispute resolution, data protection, and such other clauses which in their nature survive the expiration or termination of this MSA, shall survive expiration or termination of this MSA.  Such provisions shall be binding to each Party, affiliated companies and their successors.  Both Parties recognize and acknowledge that the breach of such provisions shall cause irreparable injury inadequately compensable in damages and that accordingly; the other Party may seek injunctive relief against a breach or threatened breach of the provisions contained in each paragraph, in addition to any other legal remedies under this MSA.'
+Legal-BERT Prediction: termination (Confidence: 0.10414211452007294)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.18003016710281372)
+Final Prediction: indemnity
+================================================================================
+
+Clause: 'Further Assurances. Each of the Parties hereto shall from time to time execute and deliver all such further documents and instruments and do all acts and things as the other Party may reasonably require to effectively carry out or better evidence or perfect the full intent and meaning of this MSA or Client Contract.'
+Legal-BERT Prediction: further assurance (Confidence: 0.21318452060222626)
+Legal-RoBERTa Prediction: further assurance (Confidence: 0.3776770234107971)
+Final Prediction: further assurance
+================================================================================
+
+Clause: 'Counterparts.  This MSA may be executed in counterparts, each of which so executed will be deemed to be an original and such counterparts together will constitute one and the same MSA.  Signatures sent by emailed to either Party in a pdf format shall be deemed original signatures under this MSA.'
+Legal-BERT Prediction: counterparts (Confidence: 0.44762322306632996)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.49865347146987915)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Public Announcements/Publicity: ABC and BSL agree to cooperate regarding public relations activities, including public announcements, joint press releases, and other activities to be mutually agreed. Neither Party will perform such activities without the prior written consent of the other Party.'
+Legal-BERT Prediction: termination (Confidence: 0.06731592863798141)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.14034216105937958)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'Compliance:  Each Party will comply with all Applicable Laws in the performance of obligations under this MSA. Each Party shall forthwith notify the other Party in relation to any of its non-compliance under this MSA.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.15043972432613373)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.27365463972091675)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'Costs & Fees: Subject to any express provisions to the contrary in this MSA, each Party shall pay its own costs/ fees relating to the implementation and enforcement of this MSA.'
+Legal-BERT Prediction: costs (Confidence: 0.1583928018808365)
+Legal-RoBERTa Prediction: costs (Confidence: 0.3815833032131195)
+Final Prediction: costs
+================================================================================
+
+Clause: 'IN WITNESS WHEREOF Each Party has executed this MSA on the dates written below:'
+Legal-BERT Prediction: counterparts (Confidence: 0.1756937950849533)
+Legal-RoBERTa Prediction: notice (Confidence: 0.0995275005698204)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Signed by:    _____________________________Name: Designation:  FOR AND ON BEHALF OFABCSigned by:  _______________________________           Name: Designation: FOR AND ON BEHALF OFBSL'
+Legal-BERT Prediction: waiver (Confidence: 0.08999992161989212)
+Legal-RoBERTa Prediction: notice (Confidence: 0.085163414478302)
+Final Prediction: waiver
+================================================================================
+
+Clause: 'Schedule A'
+Legal-BERT Prediction: counterparts (Confidence: 0.07932661473751068)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05003264546394348)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '(Template for a Purchase Order under the MSA for Contractual Services)'
+Legal-BERT Prediction: counterparts (Confidence: 0.08243643492460251)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.09100275486707687)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Purchase Order'
+Legal-BERT Prediction: counterparts (Confidence: 0.09033859521150589)
+Legal-RoBERTa Prediction: termination (Confidence: 0.04828449338674545)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'between'
+Legal-BERT Prediction: counterparts (Confidence: 0.09437217563390732)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04645322263240814)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'ABC India Private Limited, a company incorporated under the provisions of the Companies Act, 1956, having its registered office at [], hereinafter referred to as “ABC” (which expression shall unless repugnant to the context or contrary to the meaning thereof mean and include its successors and permitted assigns) of the FIRST PART.'
+Legal-BERT Prediction: assignment (Confidence: 0.08699814975261688)
+Legal-RoBERTa Prediction: limitation of liability (Confidence: 0.07052824646234512)
+Final Prediction: assignment
+================================================================================
+
+Clause: 'AND'
+Legal-BERT Prediction: counterparts (Confidence: 0.09874362498521805)
+Legal-RoBERTa Prediction: termination (Confidence: 0.044542521238327026)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'XYZ Limited, a company incorporated under the provisions of the Companies Act, [], having its registered office at [], hereinafter referred to as “BSL” (which expression shall unless repugnant to the context or contrary to the meaning thereof mean and include its successors and permitted assigns) of the SECOND PART.'
+Legal-BERT Prediction: assignment (Confidence: 0.09755266457796097)
+Legal-RoBERTa Prediction: notice (Confidence: 0.07601560652256012)
+Final Prediction: assignment
+================================================================================
+
+Clause: '“ABC” and “BSL” hereto shall hereinafter be collectively referred to as the “Parties” and individually as a “Party”.'
+Legal-BERT Prediction: joint and several liability (Confidence: 0.06401374191045761)
+Legal-RoBERTa Prediction: joint and several liability (Confidence: 0.07314664870500565)
+Final Prediction: joint and several liability
+================================================================================
+
+Clause: 'WHEREAS'
+Legal-BERT Prediction: counterparts (Confidence: 0.08504955470561981)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.049451541155576706)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'ABC is a wholly owned subsidiary of MQZ Private Limited which is, one of the leading international companies in Information and Communications Technology (ICT).'
+Legal-BERT Prediction: insurance (Confidence: 0.07607603073120117)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.17290709912776947)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'BSL is engaged in the business of IT resource and staffing company which has 18+ years of rich experience with extensive and successful large global program delivery experience.'
+Legal-BERT Prediction: non-competition (Confidence: 0.09291049838066101)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.18270255625247955)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'ABC and BSL concluded a Master Services Agreement (hereinafter referred to as "MSA ") on [].'
+Legal-BERT Prediction: termination (Confidence: 0.07422509789466858)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.11705456674098969)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Based on the representations of the BSL, ABC is keen to engage BSL in respect of infor clousuite services and BSL has agreed to accept an engagement of ABC on the terms and conditions hereinafter contained.'
+Legal-BERT Prediction: costs (Confidence: 0.07626628130674362)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.11805204302072525)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: 'Now, therefore, the Parties agree as follows:'
+Legal-BERT Prediction: entire agreement (Confidence: 0.07197673618793488)
+Legal-RoBERTa Prediction: entire agreement (Confidence: 0.08017013967037201)
+Final Prediction: entire agreement
+================================================================================
+
+Clause: 'Scope'
+Legal-BERT Prediction: counterparts (Confidence: 0.09656714648008347)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04569625481963158)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Deadlines and dates'
+Legal-BERT Prediction: counterparts (Confidence: 0.10389266908168793)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04963895305991173)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'The due dates to be met by the BSL and the individual project phases are set out:'
+Legal-BERT Prediction: counterparts (Confidence: 0.06983361393213272)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.0959513708949089)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'in the following milestone plan'
+Legal-BERT Prediction: counterparts (Confidence: 0.08863755315542221)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.060136523097753525)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Serialno.Description of milestoneWork results dueDue date for the provision of the milestoneOverall acceptance of the Contractual Services'
+Legal-BERT Prediction: notice (Confidence: 0.0668511837720871)
+Legal-RoBERTa Prediction: notice (Confidence: 0.09239889681339264)
+Final Prediction: notice
+================================================================================
+
+Clause: 'Personnel'
+Legal-BERT Prediction: counterparts (Confidence: 0.0854436457157135)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05238999053835869)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'The coordination of the provision of the Contractual Services and the associated communication shall be organized exclusively via the appointed Personnel.'
+Legal-BERT Prediction: amendment (Confidence: 0.07460414618253708)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.07582874596118927)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: 'ABC Personnel:'
+Legal-BERT Prediction: counterparts (Confidence: 0.09300880134105682)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06445599347352982)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Name:'
+Legal-BERT Prediction: counterparts (Confidence: 0.08952019363641739)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04667530208826065)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'E-mail address:'
+Legal-BERT Prediction: counterparts (Confidence: 0.10769500583410263)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0525980181992054)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'BSL Personnel:'
+Legal-BERT Prediction: counterparts (Confidence: 0.09258231520652771)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06516331434249878)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Name:'
+Legal-BERT Prediction: counterparts (Confidence: 0.08952019363641739)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04667530208826065)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'E-mail address:'
+Legal-BERT Prediction: counterparts (Confidence: 0.10769500583410263)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0525980181992054)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Charges and Invoicing'
+Legal-BERT Prediction: counterparts (Confidence: 0.0916389524936676)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.07798349857330322)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Charges'
+Legal-BERT Prediction: counterparts (Confidence: 0.08939434587955475)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04722267761826515)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Invoicing'
+Legal-BERT Prediction: counterparts (Confidence: 0.08746691048145294)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.07608307152986526)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'The BSL shall invoice the remuneration as follows:'
+Legal-BERT Prediction: termination (Confidence: 0.0704922154545784)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08096558600664139)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'monthly in arrears.'
+Legal-BERT Prediction: counterparts (Confidence: 0.08885902911424637)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.09095287322998047)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'after overall acceptance.'
+Legal-BERT Prediction: amendment (Confidence: 0.08172847330570221)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.07838349789381027)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'following the acceptance of the milestones listed below:'
+Legal-BERT Prediction: amendment (Confidence: 0.08653765171766281)
+Legal-RoBERTa Prediction: notice (Confidence: 0.07004695385694504)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Serialno.Milestone due dateWork resultsPaymentsOverall acceptance'
+Legal-BERT Prediction: counterparts (Confidence: 0.07852966338396072)
+Legal-RoBERTa Prediction: termination (Confidence: 0.0981992781162262)
+Final Prediction: termination
+================================================================================
+
+Clause: 'Data protection'
+Legal-BERT Prediction: amendment (Confidence: 0.075974240899086)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.056556619703769684)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'The Contractual Services to be performed by the BSL include the collection, processing and use of, or access to, Personal Data by the BSL and thus, may require the conclusion of a data processing agreement.'
+Legal-BERT Prediction: counterparts (Confidence: 0.09398305416107178)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.09523041546344757)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: 'No.'
+Legal-BERT Prediction: counterparts (Confidence: 0.09181614220142365)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04923521727323532)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Term'
+Legal-BERT Prediction: counterparts (Confidence: 0.08954531699419022)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.046308983117341995)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Start date'
+Legal-BERT Prediction: counterparts (Confidence: 0.07375583797693253)
+Legal-RoBERTa Prediction: termination (Confidence: 0.04641616344451904)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'This Purchase Order sets forth an agreement between the Parties and commenced on []'
+Legal-BERT Prediction: entire agreement (Confidence: 0.09453747421503067)
+Legal-RoBERTa Prediction: entire agreement (Confidence: 0.1050862967967987)
+Final Prediction: entire agreement
+================================================================================
+
+Clause: 'This Purchase Order'
+Legal-BERT Prediction: counterparts (Confidence: 0.1096600666642189)
+Legal-RoBERTa Prediction: termination (Confidence: 0.0661245658993721)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Termination'
+Legal-BERT Prediction: counterparts (Confidence: 0.0939769297838211)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05669227987527847)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'ABC shall be entitled to forthwith terminate this Purchase Order upon occurrence of one or more following events:'
+Legal-BERT Prediction: termination (Confidence: 0.1133333370089531)
+Legal-RoBERTa Prediction: termination (Confidence: 0.2521341145038605)
+Final Prediction: termination
+================================================================================
+
+Clause: 'If any insolvency or bankruptcy proceedings are initiated by and/or against the BSL, if a receiver is appointed over any of the BSL’s assets, and/or if BSL unable to pay its debts (if any) as and when they fall due, and/or'
+Legal-BERT Prediction: termination (Confidence: 0.0915512666106224)
+Legal-RoBERTa Prediction: notice (Confidence: 0.07653740048408508)
+Final Prediction: termination
+================================================================================
+
+Clause: 'upon the occurrence of a change of control of BSL;'
+Legal-BERT Prediction: termination (Confidence: 0.08932802826166153)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.08067239820957184)
+Final Prediction: termination
+================================================================================
+
+Clause: 'In the event, any of the representations and warranties made by BSL is incorrect, false, fraudulent, negligent, incomplete or misleading or in any manner whatsoever;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.10105562210083008)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.08411680907011032)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'if SEG Contract is terminated in accordance with the terms thereof.'
+Legal-BERT Prediction: termination (Confidence: 0.12895669043064117)
+Legal-RoBERTa Prediction: termination (Confidence: 0.20293524861335754)
+Final Prediction: termination
+================================================================================
+
+Clause: 'Final provisions'
+Legal-BERT Prediction: counterparts (Confidence: 0.08217909187078476)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05058804154396057)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Inclusion of MSA'
+Legal-BERT Prediction: counterparts (Confidence: 0.08148147165775299)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06112564727663994)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'The provisions of MSA form an integral part of this Purchase Order.'
+Legal-BERT Prediction: counterparts (Confidence: 0.15904608368873596)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.13673576712608337)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'IN WITNESS WHEREOF Each Party has executed this MSA on the dates written below:'
+Legal-BERT Prediction: counterparts (Confidence: 0.1756937950849533)
+Legal-RoBERTa Prediction: notice (Confidence: 0.0995275005698204)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Signed by: _____________________________Name: Designation:  FOR AND ON BEHALF OFABC Signed by:  _______________________________           Name: Designation: FOR AND ON BEHALF OFBSL'
+Legal-BERT Prediction: waiver (Confidence: 0.08546046912670135)
+Legal-RoBERTa Prediction: notice (Confidence: 0.09134984016418457)
+Final Prediction: notice
+================================================================================
+
+Clause: '[Insert details]'
+Legal-BERT Prediction: counterparts (Confidence: 0.08859598636627197)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06040848419070244)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '[Insert details]'
+Legal-BERT Prediction: counterparts (Confidence: 0.08859598636627197)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06040848419070244)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '[Insert details]'
+Legal-BERT Prediction: counterparts (Confidence: 0.08859598636627197)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06040848419070244)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '[Insert details]'
+Legal-BERT Prediction: counterparts (Confidence: 0.08859598636627197)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06040848419070244)
+Final Prediction: counterparts
+================================================================================
+

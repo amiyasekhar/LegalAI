@@ -1,0 +1,595 @@
+Results for 5891-european-union-and-argentina-transition-mineral-agreement-2023-written-contract.txt
+Clause: 'MEMORANDUM OF UNDERSTANDING'
+Legal-BERT Prediction: counterparts (Confidence: 0.08038725703954697)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.05333792418241501)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'ON A STRATEGIC PARTNERSHIP ON SUSTAINABLE RAW MATERIALS VALUE CHAINS'
+Legal-BERT Prediction: counterparts (Confidence: 0.08863499015569687)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.0790589228272438)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'BETWEEN THE EUROPEAN UNION AND THE ARGENTINE REPUBLIC'
+Legal-BERT Prediction: amendment (Confidence: 0.08459827303886414)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.08369805663824081)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Introduction'
+Legal-BERT Prediction: counterparts (Confidence: 0.08825679868459702)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04622740298509598)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Objectives'
+Legal-BERT Prediction: counterparts (Confidence: 0.08195693045854568)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.06284819543361664)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'The Participants are both committed to improve the sustainability of raw materials supply chains and recognise that securing a sustainable supply of strategic and critical raw materials listed in the Annex, is an essential prerequisite for delivering on clean energy and digital objectives.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07158341258764267)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.13591255247592926)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Concretely, the Partnership, based on mutual benefits, aims to support:'
+Legal-BERT Prediction: joint and several liability (Confidence: 0.06792289763689041)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07160072773694992)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'identifying and jointly developing innovative and sustainable and responsible raw materials value chain projects by facilitating business opportunities, deploying financial support, investment de-risking instruments;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.0688905194401741)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.15287232398986816)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'closer economic and industrial integration of the Participants in sustainable value chain of raw'
+Legal-BERT Prediction: amendment (Confidence: 0.07667403668165207)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10879785567522049)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'materials;'
+Legal-BERT Prediction: counterparts (Confidence: 0.0935877189040184)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05553322285413742)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'cooperation to increase resilience of raw materials value chains;'
+Legal-BERT Prediction: amendment (Confidence: 0.07329913973808289)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.09049984067678452)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'developing the Argentine Republic's sustainable raw materials value chains in its environmental, social and economic dimensions as a lever for a sustainable and inclusive economic growth, the creation of local added value, quality employment, the development of local industrialization and domestic revenue mobilisation; thereby increasing the competitiveness ofthe Argentine economy;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07308720797300339)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.16172504425048828)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'the development of open, resilient and competitive markets for raw, processed and recycled'
+Legal-BERT Prediction: amendment (Confidence: 0.08103743940591812)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0897727757692337)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'materials, allowing the EU to diversify its suppliers for materials necessary in particular to achieve the clean and digital transition and its open strategic autonomy;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07483023405075073)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.14245153963565826)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'promoting the alignment of sustainable raw materials value chains developed between the EU'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07435856759548187)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10300804674625397)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'and the Argentine Republic with internationally agreed principles and guidelines for environmental, social and governance (ESG) standards;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.1021827980875969)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.14700813591480255)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'cooperation on skills, capacity building and competences necessary for the development of sustainable raw materials value chains, including the promotion of the most sustainable extraction and transformation practices, and circular economy;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.08142963796854019)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.14555731415748596)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'to facilitate closer cooperation on research and innovation along the raw materials value chain, including advanced exploration, earth observation, innovative extractive, processing, refining and recycling technologies;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.08150573074817657)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.12757161259651184)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Policy context'
+Legal-BERT Prediction: amendment (Confidence: 0.07262921333312988)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05187726020812988)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Currently the EU and the Argentine Republic relations are governed by the Framework Agreement for Trade and Economic Cooperation between the European Community and the Argentine Republic signed in 1990, which establishes the basis for bilateral cooperation in foreign trade, economy, agriculture and industry. The Participants also signed a specific agreement, the Agreement for Scientific and Technological Cooperation between the European Community and the Argentine Republic, in 1999. Moreover, the EU and the Argentine Republic, as part of Mercosur, have politically concluded the negotiations for an Association Agreement. During the XII EU - Argentina Joint Cooperation Commission (June 2022) both parties agreed to launch the negotiations for new bilateral institutional framework to strengthening our Partnership and fostering bi-regional dialogue on cooperation1.'
+Legal-BERT Prediction: entire agreement (Confidence: 0.0762873962521553)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1024911031126976)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Scope of the Partnership'
+Legal-BERT Prediction: counterparts (Confidence: 0.08362019807100296)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06687069684267044)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'The Partnership covers strategic and critical raw materials listed in the Annex that are necessary for the clean energy and digital transition, covering the entire value chain - exploration, extraction, refining, processing, and recycling - including extractive waste and the value adding downstream industries.'
+Legal-BERT Prediction: non-competition (Confidence: 0.08325705677270889)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1764151155948639)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'This Memorandum envisages to set the framework for shared commitment to enhance cooperation in the field of raw materials value chains for the clean energy transition in following five (5) areas of collaboration:'
+Legal-BERT Prediction: termination (Confidence: 0.061646316200494766)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.12492334842681885)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'integration of sustainable raw materials value chains, including networking, joint development of projects (e.g. via joint ventures), creation of new business models and promotion and facilitation of trade and investment linkages, ensuring the well-functioning, sustainability and resilience of these raw materials value chains;'
+Legal-BERT Prediction: joint and several liability (Confidence: 0.06799810379743576)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.16488559544086456)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'cooperation on research and innovation along the raw materials value chains, including on minerals knowledge, the minimisation of environmental and climate footprint, and circular ewnomy;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.0851396918296814)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.15223434567451477)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'cooperation to leverage Environmental, Social, and Governance (ESG) Criteria and align with international standards;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.08667232096195221)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.19235430657863617)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'deployment of hard and soft infrastructure for projects development, minimising their environmental and climate impact, in accordance with international ESG standards; strengthen capacities, training and skills development along sustainable raw materials value chains in accordance with international labour standards.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.0915118008852005)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.17040376365184784)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '1 Press(22.06.2022). Comunicado Conjunto'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07577451318502426)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06883131712675095)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'A roadmap is envisaged to complement this Memorandum, including specific actions to start cooperating in each area ofcollaboration. It should engage stakeholders from both Participants and identify the leading organisations to implement each action.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.0692368745803833)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.08097122609615326)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: 'Principles of the Partnership'
+Legal-BERT Prediction: counterparts (Confidence: 0.09237223863601685)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06344631314277649)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'The Partnership envisages to be conducted fully in concordance with the Framework Agreement for Trade and Economic Cooperation between the European Community and the Argentine Republic, which establishes the rules and the procedures governing political and economic relations between the Participants.'
+Legal-BERT Prediction: amendment (Confidence: 0.09393186122179031)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.11040037125349045)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: 'The Participants recognise the importance of the EU Global Gateway Strategy to promote high quality investments and its links to the objectives, collaboration areas and principles of this Strategic Partnership.'
+Legal-BERT Prediction: joint and several liability (Confidence: 0.06906139850616455)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.10265369713306427)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: 'The Partnership envisages to promote trade and responsible and sustainable investment by ensuring a level playing field and expanding and diversifying the EU-Argentine Republic trade relations and contributing to long-term, sustainable, inclusive mutual economic growth, strengthened competitiveness and resilience ofrelated value chains.'
+Legal-BERT Prediction: amendment (Confidence: 0.06882935017347336)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.09970511496067047)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: 'The Participants envisages to ensure that the assessment ofthe environmental and social impact of future joint projects is carried out in line with the relevant provisions ofthe laws and regulations of the respective Participants, ensuring public participation in line with international standards and conventions.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07185295224189758)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.3093872368335724)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'The Partnership should be open and inclusive, ensure a strong multi-level public-private involvement ofindustry, business, labour, social, and other relevant partners from both Participants.'
+Legal-BERT Prediction: amendment (Confidence: 0.06854678690433502)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.14515145123004913)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Implementation and monitoring of the Partnership'
+Legal-BERT Prediction: counterparts (Confidence: 0.12749189138412476)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.10732106864452362)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'upcoming period. The Participants, may, by mutual agreement, propose a Ministerial level meeting for strategic matters.'
+Legal-BERT Prediction: amendment (Confidence: 0.10524836927652359)
+Legal-RoBERTa Prediction: amendment (Confidence: 0.08790323138237)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Legal Format'
+Legal-BERT Prediction: counterparts (Confidence: 0.10532471537590027)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05121789500117302)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'The Partnership does not give rise to any rights or obligations under international or domestic law. In particular, nothing in this Memorandum represents a commitment of financing on the part of either Participant.'
+Legal-BERT Prediction: entire agreement (Confidence: 0.0830734446644783)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.1289183497428894)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: 'Furthermore, this Memorandum does not represent any commitment from either Participant to give preferential treatment to the other Participant in any matter contemplated herein or otherwise.'
+Legal-BERT Prediction: entire agreement (Confidence: 0.1248607262969017)
+Legal-RoBERTa Prediction: entire agreement (Confidence: 0.1237378716468811)
+Final Prediction: entire agreement
+================================================================================
+
+Clause: 'The implementation of this Memorandum and any other activity hereunder is to be in accordance with each Participant's domestic laws, regulations, policies and procedures, as well as each Participant's international obligations.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.1391640305519104)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.19439473748207092)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'The activities described in this Memorandum are to commence on the day after it has been signed by both Participants.'
+Legal-BERT Prediction: amendment (Confidence: 0.10788559168577194)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.15616825222969055)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Signed in Buenos Aires on the 13 June 2023 in two originals, each in the Spanish and English languages, being both equally authentic.'
+Legal-BERT Prediction: counterparts (Confidence: 0.2312191277742386)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.13676053285598755)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'For the European UnionFor the Argentine Republic'
+Legal-BERT Prediction: counterparts (Confidence: 0.10064928978681564)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.14184024930000305)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: '')'
+Legal-BERT Prediction: counterparts (Confidence: 0.08564906567335129)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04926322400569916)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'President of the European CommissionPresident of the Argentine Republic'
+Legal-BERT Prediction: counterparts (Confidence: 0.07982052117586136)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.08297793567180634)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: 'ANNEX'
+Legal-BERT Prediction: counterparts (Confidence: 0.08005166053771973)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04777668043971062)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'List of Strategic Raw Materials'
+Legal-BERT Prediction: counterparts (Confidence: 0.10043279826641083)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08001069724559784)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Bismuth'
+Legal-BERT Prediction: counterparts (Confidence: 0.0908215343952179)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04884079843759537)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Boron - metallurgy grade'
+Legal-BERT Prediction: counterparts (Confidence: 0.0856984481215477)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06025850027799606)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Cobalt'
+Legal-BERT Prediction: counterparts (Confidence: 0.09165147691965103)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05328744277358055)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Copper'
+Legal-BERT Prediction: counterparts (Confidence: 0.0906686931848526)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.048357121646404266)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Gallium'
+Legal-BERT Prediction: counterparts (Confidence: 0.08023250102996826)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04963391274213791)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Germanium'
+Legal-BERT Prediction: counterparts (Confidence: 0.0886324942111969)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04745681583881378)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Lithium - battery grade'
+Legal-BERT Prediction: counterparts (Confidence: 0.10349440574645996)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05205170437693596)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Magnesium metal'
+Legal-BERT Prediction: counterparts (Confidence: 0.09816379100084305)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04765551909804344)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Manganese - battery grade'
+Legal-BERT Prediction: counterparts (Confidence: 0.09712590277194977)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.056052692234516144)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Natural Graphite - battery grade'
+Legal-BERT Prediction: counterparts (Confidence: 0.11566118896007538)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05377942696213722)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Nickel - battery grade'
+Legal-BERT Prediction: counterparts (Confidence: 0.09603533148765564)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06577470153570175)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Platinum Group Metals'
+Legal-BERT Prediction: counterparts (Confidence: 0.08238231390714645)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05516241863369942)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Rare Earth Elements for magnets (Nd, Pr, Tb, Dy, Gd, Sm, and Ce)'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07709324359893799)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.074580118060112)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'Silicon metal'
+Legal-BERT Prediction: counterparts (Confidence: 0.08437986671924591)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.047552525997161865)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Titanium metal'
+Legal-BERT Prediction: counterparts (Confidence: 0.08187752962112427)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04908877983689308)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Tungsten'
+Legal-BERT Prediction: counterparts (Confidence: 0.09152248501777649)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05475357174873352)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'List of Critical Raw Materials'
+Legal-BERT Prediction: counterparts (Confidence: 0.09248554706573486)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06980130821466446)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Antimony'
+Legal-BERT Prediction: counterparts (Confidence: 0.08283081650733948)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05034594610333443)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Arsenic'
+Legal-BERT Prediction: counterparts (Confidence: 0.0800415500998497)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.046443577855825424)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Bauxite'
+Legal-BERT Prediction: counterparts (Confidence: 0.0732557475566864)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04866981878876686)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Baryte'
+Legal-BERT Prediction: counterparts (Confidence: 0.09078165888786316)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04716108739376068)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Beryllium'
+Legal-BERT Prediction: counterparts (Confidence: 0.08479682356119156)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04989888146519661)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Bismuth'
+Legal-BERT Prediction: counterparts (Confidence: 0.0908215343952179)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04884079843759537)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Boron'
+Legal-BERT Prediction: counterparts (Confidence: 0.07887882739305496)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05062796175479889)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Cobalt'
+Legal-BERT Prediction: counterparts (Confidence: 0.09165147691965103)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05328744277358055)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Coking Coal'
+Legal-BERT Prediction: counterparts (Confidence: 0.09209872037172318)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04833962395787239)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Copper'
+Legal-BERT Prediction: counterparts (Confidence: 0.0906686931848526)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.048357121646404266)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Feldspar'
+Legal-BERT Prediction: counterparts (Confidence: 0.08712746202945709)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05099816992878914)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Fluorspar'
+Legal-BERT Prediction: counterparts (Confidence: 0.08491809666156769)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05478903651237488)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Gallium'
+Legal-BERT Prediction: counterparts (Confidence: 0.08023250102996826)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04963391274213791)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Germanium'
+Legal-BERT Prediction: counterparts (Confidence: 0.0886324942111969)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04745681583881378)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Hafnium'
+Legal-BERT Prediction: counterparts (Confidence: 0.09069947898387909)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04935649782419205)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Helium'
+Legal-BERT Prediction: counterparts (Confidence: 0.08439233899116516)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04863273352384567)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Heavy Rare Earth Elements'
+Legal-BERT Prediction: counterparts (Confidence: 0.07643300294876099)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05603792145848274)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Light Rare Earth Elements'
+Legal-BERT Prediction: counterparts (Confidence: 0.06965275853872299)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.056371163576841354)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Lithium'
+Legal-BERT Prediction: counterparts (Confidence: 0.0860942080616951)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04832160100340843)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Magnesium'
+Legal-BERT Prediction: counterparts (Confidence: 0.0790851041674614)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04786034673452377)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Manganese'
+Legal-BERT Prediction: counterparts (Confidence: 0.09474290162324905)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.049411576241254807)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Natural Graphite'
+Legal-BERT Prediction: counterparts (Confidence: 0.08963729441165924)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04896630346775055)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Nickel - battery grade'
+Legal-BERT Prediction: counterparts (Confidence: 0.09603533148765564)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06577470153570175)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Niobium'
+Legal-BERT Prediction: amendment (Confidence: 0.08711709082126617)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.047249387949705124)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Phosphate rock'
+Legal-BERT Prediction: counterparts (Confidence: 0.08595003932714462)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04851407930254936)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Phosphorus'
+Legal-BERT Prediction: counterparts (Confidence: 0.0924467071890831)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.050912044942379)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Platinum Group Metals'
+Legal-BERT Prediction: counterparts (Confidence: 0.08238231390714645)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05516241863369942)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Scandium'
+Legal-BERT Prediction: counterparts (Confidence: 0.09552253037691116)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04901108890771866)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Silicon metal'
+Legal-BERT Prediction: counterparts (Confidence: 0.08437986671924591)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.047552525997161865)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Strontium'
+Legal-BERT Prediction: counterparts (Confidence: 0.08746518194675446)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05181753262877464)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Tantalum'
+Legal-BERT Prediction: counterparts (Confidence: 0.0850745141506195)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04858153313398361)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Titanium metal'
+Legal-BERT Prediction: counterparts (Confidence: 0.08187752962112427)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04908877983689308)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Tungsten'
+Legal-BERT Prediction: counterparts (Confidence: 0.09152248501777649)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05475357174873352)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Vanadium'
+Legal-BERT Prediction: counterparts (Confidence: 0.08780359476804733)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05274469777941704)
+Final Prediction: counterparts
+================================================================================
+

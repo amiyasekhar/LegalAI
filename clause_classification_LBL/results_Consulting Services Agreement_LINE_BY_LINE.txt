@@ -1,0 +1,433 @@
+Results for Consulting Services Agreement_LINE_BY_LINE.txt
+Clause: 'CONSULTING SERVICES AGREEMENT'
+Legal-BERT Prediction: counterparts (Confidence: 0.09057868272066116)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06441082805395126)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'This Consulting Services Agreement (the “Agreement”) is entered into effective as of [](the “Effective Date”) by and between [], a [] (the “Company”) and []  (the “Consultant”). Each of the Company and the Consultant are hereinafter a “Party” and collectively the “Parties.”'
+Legal-BERT Prediction: termination (Confidence: 0.08527284860610962)
+Legal-RoBERTa Prediction: limitation of liability (Confidence: 0.09693996608257294)
+Final Prediction: limitation of liability
+================================================================================
+
+Clause: 'WHEREAS, the Company desires to retain the services of the Consultant and the Consultant is desirous and willing to accept such service arrangement and render such services, all upon and subject to the terms and conditions contained in this Agreement,'
+Legal-BERT Prediction: further assurance (Confidence: 0.08753297477960587)
+Legal-RoBERTa Prediction: further assurance (Confidence: 0.12129861861467361)
+Final Prediction: further assurance
+================================================================================
+
+Clause: 'NOW, THEREFORE, in consideration of the promises and the mutual covenants set forth in this Agreement, and intending to be legally bound, the Company and the Consultant agree as follows:'
+Legal-BERT Prediction: entire agreement (Confidence: 0.0978814885020256)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.10827817022800446)
+Final Prediction: assignment
+================================================================================
+
+Clause: 'Engagement.  The Company hereby engages and retains the Consultant and the Consultant hereby agrees to render services upon the terms and conditions hereinafter set forth.'
+Legal-BERT Prediction: further assurance (Confidence: 0.07977733761072159)
+Legal-RoBERTa Prediction: further assurance (Confidence: 0.09719181060791016)
+Final Prediction: further assurance
+================================================================================
+
+Clause: 'Term.  This Agreement shall be for a term commencing on the Effective Date and terminating 18 months after the Effective Date (the “Term”), unless sooner terminated in accordance with the provisions of Section 6.'
+Legal-BERT Prediction: termination (Confidence: 0.16385112702846527)
+Legal-RoBERTa Prediction: termination (Confidence: 0.1939544677734375)
+Final Prediction: termination
+================================================================================
+
+Clause: 'Services.  During the Term, the Consultant shall act as a strategic advisor providing educational, business and financial advice services to the Company (the “Services”). Without limiting the foregoing, the Services shall include the following:'
+Legal-BERT Prediction: further assurance (Confidence: 0.07118640094995499)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.21256889402866364)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '[]'
+Legal-BERT Prediction: counterparts (Confidence: 0.08361370116472244)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.0504404716193676)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '[]'
+Legal-BERT Prediction: counterparts (Confidence: 0.08361370116472244)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.0504404716193676)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '[]'
+Legal-BERT Prediction: counterparts (Confidence: 0.08361370116472244)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.0504404716193676)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'The Consultant shall devote up to []  hours per month. The Consultant shall use its best efforts to perform the Services pursuant to this Agreement competently, carefully, faithfully and shall devote sufficient time and energies necessary to perform the Services.  The Consultant’s Services shall be performed on a non-exclusive basis, but may not be performed during the Term, whether directly or indirectly, for any direct competitor of the Company or its subsidiary.  For the avoidance of doubt, a direct competitor shall be deemed to be any online university or Internet-based postsecondary education company or the providing of any services to a college or university relating to online education.'
+Legal-BERT Prediction: non-competition (Confidence: 0.13488703966140747)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.13612721860408783)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Compensation/Expenses.'
+Legal-BERT Prediction: costs (Confidence: 0.1061868667602539)
+Legal-RoBERTa Prediction: costs (Confidence: 0.17089349031448364)
+Final Prediction: costs
+================================================================================
+
+Clause: 'Cash Compensation.  In consideration for the Services to be rendered by the Consultant under this Agreement, the Company shall pay the Consultant a sum equal to []  (the “Cash Compensation”).'
+Legal-BERT Prediction: costs (Confidence: 0.08175880461931229)
+Legal-RoBERTa Prediction: costs (Confidence: 0.11158691346645355)
+Final Prediction: costs
+================================================================================
+
+Clause: 'Expenses.  In addition to any compensation received under this Section 4, the Company shall reimburse the Consultant for all reasonable travel, lodging, meals, and other prior approved out-of-pocket expenses incurred or paid by the Consultant in connection with the performance of its Services under this Agreement; provided, however, any such expenses over []shall be approved by the Company in writing in advance.  All other expenditures shall be the sole responsibility of the Consultant.'
+Legal-BERT Prediction: costs (Confidence: 0.15563228726387024)
+Legal-RoBERTa Prediction: costs (Confidence: 0.3742225170135498)
+Final Prediction: costs
+================================================================================
+
+Clause: 'Independent Contractor Relationship; Appointment to Board of Directors.'
+Legal-BERT Prediction: costs (Confidence: 0.074536994099617)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1067408099770546)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '(a)The Consultant acknowledges that it is an independent contractor and that no employee of the Consultant shall be considered an employee of the Company. The Consultant acknowledges that it is not the legal representative or agent of the Company, nor does it have the power to obligate the Company, for any purpose other than specifically provided in this Agreement.'
+Legal-BERT Prediction: counterparts (Confidence: 0.08213329315185547)
+Legal-RoBERTa Prediction: relationship (Confidence: 0.12331724166870117)
+Final Prediction: relationship
+================================================================================
+
+Clause: 'Termination.'
+Legal-BERT Prediction: counterparts (Confidence: 0.07907205820083618)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.10138827562332153)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'In the event of a material default under this Agreement by either party, the other party may terminate this Agreement if such default is not cured within  [] days following delivery of written notice specifying and detailing the default complained of and demanding its cure.   Notwithstanding the preceding, in the event of a violation by the Consultant of Section 7, the Company may terminate this Agreement immediately upon written notice to the Consultant.'
+Legal-BERT Prediction: termination (Confidence: 0.1175384595990181)
+Legal-RoBERTa Prediction: termination (Confidence: 0.13434343039989471)
+Final Prediction: termination
+================================================================================
+
+Clause: 'Upon termination of this Agreement, the Company shall reimburse the Consultant for any reasonable expenses previously incurred for which the Consultant had not been reimbursed prior to the effective date of termination, provided that the requirements of Section 4(c) have been satisfied.  Any and all other rights granted to the Consultant under this Agreement shall terminate as of the date of such termination.'
+Legal-BERT Prediction: termination (Confidence: 0.1109282374382019)
+Legal-RoBERTa Prediction: costs (Confidence: 0.24363815784454346)
+Final Prediction: costs
+================================================================================
+
+Clause: 'Non-Disclosure of Confidential Information.'
+Legal-BERT Prediction: amendment (Confidence: 0.09549521654844284)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.09774121642112732)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'Confidential Information.  Confidential Information includes, but is not limited to, trade secrets as defined by the common law and statutes in [] or any future []statute, processes, policies, procedures, techniques including recruiting techniques, designs, drawings, know-how, show-how, technical information, specifications, computer software and source code, information and data relating to the development, research, testing, costs, marketing and uses of the Company’s products and services, the Company’s budgets and strategic plans, and the identity and special needs of students, databases, data, all technology relating to the Company’s businesses, systems, methods of operation, student lists, student information, solicitation leads, marketing and advertising materials, methods and manuals and forms, all of which pertain to the activities or operations of the Company, names, home addresses and all telephone numbers and e-mail addresses of the Company’s employees, former employees, clients and former clients. In addition, Confidential Information also includes the identity of students and the identity of and telephone numbers, e-mail addresses and other addresses of employees or agents of students who are the persons with whom the Company’s employees and agents communicate in the ordinary course of business.  For purposes of this Agreement, the following will not constitute Confidential Information (i) information which is or subsequently becomes generally available to the public through no act or omission of the Consultant, (ii) information set forth in the written records of the Consultant prior to disclosure to the Consultant by or on behalf of the Company, which information is given to the Company in writing as of or prior to the date of this Agreement, and (iii) information which is lawfully obtained by the Consultant in writing from a third party (excluding any affiliates of the Consultant) who was legally entitled to disclose the information.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.2372247278690338)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.341250479221344)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'Legitimate Business Interests.  The Consultant recognizes that the Company has legitimate business interests to protect and as a consequence, the Consultant agrees to the restrictions contained in this Agreement because they further the Company’s legitimate business interests.  These legitimate business interests include, but are not limited to (i) trade secrets and valuable confidential business or professional information that otherwise does not qualify as trade secrets, including all Confidential Information; (ii) substantial relationships with specific prospective or existing students; (iii) student goodwill associated with the Company’s business; and (iv) specialized training relating to the Company’s business, technology, methods and procedures.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.08369586616754532)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.24390877783298492)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'Confidentiality.  The Confidential Information shall be held by the Consultant in the strictest confidence and shall not, without the prior written consent of the Company, be disclosed to any person other than in connection with the Consultant’s Services to the Company.  The Consultant further acknowledges that such Confidential Information as is acquired and used by the Company is a special, valuable and unique asset.  The Consultant shall exercise all due and diligence precautions to protect the integrity of the Company’s Confidential Information and to keep it confidential whether it is in written form, on electronic media or oral.  The Consultant shall not copy any Confidential Information except to the extent necessary to perform its Services hereunder nor remove any Confidential Information or copies thereof from the Company’s premises except to the extent necessary to provide its Services and then only with the authorization of an officer of the Company.  All records, files, materials and other Confidential Information obtained by the Consultant in the course of its Services to the Company are confidential and proprietary and shall remain the exclusive property of the Company or its students, as the case may be.  The Consultant shall not, except in connection with and as required by its performance of the Services under this Agreement, for any reason use for his own benefit or the benefit of any person or entity with which he may be associated or disclose any such Confidential Information to any person, firm, corporation, association or other entity for any reason or purpose whatsoever without the prior written consent of an officer of the Company.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.3287557363510132)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.46509912610054016)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'Prior Approval.  Neither Party shall issue any public statements or press release concerning this Agreement or the Parties’ relationship without the other Party’s prior approval unless otherwise required by law.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.10299605131149292)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.12199893593788147)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'Equitable Relief.  The Company and the Consultant recognize that the Services to be rendered under this Agreement by the Consultant are special, unique and of extraordinary character, and that in the event of the breach by the Consultant of the terms and conditions of this Agreement or if the Consultant shall cease to provide the Services to the Company for any reason and take any action in violation of Section 7, the Company shall be entitled to institute and prosecute proceedings in any court of competent jurisdiction to enjoin the Consultant from breaching the provisions of Section 7.  In such action, the Company shall not be required to plead or prove irreparable harm or lack of an adequate remedy at law or post a bond or any security.'
+Legal-BERT Prediction: damages (Confidence: 0.07386978715658188)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.1349239945411682)
+Final Prediction: indemnity
+================================================================================
+
+Clause: 'Survival.  Sections 7, 8 and 12 through 18 shall survive termination of this Agreement.'
+Legal-BERT Prediction: termination (Confidence: 0.12340345978736877)
+Legal-RoBERTa Prediction: termination (Confidence: 0.11516991257667542)
+Final Prediction: termination
+================================================================================
+
+Clause: 'Assignability.  The rights and obligations of the Company under this Agreement shall inure to the benefit of and be binding upon the successors and assigns of the Company.  This Agreement may not be assigned by the Consultant without the prior written consent of the Company and any attempt to do so shall be void.'
+Legal-BERT Prediction: assignment (Confidence: 0.2916732728481293)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.40459001064300537)
+Final Prediction: assignment
+================================================================================
+
+Clause: 'Severability.  If any provision of this Agreement otherwise is deemed to be invalid or unenforceable or is prohibited by the laws of the state or jurisdiction where it is to be performed, this Agreement shall be considered divisible as to such provision and such provision shall be inoperative in such state or jurisdiction and shall not be part of the consideration moving from either of the Parties to the other.  The remaining provisions of this Agreement shall be valid and binding and of like effect as though such provisions were not included. If any restriction set forth in this Agreement is deemed unreasonable in scope, it is the Parties’ intent that it shall be construed in such a manner as to impose only those restrictions that are reasonable in light of the circumstances and as are necessary to assure the Company the benefits of this Agreement.'
+Legal-BERT Prediction: severability (Confidence: 0.2525599002838135)
+Legal-RoBERTa Prediction: severability (Confidence: 0.47470614314079285)
+Final Prediction: severability
+================================================================================
+
+Clause: 'Notices and Addresses.  All notices, offers, acceptance and any other acts under this Agreement (except payment) shall be in writing, and shall be sufficiently given if delivered to the addressees in person, by or similar overnight delivery, as follows:'
+Legal-BERT Prediction: notice (Confidence: 0.17152829468250275)
+Legal-RoBERTa Prediction: notice (Confidence: 0.4039957821369171)
+Final Prediction: notice
+================================================================================
+
+Clause: 'If to the Company: []'
+Legal-BERT Prediction: amendment (Confidence: 0.07983775436878204)
+Legal-RoBERTa Prediction: notice (Confidence: 0.12439184635877609)
+Final Prediction: notice
+================================================================================
+
+Clause: 'If to the Consultant: []'
+Legal-BERT Prediction: counterparts (Confidence: 0.10884092003107071)
+Legal-RoBERTa Prediction: notice (Confidence: 0.08833780884742737)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'or to such other address as either of them, by notice to the other may designate from time to time.  Time shall be counted to, or from, as the case may be, the delivery in person or by mailing.'
+Legal-BERT Prediction: notice (Confidence: 0.16270427405834198)
+Legal-RoBERTa Prediction: notice (Confidence: 0.38024088740348816)
+Final Prediction: notice
+================================================================================
+
+Clause: 'Counterparts.  This Agreement may be executed in one or more counterparts, each of which shall be deemed an original but all of which together shall constitute one and the same instrument.  The execution of this Agreement may be by actual, facsimile or pdf signature.'
+Legal-BERT Prediction: counterparts (Confidence: 0.474793940782547)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.5234052538871765)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Governing Law.  All claims relating to or arising out of this Agreement, or the breach thereof, whether sounding in contract, tort, or otherwise, shall also be governed by the laws of the [] without regard to choice of law considerations.'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.1877046525478363)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.2695119082927704)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: 'Exclusive Jurisdiction and Venue. Any action brought by either party against the other concerning the transactions contemplated by or arising under this Agreement shall be brought only in the  [] and venue shall be in [] or the [] .  The Parties to this Agreement hereby irrevocably waive any objection to jurisdiction and venue of any action instituted hereunder and shall not assert any defense based on lack of jurisdiction or venue or based upon forum non conveniens.'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.16898897290229797)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.4667024612426758)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: 'Entire Agreement.  This Agreement constitutes the entire agreement between the Parties and supersedes all prior oral and written agreements between the Parties hereto with respect to the subject matter hereof.  Neither this Agreement nor any provision hereof may be changed, waived, discharged or terminated orally, except by a statement in writing signed by the party or Parties against whom enforcement or the change, waiver discharge or termination is sought.'
+Legal-BERT Prediction: entire agreement (Confidence: 0.21417881548404694)
+Legal-RoBERTa Prediction: entire agreement (Confidence: 0.33785393834114075)
+Final Prediction: entire agreement
+================================================================================
+
+Clause: 'Additional Documents.  The Parties hereto shall execute such additional instruments as may be reasonably required by their counsel in order to carry out the purpose and intent of this Agreement and to fulfil the obligations of the Parties hereunder.'
+Legal-BERT Prediction: further assurance (Confidence: 0.20941075682640076)
+Legal-RoBERTa Prediction: further assurance (Confidence: 0.26798561215400696)
+Final Prediction: further assurance
+================================================================================
+
+Clause: 'Section and Paragraph Headings.  The section and paragraph headings in this Agreement are for reference purposes only and shall not affect the meaning or interpretation of this Agreement.'
+Legal-BERT Prediction: entire agreement (Confidence: 0.12324104458093643)
+Legal-RoBERTa Prediction: severability (Confidence: 0.1386619359254837)
+Final Prediction: severability
+================================================================================
+
+Clause: 'IN WITNESS WHEREOF, the Company and the Consultant have executed this Agreement as of the date written above.'
+Legal-BERT Prediction: counterparts (Confidence: 0.08359302580356598)
+Legal-RoBERTa Prediction: termination (Confidence: 0.08656589686870575)
+Final Prediction: termination
+================================================================================
+
+Clause: 'Annexure A: Scope of Work'
+Legal-BERT Prediction: amendment (Confidence: 0.07539402693510056)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06947923451662064)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Description of Work'
+Legal-BERT Prediction: counterparts (Confidence: 0.09453882277011871)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.050457943230867386)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'The following describes the project expectations and specifications; Vendor activities; and reporting requirements for: Work, Services, handling of Microsoft Products, and/or other items or materials that Vendor will perform and/or deliver to Microsoft under this SOW and in accordance with the Agreement (collectively, the “Work”). If the parties agree that any of the Work should be designated “work for hire,” the parties will make the designation in writing.'
+Legal-BERT Prediction: termination (Confidence: 0.0736398845911026)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.14461380243301392)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Product Specifications'
+Legal-BERT Prediction: counterparts (Confidence: 0.07593054324388504)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05163085460662842)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'With the launch of Microsoft Online Services (such as Microsoft Dynamics CRM Online), Microsoft now sells directly to corporate customers as well as through its extensive network of partners. Microsoft Dynamics is part of Microsoft’s Business Division (MBD) which also includes Microsoft Office, Microsoft Exchange and Microsoft Office SharePoint Server.'
+Legal-BERT Prediction: non-competition (Confidence: 0.08494153618812561)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.20618192851543427)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Products within the Microsoft’s Business Division'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.0735773965716362)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1276620626449585)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Microsoft Business Division (MBD) Products'
+Legal-BERT Prediction: amendment (Confidence: 0.07475461810827255)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10715259611606598)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '• 2007 Microsoft Office system'
+Legal-BERT Prediction: counterparts (Confidence: 0.10603172332048416)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05445794761180878)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Microsoft Small Business Center'
+Legal-BERT Prediction: counterparts (Confidence: 0.09635774791240692)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08642005175352097)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '• Exchange Server'
+Legal-BERT Prediction: counterparts (Confidence: 0.0878196433186531)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.06570799648761749)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Microsoft Small Business Financials'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.06690988689661026)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10422138124704361)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '• InfoPath 2007'
+Legal-BERT Prediction: counterparts (Confidence: 0.09654511511325836)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05639471486210823)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Office Communications Server 2007'
+Legal-BERT Prediction: counterparts (Confidence: 0.10893017053604126)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.056497879326343536)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '• Live Meeting'
+Legal-BERT Prediction: counterparts (Confidence: 0.0887516513466835)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05994577333331108)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'OneNote 2007'
+Legal-BERT Prediction: amendment (Confidence: 0.08060067892074585)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.056080251932144165)
+Final Prediction: amendment
+================================================================================
+
+Clause: '• Microsoft Dynamics AX'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.06964132934808731)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07599709182977676)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Project 2007'
+Legal-BERT Prediction: counterparts (Confidence: 0.09422314167022705)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05002176761627197)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '• Microsoft Dynamics CRM'
+Legal-BERT Prediction: counterparts (Confidence: 0.0988234430551529)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06715443730354309)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Publisher 2007'
+Legal-BERT Prediction: counterparts (Confidence: 0.09647520631551743)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05428321287035942)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '• Microsoft Dynamics Enterprise Reporting'
+Legal-BERT Prediction: counterparts (Confidence: 0.080534927546978)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08826018869876862)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '• Microsoft Dynamics GP'
+Legal-BERT Prediction: counterparts (Confidence: 0.0816551148891449)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08216613531112671)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Visio 2007'
+Legal-BERT Prediction: counterparts (Confidence: 0.07891964912414551)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05327872186899185)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '• Microsoft Dynamics NAV'
+Legal-BERT Prediction: counterparts (Confidence: 0.08756941556930542)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07390467822551727)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Microsoft Dynamics RMS'
+Legal-BERT Prediction: amendment (Confidence: 0.07533137500286102)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.059112098067998886)
+Final Prediction: amendment
+================================================================================
+
+Clause: '• Microsoft Dynamics SL'
+Legal-BERT Prediction: amendment (Confidence: 0.07445135712623596)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07511894404888153)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Microsoft Next Gen Authoring Tools'
+Legal-BERT Prediction: amendment (Confidence: 0.07092645019292831)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07179755717515945)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '• Microsoft Office Communicator 200'
+Legal-BERT Prediction: counterparts (Confidence: 0.10076514631509781)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08298160880804062)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Microsoft Dynamics Product Portfolio ERP & CRM'
+Legal-BERT Prediction: counterparts (Confidence: 0.08365162461996078)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07159719616174698)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Locations - Facilities - Vendor shall perform the Work under this SOW at the following Site(s) (owned or leased by Vendor)'
+Legal-BERT Prediction: counterparts (Confidence: 0.08424495160579681)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.10577428340911865)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: 'Vendor Provided Standard Roles and Levels'
+Legal-BERT Prediction: amendment (Confidence: 0.07138043642044067)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.11667800694704056)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'Vendor will staff the telesales function with personnel who possess the following characteristics and minimum credentials and qualifications; Inside Sales Specialist Online (ISS Online. The CRM Inside Sales Specialist Online (ISS Online) is a telephone-based resource contacting each new Dynamics CRM Online Trial customer with the objective of conducting customer profiling and basic needs discovery to ensure that each customer is supported in the most appropriate way during their Dynamics CRM Online Trial. The ISS Online will validate customer profile information and understand why the customer has chosen to sign up for the trial. The ISS Online will have targets set'
+Legal-BERT Prediction: non-competition (Confidence: 0.08773806691169739)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.16856414079666138)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Ongoing training topic'
+Legal-BERT Prediction: counterparts (Confidence: 0.0787748321890831)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0855473130941391)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Microsoft will provide as needed and/or as requested training for the telesales representatives on relevant topics. These trainings will be conducted via Live Meeting. Microsoft is responsible for providing the subject matter experts. Train the Trainer sessions may take place at Microsoft locations, as well as at the Vendor location; in such event, Microsoft will cover/reimburse the costs for all associated travel. As deemed necessary by Microsoft, Microsoft shall provide readiness plans and Train the Trainer programs for new products, program launches and tools enhancements or rollouts, or if there is a significant change to current products or processes/initiatives. This shall include training materials and documentation as appropriate.'
+Legal-BERT Prediction: insurance (Confidence: 0.08676697313785553)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0914526879787445)
+Final Prediction: non-competition
+================================================================================
+

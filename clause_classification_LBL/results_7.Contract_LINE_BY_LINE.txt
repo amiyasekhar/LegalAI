@@ -1,0 +1,697 @@
+Results for 7.Contract_LINE_BY_LINE.txt
+Clause: 'MASTER SERVICE AGREEMENT'
+Legal-BERT Prediction: counterparts (Confidence: 0.09047526866197586)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0546782985329628)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'This Master Service Agreement (“Agreement”) is entered into by Miso Robotics, Inc. (“Miso”) and [____]. ("Customer") and consists of the terms contained herein and all Miso Order Form(s) (as defined below).'
+Legal-BERT Prediction: termination (Confidence: 0.08386668562889099)
+Legal-RoBERTa Prediction: entire agreement (Confidence: 0.12166465818881989)
+Final Prediction: entire agreement
+================================================================================
+
+Clause: 'BY EXECUTING THIS AGREEMENT, A MISO ORDER FORM THAT REFERENCES THIS AGREEMENT, ISSUING A PURCHASE ORDER REFERENCING AN ORDER FORM, OR OTHERWISE INDICATING YOUR ACCEPTANCE OF THIS AGREEMENT, YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT YOU HAVE READ AND UNDERSTAND THIS AGREEMENT, YOU AGREE TO THE TERMS AND CONDITIONS OF THIS AGREEMENT AND ARE BOUND BY THIS AGREEMENT. IF YOU ARE AN INDIVIDUAL ENTERING INTO THIS AGREEMENT ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, (A) YOU REPRESENT AND WARRANT THAT YOU HAVE FULL LEGAL AUTHORITY TO BIND SUCH ENTITY TO THIS AGREEMENT, AND (B) YOU AGREE, ON BEHALF OF SUCH ENTITY, TO THE TERMS AND CONDITIONS OF THIS AGREEMENT. IF YOU DO NOT HAVE FULL LEGAL AUTHORITY TO BIND SUCH ENTITY OR DO NOT ACCEPT ALL THE TERMS AND CONDITIONS OF THIS AGREEMENT, DO NOT EXECUTE A MISO ORDER FORM, ISSUE A PURCHASE ORDER REFERENCING THE ORDER FORM, OR OTHERWISE INDICATE YOUR ACCEPTANCE OF THIS AGREEMENT.'
+Legal-BERT Prediction: waiver (Confidence: 0.07162507623434067)
+Legal-RoBERTa Prediction: entire agreement (Confidence: 0.06785058975219727)
+Final Prediction: waiver
+================================================================================
+
+Clause: '1. DEFINITIONS'
+Legal-BERT Prediction: amendment (Confidence: 0.08743660897016525)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.050838127732276917)
+Final Prediction: amendment
+================================================================================
+
+Clause: '1.1. “Authorized Use” means use of the Product by Customer’s employees and authorized representatives at Customer’s Installation Site.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.06699353456497192)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.09754092246294022)
+Final Prediction: insurance
+================================================================================
+
+Clause: '1.2. “Data” means any information provided by Customer which is maintained, received and/or transmitted by or to Miso.'
+Legal-BERT Prediction: termination (Confidence: 0.07044979184865952)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.16236147284507751)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '1.3. “Equipment” may include a Flippy 2 fry station and any subsequent iteration of this product, as more specifically described in an Order Form, which is a robot on an overhead rail and may include, if ordered, a robotic arm a Kitchen Intelligence analytics software, freezer dispenser (“hopper”), a hot holding appliance for finished food, and camera computer vision system. “Equipment” shall also include any accompanying hardware provided, including but not be limited to desktop and tablet computers and accessories.'
+Legal-BERT Prediction: counterparts (Confidence: 0.0733247846364975)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1319081336259842)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.4. “Indirect Taxes” means applicable taxes and duties, including, without limitation, VAT, service tax, GST, excise taxes, sales and transactions taxes, and gross receipts tax.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07253474742174149)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.19016537070274353)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '1.5. “Installation Site” means the location identified in the Order Form as the site of installation and use of the Product.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.06959152966737747)
+Legal-RoBERTa Prediction: notice (Confidence: 0.1528759002685547)
+Final Prediction: notice
+================================================================================
+
+Clause: '1.6. “Losses” means any claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys’ fees.'
+Legal-BERT Prediction: costs (Confidence: 0.26786670088768005)
+Legal-RoBERTa Prediction: costs (Confidence: 0.533961832523346)
+Final Prediction: costs
+================================================================================
+
+Clause: '1.7. “Monthly Recurring Charges” means the monthly amount due from Customer for each calendar month during the Term, specifically excluding any non-recurring fees.'
+Legal-BERT Prediction: termination (Confidence: 0.08157847821712494)
+Legal-RoBERTa Prediction: costs (Confidence: 0.13118793070316315)
+Final Prediction: costs
+================================================================================
+
+Clause: '1.8. “Order Form” means the ordering document attached hereto as Exhibit A-1prepared by either party and confirmed by the other party by execution by both parties. The parties agree that the Order Form may be signed electronically by either party and shared with the other party by email.'
+Legal-BERT Prediction: counterparts (Confidence: 0.12426557391881943)
+Legal-RoBERTa Prediction: notice (Confidence: 0.13898766040802002)
+Final Prediction: notice
+================================================================================
+
+Clause: '1.9. “Product” means the product provided to Customer for the Authorized Use, including the Equipment and any Software but excluding Third-Party Products, if any.'
+Legal-BERT Prediction: termination (Confidence: 0.07002528011798859)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.0963984951376915)
+Final Prediction: insurance
+================================================================================
+
+Clause: '1.10. “Service Level Agreement” (“SLA”) means the agreement that defines the level of service to be provided by Miso to Customer as provided in Exhibit B.'
+Legal-BERT Prediction: termination (Confidence: 0.08995891362428665)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1421506702899933)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.11. “Software” means the software that accompanies or is made available in connection with the Equipment, including without limitation firmware incorporated in any Equipment.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.08121008425951004)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1109778955578804)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.12. “Third-Party Products” means those products manufactured or software licensed by a party other than Miso, and may include, without limitation, products ordered by Customer from third parties pursuant to Miso's recommendations.'
+Legal-BERT Prediction: termination (Confidence: 0.07854505628347397)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.11911968141794205)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '2. ORDERS, FEES AND PAYMENT'
+Legal-BERT Prediction: costs (Confidence: 0.09058485180139542)
+Legal-RoBERTa Prediction: costs (Confidence: 0.16515344381332397)
+Final Prediction: costs
+================================================================================
+
+Clause: '2.1. Fees. The parties agree that the charges to Customer for Equipment as set forth in Exhibit A (“Fees”) will not be increased by Miso during the Term. Further, Miso agrees that the Fees payable by Customer for a Product shall be no less favorable than the fees charged by Miso to any other party, taking into consideration volumes and delivery terms but excluding beta, seeding, and demonstration units. In the event Miso offers a third party more favorable pricing for a Product, Miso shall notify Customer and Customer may accept such favorable pricing for purposes of all orders going forward.'
+Legal-BERT Prediction: termination (Confidence: 0.09426140040159225)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.07386989891529083)
+Final Prediction: termination
+================================================================================
+
+Clause: '2.2. Orders.'
+Legal-BERT Prediction: amendment (Confidence: 0.07875646650791168)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.09014914184808731)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '2.2.1. Orders. From time to time during the Term, the parties may agree to include additional Installation Sites and/or Products under the terms and conditions of this Agreement. The parties shall enter into an Order Form (generally in the form of Exhibit A or as otherwise described in the definition of “Order Form”) in respect of each such Installation Site and Product, and each such Order Form shall be incorporated into this Agreement by reference.'
+Legal-BERT Prediction: amendment (Confidence: 0.06446829438209534)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.11179038137197495)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '2.2.2. Order Commitment. Customer agrees to license and deploy a minimum of one hundred (100) Products during the Term of this Agreement at Installation Sites and on dates as selected by Customer and specified in each Order Form.'
+Legal-BERT Prediction: termination (Confidence: 0.08187081664800644)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10938052833080292)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '2.2.3. Submission and Acceptance of Orders. All Order Forms are subject to acceptance in writing by Miso. However, Miso may also accept an Order Form by delivering the Product or commencing to perform Services specified in the Order Form. When Miso accepts an Order Form, Miso shall promptly notify Customer in writing of Miso's estimated shipping, delivery and installation dates or service commencement dates applicable to the order. Shipping and delivery dates are estimates only.'
+Legal-BERT Prediction: notice (Confidence: 0.08823080360889435)
+Legal-RoBERTa Prediction: notice (Confidence: 0.3373921513557434)
+Final Prediction: notice
+================================================================================
+
+Clause: '2.3. Location Census. As part of the ordering process, Customer must complete the Location Census form provided in an electronic link, which contains location specification information, including information related to the Installation Site. Such data is used to configure, ship, and install the Product. Customer is responsible for providing correct information; if any incorrect information is provided, the configuration, delivery and/or installation of the Product may be delayed and Customer may incur additional costs.'
+Legal-BERT Prediction: joint and several liability (Confidence: 0.059737421572208405)
+Legal-RoBERTa Prediction: notice (Confidence: 0.14763469994068146)
+Final Prediction: notice
+================================================================================
+
+Clause: '2.4. Cancellations and Changes. Any change, modification or cancellation of any Order Form for Products or Services requested by Customer after acceptance by Miso may result in an additional charge to Customer; provided that Miso must provide advance written notice of any such additional charge. Customer is responsible for any reasonable additional costs incurred by Miso due to a change in the system configuration prior to installation of the Product.'
+Legal-BERT Prediction: costs (Confidence: 0.09079840034246445)
+Legal-RoBERTa Prediction: notice (Confidence: 0.14560817182064056)
+Final Prediction: notice
+================================================================================
+
+Clause: '2.5. Payment. Customer’s right to use the Product is subject to Customer’s timely payment of the One-time fees and Monthly Recurring Charges specified in the applicable Order Form. At the beginning of each billing period, Miso will issue an invoice to Customer for Monthly Recurring Charges due pursuant to each Order Form as well as any other fees then due. Payment shall be made by check or ACH/direct debit. Customer authorizes Miso to charge Customer’s payment method for all amounts due under this Agreement in accordance with the terms set forth herein. All Monthly Recurring Charges will be paid to Miso without setoff or counterclaim and are non-refundable.'
+Legal-BERT Prediction: costs (Confidence: 0.06975878030061722)
+Legal-RoBERTa Prediction: notice (Confidence: 0.15557947754859924)
+Final Prediction: notice
+================================================================================
+
+Clause: '2.6. Taxes. Each party will be responsible, as required under applicable law, for identifying and paying all taxes and other governmental fees and charges (and any penalties, interest, and other additions thereto) that are imposed on that party upon or with respect to the transactions and payments under this Agreement. All Fees payable by Customer are exclusive of Indirect Taxes. Miso may charge and Customer will pay applicable Indirect Taxes that Miso is legally obligated or authorized to collect from Customer. Customer will provide such information to Miso as reasonably required to determine whether Miso is obligated to collect Indirect Taxes from Customer.'
+Legal-BERT Prediction: non-competition (Confidence: 0.07479234784841537)
+Legal-RoBERTa Prediction: costs (Confidence: 0.15052750706672668)
+Final Prediction: costs
+================================================================================
+
+Clause: '2.7. Invoice Disputes & Refunds. Customer must submit any invoice disputes prior to the payment due date. If the parties determine that certain billing inaccuracies are attributable to Miso, Miso will not issue a corrected invoice, but will instead issue a credit memo specifying the incorrect amount in the affected invoice. If the disputed invoice has not yet been paid, Miso will apply the credit memo amount to the disputed invoice and Customer will be responsible for paying the resulting net balance due on that invoice. To the fullest extent permitted by law, Customer waives all claims relating to Monthly Recurring Charges unless claimed within sixty (60) days after charged.'
+Legal-BERT Prediction: costs (Confidence: 0.09092465043067932)
+Legal-RoBERTa Prediction: notice (Confidence: 0.11485327035188675)
+Final Prediction: notice
+================================================================================
+
+Clause: '2.8. Delinquent Payments. Miso may charge Customer interest at the rate of 1.5% per month (or the highest rate permitted by law, if less) on all late payments. Customer is responsible for any and all reasonable costs of collection incurred by Miso in collecting such late or past due payments, including reasonable attorney’s fees and litigation costs.'
+Legal-BERT Prediction: costs (Confidence: 0.1307910978794098)
+Legal-RoBERTa Prediction: costs (Confidence: 0.28804516792297363)
+Final Prediction: costs
+================================================================================
+
+Clause: '3. LICENSE; OWNERSHIP'
+Legal-BERT Prediction: amendment (Confidence: 0.0770651176571846)
+Legal-RoBERTa Prediction: limitation of liability (Confidence: 0.07372686266899109)
+Final Prediction: amendment
+================================================================================
+
+Clause: '3.1. License Grant. Miso grants to Customer a personal, non-exclusive, non-transferable, revocable, limited license to the Product for the Authorized Use during the Term at Customer’s Installation Site(s). Customer’s rights to use the Product are limited to those expressly granted herein and no license or right is granted to Customer or any third party by implication, estoppel or otherwise. Any open source software included within the Product is licensed under the terms of the respective open source software license agreement.'
+Legal-BERT Prediction: intellectual property (Confidence: 0.10664176195859909)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.14551784098148346)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: '3.2. Proprietary Rights. Customer acknowledges and agrees that Miso owns all right, title and interest in and to the Product, including all improvements, enhancements, modifications, and derivative works thereof, and all intellectual property rights thereto. Customer will not, and will not purport to, assign, grant, or transfer the Product or any interest in the Product to any individual or entity, and any such purported assignment, grant, or transfer is void. As part of the standard operation of the Product, images of food and the immediately surrounding area are recorded to improve Miso products and contribute to machine learning capabilities. Such images, as well as the learnings resulting from operation of the Product, are and shall be exclusively owned by Miso. To the extent Customer has any ownership interest in such images or learnings, Customer hereby assigns to Miso all right, title, and interest in and to such images and learnings and all intellectual property rights thereto.'
+Legal-BERT Prediction: intellectual property (Confidence: 0.19295649230480194)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.1844034343957901)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: '3.3. Feedback. Customer and those acting on its behalf may provide suggestions, comments, enhancement requests, recommendations or other feedback with respect to the Products or the Confidential Information provided by Miso, except to the extent including: (i) Confidential Information of Customer, or (ii) (without limiting Miso’s rights under Section 11.3) information that directly or indirectly identifies Customer or its employees or personnel, including without limitation Customer’s name, logos, and trademarks (collectively, “Feedback”). As between Miso and Customer, Miso is free to use, without any attribution or compensation to Customer, any ideas, know-how, concepts, techniques, or other intellectual property rights contained in the Feedback for any purpose whatsoever.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.1829131841659546)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.3360369801521301)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '3.4. Third-Party Products. Third-Party Products recommended by or provided by or on behalf of Miso to Customer shall be subject to the license terms and conditions, if any, that accompany such Third-Party Products. Third-party software and the intellectual property rights associated therewith belong solely to the respective developer or licensor. Miso makes no representation or warranty with respect thereto and will have no liability in connection therewith. In the event of a conflict between the terms of this Agreement and the license terms and conditions related to Third-Party Products, the license terms and conditions of the Third-Party Products shall control but only with respect to such products.'
+Legal-BERT Prediction: assignment (Confidence: 0.08348657190799713)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.11890950798988342)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: '4. RESPONSIBILITIES'
+Legal-BERT Prediction: amendment (Confidence: 0.07654021680355072)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05857154354453087)
+Final Prediction: amendment
+================================================================================
+
+Clause: '4.1. Miso. Subject to the terms of this Agreement, including timely payment of all Fees owed, Miso shall have responsibility for the following:'
+Legal-BERT Prediction: termination (Confidence: 0.07893763482570648)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.13158874213695526)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '4.1.1. Arrange for the transportation and delivery of the Product to the Installation Site and install the Product on a mutually agreeable date.'
+Legal-BERT Prediction: further assurance (Confidence: 0.10308962315320969)
+Legal-RoBERTa Prediction: notice (Confidence: 0.14279228448867798)
+Final Prediction: notice
+================================================================================
+
+Clause: '4.1.2. Program all of Customer’s menu items and recipes (cook times) into the Product. 4.1.3. Train the software to visually recognize and machine learn the Customer’s menu items. 4.1.4. Train all Customer personnel who attend training on the operation of the Product. 4.1.5. Remain on-site and available for sufficient days post-installation.'
+Legal-BERT Prediction: non-competition (Confidence: 0.07691676169633865)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1216864213347435)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '4.1.6. Monitor and measure the Product’s performance and report the data to Customer for evaluation.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.06398600339889526)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.14604367315769196)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '4.1.7. Provide support of the Product in accordance with the SLA, as well as all maintenance and service of the Product.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.10141398757696152)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.24546939134597778)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '4.1.8. Take all safety precautions related to its services in order to not proceed in a manner that jeopardizes the safety of Customer’s employees or guests and comply with all applicable laws. Any fines generated as a result of Miso’s non-compliance with a local, state, or federal safety regulation, rule, or law shall be the responsibility of Miso.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.09875187277793884)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.3841693103313446)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '4.2. Customer. Customer shall have responsibility for the following:'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07370932400226593)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.07633577287197113)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '4.2.1. Ensure the Installation Site has electrical power available (110V & 220V outlets), an internet connection, and an agreed-upon number of deep fryers.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07137821614742279)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.08070682734251022)
+Final Prediction: insurance
+================================================================================
+
+Clause: '4.2.2. In conjunction with Miso, evaluate and determine the appropriate configuration of the Product to be installed at the Installation Site.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.08896632492542267)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.11053477972745895)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '4.2.3. Provide Miso with instructions on Customer’s food preparation, operating procedures, and physical space specifications.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.09965989738702774)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.11120324581861496)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '4.2.4. Delivery of the Product shall be made DAP (Delivered at Place, Incoterms® 2020) at the Installation Site in accordance with the delivery schedule mutually agreed upon by the parties. Customer is responsible for and shall pay all transportation fees specified in the Order Form, as well as all duty, customs clearance and other charges related to delivery to an international destination. Customer will ensure that it has all necessary rights, certifications, and licenses for the delivery, installation, maintenance, use, and removal of the Product at the Installation Site. From the time the Product is delivered to the Location Site until its return to Miso, Customer is responsible for any loss, theft, damage to, or destruction of the Product, unless caused by Miso. If Customer breaches these terms, Miso may terminate Customer’s right to use the Product and may remove the Product.'
+Legal-BERT Prediction: costs (Confidence: 0.08783093839883804)
+Legal-RoBERTa Prediction: notice (Confidence: 0.1298322230577469)
+Final Prediction: notice
+================================================================================
+
+Clause: '4.2.5. Customer shall cooperate and have shared responsibility with Miso as reasonably necessary for the delivery of Products and performance of Services. These shared responsibilities include, but are not limited to the following: (i) providing Miso with access to all facilities, electricity, hardware, software, work space, and related support (e.g., internet access); (ii) ensuring that the premises are safe and commercially appropriate (e.g., free of any hazardous materials, installation of necessary power and climate control facilities); (iii) ensuring that Customer has obtained connection to and all necessary permissions or consents from any public or private network to which the Products are connected and any necessary permissions from government authorities and holders of real property rights; and (iv) providing Miso with designated points of contact. Customer shall be responsible for ensuring that its networks and systems are adequately secured against unauthorized intrusion or attack. All items to be provided by Customer are at Customer's expense.'
+Legal-BERT Prediction: non-competition (Confidence: 0.10209912806749344)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.11011061072349548)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '4.2.6. Customer will not, in whole or in part, (i) modify, alter, reverse compile, reverse engineer, or reverse assemble the Product or any portion thereof; (ii) export the Product in violation of any law or regulation; or (iii) copy, distribute, disclose, market, rent, sell or transfer the Product or any portion thereof to any third party.'
+Legal-BERT Prediction: non-solicitation (Confidence: 0.07876233011484146)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.12188269942998886)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: '4.2.7. Customer will (i) keep and maintain the Product in good condition and working order, (b) not relocate the Product from the Installation Site or make alterations to the Product without Miso’s prior written approval; (ii) notify Miso promptly if the Product fails; (iii) keep the Product free and clear of any levies, liens or encumbrances; and (iv) permit changes to the Product by Miso at Miso’s expense which do not adversely affect performance or interchangeability in a material manner or are required by law or for safety/reliability purposes.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.0942242443561554)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.1615253984928131)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '4.2.8. For the Term of this Agreement, Customer shall maintain commercial general liability insurance with limits of at least $1,000,000 per occurrence and an annual aggregate of at least $2,000,000. Such insurance may not be changed or cancelled without at least thirty (30) days’ prior written notice to Miso.'
+Legal-BERT Prediction: insurance (Confidence: 0.1752646118402481)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.36125949025154114)
+Final Prediction: insurance
+================================================================================
+
+Clause: '4.2.9. For the Term of this Agreement, Miso shall maintain (i) commercial general liability insurance with limits of at least $1,000,000 per occurrence and an annual aggregate of at least $2,000,000; (ii) employer’s liability insurance covering all employees, temporary employees and leased workers with limits of $1,000,000 per occurrence; and (iii) commercial automobile liability insurance with limits of at least $1,000,000 combined single limit for property damage and bodily injury. Such insurance may not be changed or cancelled without at least thirty (30) days’ prior written notice to Customer. Certificates of Insurance acceptable to Customer shall be submitted to Customer prior to commencement of any services at an Installation Site.'
+Legal-BERT Prediction: insurance (Confidence: 0.31024280190467834)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.3692457675933838)
+Final Prediction: insurance
+================================================================================
+
+Clause: '5. CONFIDENTIALITY'
+Legal-BERT Prediction: counterparts (Confidence: 0.07377276569604874)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.05179847031831741)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '5.1. Confidential Information. “Confidential Information” means all confidential and proprietary information disclosed by a party (the “Disclosing Party”) to the other party (the “Receiving Party”), regardless of the form or medium contained or stored in (including electronic or digital form), that is designated as confidential or should reasonably be considered confidential given the nature of the information and circumstances surrounding disclosure. Confidential Information includes all information regarding Disclosing Party’s customers and potential customers, past, present or proposed products, inventions, performance data, business proposals, sales and pricing information, marketing plans, engineering and other designs, technical data, business plans and strategies, business opportunities, finances, research, development, ideas, know-how, processes, trade secrets, proprietary information and intellectual property, computer programs, software and documents relating to any of the foregoing, and the terms and conditions of this Agreement. Confidential Information does not include any information that (i) was or becomes generally available to the public through no violation of this Agreement by the Receiving Party, (ii) was in the possession of or known to the Receiving Party on a non-confidential basis prior to the disclosure by the Disclosing Party, (iii) is received from a third party on a non-confidential basis without breach of any obligation owed to the Disclosing Party, or (iv) was independently developed by the Receiving Party without reference to or reliance on the Confidential Information of the Disclosing Party. Notwithstanding anything in the contrary herein, the parties agree that all data and analysis regarding (a) the Product’s performance at Installation Sites, and (b) Customer’s instructions on Customer’s food preparation, operating procedures, and physical space specifications, shall be considered “Confidential Information” for the purposes of this Agreement.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.2801600396633148)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.48528772592544556)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '5.2. Obligations to Protect Confidential Information. The Receiving Party will (i) protect the confidentiality of the Confidential Information of the Disclosing Party using the same degree of care that it uses to protect the confidentiality of its own confidential information of like kind, but in no event less than reasonable care, (ii) not use any Confidential Information of the Disclosing Party for any purpose outside the scope of this Agreement, (iii) not disclose Confidential Information of the Disclosing Party to any third party (except those third party service providers used by Miso to provide some or all elements of the Products and Services to Customer), and (iv) limit access to Confidential Information of the Disclosing Party to those of its and its affiliates’ employees, contractors and agents who have a need to know such information for purposes consistent with this Agreement and who have signed agreements with the Receiving Party containing confidentiality obligations no less restrictive than those contained herein.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.3176257610321045)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.47366082668304443)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '5.3. Legal Requirements. The Receiving Party may disclose Confidential Information of the Disclosing Party if required to do so under any federal, state or local law, statute, rule or regulation, subpoena or legal process; provided, however, that (i) the Receiving Party will provide the Disclosing Party with prompt written notice of any request that it disclose Confidential Information, sufficient to allow the Disclosing Party to object to the request and/or seek an appropriate protective order or, if such notice is prohibited by law, the Receiving Party will disclose the minimum amount of Confidential Information required to be disclosed under the applicable legal mandate; and (ii) in no event will the Receiving Party disclose Confidential Information to a party other than a government agency except under a valid order from a court having jurisdiction requiring the specific disclosure.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.3152582347393036)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.39882737398147583)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '6. REPRESENTATIONS AND WARRANTIES'
+Legal-BERT Prediction: counterparts (Confidence: 0.06195138394832611)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.10266692191362381)
+Final Prediction: insurance
+================================================================================
+
+Clause: '6.1. Each party represents and warrants that (i) it has full capacity, right and authority to enter into this Agreement; (ii) it is in compliance with all applicable laws, rules and regulations related to its performance of this Agreement, and its performance of this Agreement will comply with same; and (iii) its entry into this Agreement and performance of its obligations hereunder does not breach any of its obligations to any third party, or breach any contract, agreement or order by which it is bound.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.21831561625003815)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.34284618496894836)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '7. EQUIPMENT WARRANTY'
+Legal-BERT Prediction: amendment (Confidence: 0.07506611198186874)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.07112284004688263)
+Final Prediction: amendment
+================================================================================
+
+Clause: '7.1. Miso Warranty. Miso warrants to Customer that each item of Equipment will, under normal operating conditions and when used in accordance with the Authorized Use, be free from defects in material and workmanship. Should any item of Equipment fail to comply with the foregoing warranty during the Term of this Agreement, Customer shall promptly notify Miso in writing of the failure and provide sufficient detail to allow Miso to troubleshoot the condition. Customer’s exclusive remedy and Miso’s sole obligation and liability under this warranty is to repair or replace, at Miso’s option and expense, the defective Equipment or if neither repair nor replacement is feasible, Miso shall accept return of the Equipment and refund to Customer any prepaid but unused Monthly Recurring Fees. All Third-Party Products will be subject to the respective vendor’s warranty.'
+Legal-BERT Prediction: insurance (Confidence: 0.07754091918468475)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.1521291732788086)
+Final Prediction: insurance
+================================================================================
+
+Clause: '7.2. Exclusions. Miso shall not be liable under this warranty if any damage or defect results from (i) external causes such as misuse, abuse, neglect, accident, modification, unsuitable physical or operating environment, natural disasters (including but not limited to fire, water damage, earthquake, and other acts of nature), power surges, or abnormal physical or electrical stress; (ii) any alterations or modifications of, or additions to, the Product or Equipment made by a party other than Miso; (iii) improper operation; (iv) damage caused by a non-authorized service provider or other third party; (vi) failure to provide and continually maintain adequate electrical power, air conditioning, and humidity controls as would reasonably be prudent; or (vii) refusal or failure to promptly allow installation of any replacement part made available by Miso.'
+Legal-BERT Prediction: indemnity (Confidence: 0.11940165609121323)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.19476553797721863)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '8. SOFTWARE DISCLAIMER'
+Legal-BERT Prediction: amendment (Confidence: 0.0689639151096344)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.05713394656777382)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW (A) THE PRODUCT AND THIRD-PARTY PRODUCTS ARE PROVIDED AND DISTRIBUTED ON AN “AS-IS” AND “AS-AVAILABLE” BASIS WITHOUT WARRANTIES OF ANY KIND WHATSOEVER, (B) MISO AND ITS SUPPLIERS DO NOT MAKE ANY OTHER WARRANTY OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, AND SPECIFICALLY DISCLAIM ANY AND ALL OTHER WARRANTIES, INCLUDING WITHOUT LIMITATION (I) THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, SATISFACTORY QUALITY AND QUIET ENJOYMENT, AND (II) WARRANTIES ARISING OUT OF ANY COURSE OF DEALING OR USAGE OF TRADE, (C) MISO AND ITS SUPPLIERS ARE NOT RESPONSIBLE OR LIABLE FOR THE DELETION OF OR FAILURE TO STORE ANY CONTENT, DATA AND OTHER COMMUNICATIONS MAINTAINED OR TRANSMITTED THROUGH USE OF THE PRODUCT, AND (D) MISO AND ITS SUPPLIERS DO NOT WARRANT THAT THE PRODUCTS OR THIRD-PARTY PRODUCTS WILL BE UNINTERRUPTED, SECURE, ERROR-FREE, OR FREE OF HARMFUL COMPONENTS.'
+Legal-BERT Prediction: indemnity (Confidence: 0.10555431991815567)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.27958953380584717)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '9. LIMITATION OF LIABILITY'
+Legal-BERT Prediction: counterparts (Confidence: 0.07561396062374115)
+Legal-RoBERTa Prediction: joint and several liability (Confidence: 0.06282781809568405)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'NEITHER PARTY WILL BE LIABLE TO THE OTHER PARTY OR ANY THIRD PARTY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES (INCLUDING DAMAGES FOR LOSS OF PROFITS, REVENUES, CUSTOMERS, OPPORTUNITIES, GOODWILL, USE, OR DATA) ARISING OUT OF OR RELATING TO THIS AGREEMENT OR ANY PRODUCTS OR THIRD-PARTY PRODUCTS FURNISHED OR TO BE FURNISHED UNDER THIS AGREEMENT OR THE USE THEREOF, EVEN IF A PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND EVEN IF DIRECT DAMAGES DO NOT SATISFY A REMEDY. FURTHER, NEITHER MISO NOR ITS SUPPLIERS WILL BE RESPONSIBLE FOR ANY COMPENSATION, REIMBURSEMENT, OR DAMAGES ARISING IN CONNECTION WITH: (A) CUSTOMER’S INABILITY TO USE THE PRODUCTS OR THIRD-PARTY PRODUCTS, INCLUDING AS A RESULT OF ANY TERMINATION OR SUSPENSION OF THIS AGREEMENT OR AN ORDER FORM OR ANY UNANTICIPATED OR UNSCHEDULED DOWNTIME OF ALL OR A PORTION OF THE PRODUCTS FOR ANY REASON, (B) THE COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR (C) ANY INVESTMENTS, EXPENDITURES, OR COMMITMENTS BY CUSTOMER IN CONNECTION WITH THIS AGREEMENT OR CUSTOMER’S USE OF THE PRODUCT. IN ANY CASE, (EXCEPT FOR MISO’S OBLIGATIONS UNDER SECTION 9.2) THE AGGREGATE LIABILITY OF MISO AND ITS SUPPLIERS UNDER THIS AGREEMENT WILL NOT EXCEED THE AMOUNT CUSTOMER ACTUALLY PAYS MISO UNDER THIS AGREEMENT FOR THE PRODUCT THAT GAVE RISE TO THE CLAIM DURING THE TWELVE (12) MONTHS BEFORE THE LIABILITY AROSE. THE LIMITATIONS IN THIS SECTION 8 APPLY ONLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.'
+Legal-BERT Prediction: indemnity (Confidence: 0.11806707084178925)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.25718024373054504)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '10. INDEMNIFICATION'
+Legal-BERT Prediction: counterparts (Confidence: 0.0850355476140976)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.0609724260866642)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '10.1. General. Each party will defend, indemnify, and hold harmless the other party, its affiliates, suppliers and licensors, and each of their respective employees, officers, directors, and representatives (collectively, “Indemnified Parties”) from and against any Losses arising out of or relating to any third-party claim concerning (i) the Indemnifying Party’s access or use of the Product (including any use by the Indemnifying Party’s employees and personnel), (ii) breach by such party of this Agreement or violation of applicable law by, or (iii) acts or omissions by such party.'
+Legal-BERT Prediction: indemnity (Confidence: 0.15335997939109802)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.41788211464881897)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '10.2. Intellectual Property. Miso will defend Customer and Customer’s employees, officers, and directors (collectively, “Customer Indemnified Parties”) against any third-party claim to the extent based solely on an allegation that the Products infringe or misappropriate that third party’s intellectual property rights and will pay the amount of any adverse final judgment or settlement. Notwithstanding the foregoing, Miso will have no obligations or liability under this Section or otherwise with respect to any claim or award to the extent arising from (i) a combination of the Product with any other product, service, software, data, or method, (ii) use of the Product for a purpose or in a manner not permitted by this Agreement, or in a manner for which the Product was not designed, (iii) any modification of the Product made without express written approval by Miso, or (iv) breach of this Agreement by any of the Customer Indemnified Parties. In addition, Miso will have no obligations or liability arising from Customer’s or any other party’s use of the Products after Miso has notified Customer to discontinue such use. The remedies provided in this section are the sole and exclusive remedies for any third-party claims of infringement or misappropriation of intellectual property rights by the Products. The parties agree that the limitations on liability set forth in Section 8 do not apply to any third-party claim to the extent based solely on an allegation that the Products infringe or misappropriate that third party’s intellectual property rights.'
+Legal-BERT Prediction: indemnity (Confidence: 0.15443487465381622)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.32661351561546326)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '10.3. Process. The obligations in this section will apply only if the party seeking defense or indemnity (the “Indemnified Party”) (a) provides the other party (the “Indemnifying Party”) prompt written notice of the claim, (b) provides the Indemnifying Party with sole control over the defense and settlement of the claim, and (c) reasonably cooperates with the Indemnifying Party (at the Indemnifying Party’s expense) in the defense and settlement of the claim.'
+Legal-BERT Prediction: indemnity (Confidence: 0.05740082636475563)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.20538325607776642)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '11. TERM AND TERMINATION'
+Legal-BERT Prediction: counterparts (Confidence: 0.08792538940906525)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.06519247591495514)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '11.1. Term of Agreement. This Agreement shall commence as of the date this Agreement is executed by both parties and, unless earlier terminated in accordance with the provisions hereof, continue for a period of five (5) years (the “Initial Term”). Thereafter, the Agreement will automatically renew for successive one (1) year terms (each, a “Renewal Term”) unless either party provides written notice of non-renewal to the other party at least ninety (90) days prior to the expiration of the then current Initial Term or Renewal Term. The Initial Term and Renewal Term(s) shall collectively be referred to herein as the “Term”.'
+Legal-BERT Prediction: termination (Confidence: 0.11641205847263336)
+Legal-RoBERTa Prediction: termination (Confidence: 0.16054606437683105)
+Final Prediction: termination
+================================================================================
+
+Clause: '11.2.Termination for Convenience. Customer may terminate this Agreement for its sole convenience by providing at least one hundred and eighty (180) days’ prior written notice to Miso.'
+Legal-BERT Prediction: termination (Confidence: 0.12336505949497223)
+Legal-RoBERTa Prediction: termination (Confidence: 0.1609835922718048)
+Final Prediction: termination
+================================================================================
+
+Clause: '11.3.Termination for Cause. This Agreement may be terminated by either party upon written notice, if the other party (i) breaches any material term or condition of this Agreement or an Order Form and fails to remedy the breach within thirty (30) days after being given notice thereof; (ii) becomes the subject of any voluntary or involuntary proceeding under the U.S. Bankruptcy Code or state insolvency proceeding and such proceeding is not terminated within sixty (60) days of its commencement or (iii) ceases to be actively engaged in business'
+Legal-BERT Prediction: termination (Confidence: 0.11520812660455704)
+Legal-RoBERTa Prediction: termination (Confidence: 0.18506330251693726)
+Final Prediction: termination
+================================================================================
+
+Clause: '11.4.Effect of Termination. Upon expiration of the Term or earlier termination of this Agreement: (i) all rights and licenses granted hereunder shall immediately terminate; (ii) each party shall return or destroy all Confidential Information of the other party; (iii) Customer shall cease all use of the Product and make the Product available to Miso in its original condition (less reasonable wear and tear), including all materials that were provided with the Product including, but not limited to, software, documentation, and accessories; (iv) Customer shall make the Installation Site available to Miso within fourteen (14) days of the end of the Term during normal business hours (or as otherwise agreed upon by the parties) for purposes of Miso’s de-installation and removal of the Product; and (v) Customer shall have no further obligation to license and deploy Products regardless of the number of Products actually licensed and deployed as of the Term expiration or termination date. For clarity, termination of this Agreement also results in the termination of all Order Forms. Further, termination or expiration of this Agreement or any Order Forms will not release Customer from the obligation to make payment of all amounts accrued or due and payable to Miso under the specific Order Forms prior to the effective date of termination or expiration, and no future amounts due under any Order Forms shall be due and payable. The provisions and obligations in Sections 2.5-2.8, 3.2, 3.3 5, and 7-11 which are of a continuing nature shall survive termination or expiration of this Agreement.'
+Legal-BERT Prediction: termination (Confidence: 0.1434483826160431)
+Legal-RoBERTa Prediction: termination (Confidence: 0.16881848871707916)
+Final Prediction: termination
+================================================================================
+
+Clause: '12. MISCELLANEOUS'
+Legal-BERT Prediction: counterparts (Confidence: 0.08612937480211258)
+Legal-RoBERTa Prediction: costs (Confidence: 0.05537431314587593)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '12.1.Notices. Unless otherwise stated herein, any notices hereunder must be in writing and delivered to Customer at the address provided in the relevant Order and to Miso as follows: Miso Robotics, Inc., Attention: CEO, 561 E Green St, Pasadena, CA 91101. Notices shall be delivered in person or via mail (as specified below) and will be deemed given upon (i) delivery if in person, or (ii) three (3) business days after mailing if by certified or registered first class postal mail, return receipt requested. Either party may change its address for receipt of notice by delivering written notice of such change pursuant to this Section.'
+Legal-BERT Prediction: notice (Confidence: 0.21024318039417267)
+Legal-RoBERTa Prediction: notice (Confidence: 0.5148230195045471)
+Final Prediction: notice
+================================================================================
+
+Clause: '12.2. Independent Contractors. The parties to this Agreement are independent contractors. Neither party is an agent, representative, or partner of the other party. Neither party shall have any right, power, or authority to enter into any agreement for, or on behalf of, or incur any obligation or liability of, or to otherwise bind, the other party.'
+Legal-BERT Prediction: relationship (Confidence: 0.08934640139341354)
+Legal-RoBERTa Prediction: relationship (Confidence: 0.12246589362621307)
+Final Prediction: relationship
+================================================================================
+
+Clause: '12.3.Publicity. Customer agrees that during the Term of this Agreement, Miso may name Customer as a user of the Product in Miso’s advertising materials and on its website and use Customer’s trademark in connection therewith. Customer further agrees to reasonably cooperate with Miso in the issuance of press releases related to Customer’s use of the Product (such releases subject to Customer’s prior consent, not to be unreasonably withheld).'
+Legal-BERT Prediction: non-competition (Confidence: 0.06558732688426971)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.16054892539978027)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '12.4.Assignment. Neither this Agreement, nor any rights or obligations hereunder, may be assigned or otherwise transferred by either party without the prior written consent of the other party, such consent not to be unreasonably withheld; provided, however, this Agreement, and rights and obligations hereunder, may be assigned by Miso without consent of Customer to an affiliate or any purchaser of all or substantially all of that portion of Miso’s business or assets to which this Agreement relates. Any attempted assignment by a party in violation of this Section shall be null and void ab initio. Subject to the foregoing, this Agreement will be binding upon and inure to the benefit of the parties hereto and their respective successors, heirs, executors, administrators, estates and permitted assigns.'
+Legal-BERT Prediction: assignment (Confidence: 0.3283942639827728)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.4768088757991791)
+Final Prediction: assignment
+================================================================================
+
+Clause: '12.5.Non-Solicitation. To the maximum extent permitted by applicable law, Customer agrees that during the Term of this Agreement and continuing for a period of one year following any termination or expiration, Customer will not, directly or indirectly, whether for Customer’s own account or for the account of any third party, solicit, entice, persuade, induce or otherwise attempt to influence any employees or contractors of Miso to terminate their relationship with Miso. The placement of general advertisements not targeted toward employees or contractors of Miso shall not be deemed to be a breach of this Section.'
+Legal-BERT Prediction: non-solicitation (Confidence: 0.2870454490184784)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.29101529717445374)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: '12.6. Force Majeure. Neither party will be liable for any failure to perform (except for failure to make payments hereunder) due to causes beyond its control, including without limitation, fire, flood, strike, civil disturbance, pandemic, terrorism, war or Acts of God (“Force Majeure Event”). If any such Force Majeure Event occurs, the affected party shall provide immediate written notice to the other party and the time for performance for the affected party will be extended for a period of time equal to the duration of the delay caused thereby; provided, however, that the party not receiving performance may terminate this Agreement and any affected Order Forms without liability therefor upon notice to the non-performing party if the non-performance continues for more than thirty (30) days.'
+Legal-BERT Prediction: assignment (Confidence: 0.0644412487745285)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.08852670341730118)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '12.7.Waiver. Failure by either party to enforce any provision of this Agreement shall not be deemed a waiver of future enforcement of that or any other provision of this Agreement.'
+Legal-BERT Prediction: waiver (Confidence: 0.353096067905426)
+Legal-RoBERTa Prediction: waiver (Confidence: 0.36491647362709045)
+Final Prediction: waiver
+================================================================================
+
+Clause: '12.8.Governing Law; Jurisdiction. This Agreement will be governed by the laws of the state of Delaware law without regard to its conflicts of laws principles. Any claim, dispute or disagreement arising out of or in connection with this Agreement may be brought only in the state or federal courts located in Delaware County, Delaware, which courts shall have exclusive jurisdiction thereof, and each party hereby waives any claim that such courts do not have jurisdiction or are an inconvenient forum.'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.2473180890083313)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.6142527461051941)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: '12.9.Injunctive Relief. The parties acknowledge and agree that an actual or threatened breach may result in immediate, irreparable and continuing damage for which there may be no adequate remedy at law, and the non-breaching party may apply to any court of competent jurisdiction for equitable relief (including, without limitation, specific performance or injunctive relief) without the need for posting of any bond or any other surety or security.'
+Legal-BERT Prediction: severability (Confidence: 0.09267972409725189)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.12286657094955444)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '12.10.Prevailing Party. In the event an action or suit is brought by a party under this Agreement to enforce any of its terms, or in any appeal therefrom, it is agreed that the prevailing party shall be entitled to recover its legal costs, including reasonable attorneys’ fees, as permissible under the law.'
+Legal-BERT Prediction: costs (Confidence: 0.09703803807497025)
+Legal-RoBERTa Prediction: costs (Confidence: 0.3209536373615265)
+Final Prediction: costs
+================================================================================
+
+Clause: '12.11.Headings. The headings used herein are for convenience only and shall not affect the interpretation of the terms of this Agreement or the Order Form(s). This Agreement shall be interpreted as having been drafted together by each of the parties and duly reviewed by each party with the assistance of its respective legal counsel'
+Legal-BERT Prediction: entire agreement (Confidence: 0.16418179869651794)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.15032479166984558)
+Final Prediction: entire agreement
+================================================================================
+
+Clause: '12.12.Entire Agreement. This Agreement and the Order Form(s) constitute the entire understanding of the parties with respect to the subject matter hereof and will supersede all previous and contemporaneous communications, representations or understandings, either oral or written, between the parties relating to the subject matter and will not be contradicted or supplemented by any prior course of dealing between the parties; provided, however, the three (3) existing Master Service Agreements between the parties shall remain in full force and effect and unmodified by this Agreement with respect solely to Products previously licensed and deployed pursuant to such agreements. If any provision of this Agreement is declared by a court of competent jurisdiction to be illegal, invalid or unenforceable for any reason, then (i) such provision will be enforced to the maximum extent permissible under the circumstances so as to effectuate the original intent of the parties with respect to such provision; and (ii) the remaining provisions of this Agreement will be unaffected thereby and will continue to remain in full force and effect. This Agreement may only be amended upon the mutual prior written consent of the parties. If a provision of this Agreement conflicts with any provision of an Order Form, the provision of this Agreement shall prevail unless the Order Form specifically states that the Order Form shall prevail.'
+Legal-BERT Prediction: entire agreement (Confidence: 0.15220962464809418)
+Legal-RoBERTa Prediction: entire agreement (Confidence: 0.22940509021282196)
+Final Prediction: entire agreement
+================================================================================
+
+Clause: 'IN WITNESS WHEREOF, the parties have caused this Agreement to be executed by their duly authorized representatives.'
+Legal-BERT Prediction: counterparts (Confidence: 0.19103217124938965)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.14431671798229218)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Exhibit A – Order Form #1'
+Legal-BERT Prediction: amendment (Confidence: 0.07990163564682007)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.050014618784189224)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'This Order Form, effective as of [enter date of Order Form], incorporates by reference the Master Service Agreement entered into by and between Miso Robotics, Inc. (“Miso”) and [_______] ("Customer") as of [enter effective date of the MSA], as may have been amended (collectively, the “Agreement”). Each mutually agreed upon Order Form shall be deemed an attachment to the Agreement and shall be numbered sequentially, e.g., Order Form #1, 2, 3, etc. In the event of any conflict between the terms of this Order Form and the Agreement, the former shall prevail solely with respect to such Order Form.'
+Legal-BERT Prediction: entire agreement (Confidence: 0.07465418428182602)
+Legal-RoBERTa Prediction: entire agreement (Confidence: 0.1120607778429985)
+Final Prediction: entire agreement
+================================================================================
+
+Clause: 'Flippy 2 includes the following:'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07305855304002762)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05789944529533386)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '- Overhead rail structure'
+Legal-BERT Prediction: counterparts (Confidence: 0.09801056981086731)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05205632746219635)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '- Robotic arm'
+Legal-BERT Prediction: counterparts (Confidence: 0.09724051505327225)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05082584545016289)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '- CookRight Fryer Vision system'
+Legal-BERT Prediction: counterparts (Confidence: 0.08035596460103989)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.056591469794511795)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '- Tablet and Chef-UI, kitchen analytics software'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07209675759077072)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06810887157917023)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '- Flippy Control unit'
+Legal-BERT Prediction: counterparts (Confidence: 0.08541836589574814)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05269457399845123)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '- Miso Safety system'
+Legal-BERT Prediction: amendment (Confidence: 0.06819655001163483)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05077355355024338)
+Final Prediction: amendment
+================================================================================
+
+Clause: '- Autobin system'
+Legal-BERT Prediction: amendment (Confidence: 0.08971033245325089)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04811245948076248)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'WARRANTY, MAINTENANCE, SUPPORT'
+Legal-BERT Prediction: costs (Confidence: 0.0741078332066536)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07738706469535828)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Miso will provide unlimited technical support and staff training. Miso will pay for all repair, including replacement of parts, and regular maintenance of the Equipment.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.08197279274463654)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.11607091128826141)
+Final Prediction: insurance
+================================================================================
+
+Clause: 'In addition, Miso will provide top-tier executive level support to Customer for the duration of the Agreement. More specifically, Customer will have always-on access to Miso executive leadership (CEO, CFO, CSO), including in-person support at Customer’s site (not to exceed 1x/quarter) if requested. In the event of Customer’s request for in-person support, the parties will mutually agree upon dates and scheduling details.'
+Legal-BERT Prediction: termination (Confidence: 0.08378633111715317)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.14702154695987701)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Miso agrees to provide Customer a credit of [______] for each Product-related incident (not caused by Customer, its personnel or a third party) that requires Customer to supply onsite support. Miso will track and provide reporting to Customer on such incidents and will credit Customer accordingly on a monthly basis.'
+Legal-BERT Prediction: non-competition (Confidence: 0.08170851320028305)
+Legal-RoBERTa Prediction: notice (Confidence: 0.11292766034603119)
+Final Prediction: notice
+================================================================================
+
+Clause: 'INSTALLATION SITE'
+Legal-BERT Prediction: counterparts (Confidence: 0.09702650457620621)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.053304024040699005)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'IN WITNESS WHEREOF, the parties have caused this Order Form to be executed by their duly authorized representatives'
+Legal-BERT Prediction: counterparts (Confidence: 0.1883217841386795)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.10514070093631744)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Exhibit B'
+Legal-BERT Prediction: counterparts (Confidence: 0.0869639664888382)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0450468435883522)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Service Level Agreement'
+Legal-BERT Prediction: amendment (Confidence: 0.072011299431324)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05315013229846954)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'This Service Level Agreement (“SLA”) describes Miso’s commitment to Product availability.'
+Legal-BERT Prediction: termination (Confidence: 0.07983259111642838)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.09279395639896393)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Definitions'
+Legal-BERT Prediction: counterparts (Confidence: 0.08973033726215363)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04907996952533722)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'For purposes of this SLA, the following definitions shall apply:'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.0838092789053917)
+Legal-RoBERTa Prediction: severability (Confidence: 0.07314255833625793)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: '“Operating Hours” means the time during which the Product is “clocked-in” for use. Miso utilizes a clock in/clock-out approach to calculate Operating Hours. A clock-in event occurs when Customer’s worker starts the Product via the user interface. Similarly, a clock-out event occurs when Customer’s worker shuts down the Product through the user interface or otherwise. The period between a clock-in event and a clock-out event shall be considered “Clocked Time”. Operating Hours for a particular month consists of the sum of all periods of Clocked Time for that month.'
+Legal-BERT Prediction: termination (Confidence: 0.0784376934170723)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.09862485527992249)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '“Outage” means a critical full outage/severe issue that constitutes a catastrophic problem that causes complete inability to use the Product, resulting in production downtime and where there is no workaround or solution to the problem.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.0877734050154686)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08678556978702545)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '"Excluded" means that period of time during which the Product is unavailable or inoperable due to any of the following: (i) Force Majeure or circumstances beyond Miso’s reasonable control; (ii) Customer's combination of the Product with any hardware or software not supplied by Miso or not identified by Miso in writing as compatible with the Product; (iii) issues in Customer’s environment, network, power supply or infrastructure; (iv) telecommunications or internet service provider failures, or loss of availability due to a network attack such as DDoS, SYN or similar attacks, or issues caused by DNS resolution and/or domain name or certificate expiration; (v) regularly scheduled or emergency maintenance; or (vi) improper use, alteration, or damage of the Product.'
+Legal-BERT Prediction: non-solicitation (Confidence: 0.0865069106221199)
+Legal-RoBERTa Prediction: intellectual property (Confidence: 0.09424339979887009)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: '"Monthly Uptime" means (total Operating Hours in calendar month – Excluded - Outage durations) / (total Operating Hours in calendar month - Excluded) X 100%.'
+Legal-BERT Prediction: termination (Confidence: 0.07811234146356583)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08614680171012878)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Service Commitment and Remedies'
+Legal-BERT Prediction: counterparts (Confidence: 0.08608084172010422)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.07800966501235962)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Miso’s service commitment is to maintain a Monthly Uptime of 99.9% for the Product in a given calendar month. All availability calculations will be based on Miso’s system records. Miso will provide Customer with a Monthly Uptime Report, including reasonable supporting detail for Outages and Excluded periods, within ten (10) days of the end of each month during the Term.'
+Legal-BERT Prediction: termination (Confidence: 0.08670207113027573)
+Legal-RoBERTa Prediction: notice (Confidence: 0.11512510478496552)
+Final Prediction: notice
+================================================================================
+
+Clause: 'In the event Miso fails to meet the service commitment during two (2) or more consecutive calendar months, Customer’s exclusive remedy for such downtime is to receive a credit equal to the prorated amount of Monthly Recurring Fees applicable to the downtime, which credit shall be applied against the next subsequent invoice(s) until the credit is exhausted.'
+Legal-BERT Prediction: termination (Confidence: 0.08790403604507446)
+Legal-RoBERTa Prediction: joint and several liability (Confidence: 0.10046380758285522)
+Final Prediction: joint and several liability
+================================================================================
+
+Clause: 'To receive the above remedy, the failures must be reported by Customer to their Miso-appointed Robot Support Specialist or other Miso-appointed support representative within twenty (20) days of the end of the last month of the consecutive two-month period for which a credit claim is made.'
+Legal-BERT Prediction: termination (Confidence: 0.1203765720129013)
+Legal-RoBERTa Prediction: notice (Confidence: 0.27599793672561646)
+Final Prediction: notice
+================================================================================
+
+Clause: 'The report submitted by Customer must identify (i) the applicable Product and Installation Site, (ii) the dates, times and duration of downtimes, and (iii) any technical support requested or remediation implemented. Before processing any credit request, Miso will validate the information provided in the request to confirm the loss of availability, its timeframe, and corresponding credit.'
+Legal-BERT Prediction: termination (Confidence: 0.07823605835437775)
+Legal-RoBERTa Prediction: notice (Confidence: 0.19679541885852814)
+Final Prediction: notice
+================================================================================
+

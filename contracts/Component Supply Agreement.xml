@@ -1,0 +1,942 @@
+<?xml version="1.0" ?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14">
+  <w:body>
+    <w:p w14:paraId="4BFCC5C5" w14:textId="77777777" w:rsidR="009130F6" w:rsidRPr="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="009130F6">
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>SUPPLY AGREEMENT</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3B3BEFCE" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t xml:space="preserve">     This Agreement, dated [●], is made between  [●] (“Supplier”), having offices at  [●] and  [●] having its office at  [●] Purchaser.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="056B987E" w14:textId="77777777" w:rsidR="009130F6" w:rsidRPr="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="009130F6">
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>RECITALS</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0BC5C769" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t xml:space="preserve">     WHEREAS, Supplier is capable of manufacturing those components described in the attached Exhibit A (the “Components); and</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3D7FAC02" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t xml:space="preserve">     WHEREAS, Purchaser desires to purchase the Components from Supplier for use in Implanted Devices, as such term is hereinafter defined; and</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="65F6B0A6" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t xml:space="preserve">     WHEREAS, Supplier wishes to sell Components to Purchaser.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="43E3CE09" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t xml:space="preserve">     NOW, THEREFORE, in consideration of the terms and provisions of this Agreement, and for other good and valuable consideration, the receipt and sufficiency of which is acknowledged by the execution and delivery thereof, Supplier and Purchaser agree as follows:</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1564012B" w14:textId="6A2065B0" w:rsidR="009130F6" w:rsidRPr="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:ind w:left="360"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="009130F6">
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>Definitions</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="388D968E" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>For purposes of this Agreement, the terms hereinafter set forth shall be defined as follows:</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2AD58773" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(A) “Confidential Information” means such confidential and/or proprietary information disclosed by one party to the other prior to the date hereof or during the term of this Agreement. Such information may include, but is not limited to, know-how, trade secrets, formulations, product data, complaint and safety information, and regulatory information. Information will not be considered Confidential Information if (</w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:t>i</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:t>) it is at the time of disclosure or thereafter part of the public domain, without the fault of the party claiming such information is not Confidential Information, (ii) the party claiming such information is not Confidential Information can show through tangible records that it already knew the information before it was received, (iii) the party claiming such information is not Confidential Information can show through tangible records that the information was developed independently without reliance on such information, or (iv) the party claiming such information is not Confidential Information obtained such information from a third party without breach of an obligation of confidentiality or (v) it is disclosed verbally, except where the disclosure is subsequently reduced to writing and marked as confidential or proprietary by the disclosing party and furnished to the receiving party within [●] days of the verbal disclosure.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5CBA13A7" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(B) “Implanted Device” means any medical device that (</w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:t>i</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:t>) is manufactured by or for Purchaser, (ii) which contains one or more Components, and (iii) is designed to be permanently or temporarily implanted inside the human body.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6990D571" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(C) “Effective Date” means the date first above written.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="74593FD7" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(D) “Affiliate” means a corporation or other business entity that directly or indirectly through one or more intermediaries, controls, or is controlled by, or under common control with a party to this Agreement. For this purpose, “control” means beneficial ownership of more than fifty percent (50%) of the voting stock or more than fifty percent (50%) interest in the income of that corporation or other business entity.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1EF31B9C" w14:textId="360D3D7B" w:rsidR="009130F6" w:rsidRPr="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:ind w:left="360"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="009130F6">
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>Purchaser ‘s Representations</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6F76F6ED" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>Purchaser represents and warrants to Supplier that:</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="41EBD856" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:lastRenderedPageBreak/>
+        <w:t>(A) Purchaser is a manufacturer of Implanted Devices.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0FD726FF" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(B) Purchaser has determined that the Components are suitable for the applications in which it uses the Components in Implanted Devices.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4BFFD09D" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(C) Purchaser has in its employ or has retained consultants who are experienced and knowledgeable in the properties, processing techniques and potential hazards of the Components and their use in Implanted Devices. Purchaser has a regulatory staff properly trained in the requirements of the United States Federal Food, Drug and Cosmetic Act and pertinent regulations and similar statutes and regulations of states and other countries in which Implanted Devices may be sold and qualified medical staff, consultants and or clinical investigators to conduct such studies as are needed to evaluate the safety and efficacy of and the proper labelling for the Implanted Devices.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2FF2F7EB" w14:textId="4610BCA4" w:rsidR="009130F6" w:rsidRPr="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:ind w:left="360"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="009130F6">
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>Purchase and Sale</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="171DC6E5" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(A) Supplier agrees to manufacturer and sell the Components to Purchaser and Purchaser agrees to purchase the Components solely for integration into Implanted Devices. All sales of Components shall be subject solely to the terms and conditions of this Agreement. It is the intention of the parties that this Agreement be controlling over additional or different terms of any purchase order, confirmation, invoice or similar document, even if accepted in writing by both parties.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6C63EE78" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(B) On the Effective Date, Purchaser shall provide Supplier with a forecast of its requirements of the Components for the first [●] months period in addition to a firm purchase order for the nearest three months of that twelvemonth period. Quarterly thereafter, Purchaser shall provide Supplier with updated rolling [●] month forecasts of its requirements of the Components in addition to a firm purchase order for the nearest three months of that twelve-month period. Each forecast will include the Component code, unit quantity and requested delivery date which will include a lead time of at least [●] days. In the event Purchaser issues a firm purchase order for a quantity of Components which exceeds [●]% of the quantity as forecasted by Purchaser, the parties shall promptly negotiate a mutually acceptable time schedule for delivery of such product.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="50C06309" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(C) The price and minimum purchase requirements for Components are set forth in Exhibits B and C hereto. Payment terms are [●] days from date of shipment. During each specified time period in Exhibit B, Purchaser guarantees that it will purchase and take delivery of the applicable minimum purchase requirement set forth in Exhibit B. If, at the end of any such specified time period, Purchaser has not purchased and taken delivery of such minimum quantity of units, Supplier shall have the right to invoice Purchaser for the difference between such minimum quantity and the lesser quantity of the Components as Purchaser purchased and took delivery of during such specified time period. Purchaser will pay any such invoice within [●] days of its receipt.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7FA42A68" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(D) Supplier shall ship the Components F.O.B. Bard’s distribution facility at [●],facility at [●]. All Components delivered pursuant to this Agreement will be suitably packed for air freight shipment in Supplier’s standard shipping cartons, marked for shipment to the address specified by Purchaser in its purchase order, and delivered to Purchaser or its carrier for shipment.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="57FBC553" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(E) Purchaser will inspect all Components promptly upon receipt thereof and may reject any Component that fails upon delivery to conform to this Agreement. Components not rejected within [●]days of their delivery to Purchaser shall be deemed accepted by Purchaser. Each shipment must include appropriate QA data, including but not limited to the certificate of compliance for each lot and the inspection data, if available.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="70CDF091" w14:textId="20247B5C" w:rsidR="009130F6" w:rsidRPr="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:ind w:left="360"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="009130F6">
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>Purchaser’s Covenants</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2792EEB4" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:lastRenderedPageBreak/>
+        <w:t>Purchaser covenants and agrees to the following:</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4ADC24F7" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(A) Purchaser will be responsible for and will perform or has performed all tests necessary to provide reasonable assurance of the suitability of the Components for the applications in which Purchaser uses the Components in Implanted Devices.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7A82ECB2" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(B) Purchaser will provide its customers with all warnings reasonably necessary for the appropriate use of the Implanted Devices.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0BBF681F" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(C) Purchaser will maintain lot traceability records in compliance with quality system regulations and ISO 9001 standards.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="490A1FB0" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t xml:space="preserve">(D) Purchaser will not resell the Components as </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:t>stand alone</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:t xml:space="preserve"> items, except solely as a replacement part for any Components previously incorporated into Implanted Devices and sold by Purchaser.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="246E8625" w14:textId="68190DF4" w:rsidR="009130F6" w:rsidRPr="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:ind w:left="360"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="009130F6">
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>SUPPLIER’s Covenants</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3F1CFFCD" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>Supplier covenants and agrees to the following:</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="568E2474" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(A) As may be agreed by Supplier and Purchaser in writing with respect to individual Components, Supplier will cooperate with Purchaser by providing information reasonably requested by Purchaser regarding the Components for the purpose of Purchaser obtaining governmental approvals for Implanted Devices as well as such other information as may be reasonably requested by Purchaser in writing relating to health and safety aspects of the Components supplied under this Agreement. All such information disclosed to Purchaser by Supplier shall be deemed Confidential Information of Supplier</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="26194CD6" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(B) Supplier agrees that it will not make a change in any specification for the Component which materially affects the characteristics of a Component without notifying Purchaser in writing prior to implementing the change, such as: (1) source or composition of any raw material used in the manufacture of the Component, or (2) method of producing, processing or testing the Component. If the Purchaser does not authorize such change, Supplier may proceed with the change if the Purchaser is provided with an opportunity to submit a final purchase order of the Component (according to the specifications in effect prior to any change) for an amount of product not to exceed the amount actually purchased by Purchaser in the prior [●] months.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="33A5674A" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(C) Supplier agrees, in its sole discretion, to provide Purchaser with the results of certain tests undertaken on a product of Supplier that may be equivalent to the Component, which may include the dossier relating to such product, which results may enable the Purchaser to file applications with appropriate regulatory bodies.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6B78488A" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(D) Supplier agrees, in its sole discretion, to allow the Purchaser access to and copies of certain applicable quality documents as deemed reasonably necessary to perform vendor audits in accordance with ISO 9001 or other applicable quality standards.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0083BAFE" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6"/>
+    <w:p w14:paraId="58A94244" w14:textId="38F75519" w:rsidR="009130F6" w:rsidRPr="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:ind w:left="360"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="009130F6">
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>SUPPLIER’S Warranty/Limitation of Supplier’s Liability</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="70601A0C" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(A) Supplier warrants that the Components sold to Purchaser hereunder will: (</w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:t>i</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:t xml:space="preserve">) be manufactured in accordance with applicable quality system regulations; (ii) to the extent sold in the [●], comply at the time of shipment with the requirements of the India’s Drug and Cosmetic Act, 1940 and applicable regulations promulgated thereunder; and (iii) be free from defects in design, material and workmanship for a period of one year after shipment to Purchaser. Subject to Purchaser’s and its </w:t>
+      </w:r>
+      <w:r>
+        <w:lastRenderedPageBreak/>
+        <w:t>customers’ compliance with all instructions and requirements regarding the use of the Components, Supplier agrees in its sole discretion and as Purchaser’s sole remedy to either repair or replace any Component sold hereunder that is demonstrated to have a defect in design, material or workmanship and of which defect Supplier is notified in writing by Purchaser within [●] days after Purchaser receives notice from a customer of the alleged defect in the Component or repay any applicable purchase price paid to Supplier for such Component.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="31D42084" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(B) EXCEPT FOR THE FOREGOING WARRANTIES, SUPPLIER MAKES NO WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, A WARRANTY OF MERCHANTABILITY, A WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE OR A WARRANTY OF INTELLECTUAL PROPERTY NON-INFRINGEMENT, INCLUDING, BUT NOT LIMITED TO PATENT NON-INFRINGEMENT, ALL OF WHICH ARE EXPRESSLY DISCLAIMED, WHETHER EXPRESS OR IMPLIED, IN FACT OR BY LAW, AND SUPPLIER SHALL HAVE NO FURTHER OBLIGATION OR LIABILITY WITH RESPECT TO THE COMPONENTS. SUPPLIER DOES NOT MAKE ANY WARRANTY TO PURCHASER’S CUSTOMERS OR AGENTS. SUPPLIER HAS NOT AUTHORIZED ANYONE TO MAKE ANY REPRESENTATION OR WARRANTY OTHER THAN AS PROVIDED ABOVE. SUPPLIER SHALL IN NO EVENT BE LIABLE FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL, PUNITIVE, INCIDENTAL OR SIMILAR DAMAGES, INCLUDING WITHOUT LIMITATION, DAMAGES FOR HARM TO BUSINESS, LOST PROFITS OR LOST SAVINGS, EVEN IF SUPPLIER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, REGARDLESS OF THE FORM OF ACTION.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="31F03FFF" w14:textId="2E49C7D2" w:rsidR="009130F6" w:rsidRPr="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:ind w:left="360"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="009130F6">
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>Indemnification</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="68D3DD85" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(A) Purchaser agrees to indemnify, defend and hold harmless SUPPLIER and its Affiliates (including without limitation is directors, officers, employees, agent, representatives and shareholders) from and against any and all claims by any third party for personal injury or property damage, including any claims, actions, suits, proceedings, liabilities, obligations, losses, damages (including any fines, penalties or punitive damages), settlement, interests, costs and expenses (including attorneys’ fees, court costs and other reasonable out-of-pocket expenses incurred in investigating, preparing or defending any of the foregoing or in enforcing rights hereunder) resulting therefrom by reason of or in connection with or arising out of or relating to any sale, transfer, or use by any person of any Implanted Device sold or otherwise made available by Purchaser or any related persons or entities (including without limitation any current or former direct or indirect parent or subsidiary or any Affiliate or associate thereof) in which a Component is incorporated or otherwise involved, except to the extent arising or resulting from (</w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:t>i</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:t>) a defect in the design, material or workmanship of a Component and such defect is proved to be the actual and proximate cause of the claimed personal injury or property damage, or (ii) the infringement by Component of the patents or other intellectual property rights of any third party, such patents and other intellectual property rights limited to compositions and excluding any methods of manufacture or devices or use thereof.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="22E626E3" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t xml:space="preserve">(B) Any entity seeking indemnification hereunder must notify Purchaser within [●] calendar days of the date of actual notice of any claim for which it seeks indemnification, provided that any such failure shall not relieve Purchaser of its obligations hereunder except to the extent that Purchaser is actually prejudiced by such failure to notify. In the event that Purchaser shall be called upon to provide the indemnification set forth herein, Purchaser shall control the </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:t>defense</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:t xml:space="preserve">, litigation and/or settlement of such claim (except to the extent that any settlement involves some commitments, responsibilities and/or obligations on the part of SUPPLIER, in which case such settlement shall require the prior written consent of the SUPPLIER), action or proceeding with attorneys of its choosing, and the SUPPLIER and all other indemnified entities shall cooperate as may reasonably be required by Purchaser (but at Purchaser’s expense in such </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:t>defense</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:t xml:space="preserve">, litigation and/or settlement). SUPPLIER reserves the right to participate at its own cost in any proceedings with counsel of its own </w:t>
+      </w:r>
+      <w:r>
+        <w:lastRenderedPageBreak/>
+        <w:t xml:space="preserve">choosing. SUPPLIER, Purchaser and their respective counsel will cooperate fully and make available all books, records, information and witnesses under their control and reasonably necessary or useful in connection with the </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:t>defense</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:t xml:space="preserve"> of any such claim. Purchaser shall not, in the </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:t>defense</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:t xml:space="preserve"> of any such claim or proceeding, except with the prior written consent of SUPPLIER, consent to the entry of any judgment or enter into any settlement which would be to the financial or other detriment of SUPPLIER.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="726E97B2" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(C) The provisions of this section shall survive the termination of this Agreement.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="17BE8193" w14:textId="76343CD8" w:rsidR="009130F6" w:rsidRPr="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:ind w:left="360"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="009130F6">
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>Confidentiality</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="027DAC43" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>With respect to Confidential Information supplied by SUPPLIER to Purchaser or by Purchaser to SUPPLIER, the recipient of such Confidential Information agrees: (</w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:t>i</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:t>) not to use any such Confidential Information other than for the purpose of this Agreement; or (ii) not to disclose any Confidential Information to any third party other than to its employees, consultants and agents who are under an obligation of non-disclosure and who have a reasonable need for access to the Confidential Information. Upon termination of this Agreement, each party will return the Confidential Information of the other or dispose of such Confidential Information and all copies of it (except as required by regulatory authorities) but one copy may be retained for archival purposes. The parties’ obligations under this section will extend for a period of three years after termination of this Agreement.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2A46413C" w14:textId="31A2F1D7" w:rsidR="009130F6" w:rsidRPr="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:ind w:left="360"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="009130F6">
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>Term and Termination</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="64416BCB" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(A) This Agreement will commence on the Effective Date and terminate automatically without notice on the date that is [●] years from the Effective Date, unless the term of the Agreement is extended by mutual written agreement executed and delivered by both parties at least [●] days prior to the expiration of the initial term or renewal term, as applicable.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3CD14927" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(B) At its sole option, SUPPLIER may terminate this Agreement upon [●] days prior written notice if Purchaser does not achieve any of the minimum purchase requirements in Exhibit B.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="43F0210E" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(C) If either party materially defaults in the performance of this Agreement and such default or noncompliance shall not have been remedied within [●] calendar days after the receipt by the defaulting party of a written notice thereof from the other party, the party not in default may terminate this Agreement. It will not be a default under this Agreement if a party materially defaults in the performance of this Agreement where such default cannot reasonably be cured within [●] calendar days after the receipt by the defaulting party of a written notice thereof from the other party if the defaulting party shall begin promptly to remedy such default and shall continue diligent efforts to cure such default as soon as reasonably practicable, as long as such default is cured within [●] calendar days of receipt of such written notice.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6E30DF4A" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(D) All representations or warranties made in this Agreement and all terms and provisions of this Agreement intended to be observed and performed after the termination hereof, including the provisions in Sections VII and VIII, shall survive such termination and continue, thereafter, in full force and effect.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="63F3057A" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(E) At its sole option, Purchaser may terminate the minimum purchase requirements in Exhibit B upon [●]days prior written notice if Purchaser’s clinical trials are placed on clinical hold due to adverse safety events. In such event, SUPPLIER may also terminate this Agreement or elect to change the prices at which the Components are sold to Purchaser hereunder to equal the full list price for the Components (or an equivalent product) as set from time to time by SUPPLIER.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7D26133A" w14:textId="0FFB590C" w:rsidR="009130F6" w:rsidRPr="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:ind w:left="360"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="009130F6">
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t>Governing Law and Dispute Resolution</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="38BC8637" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(A) This Agreement shall be governed by and construed in accordance with the laws of  [●] India without giving effect to any choice or conflict of law provision or rule that would cause the application of the laws of any jurisdiction[●].</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3375C66C" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(B) Any dispute between the parties arising out of or related to this Agreement shall, in the first instance, be the subject of a meeting between the parties to negotiate a resolution of such dispute. The meeting shall be conducted by at least one individual from each party who has full decision making authority with respect to the dispute at issue. Should the negotiations not lead to a settlement of the dispute within  [●] calendar days of the date of the meeting, either party may then initiate binding arbitration in accordance with the  [●] (the “Rules”). In the event that a party refuses to participate in the meeting, then the other party may immediately initiate binding arbitration as otherwise provided in this Section. A single arbitrator shall be appointed in accordance with the Rules. The arbitrator shall be a person experienced in the area of supply of medical devices. The arbitration shall take place in  [●] and be based upon [●] law. No written opinion shall be prepared by the arbitrator, other than the arbitrator’s ruling and any award thereon. The party prevailing in the arbitration proceedings conducted pursuant to this Section shall be immediately reimbursed by the other party for all reasonable costs, including reasonable attorney’s fees, incurred relating to such arbitration proceeding. No party has a right to appeal the arbitrator’s ruling, to any court or otherwise. Judgment upon the arbitrator’s ruling may be entered in any Court of competent jurisdiction.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4849D9ED" w14:textId="2A9E7F1F" w:rsidR="009130F6" w:rsidRPr="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:ind w:left="360"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="009130F6">
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>Other Provisions</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="543A37E2" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(A) Neither party may assign this Agreement without the written consent of the other party, provided, however, that Supplier may assign this Agreement, upon notice to, but without the consent of, Purchaser to: (a) any Supplier Affiliate; (b) any person or entity which purchases substantially all of its stock or substantially all of its assets relating to its vascular graft business; or (c) any successor by way of merger or consolidation.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="587EAA53" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t xml:space="preserve">(B) A party shall not be liable for non-performance or delay in performance (other than of obligations regarding payment of money or confidentiality) caused by any event reasonably beyond the control of such party including, but not limited to, wars, hostilities, revolutions, riots, civil commotion, national emergency, strikes, lockouts, unavailability of supplies, epidemics, fire, flood, earthquake, force of nature, explosion, embargo, or any other Act of God, or any law, proclamation, regulation, ordinance, or other act or order of any court, government or governmental agency, provided that the party seeking such relief from non-performance makes reasonable efforts to overcome any such occurrences and promptly notifies the other party in writing of such circumstances. </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0E590819" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(C) This Agreement contains all of the terms and conditions with respect to the sale and purchase of the Components. These terms and conditions supersede any prior agreements and no modifications of the Agreement will be binding on the parties unless separately contracted in writing and agreed to by duly authorized representatives of the parties. Waiver of either party of any default by the other shall not be deemed a waiver by such party of any default by the other that may thereafter occur.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="089867AD" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t xml:space="preserve">(D) Nothing in this Agreement is intended to create any rights by persons not a party to this Agreement and no other party will be construed to be a third party beneficiary of this Agreement or </w:t>
+      </w:r>
+      <w:r>
+        <w:lastRenderedPageBreak/>
+        <w:t>otherwise have any legal or equitable rights under it. This Agreement does not constitute the grant of a license to Purchaser.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="59CDFAFD" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(E)  If any part of this Agreement is held by a court to be illegal, invalid, or unenforceable, the remainder of this Agreement will remain in full force and effect and will be interpreted to achieve, to the greatest extent possible, the objectives of this Agreement taken as a whole, including the illegal, invalid or unenforceable provision.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4E229D04" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>(F) All notices required or permitted under this Agreement will be in writing and will be deemed to be given when delivered personally; or ten (10) business days after being mailed by registered or certified mail, postage prepaid; when received if sent by any other method (including air courier) which provides for a signed receipt upon delivery; and when received if sent by facsimile transmission, addressed as follows, or to such other person or address as may be designated by notice to the other party from time-to-time.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="20EE8BE1" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6"/>
+    <w:p w14:paraId="7A790004" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0F028C06" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>If to Purchaser:</w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t>Name:[●]</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6FC26B50" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t>Address:[●]</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="109BD18E" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="44C2E0DE" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="03398BE7" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="51B8DBEF" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>If to SUPPLIER:</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3BDA3073" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3C818757" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t>Name:[●]</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5031ED18" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t>Address: [●]</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="26619F6A" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0A2D7C5A" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0E08502E" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>With a copy to:</w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t>Name: [●]</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6FF8B320" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t>Address: [●]</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="32FCB83B" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="24346E9A" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t xml:space="preserve">     IN WITNESS WHEREOF, the parties have caused this Agreement to be duly executed and delivered by their respective duly authorized officers as of the Effective Date.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0A83C225" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7BBBC1C1" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>Supplier</w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t>Purchaser</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6D0511C8" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="76880B7B" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>By:</w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t>[●]</w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t>By:</w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t>[●]</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5C2D6831" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:lastRenderedPageBreak/>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5502F90A" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6E18DB48" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4AA15384" w14:textId="77777777" w:rsidR="009130F6" w:rsidRDefault="009130F6" w:rsidP="009130F6">
+      <w:r>
+        <w:t>Title:</w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t>[●]</w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t>Title:</w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:tab/>
+        <w:t>[●]</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="31EAD10B" w14:textId="7D94AF83" w:rsidR="009E7790" w:rsidRPr="009130F6" w:rsidRDefault="009E7790" w:rsidP="009130F6"/>
+    <w:sectPr w:rsidR="009E7790" w:rsidRPr="009130F6">
+      <w:pgSz w:w="11906" w:h="16838"/>
+      <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="708" w:footer="708" w:gutter="0"/>
+      <w:cols w:space="708"/>
+      <w:docGrid w:linePitch="360"/>
+    </w:sectPr>
+  </w:body>
+</w:document>

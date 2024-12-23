@@ -1,0 +1,1351 @@
+Results for 6.Contract-written-contract.txt
+Clause: 'MASTER SERVICE AGREEMENT'
+Legal-BERT Prediction: counterparts (Confidence: 0.09047526866197586)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0546782985329628)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'This Master Service Agreement (this “Agreement”) is entered into as of May 31, 2014 (the “Effective Date”) by and between zulily, inc., a Delaware corporation (“zulily”), and IntelliSource, LLC, a Colorado limited liability company (“Provider”). Each of zulily and Provider may be referred to in this Agreement individually as a “Party” and together as the “Parties”. The Parties hereby agree as follows:'
+Legal-BERT Prediction: termination (Confidence: 0.07033203542232513)
+Legal-RoBERTa Prediction: limitation of liability (Confidence: 0.08400163799524307)
+Final Prediction: limitation of liability
+================================================================================
+
+Clause: '1.    Services.'
+Legal-BERT Prediction: amendment (Confidence: 0.07823769748210907)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07002151012420654)
+Final Prediction: amendment
+================================================================================
+
+Clause: '1.1Scope. Provider will provide services (“Services”) to zulily at one or more fulfillment center facilities (a “Facility” and collectively the “Facilities”) located within Ohio in accordance with the terms and conditions of this Agreement as the Parties may agree and specify in one or more Statements of Work in the form attached as Exhibit A for permanently assigned personnel or in the form attached as Exhibit B for temporary labor used to handle peak volume or seasonal work (each, a “SOW”) executed by both Parties. Each SOW will contain a description and/or specifications of the Services to be performed and other terms and conditions as may be mutually agreed upon by the Parties. Each SOW will constitute a separate contract from any other SOW the Parties may execute. Provider will bill zulily separately for each SOW executed. During the term of this Agreement, if either: [*].'
+Legal-BERT Prediction: termination (Confidence: 0.06523477286100388)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10754994302988052)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.2Management of Facilities. zulily shall own the management and operation of all Facilities. zulily agrees to provide Provider and its personnel with access to the Facilities, equipment and technology to permit Provider and its personnel to provide the Services. zulily agrees that Provider personnel will not be required, without Provider’s written consent which will not be unreasonably withheld, to: drive zulily vehicles; lift over fifty (50) pounds; handle chemicals; handle cash, credit card information or other valuables; operate unguarded machinery or perform any work above floor level, including elevated platforms, scaffolding, manlifts, ladders, etc. It is understood that Provider employees may be required to perform work on or at the mezzanine level.'
+Legal-BERT Prediction: costs (Confidence: 0.0941201001405716)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1388152837753296)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.3Transition of Employees. Any employees hired by Provider to provide the Services (or those employees of Provider who are already providing Services to zulily under a previous agreement between the Parties) may be eligible for full-time employment with zulily, at zulily’s sole discretion and with Provider’s permission, which must be in writing and which will not be unreasonably withheld as long as (i) zulily is not in default under this Agreement or any SOW executed pursuant to this Agreement, (ii) the minimum headcounts and hour volumes identified in the SOW attached as Exhibit A hereto are met, (iii) the tenure requirements in this Section 1.3 are met, and (iv) such hiring is consistent with the provisions of Exhibit C attached hereto. Provider in its sole discretion may allow zulily to hire a Provider employee without meeting such conditions. Subject to zulily satisfying the foregoing conditions at the time of any hiring of Provider employees, zulily may begin to transition Provider’s employees to zulily effective June 1,'
+Legal-BERT Prediction: non-solicitation (Confidence: 0.1244548037648201)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.2309379130601883)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1'
+Legal-BERT Prediction: counterparts (Confidence: 0.09008417278528214)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.045040059834718704)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '2'
+Legal-BERT Prediction: counterparts (Confidence: 0.09153002500534058)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04427765682339668)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'required). Provider further agrees that it will comply with all other applicable federal, state or local laws or regulations applicable to Provider as an employer regarding compensation, hours of work or other conditions of employment.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.19266197085380554)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.4401364326477051)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '1.5zulily Employees. Subject to Section 1.3, nothing herein shall limit zulily’s right to recruit, screen and hire directly its own employees in its sole discretion. zulily shall be responsible for supervising its workforce in accordance with all applicable legal obligations. zulily retains the option to utilize any Provider time clock and interface in its discretion so long as such use is permitted by Provider’s agreement with the time clock provider and zulily pays all license fees and costs associated therewith. zulily will install time clocks and timekeeping systems to support zulily employees as needed. Provider will maintain applicable data feeds sufficient to support productivity management as reasonably required by zulily to operate its Facilities. zulily shall be solely responsible for its own labor relations with its employees, including any former Provider employees effective as of their respective dates of hire by zulily (except to the extent any labor problems relate to the employee’s previous employment with Provider, which shall remain Provider’s sole responsibility).'
+Legal-BERT Prediction: non-competition (Confidence: 0.09023834019899368)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.11408068984746933)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '1.7Onsite Accommodations Provided by zulily. zulily at its expense shall provide to Provider at the Facilities:'
+Legal-BERT Prediction: costs (Confidence: 0.07910274714231491)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.15322016179561615)
+Final Prediction: insurance
+================================================================================
+
+Clause: 'A.    Office(s) with furniture for Provider’s employees;'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07314266264438629)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.10196086019277573)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'B.    Phones, voicemail, fax line and internet connection for Provider’s employees; and'
+Legal-BERT Prediction: amendment (Confidence: 0.061112165451049805)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.11931871622800827)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'C.    Internet connection for timeclock.'
+Legal-BERT Prediction: amendment (Confidence: 0.08598245680332184)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08136288076639175)
+Final Prediction: amendment
+================================================================================
+
+Clause: '2.Provider Representations, Warranties and Covenants.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.06636948138475418)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.09880589693784714)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '2.1Representations and Warranties. Provider represents and warrants to zulily that: (a) it is duly organized and validly existing under the Laws (as defined below) of the jurisdiction of its incorporation or formation, and has full corporate or other power to enter into this Agreement and carry out the provisions hereof; (b) it is duly authorized to execute and deliver this Agreement and to perform its obligations hereunder and under any SOW, and the person or persons executing this Agreement on its behalf has been duly authorized to do so by all requisite action; (c) the execution, delivery and performance by it of this Agreement, and the consummation by it of the transactions contemplated hereby, does not and will not (i) violate any provision of its charter, bylaws or other organizational documents, (ii) conflict with, result in a breach of or constitute a default under any agreement or instrument to which it is a party or by which it is bound, or (iii) violate, result in a breach of or constitute a default under any judgment, injunction, decree, Law or other restriction'
+Legal-BERT Prediction: intellectual property (Confidence: 0.13426066935062408)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.11961092799901962)
+Final Prediction: intellectual property
+================================================================================
+
+Clause: '3'
+Legal-BERT Prediction: counterparts (Confidence: 0.09091069549322128)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04575730115175247)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'of any court or governmental authority to which it is subject; and (d) this Agreement is legally binding upon it, enforceable in accordance with its terms, subject to bankruptcy, insolvency, reorganization, moratorium, and similar Laws of general applicability relating to or affecting creditors’ rights and to general principles of equity.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07976967841386795)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.17837005853652954)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: '2.2Standards of Service. Subject to compliance by zulily with its obligations hereunder, Provider agrees that the Services will be performed to the commercially reasonable satisfaction of zulily. Without limiting the foregoing, Provider shall perform all Services in accordance with the performance criteria (“KPIs”) for the Services set forth in a SOW or as otherwise agreed by the Parties. zulily shall retain the right, with the prior written consent of Provider, to update or add to the list of KPIs. Any KPIs, including updated or additional KPIs, which materially impact the Services provided by Provider, shall constitute an Event of Change (as defined herein). Provider agrees to allow zulily a reasonable period of time after Services are performed to determine if the Services provided by Provider were performed in a satisfactory manner. Provider agrees to employ an adequate force of trained personnel who shall perform the Services substantially in accordance with any KPIs. To further assure that the Services will be performed to the commercially reasonable satisfaction of zulily, Provider agrees that the employees hired by Provider to perform the Services provided by Provider at a Facility pursuant to a SOW will be used by Provider solely at such Facility and will not be used by Provider at any other location or for any other customer without the prior written consent of zulily, which will not be unreasonably withheld. If zulily reasonably determines within a reasonable period of time after Services are performed that the Services provided by Provider personnel are not satisfactory, zulily shall so notify Provider. If necessary, Provider will provide corrective Services within a mutually agreed upon period of time. zulily may require Provider to replace the operations or account manager assigned to zulily, if zulily reasonably determines that a replacement will improve the quality of Services provided by Provider. The foregoing rights and remedies shall be zulily’s sole and exclusive remedies hereunder except for Provider’s indemnification obligations under Section 7. Other than as provided herein, Provider makes no other warranty of any kind with respect to the Services hereunder or otherwise. All other warranties, express or implied, are hereby disclaimed. Without limiting the foregoing, Provider shall have no liability for work product of Provider or its employees that is incorporated into zulily’s work product, processes or plans.'
+Legal-BERT Prediction: non-competition (Confidence: 0.09473452717065811)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.1169142946600914)
+Final Prediction: insurance
+================================================================================
+
+Clause: '2.3Additional Requirements. In the performance of the Services, (i) Provider will provide all equipment, software and supplies required to perform the Services, except as set forth in Section 1.7 or unless otherwise agreed; (ii) Provider and its personnel will comply, at Provider’s sole cost, with all applicable ordinances, codes, standards, laws, rules, regulations and orders (including those of any applicable stock exchange) (collectively, “Laws”), and will hold and fully comply with all required licenses, permits, certifications and approvals and (iii) Provider will ensure that all personnel are authorized to lawfully perform the Services pursuant to applicable immigration and work status Laws.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.17362163960933685)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.43374067544937134)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '2.4Designation of Manager. Provider will designate a manager in charge of the Services on a continuous basis with responsibility for providing adequate supervision or direction and having authority to take all action that may be required in performance of the Services.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07920961827039719)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.08881241083145142)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: '2.5Services on zulily Premises. Provider and any of its personnel will abide by all zulily’s rules, policies and procedures regarding such matters as safety, security, health, environmental and hazardous material management, misconduct, physical aggression,'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.16894207894802094)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.36292898654937744)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '4'
+Legal-BERT Prediction: counterparts (Confidence: 0.0868670791387558)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04607295244932175)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'harassment and theft (collectively, the “zulily Policies”), provided that zulily has provided copies of such policies to Provider, and at zulily’s request will remove any personnel performing Services who behave in a manner that is inconsistent with any such zulily Policies.'
+Legal-BERT Prediction: non-solicitation (Confidence: 0.0928402990102768)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.11419530212879181)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '2.6Records. Provider will, in accordance with generally accepted accounting principles (as it applies to financial records) and otherwise in compliance with Law, maintain and keep complete and accurate records of all matters relating to the Services that enable Provider to demonstrate compliance with its obligations under this Agreement and any SOW, including compliance with applicable Laws, during the Term and for seven years thereafter (collectively, regardless of form, the “Records”). The Records maintained by Provider will include time sheets, billing records, invoices, payment applications, payments of consultants and receipts relating to reimbursable expenses. zulily (or its designated representatives) may, upon reasonable notice and during normal business hours, examine and make copies of all Records. In addition, subject to the terms of this Agreement, Provider will, as requested by zulily and at zulily’s expense, provide information regarding Provider and its operations that, in zulily’s determination, will assist zulily in its efforts to ensure compliance with various Laws, such as interaction with government officials and data security controls.'
+Legal-BERT Prediction: insurance (Confidence: 0.09526266902685165)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.17061050236225128)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '2.7Audits. Without limiting any other rights set forth in this Agreement, zulily’s internal or external accountants and auditors may, at zulily’s expense, not more frequently than [*], audit Provider’s Records solely with respect to the matters set forth in this Agreement at any time during the Term and for [*] thereafter, upon reasonable notice and during normal business hours. If any such audit reveals that Provider has overcharged zulily, zulily will provide written evidence thereof to Provider and Provider will, unless it reasonably disputes the findings of such audit, promptly reimburse zulily for such overcharge. In the event that such overcharge is an amount equal to or greater than [*]% of the amount that should have been charged under the terms of this Agreement and the applicable SOW, then Provider will promptly reimburse zulily for all reasonable costs and expenses incurred in connection with such audit.'
+Legal-BERT Prediction: non-competition (Confidence: 0.0625394880771637)
+Legal-RoBERTa Prediction: costs (Confidence: 0.08897200226783752)
+Final Prediction: costs
+================================================================================
+
+Clause: '2.8Required Insurance. In addition to any specific insurance requirements set forth in any SOW, Provider agrees to maintain the following insurance coverage:'
+Legal-BERT Prediction: insurance (Confidence: 0.12827323377132416)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.3771986663341522)
+Final Prediction: insurance
+================================================================================
+
+Clause: '(a)Provider will maintain commercial general liability insurance, on an occurrence basis, covering all operations by or on behalf of Provider against bodily injury (including death) and property damage (including loss of use), including premises/operations, personal and advertising injury, products/completed operations, and contractual liability. This commercial general liability insurance will be in limits of liability of not less than $1,000,000 per occurrence, combined single limit for bodily injury and property damage, with a $2,000,000 general aggregate. zulily will be included as an additional insured under such policy.'
+Legal-BERT Prediction: insurance (Confidence: 0.2785618305206299)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.26546984910964966)
+Final Prediction: insurance
+================================================================================
+
+Clause: '(b)Provider will maintain business automobile liability insurance, including coverage for all owned, hired and non-owned automobiles. The amount of automobile insurance will not be less than $1,000,000 combined single limit for each accident for bodily injury and property damage. zulily will be included as an additional insured under such policy.'
+Legal-BERT Prediction: insurance (Confidence: 0.15751349925994873)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.29893308877944946)
+Final Prediction: insurance
+================================================================================
+
+Clause: '5'
+Legal-BERT Prediction: counterparts (Confidence: 0.08797793835401535)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04696935787796974)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '(c)Provider will maintain Workers’ Compensation insurance at all locations where Provider performs the Services. Further, Provider will obtain and maintain Employer’s Liability Insurance in an amount not less than $1,000,000.'
+Legal-BERT Prediction: insurance (Confidence: 0.1527647227048874)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.3032035529613495)
+Final Prediction: insurance
+================================================================================
+
+Clause: '(d)    a commercially reasonable Fidelity Bond.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07298720628023148)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.1133972629904747)
+Final Prediction: insurance
+================================================================================
+
+Clause: '(e)Provider will maintain an umbrella insurance policy, on an occurrence basis, providing coverage in excess of commercial general liability, business automobile liability, and employer’s liability, in an amount not less than $3,000,000 per occurrence, combined single limit for bodily injury and property damage. zulily will be included as an additional insured under such policy.'
+Legal-BERT Prediction: insurance (Confidence: 0.2839502692222595)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.2688671350479126)
+Final Prediction: insurance
+================================================================================
+
+Clause: 'zulily shall maintain at its expense commercially reasonable amounts of commercial general liability insurance for the Facilities provided hereunder and shall name Provider as an additional insured under such policy. zulily shall provide Provider with a certificate of insurance evidencing such insurance coverage. zulily will not cancel the policy without at least 30 days prior written notice to Provider.'
+Legal-BERT Prediction: insurance (Confidence: 0.18678168952465057)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.42006322741508484)
+Final Prediction: insurance
+================================================================================
+
+Clause: '2.9    Certificates of Insurance; Insurer Qualifications; Subcontractors.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.08528325706720352)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.11151266098022461)
+Final Prediction: insurance
+================================================================================
+
+Clause: '(a)Provider will provide zulily with certificates of insurance evidencing all of the insurance coverage required by this Agreement prior to commencing work hereunder. The certificates of insurance will provide that the policies will not be cancelled or non-renewed without at least 30 days prior written notice to zulily.'
+Legal-BERT Prediction: insurance (Confidence: 0.1808536797761917)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.36039891839027405)
+Final Prediction: insurance
+================================================================================
+
+Clause: '(b)All policies required by this Section 2 will be written by insurance companies licensed to issue policies in the state(s) where Services are being performed and that have an A.M. Best rating of no less than A+ or otherwise acceptable to zulily.'
+Legal-BERT Prediction: insurance (Confidence: 0.1678512543439865)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.2788532078266144)
+Final Prediction: insurance
+================================================================================
+
+Clause: '(c)Provider will obtain contractual obligations from, and will enforce those obligations against, any subcontractor that Provider utilizes to perform obligations under this Agreement, which obligations will require such subcontractor to obtain and maintain insurance coverage and limits of liability of the same type and the same amount as are required to be obtained and maintained by Provider hereunder, except that Provider may request zulily’s waiver of such requirement for certain smaller subcontractors, which waiver will not be unreasonably withheld. Provider will obtain, prior to the commencement of each subcontractor’s work, certificates of insurance evidencing such subcontractor’s compliance with the insurance requirements contained herein.'
+Legal-BERT Prediction: insurance (Confidence: 0.29767733812332153)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.3511196970939636)
+Final Prediction: insurance
+================================================================================
+
+Clause: '3.Fees; Payment.'
+Legal-BERT Prediction: amendment (Confidence: 0.0845630019903183)
+Legal-RoBERTa Prediction: costs (Confidence: 0.09837997704744339)
+Final Prediction: costs
+================================================================================
+
+Clause: '6'
+Legal-BERT Prediction: counterparts (Confidence: 0.09248616546392441)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04571327194571495)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '[*]'
+Legal-BERT Prediction: counterparts (Confidence: 0.073225237429142)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05672721564769745)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '3.3    Taxes.'
+Legal-BERT Prediction: counterparts (Confidence: 0.0764639750123024)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.12095179408788681)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '(a)Each Party will be responsible for and pay all taxes, duties or charges of any kind (including withholding, value added or gross receipts taxes) imposed by any federal, state, or local governmental entity for any payments made to it or received by it under this Agreement. zulily may deduct or withhold any taxes that zulily determines it is obligated to withhold from any amounts payable to Provider under this Agreement, and payment to Provider as reduced by such deductions or withholdings will constitute full payment and settlement to Provider of such amounts.'
+Legal-BERT Prediction: indemnity (Confidence: 0.09528903663158417)
+Legal-RoBERTa Prediction: costs (Confidence: 0.1280154585838318)
+Final Prediction: costs
+================================================================================
+
+Clause: '(b)The Parties will make reasonable attempts to determine whether none, some or all of the Services provided under any SOW are subject to sales tax under applicable state or local statutes. zulily may issue certificates of exemption to Provider when it believes a tax exemption, exception or exclusion applies which must be accepted by Provider when they are issued in good faith. [*].'
+Legal-BERT Prediction: termination (Confidence: 0.088395856320858)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.13639841973781586)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: '7'
+Legal-BERT Prediction: counterparts (Confidence: 0.09440033882856369)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04591860994696617)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '[*]'
+Legal-BERT Prediction: counterparts (Confidence: 0.073225237429142)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05672721564769745)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '4.Term and Termination.'
+Legal-BERT Prediction: counterparts (Confidence: 0.07278534770011902)
+Legal-RoBERTa Prediction: termination (Confidence: 0.08252472430467606)
+Final Prediction: termination
+================================================================================
+
+Clause: '4.2    Termination. This Agreement, or any applicable SOW, will be terminated as follows:'
+Legal-BERT Prediction: termination (Confidence: 0.14039570093154907)
+Legal-RoBERTa Prediction: termination (Confidence: 0.29474398493766785)
+Final Prediction: termination
+================================================================================
+
+Clause: '(a)by the mutual written agreement of the Parties;'
+Legal-BERT Prediction: amendment (Confidence: 0.20185904204845428)
+Legal-RoBERTa Prediction: amendment (Confidence: 0.18879583477973938)
+Final Prediction: amendment
+================================================================================
+
+Clause: '(b)upon written notice by either Party, at its sole option:'
+Legal-BERT Prediction: amendment (Confidence: 0.15352682769298553)
+Legal-RoBERTa Prediction: notice (Confidence: 0.15928420424461365)
+Final Prediction: notice
+================================================================================
+
+Clause: '(i)immediately upon delivery of written notice to the other Party, if the other Party has ceased to do business, dissolved or elected to dissolve; or'
+Legal-BERT Prediction: termination (Confidence: 0.13319343328475952)
+Legal-RoBERTa Prediction: notice (Confidence: 0.13801521062850952)
+Final Prediction: notice
+================================================================================
+
+Clause: '(ii)immediately upon delivery of written notice to the other Party, if the other Party is unable to pay its debts when due, becomes insolvent, makes an assignment for the benefit of creditors, or proceedings in bankruptcy or reorganization or for an appointment of a receiver or trustee for or over the other Party’s property are instituted by or against such Party in any court having jurisdiction thereof, and such proceedings be not vacated, set aside or stayed within 60 days thereof, or if the other Party attempts to enter into an arrangement or assignment with or for the benefit of its creditors;'
+Legal-BERT Prediction: termination (Confidence: 0.08635715395212173)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.11529761552810669)
+Final Prediction: assignment
+================================================================================
+
+Clause: '(c)    by either Party for any reason:'
+Legal-BERT Prediction: termination (Confidence: 0.13003087043762207)
+Legal-RoBERTa Prediction: termination (Confidence: 0.07489708811044693)
+Final Prediction: termination
+================================================================================
+
+Clause: '(i)during the first year of the Agreement: one hundred and twenty (120) days after delivery of written notice; and'
+Legal-BERT Prediction: termination (Confidence: 0.10109787434339523)
+Legal-RoBERTa Prediction: notice (Confidence: 0.23623327910900116)
+Final Prediction: notice
+================================================================================
+
+Clause: '(ii)after the first year of the Agreement: ninety (90) days after delivery of written notice.'
+Legal-BERT Prediction: termination (Confidence: 0.12459703534841537)
+Legal-RoBERTa Prediction: notice (Confidence: 0.19849710166454315)
+Final Prediction: notice
+================================================================================
+
+Clause: '(d)either Party may terminate this Agreement for a material breach of this Agreement by giving not less than sixty (60) days written notice to the other party hereto; provided that Provider may terminate this Agreement or an applicable SOW immediately upon notice to zulily if any undisputed invoice aged over thirty (30) days remains unpaid. If zulily delivers notice to Provider of its intent to terminate under this provision, zulily shall include therein the reasons for such termination and Provider shall have thirty (30) days to rectify or modify'
+Legal-BERT Prediction: termination (Confidence: 0.13289766013622284)
+Legal-RoBERTa Prediction: termination (Confidence: 0.1689891219139099)
+Final Prediction: termination
+================================================================================
+
+Clause: '8'
+Legal-BERT Prediction: counterparts (Confidence: 0.08752930164337158)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04693767428398132)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'its performance, after which thirty (30) day period zulily shall revoke or affirm its termination.'
+Legal-BERT Prediction: termination (Confidence: 0.12059822678565979)
+Legal-RoBERTa Prediction: termination (Confidence: 0.16239827871322632)
+Final Prediction: termination
+================================================================================
+
+Clause: '4.3    Effect of Termination. Upon termination of this Agreement:'
+Legal-BERT Prediction: termination (Confidence: 0.10051321983337402)
+Legal-RoBERTa Prediction: termination (Confidence: 0.22016641497612)
+Final Prediction: termination
+================================================================================
+
+Clause: '(a)zulily will only be liable to pay undisputed amounts for Services performed in accordance with this Agreement and the applicable SOW prior to expiration or termination; provided further that if zulily terminates under Section 4.2(d), zulily will be entitled to deduct from any such payment any damages incurred by zulily as a result of the cause for such termination (which will not be construed as a limit on zulily’s ability to recover any damages in excess of such payment amount).'
+Legal-BERT Prediction: termination (Confidence: 0.11237315833568573)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.21495379507541656)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '(b)Each Party will return to the other Party all Materials and Confidential Information in whatever form in that is in such Party’s possession.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.11097285896539688)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.22737234830856323)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '4.4Survival of Certain Provisions. Notwithstanding anything to the contrary in this Section 4, Sections 2.8, 3, 4.4, 5, 6, 7 and 9 will survive any expiration or termination of this Agreement.'
+Legal-BERT Prediction: termination (Confidence: 0.12587431073188782)
+Legal-RoBERTa Prediction: termination (Confidence: 0.09508570283651352)
+Final Prediction: termination
+================================================================================
+
+Clause: '5.Proprietary Rights.'
+Legal-BERT Prediction: amendment (Confidence: 0.07617214322090149)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08667849004268646)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '5.1Proprietary Information. All intellectual property and other data of any nature furnished or disclosed by one Party (the “Disclosing Party”) to the other Party (the “Receiving Party”) in connection with this Agreement or otherwise may be used by the Receiving Party only in connection with this Agreement and will remain the property of the Disclosing Party. The Disclosing Party will retain all rights, title and interest in and to such materials, including all software, source codes, modifications, updates and enhancements thereof or any other aspect of its systems, its name or any derivatives thereof, and any other trademarks and logos that are owned or controlled by the Disclosing Party.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.15775056183338165)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.17783355712890625)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '5.2Materials. The Receiving Party and its personnel will not access, use, copy, or distribute any Materials without the Disclosing Party’s express permission. If the Disclosing Party provides the Receiving Party with access to or copies of any Materials, then the Disclosing Party thereby grants the Receiving Party a non-exclusive, temporary, revocable license to use those Materials solely in connection with this Agreement. The Receiving Party will treat all Materials as Confidential Information. “Materials” means any materials or information that zulily owns or licenses from a third party, including concepts, works, inventions, information, drawings, designs, templates, interfaces, programs, or software (in source code and object code form), as well as any related documentation and instructions.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.25157463550567627)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.32309991121292114)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '9'
+Legal-BERT Prediction: counterparts (Confidence: 0.09090618789196014)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.0467899926006794)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '6.Publicity; Confidentiality.'
+Legal-BERT Prediction: amendment (Confidence: 0.09409796446561813)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.1937849372625351)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '6.1Publicity. Neither Party will use any trade name, trademark, service mark, logo, commercial symbol, or any other proprietary rights of the other Party or its affiliates (or any name, mark, logo, or commercial symbol confusingly similar thereto), in any manner (including any materials or in any form of publicity, marketing, promotion, advertisement, or press release), without such other Party’s prior written consent or as described in this Agreement. Neither Party will issue press releases or publicity relating to the other Party or this Agreement or reference such other Party or its affiliates in any brochures, advertisements, client lists or other promotional materials without such other Party’s prior written consent. Notwithstanding the foregoing, zulily may file this Agreement and any SOW as required by applicable law or stock exchange requirements.'
+Legal-BERT Prediction: intellectual property (Confidence: 0.08632776886224747)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.13954393565654755)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '6.3Confidential Information. The term “Confidential Information” includes any confidential or proprietary information of either the Receiving or the Disclosing Party (whether oral, written, visual or fixed in any tangible medium of expression, including electronic or magnetic form), which (a) is identified by the relevant Party as being confidential or would be apparent to a reasonable person as constituting information of a confidential or proprietary nature, and (b) relates to either Party’s services, operations, systems, programs, data, unpublished research plans or results, protocols, methodologies, concepts, models, procedures, algorithms, methods, approaches, analyses, improvements, inventions, techniques, suppliers, employees, customers and prospective customers, customer lists and prospective customer lists, contact information for customers and prospective customers (e.g., names, titles, phone numbers, addresses, fax numbers, and email addresses), contractors, cost and pricing data, trade secrets, “know-how”, processes, plans, reports, designs, software, technology, IT infrastructure, workflows, and'
+Legal-BERT Prediction: confidentiality (Confidence: 0.2326202243566513)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.34855157136917114)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '10'
+Legal-BERT Prediction: counterparts (Confidence: 0.09466385841369629)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.047082338482141495)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '6.4Compelled Disclosure. If the Receiving Party is requested or required by subpoena, civil investigative demand, any informal or formal investigation by any government or governmental agency or authority, Law, or other legal or governmental process, including oral questions, interrogatories, or requests for information or documents, to disclose any of the Confidential Information, the Receiving Party will notify the Disclosing Party promptly in writing so that the Disclosing Party may seek a protective order or other appropriate remedy or, in its sole discretion, waive compliance with the confidentiality obligations of this Agreement and authorize such disclosure. If no such protective order or other remedy is obtained, or the Disclosing Party waives compliance with the confidentiality obligations of this Agreement and authorizes such disclosure, the Receiving Party will furnish only that portion of the Confidential Information which it is advised by counsel is legally required and will exercise its reasonable efforts to obtain assurance that confidential treatment will be afforded to the Confidential Information.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.2926197946071625)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.42417916655540466)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '6.5Return of Confidential Information. Upon the earlier of (a) the expiration or termination of this Agreement or (b) the request of the Disclosing Party, the Receiving Party will return to the Disclosing Party all Confidential Information of the Disclosing Party in its possession in a manner mutually agreed upon by the Parties.'
+Legal-BERT Prediction: confidentiality (Confidence: 0.16520263254642487)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.18460026383399963)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: '7.Indemnification; Limitation of Liability.'
+Legal-BERT Prediction: joint and several liability (Confidence: 0.07107893377542496)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.08283793181180954)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '11'
+Legal-BERT Prediction: counterparts (Confidence: 0.0876869335770607)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.045968666672706604)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'becomes a zulily employee; provided, however, to the extent such claim relates to the employee’s previous employment with Provider it shall remain the responsibility of Provider) against Provider for any reason; (b) any claim by a Provider employee or former Provider employee against Provider arising out of or related to zulily’s recruitment, hiring or non-hiring of such employee, including without limitation zulily’s recruitment or hiring practices or policies with respect thereto; (c) any breach or alleged breach by zulily under this Agreement; (d) the negligence, recklessness, willful misconduct, fraud or bad faith of zulily; and (e) injury to or death of any person or damage to any property caused by zulily’s performance or non-performance of its obligations under this Agreement; provided that zulily shall not indemnify or hold harmless Provider Indemnified Parties to the extent any such Losses are caused by willful misconduct or the negligent or unlawful acts or omissions of Provider Indemnified Parties.'
+Legal-BERT Prediction: indemnity (Confidence: 0.1558918058872223)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.3719479739665985)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '7.3Joint Liability. If Losses are the result of the joint or concurrent negligence of Provider Indemnified Parties and zulily Indemnified Parties, Losses shall be apportioned between the Parties based on the relative negligence of the Parties.'
+Legal-BERT Prediction: joint and several liability (Confidence: 0.10117796063423157)
+Legal-RoBERTa Prediction: joint and several liability (Confidence: 0.16703301668167114)
+Final Prediction: joint and several liability
+================================================================================
+
+Clause: '12'
+Legal-BERT Prediction: counterparts (Confidence: 0.0926303043961525)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.045783620327711105)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '7.5Limitation of Liabilities. EXCEPT AS EXPRESSLY PROVIDED IN THIS AGREEMENT, NEITHER PARTY WILL BE LIABLE TO THE OTHER PARTY UNDER ANY CIRCUMSTANCES FOR INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL (INCLUDING LOST OPPORTUNITIES OR PROFITS), OR PUNITIVE DAMAGES ARISING OUT OF ANY OF THE TERMS OR CONDITIONS OF THIS AGREEMENT OR WITH RESPECT TO ITS PERFORMANCE HEREUNDER. Notwithstanding the foregoing, the Parties will be liable for indirect, special, incidental, consequential (including lost opportunities or profits) and punitive damages to the extent arising out of (i) a breach of Section 5 or Section 6 of this Agreement, or (ii) such Party’s fraud or willful misconduct.'
+Legal-BERT Prediction: damages (Confidence: 0.11132767796516418)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.2565665543079376)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '9.General Provisions.'
+Legal-BERT Prediction: amendment (Confidence: 0.08303849399089813)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07050686329603195)
+Final Prediction: amendment
+================================================================================
+
+Clause: '9.2[*]. Except as expressly provided in Section 1.3 of this Agreement or a SOW, during the term of this Agreement and for [*] following the date of termination of this Agreement [*].'
+Legal-BERT Prediction: termination (Confidence: 0.16047793626785278)
+Legal-RoBERTa Prediction: termination (Confidence: 0.107315294444561)
+Final Prediction: termination
+================================================================================
+
+Clause: '9.3Notices. Any notice or information required or permitted to be given under this Agreement will be deemed given when (a) delivered personally, (b) one business day after deposit with an overnight courier, or (c) five days after mailing when sent by'
+Legal-BERT Prediction: notice (Confidence: 0.17150002717971802)
+Legal-RoBERTa Prediction: notice (Confidence: 0.448802649974823)
+Final Prediction: notice
+================================================================================
+
+Clause: '13'
+Legal-BERT Prediction: counterparts (Confidence: 0.09386781603097916)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04591765254735947)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'registered or certified mail, postage prepaid, return receipt requested, addressed to the address set forth below:'
+Legal-BERT Prediction: notice (Confidence: 0.11247368901968002)
+Legal-RoBERTa Prediction: notice (Confidence: 0.2970934510231018)
+Final Prediction: notice
+================================================================================
+
+Clause: 'In the case of zulily:'
+Legal-BERT Prediction: amendment (Confidence: 0.10324149578809738)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04878056049346924)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'zulily, inc.'
+Legal-BERT Prediction: counterparts (Confidence: 0.06980302184820175)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.0511917807161808)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '2601 Elliott Ave.'
+Legal-BERT Prediction: amendment (Confidence: 0.08205750584602356)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.053598299622535706)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Seattle, WA 98121'
+Legal-BERT Prediction: amendment (Confidence: 0.07302398234605789)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05973494425415993)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Attention: Bob Spieth, COO'
+Legal-BERT Prediction: counterparts (Confidence: 0.08711539953947067)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07773060351610184)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'cc: Legal'
+Legal-BERT Prediction: counterparts (Confidence: 0.07666884362697601)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.056626562029123306)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'With a copy via email (which will not constitute notice) to: bspieth@zulily.com, drunnette@zulily.com'
+Legal-BERT Prediction: counterparts (Confidence: 0.1276755928993225)
+Legal-RoBERTa Prediction: notice (Confidence: 0.23215800523757935)
+Final Prediction: notice
+================================================================================
+
+Clause: 'In the case of Provider:'
+Legal-BERT Prediction: amendment (Confidence: 0.08417285978794098)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04767998680472374)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'IntelliSource, LLC'
+Legal-BERT Prediction: counterparts (Confidence: 0.08240300416946411)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05340924486517906)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '1899 Wynkoop Street, Ste. 900'
+Legal-BERT Prediction: amendment (Confidence: 0.09302709996700287)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0566648505628109)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Denver, CO 80202'
+Legal-BERT Prediction: counterparts (Confidence: 0.07389901578426361)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05581703782081604)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Attention: Robyn Donahue'
+Legal-BERT Prediction: amendment (Confidence: 0.0769689753651619)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07224830240011215)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'With a copy via email (which will not constitute notice) to: rdonahue@intellisource.com'
+Legal-BERT Prediction: counterparts (Confidence: 0.13893012702465057)
+Legal-RoBERTa Prediction: notice (Confidence: 0.23198266327381134)
+Final Prediction: notice
+================================================================================
+
+Clause: 'Either Party may change its notice address by giving notice in accordance with this Section 9.3.'
+Legal-BERT Prediction: notice (Confidence: 0.11841055005788803)
+Legal-RoBERTa Prediction: notice (Confidence: 0.3127589225769043)
+Final Prediction: notice
+================================================================================
+
+Clause: '9.4Severability. If any provision of this Agreement is held by a court of competent jurisdiction to be invalid, void or unenforceable, the remaining provisions of this Agreement will remain in full force and effect. If a court finds that any provision of this Agreement is invalid or unenforceable, but that by limiting such provision it would become valid and enforceable, then such provision will be deemed to be written, construed, and enforced as so limited.'
+Legal-BERT Prediction: severability (Confidence: 0.27041903138160706)
+Legal-RoBERTa Prediction: severability (Confidence: 0.5821601152420044)
+Final Prediction: severability
+================================================================================
+
+Clause: '9.5Waivers. The waiver of any breach or violation of any term or provision of this Agreement will not constitute a waiver of any subsequent breach or violation of the same or any other term or provision. No waiver of any right or remedy hereunder will occur unless such waiver is in writing.'
+Legal-BERT Prediction: waiver (Confidence: 0.3858950734138489)
+Legal-RoBERTa Prediction: waiver (Confidence: 0.4303266108036041)
+Final Prediction: waiver
+================================================================================
+
+Clause: '9.7Conflicts Among Documents. If there is any conflict or inconsistency between this Agreement and any SOW, the terms of this Agreement will control (unless the SOW'
+Legal-BERT Prediction: entire agreement (Confidence: 0.09306441992521286)
+Legal-RoBERTa Prediction: severability (Confidence: 0.13667193055152893)
+Final Prediction: severability
+================================================================================
+
+Clause: '14'
+Legal-BERT Prediction: counterparts (Confidence: 0.09300871938467026)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04564845934510231)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '9.8No Third Party Beneficiaries. This Agreement will not be construed to confer any rights on any third party, except as otherwise expressly set forth in this Agreement.'
+Legal-BERT Prediction: entire agreement (Confidence: 0.13231557607650757)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.16825884580612183)
+Final Prediction: assignment
+================================================================================
+
+Clause: '9.9Assignment and Subcontracting. Provider may not delegate or subcontract all or any portion of this Agreement without zulily’s prior written consent, which shall not be unreasonably withheld. This Agreement shall not be assigned by Provider without zulily’s prior written consent, which shall not be unreasonably withheld. zulily may not assign this Agreement without Provider’s prior written consent, which shall not be unreasonably withheld; provided, however, that zulily may assign this Agreement without Provider’s consent in cases of zulily’s merger or consolidation, sale of substantially all of its assets, or similar change in control event. This Agreement and the rights and obligations of either Party hereunder will be binding upon and will inure to the benefit of the Parties and their respective successors and permitted assigns.'
+Legal-BERT Prediction: assignment (Confidence: 0.29276955127716064)
+Legal-RoBERTa Prediction: assignment (Confidence: 0.3530229926109314)
+Final Prediction: assignment
+================================================================================
+
+Clause: '9.10Governing Law; Waiver of Jury Trial. This Agreement is governed by, and will be construed in accordance with, the Laws of the State of Washington, regardless of the conflict of laws principles thereof that would require the application of the Laws of another jurisdiction. The prevailing Party in any dispute between the Parties arising out of or relating to this Agreement will be entitled to recover its reasonable attorneys’ fees and costs incurred in connection with such dispute. THE PARTIES EACH IRREVOCABLY WAIVE THEIR RESPECTIVE RIGHTS TO JURY TRIAL OF ANY DISPUTE BASED UPON OR ARISING OUT OF THIS AGREEMENT OR ANY DEALINGS AMONG THEM RELATING TO THE TRANSACTIONS CONTEMPLATED HEREBY.'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.17536725103855133)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.2897005081176758)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: '9.11Disputes. Any controversy or dispute arising out of or relating to either Party’s rights or obligations under this Agreement or an SOW (each, a “Dispute”) will be resolved as follows:'
+Legal-BERT Prediction: governing law and jurisdiction (Confidence: 0.10223978012800217)
+Legal-RoBERTa Prediction: termination (Confidence: 0.07055402547121048)
+Final Prediction: governing law and jurisdiction
+================================================================================
+
+Clause: '(a)For the first 30 days following the identification of a Dispute, the Parties will in good faith attempt to resolve such Dispute. Such efforts will not require either Party to involve its senior management in discussions with the other Party (but either Party may elect to do so voluntarily).'
+Legal-BERT Prediction: further assurance (Confidence: 0.0784708634018898)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.07805683463811874)
+Final Prediction: further assurance
+================================================================================
+
+Clause: '(b)If the Parties are unable to resolve the Dispute during such 30-day period, then for an additional 30 days thereafter, representatives of the senior management of each Party will in good faith attempt to resolve such Dispute.'
+Legal-BERT Prediction: further assurance (Confidence: 0.08163484185934067)
+Legal-RoBERTa Prediction: amendment (Confidence: 0.0791640356183052)
+Final Prediction: further assurance
+================================================================================
+
+Clause: '(c)If the Parties are unable to resolve the Dispute during such additional 30-day period, then either Party may elect that the Dispute be resolved by binding arbitration in accordance with the then-current Commercial Arbitration Rules of the American Arbitration Association. The Parties will select a mutually acceptable arbitrator knowledgeable about issues relating to the subject matter of this Agreement. If the Parties are unable to agree to such a selection, each Party will select an arbitrator and the two arbitrators in turn will select a third arbitrator, all three of whom will preside jointly over the matter. The arbitration will take place in Seattle, Washington.'
+Legal-BERT Prediction: termination (Confidence: 0.09323745220899582)
+Legal-RoBERTa Prediction: governing law and jurisdiction (Confidence: 0.06848198175430298)
+Final Prediction: termination
+================================================================================
+
+Clause: '15'
+Legal-BERT Prediction: counterparts (Confidence: 0.08279380202293396)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.045779693871736526)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '9.12Injunctive and Other Equitable Relief. The Parties each acknowledge that breach or threatened breach of Sections 5 or 6, could cause irreparable harm, the amount of which may be extremely difficult to estimate, thus making any remedy at law or in damages inadequate. Therefore, each Party has the right to seek injunctive or other equitable relief for any such breach or threatened breach of this Agreement, without any obligation to post a bond or other security.'
+Legal-BERT Prediction: severability (Confidence: 0.09087708592414856)
+Legal-RoBERTa Prediction: indemnity (Confidence: 0.14540645480155945)
+Final Prediction: indemnity
+================================================================================
+
+Clause: '9.13Construction. The Parties have participated jointly in the negotiation of this Agreement, and each has had the advice of legal counsel to review, comment upon and draft this Agreement. Accordingly, the Parties agree that no rule of construction will apply against or in favor of any Party, and any uncertainty or ambiguity will not be interpreted against any one Party in favor of the other Party. For purposes of this Agreement, the terms “include,” “includes,” and “including” will be deemed to be followed by the words “without limitation.”'
+Legal-BERT Prediction: entire agreement (Confidence: 0.1400691121816635)
+Legal-RoBERTa Prediction: severability (Confidence: 0.11437786370515823)
+Final Prediction: entire agreement
+================================================================================
+
+Clause: '9.14Further Assurances. Each Party will execute, acknowledge and deliver such further instruments, and do all such other acts, as may be necessary or appropriate in order to carry out the purposes and intent of this Agreement.'
+Legal-BERT Prediction: further assurance (Confidence: 0.20624634623527527)
+Legal-RoBERTa Prediction: further assurance (Confidence: 0.3337821066379547)
+Final Prediction: further assurance
+================================================================================
+
+Clause: '9.15Counterparts; Signatures. This Agreement may be executed in two or more counterparts, each of which will be an original, and all of which together will constitute one and the same instrument. This Agreement may be executed by facsimile or electronically scanned signatures and such signatures will be deemed to bind each Party as if they were original signatures.'
+Legal-BERT Prediction: counterparts (Confidence: 0.4355417788028717)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.5012530088424683)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '9.16Remedies. All remedies and rights contained in this Agreement will be cumulative and none of them will be in limitation of any other remedy or right of either Party at law or in equity.'
+Legal-BERT Prediction: waiver (Confidence: 0.18730676174163818)
+Legal-RoBERTa Prediction: waiver (Confidence: 0.09725028276443481)
+Final Prediction: waiver
+================================================================================
+
+Clause: '9.17Headings. The headings in this Agreement are for reference purposes only and will not in any way affect the meaning or interpretation of this Agreement.'
+Legal-BERT Prediction: entire agreement (Confidence: 0.11707203090190887)
+Legal-RoBERTa Prediction: severability (Confidence: 0.13188166916370392)
+Final Prediction: severability
+================================================================================
+
+Clause: '[Signature page follows.]'
+Legal-BERT Prediction: amendment (Confidence: 0.08597120642662048)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.05457259714603424)
+Final Prediction: amendment
+================================================================================
+
+Clause: '16'
+Legal-BERT Prediction: counterparts (Confidence: 0.08498338609933853)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04572309926152229)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.'
+Legal-BERT Prediction: counterparts (Confidence: 0.12421706318855286)
+Legal-RoBERTa Prediction: termination (Confidence: 0.10980292409658432)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'ZULILY, INC.'
+Legal-BERT Prediction: counterparts (Confidence: 0.06980302184820175)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05206742510199547)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'By: /s/ Darrell Cavens'
+Legal-BERT Prediction: amendment (Confidence: 0.09114940464496613)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05875295773148537)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Name:    Darrell Cavens'
+Legal-BERT Prediction: amendment (Confidence: 0.07776934653520584)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06410493701696396)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Title:CEO'
+Legal-BERT Prediction: counterparts (Confidence: 0.07977698743343353)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.058939941227436066)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'PROVIDER:'
+Legal-BERT Prediction: counterparts (Confidence: 0.09757348895072937)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05351198837161064)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'IntelliSource, LLC'
+Legal-BERT Prediction: counterparts (Confidence: 0.08240300416946411)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05340924486517906)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'By: /s/ Robyn Donahue'
+Legal-BERT Prediction: amendment (Confidence: 0.08553577959537506)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.06860428303480148)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Name:    Robyn Donahue'
+Legal-BERT Prediction: counterparts (Confidence: 0.0705987811088562)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.075480155646801)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Title:    CEO'
+Legal-BERT Prediction: counterparts (Confidence: 0.07977698743343353)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08242052793502808)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '[Signature Page to Master Service Agreement]'
+Legal-BERT Prediction: amendment (Confidence: 0.09625454246997833)
+Legal-RoBERTa Prediction: amendment (Confidence: 0.08387510478496552)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'EXHIBIT A'
+Legal-BERT Prediction: counterparts (Confidence: 0.07373962551355362)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.046045493334531784)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'STATEMENT OF WORK'
+Legal-BERT Prediction: counterparts (Confidence: 0.08455394953489304)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.051744360476732254)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'NUMBER [____]'
+Legal-BERT Prediction: amendment (Confidence: 0.09102965146303177)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.051464829593896866)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'This Statement of Work (this “SOW”) is entered into as of MAY 31, 2014 (“SOW Effective Date”) and made a part of the Master Service Agreement (the “Agreement”) between zulily, inc., a Delaware corporation (“zulily”), and IntelliSource, LLC, a Colorado limited liability company (“Provider”). Each of zulily and Provider may be referred to in this SOW individually as a “Party” and together as the “Parties”. All capitalized terms not defined in this SOW have the respective meanings set forth in the Agreement.'
+Legal-BERT Prediction: termination (Confidence: 0.06591368466615677)
+Legal-RoBERTa Prediction: limitation of liability (Confidence: 0.104393370449543)
+Final Prediction: limitation of liability
+================================================================================
+
+Clause: '1.Scope and Location of Services.'
+Legal-BERT Prediction: counterparts (Confidence: 0.0757785439491272)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.07717962563037872)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'A.Services.'
+Legal-BERT Prediction: amendment (Confidence: 0.0767039954662323)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.06215594336390495)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Provider will provide the following Services at the Facility identified below during the term of the Agreement (references to “Services” in this SOW refer to the Services to be provided under this SOW):'
+Legal-BERT Prediction: termination (Confidence: 0.058567069470882416)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.09780371934175491)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Provider will provide, supply and assign personnel comprising a workforce at the Facility [*]. The Parties understand, acknowledge and accept that conditions or events subsequent (e.g., injury, illness, rules violation, change of employer) may cause a change to the composition of the permanently assigned personnel, but that any such change will be followed by a new associate being permanently assigned to fill a position and contribute to the workforce of a minimum of [*] associates. Neither the workforce of a minimum of [*] associates cumulatively nor any of the personnel assigned individually constitute contingent or temporary labor to handle peak volume or seasonal work.'
+Legal-BERT Prediction: non-competition (Confidence: 0.08788416534662247)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.1710709035396576)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: 'Provider will serve as a primary point of entry for employees for zulily Facilities. Provider responsibilities under this SOW include recruiting, screening, onboarding and hiring processes, site management, benefits and PTO plans, retention strategies, site specific reporting, the maintenance of software data feeds (for IS workforce), the screening, management and billing of subcontractors when applicable, and ongoing access to Provider MARS and implementations teams as business needs dictate. Provider will partner with zulily on the execution and maintenance of onboarding, training, safety, productivity and quality programs and other strategic initiatives as appropriate for the Facility.'
+Legal-BERT Prediction: non-competition (Confidence: 0.09535861015319824)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.16694578528404236)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Under separate SOW, Provider may also supply any contingent (temporary) workforce needed to handle peaks in volume.'
+Legal-BERT Prediction: termination (Confidence: 0.0773765817284584)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.13376809656620026)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: 'Provider will maintain adequate leadership in order to provide HR, legal, timekeeping support and supervision/counseling.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07406826317310333)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.09524740278720856)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: 'zulily may choose to provide feedback and direction to Provider employees regarding performance related tasks, metrics and standards. Provider will maintain responsibility for all'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07293500751256943)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.12362061440944672)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: 'A-2'
+Legal-BERT Prediction: counterparts (Confidence: 0.08327678591012955)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.04877737537026405)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'HR activities including performance management, employee compensation and a progressive discipline process and associated tasks.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07446756213903427)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.11430758982896805)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '[*].'
+Legal-BERT Prediction: amendment (Confidence: 0.07050846517086029)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05915849283337593)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'B.Location(s) Where Services Will be Provided.'
+Legal-BERT Prediction: amendment (Confidence: 0.08583424240350723)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0864165648818016)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'At zulily Facility: 3051 Creekside Parkway, Lockbourne, OH 43137.'
+Legal-BERT Prediction: termination (Confidence: 0.0798146054148674)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08693672716617584)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '2.Personnel.'
+Legal-BERT Prediction: counterparts (Confidence: 0.07566096633672714)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06955306231975555)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'A.Background Checks. Provider will pre-screen all Services personnel by conducting background checks. The background checks will include: (i) inquiry regarding past criminal convictions (covering all localities in which the candidate has lived or worked in the past seven years) and will be based on candidate social security numbers (or international equivalent); (ii) verification that the Services personnel are under no contractual or other restrictions that would prohibit or impair the ability of such personnel to perform the Services for zulily; and (iii) verification that performance of the Services by the personnel will not violate any federal or state law, statute or regulation of the jurisdiction in which such Services personnel may be providing the Services. Provider will obtain and maintain written results of all criminal background checks. Provider agrees that Services personnel who will have access to zulily Facilities will be thoroughly screened for convictions; individuals with theft and violence felony convictions may be excluded from providing Services, regardless of when the conviction occurred. In assessing any other potential Services personnel with a conviction, Provider will assess: (a) the nature and gravity of the offense or conduct, including the harm caused, the specific elements of the crime, and whether it was a felony or misdemeanor; (b) the time that has passed since the offense or conduct and/or completion of the sentence; and (c) the nature of the job held or sought.'
+Legal-BERT Prediction: non-competition (Confidence: 0.1052735447883606)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1035287156701088)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'B.Drug Testing. Provider agrees to require all Services personnel or agent of Provider to submit to pre-employment, post-accident and reasonable cause drug and/or alcohol testing.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07314642518758774)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.11734537780284882)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'C.Costs of Background Checks and Drug Testing. zulily agrees that the costs of any background checks and drug testing required by zulily which is not routinely performed by Provider as a part of its regular procedures (drug testing, credit checks, and criminal background checks are examples of non-routine screening) shall be paid or reimbursed by zulily. If any Services personnel are placed at the Facility before performance of background checks and/or drug testing required by zulily, zulily shall not be liable for any fees under Section 3 hereof for any such employees subsequently terminated due to a failed background check and/or drug test unless mutually agreed to by the Parties in advance.'
+Legal-BERT Prediction: costs (Confidence: 0.13106998801231384)
+Legal-RoBERTa Prediction: costs (Confidence: 0.16507431864738464)
+Final Prediction: costs
+================================================================================
+
+Clause: 'D.Nondisclosure Agreement.     Provider will cause each individual that provides Services to zulily pursuant to this SOW and that has access to zulily’s confidential information to execute a Nondisclosure Agreement in a form reasonably acceptable to zulily and will deliver each such validly executed individual Nondisclosure Agreement to zulily prior to, and as a condition precedent to such person having access to such confidential information.'
+Legal-BERT Prediction: non-solicitation (Confidence: 0.09870608896017075)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.32586878538131714)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'E.Disability Accommodation. Provider will handle all disability accommodation requests for its employees. zulily will cooperate with Provider’s efforts to make reasonable accommodations for Provider employees who have disabilities that can be reasonably accommodated without undue hardship on zulily, provided that Provider bears all costs of any such accommodations.'
+Legal-BERT Prediction: costs (Confidence: 0.09078968316316605)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.12359530478715897)
+Final Prediction: insurance
+================================================================================
+
+Clause: '3.Fees and Payment.'
+Legal-BERT Prediction: costs (Confidence: 0.08490730077028275)
+Legal-RoBERTa Prediction: costs (Confidence: 0.12679307162761688)
+Final Prediction: costs
+================================================================================
+
+Clause: 'A-3'
+Legal-BERT Prediction: counterparts (Confidence: 0.09040757268667221)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05295460671186447)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'A.Provider Rates. The bill rate for DC/Fulfillment positions in 3051 Creekside Parkway, Lockbourne, OH 43137, will be calculated as follows:'
+Legal-BERT Prediction: termination (Confidence: 0.08818794786930084)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.13342703878879547)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'A-4'
+Legal-BERT Prediction: counterparts (Confidence: 0.09200601279735565)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05109981819987297)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'SERVICES AND RATES'
+Legal-BERT Prediction: counterparts (Confidence: 0.08847373723983765)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.0888986587524414)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'Fees: The fees for Services in Lockbourne, Ohio will be [*]'
+Legal-BERT Prediction: amendment (Confidence: 0.10796591639518738)
+Legal-RoBERTa Prediction: costs (Confidence: 0.1882304549217224)
+Final Prediction: costs
+================================================================================
+
+Clause: 'A-5'
+Legal-BERT Prediction: counterparts (Confidence: 0.09275723993778229)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05052953585982323)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '[*]'
+Legal-BERT Prediction: counterparts (Confidence: 0.073225237429142)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05672721564769745)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'B.    Invoices; Payment.'
+Legal-BERT Prediction: amendment (Confidence: 0.08024439960718155)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08752069622278214)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Provider shall submit to zulily a [*] invoice for Services performed during the previous [*] billing period. Invoices submitted hereunder shall be due and payable by zulily [*]. A [*] late fee will be charged for payments received after [*]. For added convenience, zulily may pay via wire transfer or standard ACH.'
+Legal-BERT Prediction: notice (Confidence: 0.08391699194908142)
+Legal-RoBERTa Prediction: notice (Confidence: 0.2534911036491394)
+Final Prediction: notice
+================================================================================
+
+Clause: 'C.    Sole Compensation.'
+Legal-BERT Prediction: counterparts (Confidence: 0.08570884168148041)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07395007461309433)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'The payments set forth in this Section 3 represent the sole compensation to be paid by zulily for the Services.'
+Legal-BERT Prediction: costs (Confidence: 0.0927085131406784)
+Legal-RoBERTa Prediction: costs (Confidence: 0.08923773467540741)
+Final Prediction: costs
+================================================================================
+
+Clause: 'This SOW, including the scope of the Services to be provided hereunder, may not be changed orally, but only by an agreement in writing signed by both Parties and in the case of zulily, is binding only if signed by a Vice President or above of zulily.'
+Legal-BERT Prediction: amendment (Confidence: 0.19913598895072937)
+Legal-RoBERTa Prediction: amendment (Confidence: 0.28970056772232056)
+Final Prediction: amendment
+================================================================================
+
+Clause: '[Signature page follows.]'
+Legal-BERT Prediction: amendment (Confidence: 0.08597120642662048)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.05457259714603424)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'A-6'
+Legal-BERT Prediction: counterparts (Confidence: 0.09329036623239517)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.052346065640449524)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'IN WITNESS WHEREOF, the Parties have executed this SOW as of the SOW Effective Date.'
+Legal-BERT Prediction: counterparts (Confidence: 0.11954434961080551)
+Legal-RoBERTa Prediction: termination (Confidence: 0.1082882359623909)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'ZULILY, INC.'
+Legal-BERT Prediction: counterparts (Confidence: 0.06980302184820175)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05206742510199547)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'By: /s/ Darrell Cavens'
+Legal-BERT Prediction: amendment (Confidence: 0.09114940464496613)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05875295773148537)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Name:Darrell Cavens'
+Legal-BERT Prediction: amendment (Confidence: 0.07776934653520584)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.054154396057128906)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Title:CEO'
+Legal-BERT Prediction: counterparts (Confidence: 0.07977698743343353)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.058939941227436066)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'PROVIDER:'
+Legal-BERT Prediction: counterparts (Confidence: 0.09757348895072937)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05351198837161064)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'IntelliSource, LLC'
+Legal-BERT Prediction: counterparts (Confidence: 0.08240300416946411)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05340924486517906)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'By:/s/ Robyn Donahue'
+Legal-BERT Prediction: amendment (Confidence: 0.08553577959537506)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.06833053380250931)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Name:    Robyn Donahue'
+Legal-BERT Prediction: counterparts (Confidence: 0.0705987811088562)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.075480155646801)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Title:    CEO'
+Legal-BERT Prediction: counterparts (Confidence: 0.07977698743343353)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08242052793502808)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'EXHIBIT B'
+Legal-BERT Prediction: counterparts (Confidence: 0.0869639664888382)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.04646560177206993)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'STATEMENT OF WORK'
+Legal-BERT Prediction: counterparts (Confidence: 0.08455394953489304)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.051744360476732254)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'NUMBER [____]'
+Legal-BERT Prediction: amendment (Confidence: 0.09102965146303177)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.051464829593896866)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'This Statement of Work (this “SOW”) is entered into as of MAY 31, 2014 (“SOW Effective Date”) and made a part of the Master Service Agreement (the “Agreement”) between zulily, inc., a Delaware corporation (“zulily”), and IntelliSource, LLC, a Colorado limited liability company (“Provider”). Each of zulily and Provider may be referred to in this SOW individually as a “Party” and together as the “Parties”. All capitalized terms not defined in this SOW have the respective meanings set forth in the Agreement.'
+Legal-BERT Prediction: termination (Confidence: 0.06591368466615677)
+Legal-RoBERTa Prediction: limitation of liability (Confidence: 0.104393370449543)
+Final Prediction: limitation of liability
+================================================================================
+
+Clause: '1.Scope and Location of Services.'
+Legal-BERT Prediction: counterparts (Confidence: 0.0757785439491272)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.07717962563037872)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'A.Services.'
+Legal-BERT Prediction: amendment (Confidence: 0.0767039954662323)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.06215594336390495)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Provider will provide the following Services at the Facility identified below during the term of the Agreement (references to “Services” in this SOW refer to the Services to be provided under this SOW):'
+Legal-BERT Prediction: termination (Confidence: 0.058567069470882416)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.09780371934175491)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Provider will supply any contingent (temporary) workforce needed to handle peaks in volume.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.08235601335763931)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.09159760177135468)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: 'Provider will serve as a primary point of entry for employees for zulily Facilities. Provider responsibilities under this SOW include recruiting, screening, onboarding and hiring processes, site management, retention strategies, site specific reporting, the maintenance of software data feeds (for IS workforce), the screening, management and billing of subcontractors when applicable, and ongoing access to Provider MARS and implementations teams as business needs dictate. Provider will partner with zulily on the execution and maintenance of onboarding, training, safety, productivity and quality programs and other strategic initiatives as appropriate for the Facility.'
+Legal-BERT Prediction: non-competition (Confidence: 0.09932787716388702)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.15543943643569946)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Provider will maintain adequate leadership in order to provide HR, legal, timekeeping support and supervision/counseling.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.07406826317310333)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.09524740278720856)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: 'zulily may choose to provide feedback and direction to Provider employees regarding performance related tasks, metrics and standards. Provider will maintain responsibility for all HR activities including performance management, employee compensation and a progressive discipline process and associated tasks.'
+Legal-BERT Prediction: non-competition (Confidence: 0.07601827383041382)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.12031629681587219)
+Final Prediction: non-solicitation
+================================================================================
+
+Clause: '[*].'
+Legal-BERT Prediction: amendment (Confidence: 0.07050846517086029)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05915849283337593)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'B.Location(s) Where Services Will be Provided.'
+Legal-BERT Prediction: amendment (Confidence: 0.08583424240350723)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.0864165648818016)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'At zulily Facility: 3051 Creekside Parkway, Lockbourne, OH 43137.'
+Legal-BERT Prediction: termination (Confidence: 0.0798146054148674)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08693672716617584)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '2.Personnel.'
+Legal-BERT Prediction: counterparts (Confidence: 0.07566096633672714)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06955306231975555)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'A.Background Checks.'
+Legal-BERT Prediction: counterparts (Confidence: 0.07037772238254547)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.07779710739850998)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'Provider will pre-screen all Services personnel by conducting background checks. The background checks will include: (i) inquiry regarding past criminal convictions (covering all'
+Legal-BERT Prediction: termination (Confidence: 0.06789189577102661)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.0796557068824768)
+Final Prediction: insurance
+================================================================================
+
+Clause: 'B-1'
+Legal-BERT Prediction: counterparts (Confidence: 0.09174998104572296)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.048415929079055786)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'localities in which the candidate has lived or worked in the past seven years) and will be based on candidate social security numbers (or international equivalent); (ii) verification that the Services personnel are under no contractual or other restrictions that would prohibit or impair the ability of such personnel to perform the Services for zulily; and (iii) verification that performance of the Services by the personnel will not violate any federal or state law, statute or regulation of the jurisdiction in which such Services personnel may be providing the Services. Provider will obtain and maintain written results of all criminal background checks. Provider agrees that Services personnel who will have access to zulily Facilities will be thoroughly screened for convictions; individuals with theft and violence felony convictions may be excluded from providing Services, regardless of when the conviction occurred. In assessing any other potential Services personnel with a conviction, Provider will assess: (a) the nature and gravity of the offense or conduct, including the harm caused, the specific elements of the crime, and whether it was a felony or misdemeanor; (b) the time that has passed since the offense or conduct and/or completion of the sentence; and (c) the nature of the job held or sought.'
+Legal-BERT Prediction: non-competition (Confidence: 0.12359818816184998)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.11020496487617493)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'B.Drug Testing.'
+Legal-BERT Prediction: counterparts (Confidence: 0.08284714818000793)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.09312807768583298)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'Provider agrees to require all Services personnel or agent of Provider to submit to pre-employment, post-accident and reasonable cause drug and/or alcohol testing.'
+Legal-BERT Prediction: compliance with laws (Confidence: 0.0758260190486908)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.142908975481987)
+Final Prediction: compliance with laws
+================================================================================
+
+Clause: 'C.Costs of Background Checks and Drug Testing.'
+Legal-BERT Prediction: costs (Confidence: 0.10693631321191788)
+Legal-RoBERTa Prediction: costs (Confidence: 0.13187961280345917)
+Final Prediction: costs
+================================================================================
+
+Clause: 'zulily agrees that the costs of any background checks and drug testing required by zulily which is not routinely performed by Provider as a part of its regular procedures (drug testing, credit checks, and criminal background checks are examples of non-routine screening) shall be paid or reimbursed by zulily. If any Services personnel are placed at the Facility before performance of background checks and/or drug testing required by zulily, zulily shall not be liable for any fees under Section 3 hereof for any such employees subsequently terminated due to a failed background check and/or drug test unless mutually agreed to by the Parties in advance.'
+Legal-BERT Prediction: costs (Confidence: 0.1239939033985138)
+Legal-RoBERTa Prediction: costs (Confidence: 0.13777220249176025)
+Final Prediction: costs
+================================================================================
+
+Clause: 'D.Nondisclosure Agreement.'
+Legal-BERT Prediction: amendment (Confidence: 0.07875578850507736)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.0691116526722908)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Provider will cause each individual that provides Services to zulily pursuant to this SOW and that has access to zulily’s confidential information to execute a Nondisclosure Agreement in a form reasonably acceptable to zulily and will deliver each such validly executed individual Nondisclosure Agreement to zulily prior to, and as a condition precedent to such person having access to such confidential information.'
+Legal-BERT Prediction: non-solicitation (Confidence: 0.08865170925855637)
+Legal-RoBERTa Prediction: confidentiality (Confidence: 0.3405808210372925)
+Final Prediction: confidentiality
+================================================================================
+
+Clause: 'E.Disability Accommodation.'
+Legal-BERT Prediction: counterparts (Confidence: 0.0964278057217598)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.06965810805559158)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'Provider will handle all disability accommodation requests for its employees. zulily will cooperate with Provider’s efforts to make reasonable accommodations for Provider employees who have disabilities that can be reasonably accommodated without undue hardship on zulily, provided that Provider bears all costs of any such accommodations.'
+Legal-BERT Prediction: costs (Confidence: 0.09171032160520554)
+Legal-RoBERTa Prediction: insurance (Confidence: 0.10623341053724289)
+Final Prediction: insurance
+================================================================================
+
+Clause: 'B-1'
+Legal-BERT Prediction: counterparts (Confidence: 0.09174998104572296)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.048415929079055786)
+Final Prediction: counterparts
+================================================================================
+
+Clause: '3.Fees and Payment.'
+Legal-BERT Prediction: costs (Confidence: 0.08490730077028275)
+Legal-RoBERTa Prediction: costs (Confidence: 0.12679307162761688)
+Final Prediction: costs
+================================================================================
+
+Clause: 'A.Provider Rates.'
+Legal-BERT Prediction: counterparts (Confidence: 0.09207093715667725)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06788457930088043)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'The bill rate for DC/Fulfillment positions in 3051 Creekside Parkway, Lockbourne, OH 43137 will be calculated as follows:'
+Legal-BERT Prediction: termination (Confidence: 0.08919478952884674)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.1313656121492386)
+Final Prediction: non-competition
+================================================================================
+
+Clause: '[*]'
+Legal-BERT Prediction: counterparts (Confidence: 0.073225237429142)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05672721564769745)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'B.    Invoices; Payment.'
+Legal-BERT Prediction: amendment (Confidence: 0.08024439960718155)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08752069622278214)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Provider shall submit to zulily a [*] invoice for Services performed during the previous [*] billing period. Invoices submitted hereunder shall be due and payable by zulily [*]. A [*] late fee will be charged for payments received after [*]. For added convenience, zulily may pay via wire transfer or standard ACH.'
+Legal-BERT Prediction: notice (Confidence: 0.08391699194908142)
+Legal-RoBERTa Prediction: notice (Confidence: 0.24648354947566986)
+Final Prediction: notice
+================================================================================
+
+Clause: 'C.    Sole Compensation.'
+Legal-BERT Prediction: counterparts (Confidence: 0.08570884168148041)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.07395007461309433)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'The payments set forth in this Section 3 represent the sole compensation to be paid by zulily for the Services.'
+Legal-BERT Prediction: costs (Confidence: 0.0927085131406784)
+Legal-RoBERTa Prediction: costs (Confidence: 0.08923773467540741)
+Final Prediction: costs
+================================================================================
+
+Clause: 'This SOW, including the scope of the Services to be provided hereunder, may not be changed orally, but only by an agreement in writing signed by both Parties and in the case of zulily, is binding only if signed by a Vice President or above of zulily.'
+Legal-BERT Prediction: amendment (Confidence: 0.19913598895072937)
+Legal-RoBERTa Prediction: amendment (Confidence: 0.28970056772232056)
+Final Prediction: amendment
+================================================================================
+
+Clause: '[Signature page follows.]'
+Legal-BERT Prediction: amendment (Confidence: 0.08597120642662048)
+Legal-RoBERTa Prediction: counterparts (Confidence: 0.05457259714603424)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'B-1'
+Legal-BERT Prediction: counterparts (Confidence: 0.09174998104572296)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.048415929079055786)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'IN WITNESS WHEREOF, the Parties have executed this SOW as of the SOW Effective Date.'
+Legal-BERT Prediction: counterparts (Confidence: 0.11954434961080551)
+Legal-RoBERTa Prediction: termination (Confidence: 0.1082882359623909)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'ZULILY, INC.'
+Legal-BERT Prediction: counterparts (Confidence: 0.06980302184820175)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05206742510199547)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'By: /s/ Darrell Cavens'
+Legal-BERT Prediction: amendment (Confidence: 0.09114940464496613)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05875295773148537)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Name:    Darrell Cavens'
+Legal-BERT Prediction: amendment (Confidence: 0.07776934653520584)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.06410493701696396)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Title:CEO'
+Legal-BERT Prediction: counterparts (Confidence: 0.07977698743343353)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.058939941227436066)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'PROVIDER:'
+Legal-BERT Prediction: counterparts (Confidence: 0.09757348895072937)
+Legal-RoBERTa Prediction: compliance with laws (Confidence: 0.05351198837161064)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'IntelliSource, LLC'
+Legal-BERT Prediction: counterparts (Confidence: 0.08240300416946411)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.05340924486517906)
+Final Prediction: counterparts
+================================================================================
+
+Clause: 'By: /s/ Robyn Donahue'
+Legal-BERT Prediction: amendment (Confidence: 0.08553577959537506)
+Legal-RoBERTa Prediction: non-solicitation (Confidence: 0.06860428303480148)
+Final Prediction: amendment
+================================================================================
+
+Clause: 'Name:    Robyn Donahue'
+Legal-BERT Prediction: counterparts (Confidence: 0.0705987811088562)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.075480155646801)
+Final Prediction: non-competition
+================================================================================
+
+Clause: 'Title:    CEO'
+Legal-BERT Prediction: counterparts (Confidence: 0.07977698743343353)
+Legal-RoBERTa Prediction: non-competition (Confidence: 0.08242052793502808)
+Final Prediction: non-competition
+================================================================================
+

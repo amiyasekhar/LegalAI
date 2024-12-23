@@ -1,0 +1,171 @@
+MASTER SERVICE AGREEMENT
+This Master Service Agreement (this “Agreement”) is entered into as of May 31, 2014 (the “Effective Date”) by and between zulily, inc., a Delaware corporation (“zulily”), and IntelliSource, LLC, a Colorado limited liability company (“Provider”). Each of zulily and Provider may be referred to in this Agreement individually as a “Party” and together as the “Parties”. The Parties hereby agree as follows:
+1.    Services.
+1
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, IS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+2014 and in accordance with Exhibit C. The number of Provider employees zulily may transition to zulily pursuant to Exhibit C shall be cumulative and in accordance with the “Total Staff Converted” line of Exhibit C. For clarity and by way of example only, if Exhibit C allows zulily to transfer [*] Provider employees to zulily in June 2014 and another [*] Provider employees in July 2014, if zulily doesn’t transition any Provider employees in June 2014, zulily may transfer [*] Provider employees to zulily in July 2014. In no case shall zulily transfer more than [*] employees within a calendar month. When transitioning Provider employees to zulily in accordance with Exhibit C, zulily will first attempt to hire Provider employees who have been employed with Provider at a Facility for at least [*]. To the extent zulily meets the other conditions set forth in this Section 1.3 at the time of any hiring of Provider employees and is not able to meet the hiring targets set forth in Exhibit C solely from Provider employees who have been employed with Provider at a Facility for at least [*], zulily may hire Provider employees of lesser tenure (with a goal to have such tenure be as close to [*] with Provider as reasonably possible but in no case less than [*] in order to meet the targets set forth in Exhibit C . Notwithstanding the foregoing but subject to zulily satisfying the other conditions set forth in this Section 1.3 at the time of any hiring of Provider employees, zulily may hire Provider employees who were not employed with Provider at a Facility prior to [*] so long as they have been employed by Provider at a Facility for at least [*] prior to the transition to zulily. The criteria for possible transition of Provider employees to zulily employees will be set in zulily’s sole discretion. zulily is under no obligation to hire any Provider employee. [*].
+2
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, IS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+required). Provider further agrees that it will comply with all other applicable federal, state or local laws or regulations applicable to Provider as an employer regarding compensation, hours of work or other conditions of employment.
+A.    Office(s) with furniture for Provider’s employees;
+B.    Phones, voicemail, fax line and internet connection for Provider’s employees; and
+C.    Internet connection for timeclock.
+3
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, IS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+of any court or governmental authority to which it is subject; and (d) this Agreement is legally binding upon it, enforceable in accordance with its terms, subject to bankruptcy, insolvency, reorganization, moratorium, and similar Laws of general applicability relating to or affecting creditors’ rights and to general principles of equity.
+4
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, IS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+harassment and theft (collectively, the “zulily Policies”), provided that zulily has provided copies of such policies to Provider, and at zulily’s request will remove any personnel performing Services who behave in a manner that is inconsistent with any such zulily Policies.
+5
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, IS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+(d)    a commercially reasonable Fidelity Bond.
+zulily shall maintain at its expense commercially reasonable amounts of commercial general liability insurance for the Facilities provided hereunder and shall name Provider as an additional insured under such policy. zulily shall provide Provider with a certificate of insurance evidencing such insurance coverage. zulily will not cancel the policy without at least 30 days prior written notice to Provider.
+2.9    Certificates of Insurance; Insurer Qualifications; Subcontractors.
+6
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, IS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+[*]
+3.3    Taxes.
+7
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, IS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+[*]
+4.2    Termination. This Agreement, or any applicable SOW, will be terminated as follows:
+(c)    by either Party for any reason:
+8
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, IS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+its performance, after which thirty (30) day period zulily shall revoke or affirm its termination.
+4.3    Effect of Termination. Upon termination of this Agreement:
+9
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, IS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+10
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, IS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+any other information of or relating to either Party’s business. Confidential Information does not include information which (i) is or becomes generally available to the public without violation of this Agreement, (ii) was or becomes available to the Receiving Party from a source other than the Disclosing Party, provided the source is not bound by a confidentiality obligation to the Disclosing Party, or (iii) is developed by the Receiving Party independently of the Disclosing Party’s Confidential Information.
+11
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, IS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+becomes a zulily employee; provided, however, to the extent such claim relates to the employee’s previous employment with Provider it shall remain the responsibility of Provider) against Provider for any reason; (b) any claim by a Provider employee or former Provider employee against Provider arising out of or related to zulily’s recruitment, hiring or non-hiring of such employee, including without limitation zulily’s recruitment or hiring practices or policies with respect thereto; (c) any breach or alleged breach by zulily under this Agreement; (d) the negligence, recklessness, willful misconduct, fraud or bad faith of zulily; and (e) injury to or death of any person or damage to any property caused by zulily’s performance or non-performance of its obligations under this Agreement; provided that zulily shall not indemnify or hold harmless Provider Indemnified Parties to the extent any such Losses are caused by willful misconduct or the negligent or unlawful acts or omissions of Provider Indemnified Parties.
+12
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, IS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+13
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, IS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+registered or certified mail, postage prepaid, return receipt requested, addressed to the address set forth below:
+In the case of zulily:
+zulily, inc.
+2601 Elliott Ave.
+Seattle, WA 98121
+Attention: Bob Spieth, COO
+cc: Legal
+With a copy via email (which will not constitute notice) to: bspieth@zulily.com, drunnette@zulily.com
+In the case of Provider:
+IntelliSource, LLC
+1899 Wynkoop Street, Ste. 900
+Denver, CO 80202
+Attention: Robyn Donahue
+With a copy via email (which will not constitute notice) to: rdonahue@intellisource.com
+Either Party may change its notice address by giving notice in accordance with this Section 9.3.
+14
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, IS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+expressly states that it is intended to modify the conflicting terms of this Agreement, in which case such modification will apply only with respect to that SOW). The terms of this Agreement and any SOWs will be controlling over any terms of any purchase order, sales acknowledgement, invoice or other such documents issued by either Party (unless otherwise agreed to in writing by both Parties).
+15
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, IS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+The arbitrator(s) will not have the authority to modify any provision of this Agreement or to award punitive damages. The decision rendered by the arbitrator(s) will be final and binding on the Parties, and judgment may be entered in conformity with the decision in any court having competent jurisdiction. Any court proceedings for preliminary relief, or relief in aid of arbitration, will be brought in state or federal court in Seattle, Washington. All arbitration proceedings will be conducted on a confidential basis. Pending resolution of any Dispute, Provider will proceed diligently with its performance of any Services in accordance with this Agreement and any applicable SOW unless otherwise agreed to by zulily.
+[Signature page follows.]
+16
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, IS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.
+ZULILY, INC.
+By: /s/ Darrell Cavens
+Name:    Darrell Cavens
+Title:CEO
+PROVIDER:
+IntelliSource, LLC
+By: /s/ Robyn Donahue
+Name:    Robyn Donahue
+Title:    CEO
+[Signature Page to Master Service Agreement]
+EXHIBIT A
+STATEMENT OF WORK
+NUMBER [____]
+This Statement of Work (this “SOW”) is entered into as of MAY 31, 2014 (“SOW Effective Date”) and made a part of the Master Service Agreement (the “Agreement”) between zulily, inc., a Delaware corporation (“zulily”), and IntelliSource, LLC, a Colorado limited liability company (“Provider”). Each of zulily and Provider may be referred to in this SOW individually as a “Party” and together as the “Parties”. All capitalized terms not defined in this SOW have the respective meanings set forth in the Agreement.
+Each Party acknowledges and agrees that (a) it has received and read a copy of the Agreement, (b) the Agreement governs this SOW, and (c) to the extent that the terms of this SOW conflict with any of the terms of the Agreement, the terms of the Agreement will control (unless this SOW expressly states that it is intended to modify the conflicting terms of the Agreement, in which case such modification will apply only with respect to this SOW).
+Provider will provide the following Services at the Facility identified below during the term of the Agreement (references to “Services” in this SOW refer to the Services to be provided under this SOW):
+Provider will provide, supply and assign personnel comprising a workforce at the Facility [*]. The Parties understand, acknowledge and accept that conditions or events subsequent (e.g., injury, illness, rules violation, change of employer) may cause a change to the composition of the permanently assigned personnel, but that any such change will be followed by a new associate being permanently assigned to fill a position and contribute to the workforce of a minimum of [*] associates. Neither the workforce of a minimum of [*] associates cumulatively nor any of the personnel assigned individually constitute contingent or temporary labor to handle peak volume or seasonal work.
+Provider will serve as a primary point of entry for employees for zulily Facilities. Provider responsibilities under this SOW include recruiting, screening, onboarding and hiring processes, site management, benefits and PTO plans, retention strategies, site specific reporting, the maintenance of software data feeds (for IS workforce), the screening, management and billing of subcontractors when applicable, and ongoing access to Provider MARS and implementations teams as business needs dictate. Provider will partner with zulily on the execution and maintenance of onboarding, training, safety, productivity and quality programs and other strategic initiatives as appropriate for the Facility.
+Under separate SOW, Provider may also supply any contingent (temporary) workforce needed to handle peaks in volume.
+Provider will maintain adequate leadership in order to provide HR, legal, timekeeping support and supervision/counseling.
+zulily may choose to provide feedback and direction to Provider employees regarding performance related tasks, metrics and standards. Provider will maintain responsibility for all
+A-2
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, IS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+HR activities including performance management, employee compensation and a progressive discipline process and associated tasks.
+[*].
+At zulily Facility: 3051 Creekside Parkway, Lockbourne, OH 43137.
+A-3
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, IS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+A-4
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, IS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+SERVICES AND RATES
+Fees: The fees for Services in Lockbourne, Ohio will be [*]
+A-5
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, IS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+[*]
+B.    Invoices; Payment.
+Provider shall submit to zulily a [*] invoice for Services performed during the previous [*] billing period. Invoices submitted hereunder shall be due and payable by zulily [*]. A [*] late fee will be charged for payments received after [*]. For added convenience, zulily may pay via wire transfer or standard ACH.
+C.    Sole Compensation.
+The payments set forth in this Section 3 represent the sole compensation to be paid by zulily for the Services.
+4.    Amendments.
+This SOW, including the scope of the Services to be provided hereunder, may not be changed orally, but only by an agreement in writing signed by both Parties and in the case of zulily, is binding only if signed by a Vice President or above of zulily.
+[Signature page follows.]
+A-6
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, IS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+IN WITNESS WHEREOF, the Parties have executed this SOW as of the SOW Effective Date.
+ZULILY, INC.
+By: /s/ Darrell Cavens
+Name:Darrell Cavens
+Title:CEO
+PROVIDER:
+IntelliSource, LLC
+By:/s/ Robyn Donahue
+Name:    Robyn Donahue
+Title:    CEO
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, IS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXHIBIT B
+STATEMENT OF WORK
+NUMBER [____]
+This Statement of Work (this “SOW”) is entered into as of MAY 31, 2014 (“SOW Effective Date”) and made a part of the Master Service Agreement (the “Agreement”) between zulily, inc., a Delaware corporation (“zulily”), and IntelliSource, LLC, a Colorado limited liability company (“Provider”). Each of zulily and Provider may be referred to in this SOW individually as a “Party” and together as the “Parties”. All capitalized terms not defined in this SOW have the respective meanings set forth in the Agreement.
+Each Party acknowledges and agrees that (a) it has received and read a copy of the Agreement, (b) the Agreement governs this SOW, and (c) to the extent that the terms of this SOW conflict with any of the terms of the Agreement, the terms of the Agreement will control (unless this SOW expressly states that it is intended to modify the conflicting terms of the Agreement, in which case such modification will apply only with respect to this SOW).
+Provider will provide the following Services at the Facility identified below during the term of the Agreement (references to “Services” in this SOW refer to the Services to be provided under this SOW):
+Provider will supply any contingent (temporary) workforce needed to handle peaks in volume.
+Provider will serve as a primary point of entry for employees for zulily Facilities. Provider responsibilities under this SOW include recruiting, screening, onboarding and hiring processes, site management, retention strategies, site specific reporting, the maintenance of software data feeds (for IS workforce), the screening, management and billing of subcontractors when applicable, and ongoing access to Provider MARS and implementations teams as business needs dictate. Provider will partner with zulily on the execution and maintenance of onboarding, training, safety, productivity and quality programs and other strategic initiatives as appropriate for the Facility.
+Provider will maintain adequate leadership in order to provide HR, legal, timekeeping support and supervision/counseling.
+zulily may choose to provide feedback and direction to Provider employees regarding performance related tasks, metrics and standards. Provider will maintain responsibility for all HR activities including performance management, employee compensation and a progressive discipline process and associated tasks.
+[*].
+At zulily Facility: 3051 Creekside Parkway, Lockbourne, OH 43137.
+Provider will pre-screen all Services personnel by conducting background checks. The background checks will include: (i) inquiry regarding past criminal convictions (covering all
+B-1
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, IS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+localities in which the candidate has lived or worked in the past seven years) and will be based on candidate social security numbers (or international equivalent); (ii) verification that the Services personnel are under no contractual or other restrictions that would prohibit or impair the ability of such personnel to perform the Services for zulily; and (iii) verification that performance of the Services by the personnel will not violate any federal or state law, statute or regulation of the jurisdiction in which such Services personnel may be providing the Services. Provider will obtain and maintain written results of all criminal background checks. Provider agrees that Services personnel who will have access to zulily Facilities will be thoroughly screened for convictions; individuals with theft and violence felony convictions may be excluded from providing Services, regardless of when the conviction occurred. In assessing any other potential Services personnel with a conviction, Provider will assess: (a) the nature and gravity of the offense or conduct, including the harm caused, the specific elements of the crime, and whether it was a felony or misdemeanor; (b) the time that has passed since the offense or conduct and/or completion of the sentence; and (c) the nature of the job held or sought.
+Provider agrees to require all Services personnel or agent of Provider to submit to pre-employment, post-accident and reasonable cause drug and/or alcohol testing.
+zulily agrees that the costs of any background checks and drug testing required by zulily which is not routinely performed by Provider as a part of its regular procedures (drug testing, credit checks, and criminal background checks are examples of non-routine screening) shall be paid or reimbursed by zulily. If any Services personnel are placed at the Facility before performance of background checks and/or drug testing required by zulily, zulily shall not be liable for any fees under Section 3 hereof for any such employees subsequently terminated due to a failed background check and/or drug test unless mutually agreed to by the Parties in advance.
+Provider will cause each individual that provides Services to zulily pursuant to this SOW and that has access to zulily’s confidential information to execute a Nondisclosure Agreement in a form reasonably acceptable to zulily and will deliver each such validly executed individual Nondisclosure Agreement to zulily prior to, and as a condition precedent to such person having access to such confidential information.
+Provider will handle all disability accommodation requests for its employees. zulily will cooperate with Provider’s efforts to make reasonable accommodations for Provider employees who have disabilities that can be reasonably accommodated without undue hardship on zulily, provided that Provider bears all costs of any such accommodations.
+B-1
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, IS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+The bill rate for DC/Fulfillment positions in 3051 Creekside Parkway, Lockbourne, OH 43137 will be calculated as follows:
+[*]
+B.    Invoices; Payment.
+Provider shall submit to zulily a [*] invoice for Services performed during the previous [*] billing period. Invoices submitted hereunder shall be due and payable by zulily [*]. A [*] late fee will be charged for payments received after [*]. For added convenience, zulily may pay via wire transfer or standard ACH.
+C.    Sole Compensation.
+The payments set forth in this Section 3 represent the sole compensation to be paid by zulily for the Services.
+4.    Amendments.
+This SOW, including the scope of the Services to be provided hereunder, may not be changed orally, but only by an agreement in writing signed by both Parties and in the case of zulily, is binding only if signed by a Vice President or above of zulily.
+[Signature page follows.]
+B-1
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, IS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+IN WITNESS WHEREOF, the Parties have executed this SOW as of the SOW Effective Date.
+ZULILY, INC.
+By: /s/ Darrell Cavens
+Name:    Darrell Cavens
+Title:CEO
+PROVIDER:
+IntelliSource, LLC
+By: /s/ Robyn Donahue
+Name:    Robyn Donahue
+Title:    CEO

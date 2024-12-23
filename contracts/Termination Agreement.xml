@@ -1,0 +1,2428 @@
+<?xml version="1.0" ?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14">
+  <w:body>
+    <w:p w14:paraId="5ABFA761" w14:textId="77777777" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+      <w:pPr>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00732DBA">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>TERMINATION AGREEMENT</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="05852862" w14:textId="72341B9B" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00F329D8" w:rsidP="00732DBA">
+      <w:pPr>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>This Termination Agreement</w:t>
+      </w:r>
+      <w:r w:rsidR="00732DBA" w:rsidRPr="00732DBA">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">, dated as of </w:t>
+      </w:r>
+      <w:r w:rsidR="00732DBA" w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[</w:t>
+      </w:r>
+      <w:r w:rsidR="00732DBA" w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidR="00732DBA" w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">] </w:t>
+      </w:r>
+      <w:r w:rsidR="00732DBA" w:rsidRPr="00732DBA">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">(this “Agreement”), between </w:t>
+      </w:r>
+      <w:r w:rsidR="00732DBA" w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[</w:t>
+      </w:r>
+      <w:r w:rsidR="00732DBA" w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidR="00732DBA" w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>]</w:t>
+      </w:r>
+      <w:r w:rsidR="00732DBA" w:rsidRPr="00732DBA">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>, a</w:t>
+      </w:r>
+      <w:r w:rsidR="00732DBA" w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r w:rsidR="00732DBA" w:rsidRPr="00732DBA">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">company </w:t>
+      </w:r>
+      <w:r w:rsidR="00732DBA" w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">incorporated </w:t>
+      </w:r>
+      <w:r w:rsidR="00732DBA" w:rsidRPr="00732DBA">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">under the laws of </w:t>
+      </w:r>
+      <w:r w:rsidR="00732DBA" w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[</w:t>
+      </w:r>
+      <w:r w:rsidR="00732DBA" w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidR="00732DBA" w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">] </w:t>
+      </w:r>
+      <w:r w:rsidR="00732DBA" w:rsidRPr="00732DBA">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">, and </w:t>
+      </w:r>
+      <w:r w:rsidR="00732DBA" w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[</w:t>
+      </w:r>
+      <w:r w:rsidR="00732DBA" w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidR="00732DBA" w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">] </w:t>
+      </w:r>
+      <w:r w:rsidR="00732DBA" w:rsidRPr="00732DBA">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>a</w:t>
+      </w:r>
+      <w:r w:rsidR="00732DBA" w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r w:rsidR="00732DBA" w:rsidRPr="00732DBA">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">company </w:t>
+      </w:r>
+      <w:r w:rsidR="00732DBA" w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">incorporated </w:t>
+      </w:r>
+      <w:r w:rsidR="00732DBA" w:rsidRPr="00732DBA">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>under the laws (the “Company”).</w:t>
+      </w:r>
+      <w:r w:rsidR="00732DBA" w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="606AD98B" w14:textId="548E92AD" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+      <w:pPr>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="0" w:firstLine="490"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00732DBA">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>WHEREAS</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00732DBA">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">, the parties hereto are parties to the </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[Name of the Agreement parties intend to terminate] (“</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>] Agreement”)</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00732DBA">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> dated as of </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>]</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00732DBA">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>; and</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7E288E32" w14:textId="674F2CFB" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+      <w:pPr>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="0" w:firstLine="490"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00732DBA">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>WHEREAS</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00732DBA">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">, the parties hereto have mutually agreed to terminate the </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[</w:t>
+      </w:r>
+      <w:r w:rsidR="005D1587" w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Name</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">] </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00732DBA">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Agreement, in each case pursuant to the terms thereof and this</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00732DBA">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Agreement.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="74E41929" w14:textId="4755D6C1" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+      <w:pPr>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="0" w:firstLine="490"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00732DBA">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>NOW, THEREFORE</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00732DBA">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">, in consideration of the foregoing and the mutual covenants and agreements herein contained, and intending to be legally bound hereby, </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">] </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00732DBA">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">and the Company hereby agree as follows (all capitalized terms not defined herein shall have the meanings specified in the </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">] </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00732DBA">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Agreement):</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6DA6239E" w14:textId="01ACB046" w:rsidR="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00B0275F">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="360"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Termination</w:t>
+      </w:r>
+      <w:r w:rsidR="00B0275F" w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> - </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>The parties hereby agree to terminate (a) the [</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>] Agreement pursuant to Clause [</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>] thereof. Effective as of the date hereof (the “Termination Date”), each of the  [</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>] Agreement shall terminate and be of no further force and effect. Notwithstanding any provision of the [</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>] Agreement to the contrary, neither party shall have any further obligations thereunder or with respect thereto, except as specifically set forth herein.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="58F32D58" w14:textId="77777777" w:rsidR="00B0275F" w:rsidRPr="00B0275F" w:rsidRDefault="00B0275F" w:rsidP="00B0275F">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="360"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="19B149A1" w14:textId="36E5B18E" w:rsidR="00732DBA" w:rsidRPr="00B0275F" w:rsidRDefault="00732DBA" w:rsidP="00B0275F">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="360"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Effect of Termination</w:t>
+      </w:r>
+      <w:r w:rsidR="00B0275F" w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> - </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Effective as of the Termination Date, none of [</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>] (or its Affiliates, directors, officers, employees, agents or other representatives), on the one hand, nor the Company (or its Affiliates or its directors, officers, employees, agents or other representatives), on the other hand, shall have any liability or obligation to each other under the [</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>] Agreement, except that the provisions of, and any liability or obligation contemplated under, Clause [</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>] of the [</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">] Agreement shall continue in full force and effect in accordance with the terms of the </w:t>
+      </w:r>
+      <w:r w:rsidR="005D1587" w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[</w:t>
+      </w:r>
+      <w:r w:rsidR="005D1587" w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidR="005D1587" w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>]</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> Agreement.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="41626840" w14:textId="44FC5CC9" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00B0275F">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="360" w:hanging="270"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="77463304" w14:textId="6E3CD65C" w:rsidR="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00B0275F">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="360"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Releases</w:t>
+      </w:r>
+      <w:r w:rsidR="00B0275F" w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> - </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Effective as of the Termination Date, each of the parties hereto, on its own behalf and on behalf of its principals, agents, Affiliates, successors, assigns, heirs, representatives, and attorneys, hereby irrevocably, fully and unconditionally releases and forever discharges the other party and each of its past or present directors, officers, employees, attorneys, principals, agents, Affiliates, successors, assigns, heirs, representatives, and insurers, from and against any and all present and future claims, counterclaims, demands, actions, suits, causes of action, damages, controversies and liabilities, including, without limitation, any costs, expenses, bills, penalties or attorneys’ fees, whether known or unknown, contingent or absolute, foreseen or unforeseen, and whether in law, equity or otherwise, that could have been asserted in any court or forum and relating in any way to any conduct, occurrence, activity, expenditure, promise or negotiation arising from or relating to the </w:t>
+      </w:r>
+      <w:r w:rsidR="005D1587" w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[</w:t>
+      </w:r>
+      <w:r w:rsidR="005D1587" w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidR="005D1587" w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">] </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Agreement, including the performance thereof and further payment obligations of any kind in connection therewith.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2EF87485" w14:textId="77777777" w:rsidR="00B0275F" w:rsidRPr="00B0275F" w:rsidRDefault="00B0275F" w:rsidP="00B0275F">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="360"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="3F8C6D71" w14:textId="57F5A264" w:rsidR="00B0275F" w:rsidRPr="00B0275F" w:rsidRDefault="00732DBA" w:rsidP="00B0275F">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="360"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Due Authorization</w:t>
+      </w:r>
+      <w:r w:rsidR="00B0275F" w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> - </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Each party hereto hereby represents and warrants that the signature to this Agreement has been duly authorized by all necessary corporate action on its part and that the officer executing this Agreement on its behalf has the authority to execute the same and to bind it to the terms and conditions of this Agreement.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="642A22F8" w14:textId="77777777" w:rsidR="00B0275F" w:rsidRPr="00B0275F" w:rsidRDefault="00B0275F" w:rsidP="00B0275F">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="360"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="7AFED9DC" w14:textId="0563C8F9" w:rsidR="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00B0275F">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="360"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Severability</w:t>
+      </w:r>
+      <w:r w:rsidR="00B0275F" w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> - </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">If any term or other provision of this Agreement is invalid, illegal or incapable of being enforced by any rule of law, or public policy, all other conditions and provisions of this Agreement shall nevertheless remain in full force and effect so long as the economic or legal substance of this Agreement is not affected in any manner adverse to any party. Upon such </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t>determination that any term or other provision is invalid, illegal or incapable of being enforced, the parties hereto shall negotiate in good faith to modify this Agreement so as to effect the original intent of the parties as closely as possible in a mutually acceptable manner.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="06498773" w14:textId="77777777" w:rsidR="00B0275F" w:rsidRPr="00B0275F" w:rsidRDefault="00B0275F" w:rsidP="00B0275F">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="6021A87C" w14:textId="77777777" w:rsidR="00B0275F" w:rsidRPr="00B0275F" w:rsidRDefault="00B0275F" w:rsidP="00B0275F">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="360"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="1DF8D080" w14:textId="32CDD454" w:rsidR="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00B0275F">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="360"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Counterparts</w:t>
+      </w:r>
+      <w:r w:rsidR="00B0275F" w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> - </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>This Agreement may be executed and delivered (including by facsimile transmission) in one or more counterparts, and by the different parties hereto in separate counterparts, each of which when executed shall be deemed to be an original but all of which taken together shall constitute one and the same agreement.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1D575EED" w14:textId="77777777" w:rsidR="00B0275F" w:rsidRPr="00B0275F" w:rsidRDefault="00B0275F" w:rsidP="00B0275F">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="360"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="2D395CC4" w14:textId="1773ED1E" w:rsidR="00B0275F" w:rsidRPr="00B0275F" w:rsidRDefault="00732DBA" w:rsidP="00B0275F">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="360"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Governing Law; Jurisdiction</w:t>
+      </w:r>
+      <w:r w:rsidR="00B0275F" w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> - </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">This Agreement shall be governed by, and construed in accordance with, the laws of the </w:t>
+      </w:r>
+      <w:r w:rsidR="0028011B" w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[</w:t>
+      </w:r>
+      <w:r w:rsidR="0028011B" w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidR="0028011B" w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">]. </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">All actions and proceedings arising out of or relating to this Agreement shall be heard and determined exclusively in any </w:t>
+      </w:r>
+      <w:r w:rsidR="0028011B" w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> [</w:t>
+      </w:r>
+      <w:r w:rsidR="0028011B" w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidR="0028011B" w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>]</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">. The parties hereto hereby (a) submit to the exclusive jurisdiction </w:t>
+      </w:r>
+      <w:r w:rsidR="0028011B" w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>to the court of [</w:t>
+      </w:r>
+      <w:r w:rsidR="0028011B" w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidR="0028011B" w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">] </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>for the purpose of any action or proceeding arising out of or relating to this Agreement brought by any party hereto, and (b)</w:t>
+      </w:r>
+      <w:r w:rsidR="0028011B" w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">irrevocably waive, and agree not to assert by way of motion, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>defense</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>, or otherwise, in any such action or proceeding, any claim that it is not subject personally to the jurisdiction of the above-named courts, that its property is exempt or immune from attachment or execution, that the action or proceeding is brought in an inconvenient forum, that the venue of the action or proceeding is improper, or that this Agreement may not be enforced in or by any of the above-named courts</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="409EF568" w14:textId="77777777" w:rsidR="00B0275F" w:rsidRPr="00B0275F" w:rsidRDefault="00B0275F" w:rsidP="00B0275F">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="360"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="6235C93D" w14:textId="36D3D8FB" w:rsidR="00732DBA" w:rsidRPr="00B0275F" w:rsidRDefault="00732DBA" w:rsidP="00B0275F">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="360"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Entire Agreement</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">; </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Assignment</w:t>
+      </w:r>
+      <w:r w:rsidR="00B0275F" w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">; Amendment - </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> This Agreement constitutes the entire agreement among the parties with respect to the subject matter hereof and supersedes all prior agreements and undertakings, both written and oral, among the parties, or any of them, with respect to the subject matter hereof, including the </w:t>
+      </w:r>
+      <w:r w:rsidR="0028011B" w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>[</w:t>
+      </w:r>
+      <w:r w:rsidR="0028011B" w:rsidRPr="00F329D8">
+        <w:rPr>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:sym w:font="Symbol" w:char="F0B7"/>
+      </w:r>
+      <w:r w:rsidR="0028011B" w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">] </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Agreement</w:t>
+      </w:r>
+      <w:r w:rsidR="0028011B" w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r w:rsidR="00B0275F" w:rsidRPr="00B0275F">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>This Agreement may be amended by the parties hereto at any time by action taken by or on behalf of their respective Boards of Directors. This Agreement may not be amended except by an instrument in writing signed by each of the parties hereto.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="297BAF1A" w14:textId="20AD93E5" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="0028011B">
+      <w:pPr>
+        <w:spacing w:before="180" w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="08F93E82" w14:textId="77777777" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="0" w:firstLine="490"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00732DBA">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be signed by their respective officers thereunto duly authorized, all as of the date first written above.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5CDFAE55" w14:textId="77777777" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00732DBA">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t> </w:t>
+      </w:r>
+    </w:p>
+    <w:tbl>
+      <w:tblPr>
+        <w:tblW w:w="2000" w:type="pct"/>
+        <w:jc w:val="right"/>
+        <w:tblCellSpacing w:w="0" w:type="dxa"/>
+        <w:tblCellMar>
+          <w:left w:w="0" w:type="dxa"/>
+          <w:right w:w="0" w:type="dxa"/>
+        </w:tblCellMar>
+        <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/>
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="592"/>
+        <w:gridCol w:w="50"/>
+        <w:gridCol w:w="2968"/>
+      </w:tblGrid>
+      <w:tr w:rsidR="00732DBA" w:rsidRPr="00732DBA" w14:paraId="11C3BF4A" w14:textId="77777777" w:rsidTr="00732DBA">
+        <w:trPr>
+          <w:tblCellSpacing w:w="0" w:type="dxa"/>
+          <w:jc w:val="right"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="600" w:type="pct"/>
+            <w:vAlign w:val="center"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="0C2FDA0F" w14:textId="77777777" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="50" w:type="pct"/>
+            <w:vAlign w:val="bottom"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="22CD297F" w14:textId="77777777" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4350" w:type="pct"/>
+            <w:vAlign w:val="center"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="33BDC1E2" w14:textId="77777777" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00732DBA" w:rsidRPr="00732DBA" w14:paraId="741E20B1" w14:textId="77777777" w:rsidTr="00732DBA">
+        <w:trPr>
+          <w:tblCellSpacing w:w="0" w:type="dxa"/>
+          <w:jc w:val="right"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:gridSpan w:val="3"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="1D8E389A" w14:textId="70ECDECD" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00732DBA" w:rsidRPr="00732DBA" w14:paraId="51686C07" w14:textId="77777777" w:rsidTr="00732DBA">
+        <w:trPr>
+          <w:trHeight w:val="320"/>
+          <w:tblCellSpacing w:w="0" w:type="dxa"/>
+          <w:jc w:val="right"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:vAlign w:val="center"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="42D921B5" w14:textId="77777777" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:gridSpan w:val="2"/>
+            <w:vAlign w:val="center"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="1EEEFCE4" w14:textId="77777777" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00732DBA" w:rsidRPr="00732DBA" w14:paraId="728BD3DD" w14:textId="77777777" w:rsidTr="00732DBA">
+        <w:trPr>
+          <w:tblCellSpacing w:w="0" w:type="dxa"/>
+          <w:jc w:val="right"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="2E052109" w14:textId="77777777" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00732DBA">
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t>By:</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:tcBorders>
+              <w:bottom w:val="single" w:sz="6" w:space="0" w:color="000000"/>
+            </w:tcBorders>
+            <w:vAlign w:val="bottom"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="15D11D9B" w14:textId="77777777" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00732DBA">
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:tcBorders>
+              <w:bottom w:val="single" w:sz="6" w:space="0" w:color="000000"/>
+            </w:tcBorders>
+            <w:vAlign w:val="bottom"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="126973CA" w14:textId="00A38636" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00732DBA" w:rsidRPr="00732DBA" w14:paraId="40275E97" w14:textId="77777777" w:rsidTr="00732DBA">
+        <w:trPr>
+          <w:tblCellSpacing w:w="0" w:type="dxa"/>
+          <w:jc w:val="right"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="794BAA0F" w14:textId="77777777" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00732DBA">
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t>Name:</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:vAlign w:val="bottom"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="66C80D7D" w14:textId="77777777" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00732DBA">
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:vAlign w:val="bottom"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="23BA60FC" w14:textId="466F2E6F" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00732DBA" w:rsidRPr="00732DBA" w14:paraId="65AABCDD" w14:textId="77777777" w:rsidTr="00732DBA">
+        <w:trPr>
+          <w:tblCellSpacing w:w="0" w:type="dxa"/>
+          <w:jc w:val="right"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="4164A5CA" w14:textId="77777777" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00732DBA">
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t>Title:</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:vAlign w:val="bottom"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="4D39158B" w14:textId="77777777" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00732DBA">
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:vAlign w:val="bottom"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="21FC4333" w14:textId="359B0442" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:p w14:paraId="621C531C" w14:textId="77777777" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00732DBA">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t> </w:t>
+      </w:r>
+    </w:p>
+    <w:tbl>
+      <w:tblPr>
+        <w:tblW w:w="2000" w:type="pct"/>
+        <w:jc w:val="right"/>
+        <w:tblCellSpacing w:w="0" w:type="dxa"/>
+        <w:tblCellMar>
+          <w:left w:w="0" w:type="dxa"/>
+          <w:right w:w="0" w:type="dxa"/>
+        </w:tblCellMar>
+        <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/>
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="592"/>
+        <w:gridCol w:w="50"/>
+        <w:gridCol w:w="2968"/>
+      </w:tblGrid>
+      <w:tr w:rsidR="00732DBA" w:rsidRPr="00732DBA" w14:paraId="5A7BEE7E" w14:textId="77777777" w:rsidTr="00732DBA">
+        <w:trPr>
+          <w:tblCellSpacing w:w="0" w:type="dxa"/>
+          <w:jc w:val="right"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="600" w:type="pct"/>
+            <w:vAlign w:val="center"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="73AD376E" w14:textId="77777777" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="50" w:type="pct"/>
+            <w:vAlign w:val="bottom"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="57346421" w14:textId="77777777" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4350" w:type="pct"/>
+            <w:vAlign w:val="center"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="0FF238DB" w14:textId="77777777" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00732DBA" w:rsidRPr="00732DBA" w14:paraId="48121E77" w14:textId="77777777" w:rsidTr="0028011B">
+        <w:trPr>
+          <w:trHeight w:val="117"/>
+          <w:tblCellSpacing w:w="0" w:type="dxa"/>
+          <w:jc w:val="right"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:gridSpan w:val="3"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="5F7935CF" w14:textId="5D8905E6" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00732DBA" w:rsidRPr="00732DBA" w14:paraId="028B178B" w14:textId="77777777" w:rsidTr="00732DBA">
+        <w:trPr>
+          <w:trHeight w:val="320"/>
+          <w:tblCellSpacing w:w="0" w:type="dxa"/>
+          <w:jc w:val="right"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:vAlign w:val="center"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="7A279404" w14:textId="77777777" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:gridSpan w:val="2"/>
+            <w:vAlign w:val="center"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="5B666705" w14:textId="77777777" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00732DBA" w:rsidRPr="00732DBA" w14:paraId="55792D23" w14:textId="77777777" w:rsidTr="00732DBA">
+        <w:trPr>
+          <w:tblCellSpacing w:w="0" w:type="dxa"/>
+          <w:jc w:val="right"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="2D12D21D" w14:textId="77777777" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00732DBA">
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t>By:</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:tcBorders>
+              <w:bottom w:val="single" w:sz="6" w:space="0" w:color="000000"/>
+            </w:tcBorders>
+            <w:vAlign w:val="bottom"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="4613793B" w14:textId="77777777" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00732DBA">
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:tcBorders>
+              <w:bottom w:val="single" w:sz="6" w:space="0" w:color="000000"/>
+            </w:tcBorders>
+            <w:vAlign w:val="bottom"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="741E9CFB" w14:textId="4B939FB4" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00732DBA" w:rsidRPr="00732DBA" w14:paraId="1E7B83D2" w14:textId="77777777" w:rsidTr="00732DBA">
+        <w:trPr>
+          <w:tblCellSpacing w:w="0" w:type="dxa"/>
+          <w:jc w:val="right"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="24C57D8B" w14:textId="77777777" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00732DBA">
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t>Name:</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:vAlign w:val="bottom"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="476E1191" w14:textId="77777777" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00732DBA">
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:vAlign w:val="bottom"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="64A4B9DF" w14:textId="7C021F68" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00732DBA" w:rsidRPr="00732DBA" w14:paraId="3AF963C0" w14:textId="77777777" w:rsidTr="00732DBA">
+        <w:trPr>
+          <w:tblCellSpacing w:w="0" w:type="dxa"/>
+          <w:jc w:val="right"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="037CC0AC" w14:textId="77777777" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00732DBA">
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t>Title:</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:vAlign w:val="bottom"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="63F82E7F" w14:textId="77777777" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00732DBA">
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:vAlign w:val="bottom"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="431C97D3" w14:textId="449401AB" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:p w14:paraId="0C749E63" w14:textId="77777777" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00732DBA">
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t> </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="70ECE313" w14:textId="7D10DF33" w:rsidR="00732DBA" w:rsidRPr="00732DBA" w:rsidRDefault="00732DBA" w:rsidP="00732DBA">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="074AF9CF" w14:textId="77777777" w:rsidR="00685229" w:rsidRPr="00F329D8" w:rsidRDefault="00685229">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:sectPr w:rsidR="00685229" w:rsidRPr="00F329D8">
+      <w:pgSz w:w="11906" w:h="16838"/>
+      <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="708" w:footer="708" w:gutter="0"/>
+      <w:cols w:space="708"/>
+      <w:docGrid w:linePitch="360"/>
+    </w:sectPr>
+  </w:body>
+</w:document>
