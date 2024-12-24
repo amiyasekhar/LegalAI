@@ -1,19 +1,9 @@
-from docx import Document
+import pypandoc
 
-def docx_to_txt(input_file, output_file):
-    try:
-        # Load the .docx file
-        doc = Document(input_file)
-        # Extract all text
-        text = "\n".join([paragraph.text for paragraph in doc.paragraphs])
-        
-        # Write text to output file
-        with open(output_file, 'w', encoding='utf-8') as f:
-            f.write(text)
-        
-        print(f"Successfully converted '{input_file}' to '{output_file}'.")
-    except Exception as e:
-        print(f"An error occurred: {e}")
+# Example file:
+docxFilename = '/Users/amiyasekhar/Downloads/CLM CW/contracts/1.Contract.docx'
+output = pypandoc.convert_file(docxFilename, 'plain', outputfile="somefile.txt")
+assert output == ""
 
 if __name__ == "__main__":
     import sys
