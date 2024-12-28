@@ -1,3 +1,8 @@
+=== START DEBUG SESSION ===
+docx_files = ['/Users/amiyasekhar/CLM/contracts/1.Contract.docx']
+Total Tokens: 30814
+Chunk 1: 30814 tokens
+Chunk 1 written to /Users/amiyasekhar/CLM/chunks/chunk_1.txt
 1. **Agreement and SOW**
    - This Agreement contains the general contractual terms and conditions applicable to the Services to be provided by Provider to Customer.
    - The Parties shall, from time to time during the Term of this Agreement, enter into individual SOWs to govern the specific Services to be performed by Provider under this Agreement and the terms hereof.
@@ -183,3 +188,4 @@
       - Provider’s compliance with the Processing Norms under Section 6.2;
       - Customer’s breach of any term of this Agreement, including without limitation, Customer’s breach of its obligation to comply with laws in accordance with Article 9, Customer’s breach of its obligations relating to Taxes under Section 15.6 and Customer’s breach of any of its representations and warranties provided in Section 17;
       - Any actual or alleged violation, infringement, unauthorized use or misappropriation of any third party’s U.S. copyright, patent, trademark, or other intellectual property right arising from Provider’s use of Customer’s Products, Licensed Software, Customer Software or other materials furnished hereunder by Customer, to the extent that such use is in the contemplated manner and in full compliance with this Agreement and applicable
+=== END OF SCRIPT ===

@@ -7,9 +7,14 @@ from datasets import Dataset, DatasetDict
 from concurrent.futures import ThreadPoolExecutor
 
 # Directory paths for contract files and output results
-contract_directory_path = '/Users/amiyasekhar/CLM/word_txt_outputs'
-output_directory = '/Users/amiyasekhar/CLM/'
+contract_directory_path = './word_txt_outputs'
+output_directory = './'
 debug_file_path = "./debugging_cc_for_real.txt"
+bert_model = BertForSequenceClassification.from_pretrained("nlpaueb/legal-bert-base-uncased")
+if bert_model:
+    print("We've Bert")
+else:
+    print("No bert")
 
 # Helper function to write to a file in append mode
 def write_to_file(filename, text, mode='a'):
@@ -32,10 +37,10 @@ for file_name in os.listdir(output_directory):
 device = torch.device("mps" if torch.backends.mps.is_available() else "cpu")
 
 # Paths for models and tokenizers
-bert_model_path = "/Users/amiyasekhar/CLM/fine_tuned_legal_bert"
-bert_tokenizer_path = "/Users/amiyasekhar/CLM/fine_tuned_legal_bert_tokenizer"
-roberta_model_path = "/Users/amiyasekhar/CLM/fine_tuned_legal_roberta"
-roberta_tokenizer_path = "/Users/amiyasekhar/CLM/fine_tuned_legal_roberta_tokenizer"
+bert_model_path = "./fine_tuned_legal_bert"
+bert_tokenizer_path = "./fine_tuned_legal_bert_tokenizer"
+roberta_model_path = "./fine_tuned_legal_roberta"
+roberta_tokenizer_path = "./fine_tuned_legal_roberta_tokenizer"
 
 # Load dataset to create label mappings regardless of training
 df1 = pd.read_csv("Clauses 1.csv")
@@ -88,6 +93,7 @@ if not (bert_model_exists and roberta_model_exists):
 
     legal_bert_tokenizer = BertTokenizer.from_pretrained("nlpaueb/legal-bert-base-uncased")
     legal_roberta_tokenizer = RobertaTokenizer.from_pretrained("saibo/legal-roberta-base")
+
 
     # Preprocessing function for tokenization
     def preprocess_function(examples, tokenizer):
@@ -148,7 +154,40 @@ def get_predictions(model, tokenizer, text, device):
     confidence, predicted_class = torch.max(softmax, dim=1)
     return predicted_class.item(), confidence.item()
 
+def extract_clauses_from_file(filepath, delimiter):
+    """
+    Reads the entire file, then splits the text by a specific delimiter.
+    Returns a list of clauses, stripped of leading/trailing whitespace.
+    """
+    with open(filepath, "r", encoding="utf-8") as f:
+        text = f.read()
+    
+    # Split on the delimiter:
+    raw_clauses = text.split(delimiter)
+    
+    # Strip whitespace and discard any empty strings:
+    clauses = [clause.strip() for clause in raw_clauses if clause.strip()]
+    return clauses
+
+contract_file = "broken_down_contract.txt"
+delimiter_str = "-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-"
+clauses_list = extract_clauses_from_file(contract_file, delimiter_str)
+output_file = os.path.join(output_directory, "results_clauses_list")
+
+for clause in clauses_list:
+    bert_pred, bert_conf = get_predictions(legal_bert_model, legal_bert_tokenizer, clause, device)
+    roberta_pred, roberta_conf = get_predictions(legal_roberta_model, legal_roberta_tokenizer, clause, device)
+    predictions = [bert_pred, roberta_pred]
+    confidences = [bert_conf, roberta_conf]
+    final_pred_id = predictions[np.argmax(confidences)] if max(confidences) > 0 else -1
+    final_pred = id2label.get(final_pred_id, "Unknown")
+    write_to_file(output_file, f"Clause: '{clause}'\n", 'a')
+    write_to_file(output_file, f"Legal-BERT Prediction: {id2label[bert_pred]} (Confidence: {bert_conf})\n", 'a')
+    write_to_file(output_file, f"Legal-RoBERTa Prediction: {id2label[roberta_pred]} (Confidence: {roberta_conf})\n", 'a')
+    write_to_file(output_file, f"Final Prediction: {final_pred}\n", 'a')
+    write_to_file(output_file, "=" * 80 + "\n\n", 'a')
 # Directory paths for contract files and output results
+'''
 for file_name in os.listdir(contract_directory_path):
     write_to_file(debug_file_path, f"We are going through the file {file_name}\n", 'a')
 
@@ -183,3 +222,4 @@ for file_name in os.listdir(contract_directory_path):
                 write_to_file(output_file, f"Legal-RoBERTa Prediction: {id2label[roberta_pred]} (Confidence: {roberta_conf})\n", 'a')
                 write_to_file(output_file, f"Final Prediction: {final_pred}\n", 'a')
                 write_to_file(output_file, "=" * 80 + "\n\n", 'a')
+'''
