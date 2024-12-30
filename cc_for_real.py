@@ -202,6 +202,9 @@ def main():
             write_to_file(output_file, f"Legal-RoBERTa: {id2label[roberta_pred]} (conf: {roberta_conf})\n")
             write_to_file(output_file, f"Final Prediction: {final_pred}\n")
             write_to_file(output_file, "=" * 80 + "\n\n")
+            '''
+            Hi
+            '''
 
     print("Done with the main() function!")
 
