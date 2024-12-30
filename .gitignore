@@ -3,4 +3,5 @@ Dhananjay/
 fine_tuned_legal_roberta/
 fine_tuned_legal_bert/
 results/
-AI-Contract-Review/
+AI-Contract-Review/results/checkpoint-255/model.safetensors
+results/checkpoint-255/optimizer.pt
