@@ -1,0 +1,485 @@
+PURCHASE AND SUPPLY AGREEMENT
+
+ 
+
+This Purchase and Supply Agreement (“Agreement”) dated as of [●] is entered into by and between [Buyer Name] (“Buyer”), a company having its registered office at [●], and [Seller Name] (“Seller”), a company having its registered office at [●] and a wholly-owned subsidiary of [Parent Company Name], a company having its registered office at [●] (“Parent”).
+
+ 
+
+RECITALS
+
+ 
+
+WHEREAS, Buyer, through its [●] division, is a developer and supplier of ultra linear, high-performance radio amplifiers for the wireless infrastructure market;
+
+ 
+
+WHEREAS, Seller is a newly formed entity that intends to be a developer and supplier of high-performance radio frequency power semiconductors and integrated modules for the wireless infrastructure market;
+
+ 
+
+WHEREAS, Buyer, Parent and Seller have entered into an Asset Purchase Agreement, dated [●] (the “Asset Purchase Agreement”), pursuant to which, among other things, Seller shall purchase Buyer’s [●] business division; and
+
+ 
+
+WHEREAS, following the purchase of Buyer’s [●] business division, Seller wishes to supply Buyer with high-performance radio frequency power semiconductors and integrated modules and related components and systems (collectively, “Components”) and Buyer wishes to acquire such Components from Seller.
+
+ 
+
+NOW, THEREFORE, in consideration of the mutual promises contained in this Agreement and intending to be legally bound, Buyer and Seller agree:
+
+ 
+
+ARTICLE I.
+
+TERM, QUANTITY, QUALITY, PRICING AND PAYMENT
+
+ 
+
+Section 1.1 Term. The term of this Agreement shall commence on [●] (the “Effective Date”) and shall end at the conclusion of the [●] month period following the Effective Date (the “Term.”).
+
+ 
+
+Section 1.2 Minimum Commitment. In each calendar quarter during the Term, Buyer agrees to purchase and accept delivery from Seller of, and Seller agrees to sell and ship to Buyer, Components having an aggregate purchase price not less than the respective minimum commitment amounts set forth below:
+
+ 
+
+Calendar Quarter Ending
+
+
+
+  
+
+Minimum Commitment
+
+
+
+
+
+  
+
+Rs. [●]
+
+
+
+  
+
+Rs. [●]
+
+
+
+  
+
+Rs. [●]
+
+
+
+  
+
+Rs. [●]
+
+
+
+  
+
+Rs. [●]
+
+
+
+  
+
+Rs. [●]
+
+
+
+  
+
+Rs. [●]
+
+
+
+  
+
+Rs. [●]
+
+ 
+
+(for each calendar quarter, and as it may be reduced or modified by the terms hereof, the “Minimum Commitment”). The Minimum Commitment shall be satisfied by Buyer Purchases; provided, however, that, to the extent that Buyer Purchases in a calendar quarter exceed the Minimum Commitment for that calendar quarter, such excess shall not carry over to be applied against the Minimum Commitment for any subsequent calendar quarter. As used herein, “Buyer Purchases” means the aggregate amount the purchase price (without giving effect to the Shortfall Surcharge (defined below)) of purchases of Components from Seller and other of the Parent’s products that are shipped by Seller to Buyer during a given calendar quarter or that have Original Delivery Dates (as defined in Section 3.1) or scheduled delivery dates otherwise mutually agreed upon in writing, in each case within such calendar quarter if not shipped during that calendar quarter. For purposes of this Section 1.2, Buyer Purchases include purchase of Components from Seller by any subsidiary of Buyer in which Buyer owns over 50% or by an entity which controls Buyer (owns 50% or greater ownership in Buyer); provided, however, that purchases by any of the entities specified in Schedule 1.2 hereto shall not be included as Buyer Purchases.
+
+ 
+
+If Buyer fails to satisfy the Minimum Commitment for any calendar quarter, Buyer shall pay to Seller in cash, within [●] days following such calendar quarter, an amount equal to the Shortfall Surcharge. As used herein, “Shortfall Surcharge” for any calendar quarter means the difference between the (a) Adjusted Minimum Commitment (defined as Minimum Commitment less (i) Performance and Component Availability Adjustments and (ii) Guaranteed Supply Adjustments) for such calendar quarter and (b) Buyer Purchases for such calendar quarter. Buyer agrees to promptly notify Seller in the event Buyer expects to not achieve its Minimum Commitment in any period. In the event that a Shortfall Surcharge shall be payable with respect to any calendar quarter, the amount of the Shortfall Surcharge shall be deemed to have been allocated pro rata among all Components shipped during such calendar quarter as an increase in the purchase price thereof.
+
+ 
+
+Section 1.3 Guaranteed Capacity. Seller agrees that it will allocate sufficient production capacity to Buyer to meet [●] of the Minimum Commitment, subject to the other provisions of this Agreement, including the provisions of Section 2.4 regarding lead times.
+
+ 
+
+Section 1.4 Performance and Component Availability. (a) Buyer will provide Seller with quarterly product roadmaps and specifications for future Buyer products. Buyer will consider in good faith utilizing Components from Seller in products under development by Buyer provided that such Components are Competitive. Buyer and Seller shall in good faith discuss, and mutually agree in writing from time to time, upon the requirements for Components to be deemed “Competitive”. The requirements will be based upon whether such products (i) have key performance parameter limits that are within the key performance parameter limits for a third party component that Buyer might otherwise utilize, (ii) meet the specification requirements of Buyer’s product design, (iii) have been fully released to manufacturing by Seller, (iv) are to be projected to be available in quantities necessary to support the projected Buyer production requirements and (v) have a competitive price. The parties agree that the Components listed on Schedule 1.4 hereto are deemed to be Competitive in the Buyer products for which they currently are utilized as of the date hereof. Seller shall be afforded a period of [●]  months from the date that production parts are commercially available (or, if later, from the date the parties have mutually agreed upon the requirements for a Component to be Competitive) in which to develop and release such Competitive products to manufacturing.
+
+ 
+
+(b) In the event that Buyer determines to “lock in” a Component in its design of Buyer products, it shall give written notice to Seller of its determination with respect to such Component (a “Locked in Component”). Thereafter, subject to the other provisions of this Agreement, if Locked In Components are not available from Seller that meet the Competitive requirements, and if other Components from the Seller portfolio are not available which would otherwise meet Buyer’s Competitive requirements for the Minimum Commitment, then the rupee volume of these Components which are purchased by Buyer from other vendors in a calendar quarter shall be deemed to be a “Performance and Product Availability Adjustment” for purposes of the Minimum Commitment for such quarter.
+
+ 
+
+Section 1.5 Guaranteed Supply. Subject to the other provisions of this Agreement, Seller shall assure supply to Buyer of all Components that have been designed into Buyer’s products. In the event that Seller decides to discontinue manufacturing and delivery of certain Components (“End-of-Life”), Seller will accept all purchase orders provided by Buyer (“Last Time Buy”) of the specific part number(s) subject to Seller’s End of Life notification for a period of [●] months from the date of notification and Seller agrees that delivery will not exceed [●] months from the date of such notification. Buyer’s Last Time Buy must be placed before the expiration of the [●] month period following the End-of-Life notification. All Last Time Buy purchase orders shall be placed on a non-cancellable and non-refundable basis and marked as such on Buyer’s purchase orders. The price for finished Components purchased under a Last Time Buy will be subject to the prices or pricing criteria, as outlined in Section 1.6.
+
+ 
+
+Buyer will make reasonable efforts to assess its Last Time Buy requirements for each product being subject to an End-of-Life notification and place an order for such requirement. In addition, Buyer may request that a portion of the Life Time Buy be in the form of Qualified Die Bank. “Qualified Die Bank” is defined as die in wafer form which has been subjected to the wafer fabrication process and has had a sample of [●] die across the wafer selected and then packaged and tested for those specific [●] die to confirm that the wafer will yield good RF performance devices at an economic yield. The approval by Seller of such a Buyer request for a portion of its Last Time Buy in the form of Qualified Die Bank will not be unreasonably withheld. Buyer shall purchase the Qualified Die Bank under provisions of the Last Time Buy stated above, and will bear the risk for die yield. The price for Qualified Die Bank will be no greater than the lower of (i) market price and (ii) [●] of Seller’s standard manufacturing cost (which shall include a reasonable manufacturing overhead allocation).
+
+ 
+
+In the event that Seller is unable to satisfy Buyer’s Last Time Buy or Qualified Die Bank request for bipolar technology Components which have been designed into Buyer products prior to the Effective Date, Seller agrees to transfer a royalty free license of the manufacturing process (including packaging technology, unless Seller agrees to provide such services to Buyer to complete the Qualified Die Bank at a reasonable cost) to such End-of-Life bipolar Components to Buyer (or a designee approved by Seller, such approval not to be unreasonably withheld) to be manufactured exclusively for Buyer and be for Buyer’s own use, in order to ensure that the supply of such devices to Buyer remains uninterrupted. The technical information to support such transfer will be provided at cost so as to ensure that there is no interruption in supply and in no event later than [●] months after the End of Life notification.
+
+ 
+
+In the event that Buyer purchases Components subsequent to an End-of-Life notification from another vendor by virtue of the fact that Seller could not deliver Components to Buyer under Buyer’s Last Time Buy purchase orders, then the purchases of such Components from another vendor other than Seller shall be deemed to be a “Guaranteed Supply Adjustment” for purposes of the Minimum Commitment.
+
+ 
+
+Notwithstanding the foregoing, Seller agrees to not End of Life any Components during the [●] month period following the Effective Date except as disclosed on Schedule 1.5.
+
+ 
+
+Section 1.6 Qualified Die Bank Purchases. From time to time, Buyer may request that Seller provide it with Qualified Die Bank without regard to the Life Time Buy provisions above. The approval by Seller of such a Buyer request will not be unreasonably withheld, but Buyer shall bear the risk for die yield. The price for such Qualified Die Bank shall be [●] of Seller’s standard manufacturing cost (which shall include a reasonable manufacturing overhead allocation). Any such purchase of Qualified Die Bank shall be credited against the Minimum Commitment for the quarter in which such purchase is made. Such Qualified Die Bank may be held by Buyer and thereafter submitted to Seller for Component finishing, in which case the price of the Component shall be the difference between the Component price determined pursuant to Section 1.7 and the price previously paid for such Qualified Die Bank. The differential in price shall be credited against the Minimum Commitment for the quarter in which such Component is shipped. Any Qualified Die Bank purchased by Buyer hereunder may not be sold or transferred to any party other than Seller.
+
+ 
+
+Section 1.7 Prices. (a) The prices for products purchased by Buyer will be as set forth on Appendix A hereto, with the pricing determined as of the date of the Buyer purchase order based upon the date of shipment from Seller. For shipments of bipolar products after the quarter ending [●] the price for each bipolar product shall be the price set forth in the column for such quarter unless there shall have occurred a significant increase in packaging costs, in which case the parties shall negotiate in good faith the price for bipolar products having such increased packaging costs. For shipments of LDMOS products after the quarter ending [●] the parties shall negotiate in good faith, not less than [●] days prior to the start of a calendar quarter, the price for LDMOS products to be shipped during such calendar quarter. The parties agree to negotiate in good faith (i) changes to the LDMOS prices set forth in Appendix A from time to time in the future and (ii) prices for new Components, in each case based to ensure best available commercial price at a similar volume purchase discount and a cost per watt benchmark for substantially equivalent products of any leading competitor where specific comparable price is not available. In the event that Seller elects not to meet the best available commercial price for a particular product having equivalent specifications to the Seller Component, where such price is offered in writing to Buyer for quantities not less than those Buyer would otherwise purchase from Seller under this Agreement, and Seller has had at least [●] days after its receipt of a copy of the third party offer in which to meet such price, Buyer may purchase such product from a third-party vendor at such lower price, in which case such purchase will be credited against the Minimum Commitment.
+
+ 
+
+Notwithstanding the foregoing, Seller shall provide Buyer with its “most favoured customers” pricing with respect all of Buyer’s Component purchases (without regard to volume or mix) for all purchase orders placed during the [●]  consecutive [●] month periods following the Effective Date, with the “most favoured customer pricing” determined at the time Buyer submits its purchase order.
+
+ 
+
+(b) The Component prices do not include sales, use, consumption or excise taxes of any taxing authority. The amount of such taxes, if any, will be added to the Component prices in effect at the time of shipment thereof and shall be reflected in the invoices submitted to Buyer by Seller pursuant to this Agreement. Buyer shall pay the amount of such taxes to Seller in accordance with the payment provisions of this Agreement.
+
+ 
+
+Section 1.8 Payment. Buyer shall pay Seller the applicable price for the Components that Seller ships to Buyer hereunder within [●] days from the date of the invoice therefor. All payments due to Seller under this Agreement shall be made in Indian Rupees by Buyer by wire transfer to an account to be designated in writing by Seller from time to time. All amounts not paid when due shall bear interest at the rate of [●] percent ([●]%) per month (or such other percentage, if lower, as shall not exceed the maximum rate permitted by law) commencing [●] days from the date of the relevant invoice. Buyer shall be responsible for reasonable attorneys’ fees and any other reasonable expenses incurred by Seller in connection with the collection of any amounts due and payable hereunder.
+
+ 
+
+ARTICLE II.
+
+FORECASTS, LEAD TIMES AND ORDERS
+
+ 
+
+Section 2.1 Rolling Forecasts. (a) Not less than [●] days prior to the end of each calendar month during the Term, Buyer shall submit to Seller a forecast of its purchase of Standard Components (broken down by individual Standard Components) for each of the following six months (a “Standard Component Forecast”) and a forecast of its purchase of Custom Components (broken down by individual Custom Component) for each of the following six months (a “Custom Component Forecast” and, together with a Standard Component Forecast, the “Component Forecasts”). As used herein, “Standard Components” are Components that Seller makes generally available for sale to the public. “Custom Components” are all Components that are not Standard Components.
+
+ 
+
+(b) Attached hereto as Schedule 2.1(a)(i) is Buyer’s Standard Component Forecast for the period beginning on [●] and ending on [●]. Attached
+
+ 
+
+(c) hereto as Schedule 2.1(a)(ii) is Buyer’s Custom Component Forecast for the period beginning on [●] and ending on [●] (the “Initial Custom Component Forecast”).1
+
+ 
+
+Section 2.2 Firm Orders. The first two months of each Standard Component Forecast and the first three months of each Custom Component Forecast shall be deemed to be a “Firm Order”, against which Seller shall ship Components to Buyer. Firm Orders shall include a delivery date determined in accordance with Section 2.4 hereof. The Firm Orders shall be binding on both parties, and Buyer shall be obligated to purchase and Seller shall be obligated to supply Components in the quantities indicated therein. Firm Orders may not be cancelled or modified by either party without the written consent of the other party.
+
+ 
+
+Section 2.3 Cancelled Custom Orders. Buyer may cancel any Custom Component order during the period ending on the date (the “Trigger Date”) that is the later to occur of (i) [●] days prior to the anticipated delivery date determined in accordance with Section 2.4 hereof and (ii) a date mutually agreed to by Buyer and Seller. In such event, Buyer shall be obligated to reimburse Seller for any packaging costs incurred by Seller with respect to such cancelled order (plus any restocking or similar penalty of any third-party supplier). The amount of such reimbursement shall not be credited against the Minimum Commitment.
+
+ 
+
+Section 2.4 Lead Times. Not later than ten (10) days prior to the end of each calendar quarter, Seller will publish and provide to Buyer the lead times for delivery of Standard Components. For Standard Components, the lead time shall be [●] from the date that Buyer shall submit a purchase order for such Standard Components to Seller; provided, however, that Seller in good faith may modify the lead time for a particular Component if (i) the amount of such Component ordered is more than [●]% of the amount of such Component ordered by Buyer within the preceding [●] month period and (ii) such Components had been fully released to manufacturing prior to the commencement of such [●] month period; and provided, further, that for Components that had not been so released, a reasonable lead time shall be established (and notice thereof provided to Buyer) at the time such Components are released to manufacturing. For Custom Components, the lead time shall be [●] or such other time as may be mutually agreed in writing by the parties. Seller from time to time in good faith may modify the lead times for Components by giving written notice to Buyer base on changes in Seller’s vendors’ lead times and Seller’s capacity (subject to the minimum capacity provisions above), except that the lead time in effect as of the date of the purchase order may not be modified without the consent of the parties. Seller shall not be obligated to accept purchase orders for Components requesting deliveries outside the lead time applicable under this Section 2.4.
+
+ 
+
+Section 2.5 Existing Purchase Orders. Seller shall continue to honour the terms and conditions of all third-party purchase orders as provided in the Asset Purchase Agreement.
+
+
+
+
+
+
+
+These two attachments will be provided by Buyer not later than [●] and will ensure that Buyer satisfies the Minimum Commitment for the initial calendar quarter.
+
+ 
+
+
+
+Section 2.6 Future Purchase Orders. The terms and conditions of Buyer’s standard purchase order and Seller’s standard purchase order acceptance form attached hereto as Schedule 2.6 shall be exchanged by the parties, in Buyer’s case to confirm the Components and delivery dates ordered pursuant to the Component Forecasts, and in Seller’s case to confirm its acceptance of orders and agreement to the delivery dates, but shall otherwise be considered exchanged as an administrative convenience only, without adding to or modifying any of the provisions of this Agreement.
+
+ 
+
+ARTICLE III.
+
+DELIVERY AND SHIPPING
+
+ 
+
+Section 3.1 Delivery. Seller shall deliver Components to Buyer on the dates requested by Buyer and agreed to by Seller in the purchase orders (the “Original Delivery Dates”); provided, however, that Seller may fill Firm Orders up to [●] days before or after the Original Delivery Dates and still be in compliance with the delivery terms hereof; provided, further, however, that for purposes of the Minimum Commitment the purchase date shall be deemed to be the Original Delivery Dates.
+
+ 
+
+Section 3.2 Shipping. All sales of Components under this Agreement are made F.O.B. shipping point. Buyer shall be responsible for all transportation costs and title and risk of loss shall pass to Buyer upon shipment by Seller.
+
+ 
+
+ARTICLE IV.
+
+INSPECTION
+
+ 
+
+Section 4.1 Prompt Notice. Promptly after receiving each shipment of Components, Buyer shall examine such Components for any damage, defect, non-conformance or shortage. Buyer shall notify Seller within [●] days of receipt of Component if the Component does not comply with the Component specification (determined by reference to [●]’s published specifications as in effect on the date hereof or as otherwise may be mutually agreed to in writing) and Seller shall, upon Buyer’s request and as soon as reasonably possible, replace the non-conforming Component with a Component meeting the Component specification.
+
+ 
+
+ARTICLE V.
+
+PRODUCT WARRANTY
+
+ 
+
+Section 5.1 Warranty Period. Seller agrees to assume the warranty obligation for [●] products which were shipped to external customers during the [●]  period prior to the Effective Date. Buyer represents to Seller that the aggregate amount of shipments to third parties prior to the date hereof does not exceed [●] and that Buyer is unaware of any defects therein and has not received notice of any warranty or similar claims with respect thereto
+
+
+
+
+
+ 
+
+As of the date of the Asset Purchase Agreement, the amount is not greater than [●]. The amount to be inserted will be the actual amount of such sales as of the Effective Date.
+
+ 
+
+
+
+which have not previously been remedied in accordance with the warranty obligations assumed by Seller hereunder or under the Asset Purchase Agreement. With respect to products shipped after the Effective Date, Seller agrees to a Component warranty period of [●] from the date of Component shipment. The warranty provided by Seller shall be as set forth on Schedule 5.1 hereto.
+
+ 
+
+Section 5.2 Scope of Warranty. Seller agrees that the Components shipped by it pursuant to this Agreement shall be entitled to the warranty terms set forth on Schedule 5.2 hereto.
+
+ 
+
+ARTICLE VI.
+
+LIMITATION OF LIABILITY
+
+ 
+
+Section 6.1 Limitation of Liability. IN NO EVENT SHALL ANY PARTY BE LIABLE TO ANY OTHER PARTY FOR ANY INDIRECT, SPECIAL, OR CONSEQUENTIAL DAMAGES INCLUDING, WITHOUT LIMITATION, LOST PROFITS, IRRESPECTIVE OF THE WAY IN WHICH SUCH DAMAGES MAY ARISE, EVEN IF THE PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+ 
+
+ARTICLE VII.
+
+CONFIDENTIALITY
+
+ 
+
+Section 7.1 Confidentiality. Any information disclosed by one party or its Affiliates to the other party or its Affiliates in connection with the performance of this Agreement and designated in writing by the disclosing party at the time of the disclosure as confidential (collectively, the “Confidential Information”) shall be received and maintained in confidence by the receiving party using the same standard of care that the receiving party uses to protect its own like confidential information, but not less than reasonable care. The Confidential Information may be used by the receiving party only to perform its obligations under this Agreement, and shall not be disclosed to a third party without the prior written consent of the disclosing party. The disclosure of Confidential Information shall be restricted only to those employees of the receiving party requiring access to the Confidential Information to perform its obligations under this Agreement. As used herein, “Affiliate” shall mean, with respect to a party, any other person or entity which, directly or indirectly, controls, is controlled by or is under common control with such party, where “control” and “controlled” mean ownership of more than fifty percent (50%) of the outstanding equity interests having voting rights with respect to the election of the board or directors or comparable governing authority. Each party shall be responsible for any breach by its Affiliates of the obligations of this Article VII.
+
+ 
+
+The provisions of this Section 7.1 shall not apply to Confidential Information which is: (a) already known to the receiving party without an obligation of confidentiality (it being understood that information of either party in the possession of the other party prior to the Effective Date shall be covered by this exception); (b) publicly known or becomes publicly known through no unauthorized act of the receiving party; (c) rightfully received by the receiving party without obligation of confidentiality from a third party; (d) disclosed to a third party by the disclosing party without similar restrictions; (e) approved for disclosure by the disclosing party; or (f) required to be disclosed pursuant to a requirement of a governmental agency or by law as long as the receiving party provides to the disclosing party notice of the requirement prior to any disclosure.
+
+ 
+
+Section 7.2 Return of Confidential Information. Upon the expiration or termination of this agreement for any reason, each party shall upon request return to the other party or certify in writing the destruction of all Confidential Information received in tangible form by it or its Affiliates from the other party or its Affiliates and cease any further use of such Confidential Information.
+
+ 
+
+ARTICLE VIII.
+
+DISPUTE RESOLUTION
+
+ 
+
+Section 8.1 Dispute Resolution. All controversies, disputes or claims arising among the parties in connection with, or with respect to, any provision of this Agreement which has not been resolved within [●] days after either Parent, on the one hand, or Buyer, on the other hand, have notified the other in writing of such controversy, dispute or claim, shall be submitted for arbitration in accordance with the rules of the [●] or any successor thereof. Arbitration shall take place at an appointed time and place in [●].
+
+ 
+
+Section 8.2 Selection of Arbitrators. Seller and Buyer each shall select one independent arbitrator (who shall not be counsel for such party), and the two so designated shall select a third independent arbitrator. If either party shall fail to designate an arbitrator within [●] calendar days after arbitration is requested, or if the two arbitrators shall fail to select a third arbitrator within [●] calendar days after arbitration is requested, then such arbitrator shall be selected by the [●] or any successor thereto upon application of either party. Judgment upon any award of the majority of arbitrators shall be binding and shall be entered in a court of competent jurisdiction. Subject to the provisions of this Agreement, the award of the arbitrators may grant any relief that a court of general jurisdiction has authority to grant, including, without limitation, an award of damages and/or injunctive relief, and shall assess, in addition, the cost of the arbitration, including the reasonable fees of the arbitrator, reasonable attorneys’ fees and costs of all prevailing parties, against all non-prevailing parties.
+
+
+
+Section 8.3 Temporary Injunctive Relief. Nothing herein contained shall bar the right of any of the parties to seek and obtain temporary injunctive relief from a court of competent jurisdiction in accordance with applicable law against threatened conduct that will cause loss or damage, pending completion of the arbitration, and the prevailing party therein shall be entitled to an award of its reasonable attorneys’ fees and costs.
+
+ 
+
+Section 8.4 Arbitration Rules. All disputes and claims shall be determined by arbitration in accordance with the Arbitration Rules of the [●] (the “Rules”) in effect on the date hereof, except that such Rules shall be modified by this Agreement.
+
+ 
+
+Section 8.5 Arbitration Proceedings. All arbitral proceedings arising under, or in connection with, this Agreement shall be governed by the [●]. Notwithstanding the previous sentence, the arbitrators’ award shall be made no later than [●] days after their appointment. Subject to the parties’ right to be treated fairly, the arbitrators may shorten the periods of time otherwise applicable to the arbitral proceedings under the Rules or the [●] to permit the award to be made within the time limitation set forth in the previous sentence.
+
+ 
+
+
+
+
+
+
+
+ARTICLE IX.
+
+MISCELLANEOUS
+
+ 
+
+Section 9.1 No Agency. The relationship between Seller and Buyer is that of independent contractors and nothing herein shall be deemed to constitute the relationship of partners, joint venturers, nor of principal and agent, between Seller and Buyer. Neither party shall have any express or implied right or authority to assume or create any obligations on behalf of or in the name of the other or to bind the other to any contract, agreement or undertaking with any third party.
+
+ 
+
+Section 9.2 Notices. All notices required or permitted to be given under this Agreement shall be in writing and shall be sent by facsimile transmission or mailed by registered or certified mail addressed to the party to whom such notice is required or permitted to be given as set forth in the Asset Purchase Agreement. Any party may, by written notice to the other parties, as provided herein designate a new address to which notices to the party giving the notice shall thereafter be mailed.
+
+ 
+
+Except as otherwise provided in this Agreement, all such communications shall be deemed to have been duly given: when delivered by hand, if personally delivered; one Business Day after being timely delivered to a next-day air courier; five business days after being deposited in the mail, postage prepaid, if mailed.
+
+ 
+
+Section 9.3 Amendments and Waivers. The provisions of this Agreement, including the provisions of this sentence, may not be amended, modified or supplemented, and waivers or consents to departures from the provisions hereof may not be given, without the written consent of each party. The failure by any party at any time to enforce any of the terms or conditions of this Agreement shall not constitute or be construed as a waiver of the terms and conditions. Each party expressly reserves the right to enforce the terms and conditions of this Agreement at any time.
+
+ 
+
+Section 9.4 Successors And Assigns. This Agreement shall be binding upon and shall inure to the benefit of the parties hereto and their respective successors and assigns, provided that this Agreement and the rights and obligations contained herein or in any exhibit or schedule hereto shall not be assignable, in whole or in part, without the prior written consent of the parties hereto and any attempt to effect any such assignment without such consent shall be void, provided, further, that other party’s consent shall not be necessary for the assignment of a party’s rights and obligations hereunder to a person or entity which has acquired all or substantially all of such party’s assets if the purchaser assumes and agrees in writing for the benefit of the other party to perform the selling party’s obligations hereunder. In the event that more than fifty percent (50%) of the outstanding capital stock of Parent or Buyer shall be acquired by a third party, Seller or Buyer, as applicable, shall be obligated to cause such third party to acknowledge and to assume and agree in writing, for the benefit of the other party hereto, to perform the obligations of Seller or Buyer, as the case may be.
+
+ 
+
+In the event that more than fifty percent (50%) of the equity interest of Parent or Buyer shall be acquired by a third party, such third party shall be required to acknowledge the obligations of Seller or Buyer, as the case may be.
+
+ 
+
+Section 9.5 No Third-Party Beneficiaries. This Agreement is solely for the benefit of the parties, and is not intended to confer upon any other person any rights or remedies.
+
+ 
+
+Section 9.6 Titles and Headings. The Article and Section headings in this Agreement are inserted for convenience of reference only, and are not intended to constitute a part of or to affect the meaning or interpretation of this Agreement.
+
+ 
+
+Section 9.7 Attachments. The attachments to this Agreement shall be construed with and as an integral part of this Agreement to the same extent as if they had been set forth in full in this Agreement.
+
+ 
+
+Section 9.8 Severability. The remedies provided herein are cumulative and not exclusive of any remedies provided by law. If any term, provision, covenant or restriction of this Agreement is held by a court of competent jurisdiction to be invalid, illegal, void or unenforceable, the remainder of the terms, provisions, covenants and restrictions set forth herein shall remain in full force and effect and shall in no way be affected, impaired or invalidated, and the parties hereto shall use their reasonable efforts to find and employ an alternative means to achieve the same or substantially the same result as that contemplated by such term, provision, covenant or restriction. It is hereby stipulated and declared to be the intention of the parties that they would have executed the remaining terms, provisions, covenants and restrictions without including any of such that may be hereafter declared invalid, illegal, void or unenforceable.
+
+ 
+
+
+
+Section 9.9 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of India, as applied to contracts made and performed within India without regard to principles of conflicts of law.
+
+ 
+
+Section 9.10 Counterparts. This Agreement may be executed in any number of counterparts and by the parties hereto in separate counterparts, each of which when so executed shall be deemed to be an original and, all of which taken together shall constitute one and the same Agreement.
+
+ 
+
+Section 9.11 Entire Agreement. This Agreement contains the entire understanding of the parties hereto with respect to the subject matter hereof. This Agreement supersedes all prior agreements and understandings, oral and written, with respect to its subject matter.
+
+ 
+
+Section 9.12 Force Majeure. No party shall be liable to the other party for any failure to perform any obligation under this Agreement (other than the payment of money owed hereunder) where such failure is due to causes beyond the reasonable control of the party. Such causes include, but are not limited to acts of war, government export controls, other governmental acts (including without limitation changes in applicable law), industrial dispute, lock-out, accident, fire, explosion, transport delays, acts of a third party, or loss or damage to any equipment due to acts of God. Each party shall use its best efforts to comply with its respective obligations under this Agreement despite the intervention or occurrence of any such cause, and to resume compliance with those obligations as soon as any such cause ceases to affect the performance of its obligations under this Agreement.
+
+ 
+
+Section 9.13 Termination. Either party may terminate this Agreement in the event that (a) the other party materially breaches this Agreement; (b) the other party becomes insolvent or enters bankruptcy, receivership, liquidation, composition of creditors, dissolution or any similar proceeding; or (c) a significant portion of the assets of the other party necessary for the performance of this Agreement become subject to attachment, embargo or expropriation.
+
+ 
+
+A party intending to terminate this Agreement pursuant to this Article IX (other than clause (b) of the preceding paragraph) shall first notify the other party of the grounds for the intended termination. If the other party fails to remedy such grounds for termination within [●] days of such notice (or any longer period of time as mutually agreed by the parties), then the terminating party may terminate this Agreement effective upon notice to the other party without the need for any judicial action.
+
+ 
+
+The provisions of this Article IX are without prejudice to any other rights or remedies either party may have by reason of the default of the other party.
+
+ 
+
+In the event a competitor of Buyer in the wireless infrastructure market acquires a significant interest in Seller (directly or indirectly), Seller will provide Buyer with reasonable assurances that Seller will utilize its best efforts to preserve the confidentiality of all information related to products produced for Buyer and Buyer product programs.
+
+ 
+
+The provisions of Articles VI and VII shall survive termination of the Agreement. The termination of this Agreement shall not affect any rights either party has accrued at the time the termination becomes effective.
+
+ 
+
+Section 9.14 Attorneys’ Fees. In any action or proceeding brought to enforce any provision of this Agreement, or where any provision hereof is validly asserted as a defense, the prevailing party, as determined by the court, shall be entitled to recover its reasonable attorneys’ fees in addition to any other available remedy.
+
+ 
+
+
+
+IN WITNESS WHEREOF, Buyer and Seller have caused this Agreement to be executed in multiple counterparts by their duly authorized representatives.
+
+ 
+
+SELLER
+
+ 
+
+ 
+
+ 
+
+BUYER
+
+
+
+
+
+
+
+
+
+
+
+By:
+
+ 
+
+        
+
+
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+        
+
+
+
+Name: 
+
+Its: 
+
+ 
+
+ 
+
+ 
+
+Name: 
+
+Its: 
+
+Date: 
+
+ 
+
+ 
+
+ 
+
+Date:

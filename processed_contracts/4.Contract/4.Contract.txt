@@ -1,0 +1,513 @@
+MASTER SERVICE AGREEMENT
+
+THIS MASTER SERVICE AGREEMENT is made and entered into as of this 9th day of March 2018 (the “Effective Date”), by and between 360 East 88th Street, Unit 2A, New York, NY 10128, and Genprex, Inc, a Delaware Corporation having offices at 100 Congress Avenue, Suite 2000, Austin, TX 78701 (the “Company”).
+
+WHEREAS, Consultant is in the business of assisting in the selection and coordination of investor awareness providers and services (the “Services”);
+
+NOW, THEREFORE, in consideration of the premises and mutual covenants set forth herein and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Company and the Consultant hereby agree as follows:
+
+1.    GENERAL.
+
+a. Statement of Work. Consultant agrees to provide Services to the Company in accordance with the terms and conditions of this Agreement. A description of the Services to be provided shall be set forth in one or more mutually agreed upon documents (each, a “Statement of Work”), each of which upon execution by Consultant and the Company shall become binding between the parties and made a part hereof. Each Statement of Work entered into by the parties in connection herewith shall be subject to, and the obligations of the parties hereunder shall be performed in accordance with, the terms and conditions of this Agreement. Each Statement of Work shall (i) supplement and form a part of this Agreement, (ii) be read and construed as one with this Agreement, and (iii) be deemed incorporated by reference herein. In the event of any conflict between the terms of this Agreement and any Statement of Work, the terms of this Agreement shall govern and control unless such Statement of Work expressly indicates otherwise.
+
+b. Change orders. The scope of the Services to be provided hereunder shall not be changed in any material respect without a mutually agreed upon change order executed by an authorized representative of each party. Unless otherwise agreed to by the parties and set forth in the change order, all additional Services set forth in a change order shall be billable as set forth in the change order.
+
+2.    PAYMENT.
+
+a. General. The Company shall pay to Consultant the fees for the Services as set forth in the applicable Statement of Work (the “Fees”), plus costs for expenses. The Company shall make all payments in United States Dollars unless otherwise provided in the Statement of Work. All late payments shall bear interest at the lesser of the rate of 0.5% per month or the highest rate permissible under applicable law, calculated daily and compounded monthly. Commencing on the Effective Date, the Consultant will be retained as a Consultant and independent contractor for the Company for the Term as set forth in Section 3. A description of Services can be found in Exhibit A.
+
+b. Payment in Stock. To the extent that any Statement of Work provides for payment in Company Stock or other securities (“Stock”), the parties hereby agree as follows:
+
+ 
+
+ 
+
+i.
+
+The Company may not issue any Stock under a registration Statement on Form S-8 or Rule 701 under the Securities Act of 1933, as amended (the “1933 Act”);
+
+ 
+
+ 
+
+ii.
+
+Consultant hereby agrees to be bound by the Company’s insider trading or similar policy, if any, during the Term, and for 90 days thereafter;
+
+ 
+
+ 
+
+iii.
+
+All Stock shall be restricted and bear a standard 1933 Act legend;
+
+ 
+
+ 
+
+iv.
+
+The Company shall cause its counsel to provide an opinion letter for removal of any legend when and if such legend may be removed in accordance with applicable law.
+
+3.    TERM.
+
+The term of this Consulting Agreement (the “Term”) shall commence as of the Effective Date and shall continue for a period of (3) months unless terminated as provided herein. After forty-five (45) days from the Effective Date, Company may terminate this Agreement upon ten days written notice to Consultant (which may be by email). This Agreement may also be terminated when mutually agreed upon by both parties.
+
+ 
+
+1
+
+
+
+4.    SERVICES.
+
+a. Acceptance. All Services to be delivered hereunder shall be deemed accepted by the Company upon its approval of the Statement of Work, unless otherwise set forth in a Statement of Work. If the Company rejects the Services rendered hereunder, the Company shall provide a reasonable level of detailed information for the rejection, and Consultant shall correct and/or modify the non-conforming Services within fifteen (15) days thereof (or such other period of time as mutually agreed upon in writing between the parties). In the event that the Company remains unsatisfied with the delivery of such Services after resubmission by Consultant, Consultant and the Company shall promptly meet and discuss the Company’s rejection in good faith, and agree to a resolution of the Company’s rejection within fifteen (15) days. In the event that Consultant and the Company cannot resolve the Company’s rejection and such rejection was not made in connection with any failure or defect of any third party product or deliverable delivered by Consultant to the Company, the parties hereto shall resolve the dispute in accordance with the terms and conditions of Section 13.
+
+b. Subcontracting. The Company understands that Consultant will subcontract all Services to subcontractors set forth in each Statement of Work and that the Company’s execution of a Statement of Work constitutes approval of each such subcontractor. All subcontractors will be paid by Consultant unless otherwise specifically agreed in the Statement of Work.
+
+c. Company Responsibilities.
+
+i. In connection with Consultant’s performance of the Services specified in the Statement of Work, Company agrees to provide Consultant and/or each subcontractor, such materials as may be necessary for the Services to be performed (the “Materials”). The Company hereby represents, warrants, covenants and agrees that the Materials will be true and accurate and shall be free of any material omissions or misstatements and otherwise compliant will all applicable laws.
+
+ii. The Company shall provide disclosures in each of its Forms 10-K and 10-Q as to the existence of this Agreement and any Statement of Work, the amount paid or to be paid in connection with each Statement of Work and the types of services to be provided under each Statement of Work.
+
+iii. During the Term, the Company shall advise Consultant of any and all promotional activities with respect to its securities, prior to the commencement of such activities, including, but not limited to, press releases and engagements with other investment relations firms or other service providers providing services similar to those or the Services provided in a Statement of Work.
+
+5. INDEPENDENT CONTACTOR. At all times during the term of this Agreement, Consultant and each subcontractor shall be an independent contractor in providing the Services hereunder with the sole right to supervise, manage, operate, control and direct the provision of such Services and the sole obligation to employ, compensate and manage its own employees and business affairs. Nothing contained in this Agreement shall be deemed or construed to create a partnership or joint venture, to create the relationship of employee/employer or principal/agent, or otherwise create any liability whatsoever of any party with respect to the indebtedness, liabilities, obligations or actions of the other party.
+
+6.    CONFIDENTIAL MATTERS.
+
+a. Confidentiality. Consultant and the Company agree that they may gain access to or become familiar with trade secrets, computer databases, computer files, documentation, and other confidential information, which may be valuable assets and property rights of the other party (“Confidential Information”). Information disclosed hereunder shall not be considered “Confidential Information” to the extent it: (i) is known to the receiving party prior to the disclosure thereof by the disclosing party, other than by breach of this Agreement, (ii) is or hereafter becomes, other than through the fault of the receiving party, generally available to the public, (iii) is disclosed to the receiving party by a third party other than in breach of an obligation of confidentiality owed by such third party to the disclosing party; or (iv) is independently developed by the receiving party as shown by the receiving party’s written records, without the benefit of information disclosed by the disclosing party. Consultant and the Company each agree not to disclose or to divulge to any other party such trade secrets or Confidential Information during the term of this Agreement and for a period of three (3) years from the later of (a) the date of completion of the Services provided hereunder or (b) the date of termination of this Agreement pursuant to Section 9 herein. Consultant and the Company further agree that at any time at the disclosing party’s request, the receiving party will surrender or destroy all copies, in any form or format, of the Confidential Information that were developed or provided during the conduct of services hereunder.
+
+ 
+
+2
+
+
+
+b. Required Disclosure of Confidential Information. Either party may disclose Confidential Information of the other party pursuant to any governmental, judicial, or administrative order, subpoena, or discovery request, provided that the party from whom disclosure is sought uses commercially reasonable efforts to notify the other of such order, subpoena, or discovery request so that the other party may prevent such disclosure or otherwise seek to make such disclosure subject to a protective order or confidentiality agreement.
+
+c. Remedy for Breach. Each party acknowledges and agrees that any violation of this Section 6 may cause immediate and irreparable harm, which money damages would not sufficiently remedy, and that either party shall be entitled to equitable relief, including injunction and specific performance, to prevent the breach or threatened breach of such provisions and to secure their enforcement, in addition to all other remedies available to the party at law or in equity.
+
+7. FORCE MAJEURE. Neither party shall be in default hereunder by reason of any failure or delay in the performance of its obligations hereunder where such failure or delay is due to any cause beyond its reasonable control, including, but not limited to, strikes, labor disputes, civil disturbances, riot, rebellion, invasion, epidemic, hostilities, war, terrorist attack, embargo, natural disaster, acts of God, flood, fire, sabotage, accident, delay in transportation, fluctuations or non-availability of electrical power, heat, light, air conditioning or Company equipment, loss and destruction of property, intervention by governmental entities, change in laws, regulations or orders, other events or any other circumstances or causes beyond such party’s reasonable control (a “Force Majeure Occurrence”).
+
+8. DISCLAIMER OF REPRESENTATIONS AND WARRANTIES. Any description of the Services is given by way of indication only and shall not constitute any representation or warranty as to the quality or nature of the relevant Services or concerning their fitness for any purpose, other than as set forth in a Statement of Work. Furthermore, Company acknowledges that neither Consultant nor any person purporting to act on its behalf has made any representation or given any promise or undertaking which is not expressly set out in this Agreement or a Statement of Work. EXCEPT AS OTHERWISE EXPRESSLY PROVIDED IN THIS AGREEMENT OR A STATEMENT OF WORK, NO EXPRESS OR IMPLIED REPRESENTATION OR WARRANTY IS MADE WITH RESPECT TO THE SERVICES TO BE PROVIDED BY CONSULTANT HEREUNDER, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. THE REPRESENTATIONS AND WARRANTIES PROVIDED IN THIS AGREEMENT, IF ANY, SHALL NOT APPLY TO DEFECTS OR FAILURE OF ANY DELIVERABLE DUE TO ANY OF THE FOLLOWING BY THE COMPANY OR ANY THIRD PARTY: ACCIDENT, NEGLECT OR MISUSE; UNUSUAL STRESS; OR ANY UNAUTHORIZED MODIFICATION OR ADJUSTMENT MADE TO ANY DELIVERABLE. Upon final payment by Company as provided for herein, Consultant will assign to Company any and all manufacturers’ warranties and sublicense any and all licenses provided by such third party manufacturers with respect to the Products to be delivered by Consultant hereunder, to the extent such warranties and/or licenses may be assigned or sublicensed.
+
+9.    LIMITATION OF LIABILITY. NEITHER PARTY SHALL BE LIABLE HEREUNDER FOR ANY INDIRECT, SPECIAL OR CONSEQUENTIAL LOSS OR DAMAGES (INCLUDING, BUT NOT LIMITED TO, LOST PROFITS OR LOST SAVINGS) EVEN IF THE OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT SHALL EITHER PARTY’S AGGREGATE LIABILITY FOR ANY MATTER ARISING OUT OF THE SUBJECT MATTER OF THIS AGREEMENT, WHETHER IN CONTRACT, TORT OR OTHERWISE, EXCEED THE AMOUNT OF THE FEES PAID FOR THE PARTICULAR SERVICES WHICH GAVE RISE TO SUCH CLAIM UNDER THIS AGREEMENT. EXCEPT AS OTHERWISE EXPRESSLY PROVIDED IN THIS AGREEMENT, THE REMEDIES PROVIDED HEREIN ARE THE PARTIES’ SOLE AND EXCLUSIVE REMEDIES.
+
+10.    NO PUBLICITY. Neither party hereto shall (i) issue any press release or make any other written public statement with respect to this Agreement and matters related hereto, or (ii) use the other party’s name, logo, or any abbreviation derivation thereof, for any advertising, promotions, trade display or other commercial purposes, without the prior written consent of the other party, except as required for section 4.C.2.
+
+11.    NOTICES. All notices, requests, permissions, waivers and other communications hereunder shall be in writing and shall be deemed to have been duly given, five (5) business days following sending by registered or certified mail, postage prepaid, when sent, if sent by facsimile (provided that the facsimile transmission is promptly confirmed by telephone), when delivered, if delivered personally to the intended recipient, and one (1) business day following sending by overnight delivery via a national courier service.
+
+12.    GOVERNING LAW. This Agreement and any and all other matters between the parties hereto shall be construed in accordance with, and governed by, the laws of the State of New York, without regard to the application of conflicts of law principles.
+
+ 
+
+3
+
+
+
+13.     DISPUTE RESOLUTION. Except as provided above, each party agrees to submit any and all disputes, claims and controversies arising between the parties hereto to final and binding arbitration, which shall be administered by the American Arbitration Association (“AAA”) in accordance with its Commercial Arbitration Rules then in effect. Any arbitration brought hereunder shall be heard by three (3) independent and impartial arbitrators. Two arbitrators shall be selected by the respective parties, one by the claimant(s) and one by the respondent(s). The third arbitrator shall be appointed by the two party-appointed arbitrators or by the AAA if such two arbitrators cannot agree. The place of the arbitration shall be New York, New York. Any party’s refusal to select, or unreasonable delay in selecting, an arbitrator shall be considered a material breach of this Agreement. The arbitrators shall have the authority to grant any equitable and legal remedies that would be available in any judicial proceeding intended to resolve a dispute. Notwithstanding the foregoing, either party shall be entitled to seek preliminary injunctive relief from any court of competent jurisdiction, pending the final decision or award of the arbitrators. The award rendered in an arbitration hereunder shall be final and non-appealable. Judgment on the award rendered may be entered in any court having jurisdiction thereof. Each of the parties shall keep the proceedings and any and all transcripts, statements, documents, discovery, correspondence and all other non-public information produced or otherwise disclosed in connection with any such arbitration confidential. Each party shall be responsible for and shall pay its own direct and indirect costs and expenses incident to any arbitration brought hereunder, including all attorney fees and travel-related expenses. If any dispute arises in connection with this Agreement or the Services to be provided hereunder, Company shall not be entitled to deduct monies otherwise due hereunder by way of set off or otherwise.
+
+14.     GENERAL.
+
+ 
+
+ 
+
+a.
+
+Entire Agreement. This Agreement as set forth herein, together with together with the Statement(s) of Work contemplated hereunder, represents the entire agreement between the parties hereto with respect to the subject matter hereof, and supersedes any and all prior and contemporaneous agreements, understandings, documents, negotiations, and/or discussions (whether oral or written) between the parties. The Statement(s) of Work are hereby incorporated in and made a part of this Agreement as if set forth in full herein. Any terms used in any Statement of Work but not otherwise defined therein shall be defined as set forth in this Agreement.
+
+ 
+
+ 
+
+b.
+
+Amendments. This Agreement and all Statements of Work entered into by the parties in connection herewith may be amended, modified, superseded or cancelled and any of the terms, covenants or conditions hereof may be waived only by an instrument in writing signed by an authorized representative of each of the parties hereto or, in the case of a waiver, by or on behalf of the party waiving compliance.
+
+ 
+
+ 
+
+c.
+
+No Waivers. No express waiver or assent by any party hereto to any breach of or default in any term or condition of this Agreement shall constitute a waiver of or an assent to any succeeding breach of or default in the same or any other term or condition hereof.
+
+ 
+
+ 
+
+d.
+
+No Third Party Beneficiaries. This Agreement is for the sole benefit of the parties hereto and their permitted assigns and nothing herein shall give or be construed to give to any person, other than the parties hereto and such assigns, any legal or equitable rights hereunder.
+
+ 
+
+ 
+
+e.
+
+Assignment. Neither this Agreement nor any of the rights and obligations of the parties hereunder may be assigned by either of the parties hereto without the prior written consent of the other party (which consent shall not be unreasonably withheld), provided, however, that either party may assign this Agreement to an affiliate or to a successor in interest that purchases all or substantially all of such party’s stock or assets. Notwithstanding the foregoing, each party shall remain liable for all of their respective obligations under this Agreement. Subject to the first sentence of this Section 21(e), this Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns and no other person shall have any right, obligation or benefit hereunder. Any attempted assignment or transfer in violation of this Section 14(e) shall be void.
+
+ 
+
+ 
+
+f.
+
+Severability. The invalidity of any portion hereof shall not affect the validity, force or effect of the remaining portions hereof.    If it is ever held that any restriction hereunder is too broad to permit enforcement of such restriction to its fullest extent, each party agrees that a court of competent jurisdiction may enforce such restriction to the maximum extent permitted by law, and each party hereby consents and agrees that such scope may be judicially modified accordingly in any proceeding brought to enforce such restriction.
+
+ 
+
+ 
+
+g.
+
+Counterparts. This Agreement may be executed in several counterparts, each of which shall have the force and effect of an original for all purposes, but all of which shall constitute one and the same agreement. This Agreement, and any modifications relating thereto, may be executed and delivered by facsimile or electronic mail. Any such facsimile or electronic mail transmission shall constitute conclusive proof of such agreement.
+
+ 
+
+4
+
+
+
+ 
+
+h.
+
+INDEMNIFICATION. Company shall indemnify, defend and hold harmless the Consultant, and each of its members, their affiliates and their respective directors, officers, employees, representatives, agents, successors and assigns (collectively, “Indemnitees”) from and against any and all claims, losses, liabilities, damages, costs, expenses (including, without limitation, attorney fees and expenses) demands, fines, penalties, injunctions, suits and causes of action of any kind or nature whatsoever, as incurred (collectively referred to as “Damages”) instituted by any third party and arising as a result of information provided by Company to Consultant for dissemination to the public or approved by the Company prior to dissemination (“Company Information”) containing a material untrue statement or the omission or alleged omission of a material fact required to be stated therein or necessary to make the statements therein, in the light of the circumstances under which they were made, not misleading, unless said Damages arise out of negligence or willful misconduct of the Consultant.
+
+Consultant shall indemnify, defend and hold harmless the Company, and each of its shareholders, their affiliates and their respective directors, officers, employees, representatives, agents, successors and assigns (collectively, “Indemnitees”) from and against any and all claims, losses, liabilities, damages, costs, expenses (including, without limitation, attorney fees and expenses) demands, fines, penalties, injunctions, suits and causes of action of any kind or nature whatsoever, as incurred (collectively referred to as “Damages”) instituted by any third party and arising as a result of Consultant disseminating or causing dissemination to the public of information, other than Company Information, containing a material untrue statement or the omission or alleged omission of a material fact required to be stated therein or necessary to make the statements therein, in the light of the circumstances under which they were made, not misleading, unless said Damages arise out of negligence or willful misconduct of the Company.
+
+IN WITNESS WHEREOF, each party has read this Agreement and agrees to be bound thereby. This Agreement shall be effective as of the Effective Date.
+
+Genprex, Inc.
+
+ 
+
+
+
+
+
+
+
+Signature:
+
+ 
+
+/s/ RODNEY VARNER
+
+Print Name:
+
+ 
+
+Rodney Varner
+
+Title:
+
+ 
+
+CEO
+
+
+
+
+
+
+
+
+
+
+
+WORLD WIDE HOLDINGS, LLC DBA INVICTUS RESOURCES
+
+
+
+
+
+
+
+
+
+
+
+
+
+Signature:
+
+ 
+
+/s/ JEFFREY AUERBACH
+
+Print Name:
+
+ 
+
+Jeffrey Auerbach
+
+Title:
+
+ 
+
+Managing Partner
+
+ 
+
+5
+
+
+
+EXHIBIT A
+
+WORLD WIDE HOLDINGS, LLC DBA INVICTUS RESOURCES, for GENPREX, Inc.
+
+STATEMENT OF WORK NO. 1
+
+This Statement of Work No. 1 (“Statement of Work”) is entered into as of this 9th day of March 2018 (“Statement of Work Effective Date”), by and between Genprex, Inc, a Delaware Corporation having offices at 100 Congress Avenue, Suite 2000, Austin, TX 78701(“Company”), and World Wide Holdings, LLC DBA Invictus Resources (“Consultant”), pursuant to that certain Master Services Agreement dated as of March 9th, 2018 by and between Company and Consultant (the “MSA”).
+
+The parties have entered into the Agreement for the provision of certain services and deliverables to Company. The Agreement contemplates that the parties may enter into specific Statements of Work describing in detail the services and deliverables to be provided by Consultant to Company.
+
+NOW, THEREFORE, for and in consideration of the foregoing premises, and the agreements of the parties set forth below, Company or Company Affiliate and Consultant agree as follows:
+
+1. General. This Statement of Work sets forth the agreement of the parties with respect to the services and deliverables to be provided as described herein. Except to the extent expressly set forth in this Statement of Work in respect of the Services described herein, all terms and conditions of the MSA will apply to this Statement of Work, and this Statement of Work is hereby incorporated into the MSA by reference. All capitalized terms not defined in this Statement of Work will have the meanings set forth in the MSA.
+
+2. Statement of Work Term. This Statement of Work shall become effective as of the Statement of Work Effective Date and shall expire in (3 months) after the execution of this contract unless mutually agreed upon by both parties. The term of this Consulting Agreement (the “Term”) shall commence as of the Effective Date and shall continue for a period of (3) months unless mutually agreed upon by both parties.
+
+3. Services. Consultant shall provide the following Services in accordance with the terms and conditions of the MSA and the framework set forth in this Statement of Work:
+
+ 
+
+ 
+
+•
+
+ 
+
+Advise and assist company in developing and implementing appropriate plans and materials for presenting the Company and its business plans, strategy and personnel to the financial community
+
+ 
+
+ 
+
+•
+
+ 
+
+Introduce said Company to the financial community
+
+ 
+
+ 
+
+•
+
+ 
+
+With the cooperation of the Company, maintain an awareness during the term of the agreement of the Company’s plans and strategy as it relates to the financial community
+
+ 
+
+ 
+
+•
+
+ 
+
+Assist in monthly geographically organized introductions to broker dealers, micro-cap funds and high net worth individuals to compliment the below services.
+
+ 
+
+ 
+
+•
+
+ 
+
+Introductions to call centers, bloggers, media and newsletter writers.
+
+ 
+
+ 
+
+•
+
+ 
+
+Upon receipt of the Company’s approval and in consultation with the Company, conduct meetings in person or by telephone, with prospective brokers or the investment public in combination with above marketing programs.
+
+ 
+
+ 
+
+•
+
+ 
+
+Assist company in necessary steps for financial and public relations
+
+ 
+
+ 
+
+•
+
+ 
+
+Consultant will develop a web “landing page” to be linked by online financial publishers and webpages, which will be operational by the IPO Closing date, currently estimated to be March 15, 2018.
+
+ 
+
+6
+
+
+
+4. Approach/Organization: Consultant shall, upon receipt of the $25,000 payment described below, engage the service providers set forth above, on behalf of the Company.
+
+5. Fees: In consideration for Consultant’s provision of the services, Company shall pay to Consultant
+
+ 
+
+ 
+
+(a)
+
+$25,000 cash payment due on signing of this contract;
+
+ 
+
+ 
+
+(b)
+
+$60,000 will be due within three (3) business days after closing (“IPO Closing”) and funding of the Company’s IPO under its SEC Form S-1 registration statement, Registration No. 333-219386 (“IPO”);
+
+ 
+
+ 
+
+(c)
+
+$85,000 will be due on the thirtieth day after IPO Closing and an additional $85,000 will be due on the same day of the following month, for a total of $255,000 during the term of the Agreement.
+
+ 
+
+ 
+
+(d)
+
+The company agrees that after closing of the IPO the Company will issue a warrant exercisable into 50,000 shares with a term of 3 years priced at 100 percent (100%) of the IPO offering price (currently planned to be $5.00 per share). The warrant will have a “cashless” exercise provision, provided that Consultant will pay to the Company all withholding taxes and other cash outlays, if any, that may become owing by the Company in connection with exercise of the warrant. Consultant acknowledges and agrees that, as described in the Registration Statement, the Company will effect a forward stock split effective upon IPO Closing and the above referenced 50,000 shares will be post-split shares.
+
+ 
+
+ 
+
+(e)
+
+The Company will reimburse Consultant for any pre-approved travel or other expenses and the Consultant shall submit expenses to the Company monthly for reimbursement.
+
+6. Consultant will pay all fees and expenses of subcontractors and will provide the Company with all information reasonably requested by the Company regarding engagement of subcontractors, including services provided, and fees and expenses charged. Company may from time to time elect to increase, reduce or eliminate specific services, with a commensurate adjustment of the Consultant’s fees stated in Section 5. The Services will be deemed accepted by the Company thirty days after Company is notified that they have been delivered or performed.
+
+7. In the event the IPO Closing does not occur within thirty (30) days from the date hereof then either party may, at its option, cancel this Statement of Work and the MSA.
+
+ 
+
+7
+
+
+
+IN WITNESS WHEREOF, the parties have caused this Statement of Work to be executed by their duly authorized representatives as of the Statement of Work Effective Date.
+
+ 
+
+
+
+
+
+
+
+GENPREX, INC.
+
+
+
+
+
+Signature:
+
+ 
+
+/s/ RODNEY VARNER
+
+
+
+
+
+Print Name:
+
+ 
+
+Rodney Varner
+
+
+
+
+
+Title:
+
+ 
+
+CEO
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+WORLD WIDE HOLDINGS, LLC DBA INVICTUS RESOURCES
+
+
+
+
+
+Signature:
+
+ 
+
+/s/ JEFFREY AUERBACH
+
+
+
+
+
+
+
+Print Name:
+
+ 
+
+Jeffrey Auerbach
+
+ 
+
+
+
+
+
+
+
+
+
+Title:
+
+ 
+
+Managing Partner

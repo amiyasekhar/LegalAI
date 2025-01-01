@@ -1,0 +1,19 @@
+
+Trial 0 -> lr=1.15e-05, freeze=4, epochs=3
+BERT_acc=59.77, RoBERTa_acc=76.44, Avg_acc=68.10
+
+Trial 1 -> lr=1.20e-05, freeze=2, epochs=2
+BERT_acc=50.57, RoBERTa_acc=77.59, Avg_acc=64.08
+
+Trial 2 -> lr=1.03e-05, freeze=4, epochs=3
+BERT_acc=61.49, RoBERTa_acc=74.14, Avg_acc=67.82
+
+Trial 3 -> lr=1.31e-05, freeze=6, epochs=4
+BERT_acc=70.11, RoBERTa_acc=81.03, Avg_acc=75.57
+
+Trial 4 -> lr=2.14e-05, freeze=3, epochs=2
+BERT_acc=71.26, RoBERTa_acc=79.89, Avg_acc=75.57
+
+Best trial #: 4
+  Value (avg_acc): 75.57
+  Params: {'learning_rate': 2.1398721383079937e-05, 'freeze_layers': 3, 'num_epochs': 2}

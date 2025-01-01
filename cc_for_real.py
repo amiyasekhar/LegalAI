@@ -169,6 +169,7 @@ def main():
         confidence, predicted_class = torch.max(softmax, dim=1)
         return predicted_class.item(), confidence.item()
 
+    '''
     def extract_clauses_from_file(filepath, delimiter):
         with open(filepath, "r", encoding="utf-8") as f:
             text = f.read()
@@ -178,6 +179,7 @@ def main():
 
     contract_file = "broken_down_contract.txt"
     delimiter_str = "-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-"
+    '''
 
     # If you actually have "broken_down_contract.txt":
     if not os.path.exists(contract_file):
@@ -202,9 +204,6 @@ def main():
             write_to_file(output_file, f"Legal-RoBERTa: {id2label[roberta_pred]} (conf: {roberta_conf})\n")
             write_to_file(output_file, f"Final Prediction: {final_pred}\n")
             write_to_file(output_file, "=" * 80 + "\n\n")
-            '''
-            Hi
-            '''
 
     print("Done with the main() function!")
 

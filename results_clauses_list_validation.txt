@@ -1,0 +1,1397 @@
+=== VALIDATION SET PREDICTIONS ===
+
+Clause #0:
+Clause Text: At such time as any shares of Series A Preferred Stock are outstanding, the Certificate of Incorporation, as amended, of the Corporation shall not be amended in any manner which would materially alter or change the powers, preferences or special rights of the Series A Preferred Stock so as to affect them adversely without the affirmative vote of the holders of at least two-thirds of the outstanding shares of Series A Preferred Stock, voting together as a single class.
+True Label: amendment
+BERT Prediction: amendment (conf: 0.2157), Correct? True
+RoBERTa Prediction: amendment (conf: 0.2140), Correct? True
+Ensemble Prediction: amendment, Correct? True
+================================================================================
+
+Clause #1:
+Clause Text: At any time before or after approval and adoption by the shareholders of DIT and prior to the Effective Date, this Agreement and Plan of Merger may be amended in any manner as may be determined in the judgment of the respective Boards of Directors of DIT to be necessary, desirable or expedient; provided, however, that, after approval of the shareholders of DIT, such amendment may not materially and adversely affect the rights and interests of the shareholders of DIT.
+True Label: amendment
+BERT Prediction: amendment (conf: 0.3892), Correct? True
+RoBERTa Prediction: amendment (conf: 0.4709), Correct? True
+Ensemble Prediction: amendment, Correct? True
+================================================================================
+
+Clause #2:
+Clause Text: This Warrant may be modified or amended or the provisions hereof waived with the written consent of the Company and the Holder.
+True Label: amendment
+BERT Prediction: amendment (conf: 0.3905), Correct? True
+RoBERTa Prediction: amendment (conf: 0.3519), Correct? True
+Ensemble Prediction: amendment, Correct? True
+================================================================================
+
+Clause #3:
+Clause Text: No amendment, modification, termination or cancellation of this Agreement shall be effective unless made in writing signed by the Company and Indemnitee. Notwithstanding any amendment, modification, termination or cancellation of this Agreement or any portion hereof, Indemnitee shall be entitled to indemnification in accordance with the provisions hereof with respect to any acts or omissions of Indemnitee which occur prior to such amendment, modification, termination or cancellation.
+True Label: amendment
+BERT Prediction: amendment (conf: 0.2774), Correct? True
+RoBERTa Prediction: waiver (conf: 0.1620), Correct? False
+Ensemble Prediction: amendment, Correct? True
+================================================================================
+
+Clause #4:
+Clause Text: This Agreement shall be binding upon and inure to the benefit of the heirs, executors, administrators, legal representatives, successors and assigns of the parties. This Agreement may be amended or modified only in writing signed by all of the parties hereto; provided that the holders of sixty-six and two-thirds percent (66 2/3%) in principal amount of the Senior Debt is required to constitute the consent of Lenders.
+True Label: amendment
+BERT Prediction: assignment (conf: 0.3368), Correct? False
+RoBERTa Prediction: assignment (conf: 0.2754), Correct? False
+Ensemble Prediction: assignment, Correct? False
+================================================================================
+
+Clause #5:
+Clause Text: At any time before or after approval and adoption by the shareholders of DIT and prior to the Effective Date, this Agreement and Plan of Merger may be amended in any manner as may be determined in the judgment of the respective Boards of Directors of DIT to be necessary, desirable or expedient; provided, however, that, after approval of the shareholders of DIT, such amendment may not materially and adversely affect the rights and interests of the shareholders of DIT.
+True Label: amendment
+BERT Prediction: amendment (conf: 0.3892), Correct? True
+RoBERTa Prediction: amendment (conf: 0.4709), Correct? True
+Ensemble Prediction: amendment, Correct? True
+================================================================================
+
+Clause #6:
+Clause Text: Neither this Agreement nor any provisions hereof may be changed, waived, discharged or terminated orally or in any manner other than by an instrument in writing signed by the party against whom enforcement of the change, waiver, discharge or termination is sought.
+True Label: amendment
+BERT Prediction: amendment (conf: 0.3024), Correct? True
+RoBERTa Prediction: waiver (conf: 0.2681), Correct? False
+Ensemble Prediction: amendment, Correct? True
+================================================================================
+
+Clause #7:
+Clause Text: No provision of this Agreement may be modified, amended, waived or discharged in any manner except by a written instrument executed by each of the parties hereto.
+True Label: amendment
+BERT Prediction: amendment (conf: 0.3610), Correct? True
+RoBERTa Prediction: waiver (conf: 0.2502), Correct? False
+Ensemble Prediction: amendment, Correct? True
+================================================================================
+
+Clause #8:
+Clause Text: Neither the Company nor the Executive may make any assignment of this Agreement or any interest herein, by operation of law or otherwise, without the prior written consent of the other party, and without such consent any attempted transfer shall be null and void and of no effect. This Agreement shall inure to the benefit of and be binding upon the Company and the Executive, their respective successors, executors, administrators, heirs and permitted assigns. In the event of the Executive's death after a Terminating Event but prior to the completion by the Company of all payments due him under Section 4 of this Agreement, the Company shall continue such payments to the Executive's beneficiary designated in writing to the Company prior to his death (or to his estate, if the Executive fails to make such designation).
+True Label: assignment
+BERT Prediction: assignment (conf: 0.4758), Correct? True
+RoBERTa Prediction: assignment (conf: 0.4923), Correct? True
+Ensemble Prediction: assignment, Correct? True
+================================================================================
+
+Clause #9:
+Clause Text: Neither this Agreement nor any of the rights, interests or obligations hereunder shall be assigned by any of the parties hereto, in whole or in part (whether by operation of law or otherwise), without the prior written consent of the other party, and any attempt to make any such assignment without such consent shall be null and void, except that Merger Sub may assign, in its sole discretion, any or all of its rights, interests and obligations under this Agreement to any direct wholly owned Subsidiary of Parent without the consent of the Company, but no such assignment shall relieve Merger Sub of any of its obligations under this Agreement. Subject to the preceding sentence, this Agreement will be binding upon, inure to the benefit of and be enforceable by the parties and their respective successors and assigns.
+True Label: assignment
+BERT Prediction: assignment (conf: 0.4803), Correct? True
+RoBERTa Prediction: assignment (conf: 0.5559), Correct? True
+Ensemble Prediction: assignment, Correct? True
+================================================================================
+
+Clause #10:
+Clause Text: Neither the Company nor the Executive may make any assignment of this Agreement or any interest herein, by operation of law or otherwise, without the prior written consent of the other party, and without such consent any attempted transfer shall be null and void and of no effect. This Agreement shall inure to the benefit of and be binding upon the Company and the Executive, their respective successors, executors, administrators, heirs and permitted assigns. In the event of the Executive's death after a Terminating Event but prior to the completion by the Company of all payments due him under Section 4 of this Agreement, the Company shall continue such payments to the Executive's beneficiary designated in writing to the Company prior to his death (or to his estate, if the Executive fails to make such designation).
+True Label: assignment
+BERT Prediction: assignment (conf: 0.4758), Correct? True
+RoBERTa Prediction: assignment (conf: 0.4923), Correct? True
+Ensemble Prediction: assignment, Correct? True
+================================================================================
+
+Clause #11:
+Clause Text: This Agreement shall be binding on and shall inure to the benefit of the parties hereto and their respective successors and assigns, provided that, no party hereto may assign this Agreement or any of its rights or obligations hereunder without the prior written consent of each of the other parties.
+True Label: assignment
+BERT Prediction: assignment (conf: 0.4777), Correct? True
+RoBERTa Prediction: assignment (conf: 0.6010), Correct? True
+Ensemble Prediction: assignment, Correct? True
+================================================================================
+
+Clause #12:
+Clause Text: The rights and obligations of Company together with its obligations and all of the Employee's covenants and agreements hereunder may be assigned by Company to any third party by operation of law or by contractual assignment; and upon such assignment Company shall be relieved of all of its obligations, agreements, duties and covenants hereunder. The rights and obligations of the Employee under this agreement are not assignable.
+True Label: assignment
+BERT Prediction: assignment (conf: 0.4644), Correct? True
+RoBERTa Prediction: assignment (conf: 0.4196), Correct? True
+Ensemble Prediction: assignment, Correct? True
+================================================================================
+
+Clause #13:
+Clause Text: This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns, except that the Pledgors shall not be permitted to assign this Agreement or any interest herein or in the Pledged Collateral, or any part thereof, or any cash or property held by the Collateral Agent as collateral under this Agreement.
+True Label: assignment
+BERT Prediction: assignment (conf: 0.4476), Correct? True
+RoBERTa Prediction: assignment (conf: 0.4717), Correct? True
+Ensemble Prediction: assignment, Correct? True
+================================================================================
+
+Clause #14:
+Clause Text: This Instrument is assignable by Collateral Agent, and any assignment hereof by Collateral Agent shall operate to vest in the assignee all rights and powers herein conferred upon and granted to Collateral Agent.
+True Label: assignment
+BERT Prediction: assignment (conf: 0.2695), Correct? True
+RoBERTa Prediction: assignment (conf: 0.3620), Correct? True
+Ensemble Prediction: assignment, Correct? True
+================================================================================
+
+Clause #15:
+Clause Text: This Agreement shall not be assigned by the Corporation or Indemnitee without the prior written consent of the other party thereto, except that the Corporation may freely assign its rights and obligations under this Agreement to any subsidiary for whom Indemnitee is serving as a director and/or officer thereof; provided, however, that no permitted assignment shall release the assignor from its obligations hereunder. Subject to the foregoing, this Agreement and all of the provisions hereof shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns, including, without limitation, any successor to the Corporation by way of merger, consolidation and/or sale or disposition of all or substantially all of the capital stock of the Corporation.
+True Label: assignment
+BERT Prediction: assignment (conf: 0.4766), Correct? True
+RoBERTa Prediction: assignment (conf: 0.5319), Correct? True
+Ensemble Prediction: assignment, Correct? True
+================================================================================
+
+Clause #16:
+Clause Text: Borrower shall keep (or cause to be kept) the Projects insured against damage by fire and the other hazards covered by a standard extended coverage and all-risk insurance policy for the full insurable value thereof on a replacement cost claim made basis with a deductible not to exceed $25,000, except for wind/named storms and earthquake, which shall not provide for a deductible in excess of five percent (5%) of the total insurable value of the Project, without reduction, in any case, for depreciation or co-insurance and without any exclusions or reduction of policy limits for acts of domestic and foreign terrorism and other specified action/inaction, and shall maintain boiler and machinery insurance, acts of domestic and foreign terrorism endorsement coverage and such other casualty insurance as reasonably required by Administrative Agent, and, if Borrower changes insurance carriers while the Loan is outstanding, Borrower shall provide coverage for an extended reporting period in form and substance acceptable to Administrative Agent. Administrative Agent reserves the right to require from time to time the following additional insurance: flood; earthquake/sinkhole; windstorm; worker’s compensation; and/or building law or ordinance. Borrower shall keep a Project insured against loss by flood if such Project is located currently or at any time in the future in an area identified by the Federal Emergency Management Agency as an area having special flood hazards and in which flood insurance has been made available under the National Flood Insurance Act of 1968, the Flood Disaster Protection Act of 1973 or the National Flood Insurance Reform Act of 1994 (as such acts may from time to time be amended) in an amount at least equal to the lesser of (i) the portion of the Loan allocated to such Project by Administrative Agent, acting in its reasonable discretion or (ii) the maximum limit of coverage available under said acts. Any such flood insurance policy shall be issued in accordance with the requirements and current guidelines of the Federal Insurance Administration. Borrower shall maintain business interruption insurance, including use and occupancy, rental income loss and extra expense, for all periods covered by Borrower’s property insurance for a limit equal to twelve (12) calendar months’ exposure, all without any exclusions or reduction of policy limits for acts of domestic and foreign terrorism or other specified action/inaction. Borrower shall not maintain any separate or additional insurance which is contributing in the event of loss unless it is properly endorsed and otherwise reasonably satisfactory to Administrative Agent in all respects. The proceeds of insurance paid on account of any damage or destruction to any Project shall be paid to Administrative Agent, on behalf of the Lenders, to be applied as provided in Section 3.2.
+True Label: business interruption
+BERT Prediction: insurance (conf: 0.3511), Correct? False
+RoBERTa Prediction: insurance (conf: 0.5443), Correct? False
+Ensemble Prediction: insurance, Correct? False
+================================================================================
+
+Clause #17:
+Clause Text: The Company will comply with all laws, rules, regulations and orders of any Governmental Authority applicable to it or its property, except where the failure to do so, individually or in the aggregate, could not reasonably be expected to result in a Material Adverse Effect.
+True Label: compliance with laws
+BERT Prediction: compliance with laws (conf: 0.4092), Correct? True
+RoBERTa Prediction: compliance with laws (conf: 0.4956), Correct? True
+Ensemble Prediction: compliance with laws, Correct? True
+================================================================================
+
+Clause #18:
+Clause Text: The business of Forman has been and is being conducted and its assets have been and are being operated, in all material respects, in compliance with all statutes, laws, rules or regulations or any judgment, order, writ, injunction or decree of any Governmental Entity to which a specified Person or its property is subject (the "Applicable Laws"), and Forman has not received notice of any violations or deficiencies by it or investigations or other inquiries with respect to it or its assets, in each case, from, nor is Forman in default with respect to any order, writ, judgment, award, injunction or other decree of, any Governmental Entity employee or third party under any Applicable Law, and no such investigation or inquiry is planned or threatened.
+True Label: compliance with laws
+BERT Prediction: compliance with laws (conf: 0.4482), Correct? True
+RoBERTa Prediction: compliance with laws (conf: 0.4861), Correct? True
+Ensemble Prediction: compliance with laws, Correct? True
+================================================================================
+
+Clause #19:
+Clause Text: To the best of Contributors' Knowledge, the Company has, in the operation of the Business, duly complied with all laws and regulations of federal, state, and local governments relating to the Business, and the Company is not in default with respect to any written order, judgment, writ, injunction, decree, award, rule or regulation applicable to the Business of any court, governmental or regulatory body or arbitrator and, to the best of Contributors' Knowledge, no event has occurred which with written notice or the passage of time or both would constitute such a default. Other than as set forth on EXHIBIT 4.15 , the Company has not received written notice of any violation of any law or regulation of any federal, state, or local government relating to the Business.
+True Label: compliance with laws
+BERT Prediction: compliance with laws (conf: 0.4489), Correct? True
+RoBERTa Prediction: compliance with laws (conf: 0.5311), Correct? True
+Ensemble Prediction: compliance with laws, Correct? True
+================================================================================
+
+Clause #20:
+Clause Text: Except as set forth in Schedule 2.15 , the Seller, BSA or BSG will comply with all laws and regulations which are applicable to either Seller’s ownership of the Assets or to the conduct of the Business and will perform and comply with all Contracts, commitments and obligations by which each are bound and which, in the case of the Seller, relate solely to the Business.
+True Label: compliance with laws
+BERT Prediction: compliance with laws (conf: 0.3343), Correct? True
+RoBERTa Prediction: compliance with laws (conf: 0.4724), Correct? True
+Ensemble Prediction: compliance with laws, Correct? True
+================================================================================
+
+Clause #21:
+Clause Text: Each Restricted Person will observe and comply, in all material respects, with all applicable laws, statutes, codes, acts, ordinances, orders, judgments, decrees, injunctions, rules, regulations, orders and restrictions relating to environmental standards or controls or to energy regulations of all Governmental Entities, except where the failure to so comply could not reasonably be expected to have a Material Adverse Effect.
+True Label: compliance with laws
+BERT Prediction: compliance with laws (conf: 0.4409), Correct? True
+RoBERTa Prediction: compliance with laws (conf: 0.5574), Correct? True
+Ensemble Prediction: compliance with laws, Correct? True
+================================================================================
+
+Clause #22:
+Clause Text: Trustor will perform and comply promptly with, and cause the Premises to be maintained, used and operated in accordance with, any and all (i) present and future laws, ordinances, rules, regulations, reports and requirements of every duly constituted governmental or quasi-governmental authority or agency applicable to Trustor or the Premises, including, without limitation, any subdivision agreement, improvements agreement or development agreement relating to the Premises, all laws and regulations under the Subdivision Map Act and the Subdivided Lands Act, all applicable federal, state and local laws pertaining to air and water quality, hazardous waste, waste disposal, air emissions and other environmental matters, all zoning and other land use matters, and utility availability and the rules, regulations and ordinances of all state and municipal governments whose rules, regulations and ordinances are applicable to the Premises, the United States Environmental Protection Agency and all applicable federal, state and local agencies and bureaus, (ii) similarly applicable orders, rules and regulations of any regulatory, licensing, accrediting, insurance underwriting or rating organization or other body exercising similar functions, (iii) similarly applicable duties or obligations of any kind imposed under any Permitted Exception or Future Permitted Exception or otherwise by law, covenant, condition, agreement or easement, public or private, and (iv) policies of insurance at any time in force with respect to the Premises; provided, however, Trustor shall have the right in good faith, and upon advance written notice thereof to Beneficiary, to contest or object to any such law, requirement or obligation by appropriate administrative or judicial proceedings.  In the event that failure to comply will result in a lien or charge on the Premises that is not a Permitted Exception or a Permitted Future Exception, Trustor shall provide Beneficiary with assurances satisfactory to Beneficiary that such lien or charge will be satisfied prior to the foreclosure thereof.  If there is an adverse conclusion with respect to any such contest represented by a final judgment, decree or determination which may not be or is otherwise not appealed by Trustor, Trustor shall thereafter comply with any such law, requirement or obligation.  If Trustor receives any notice that Trustor or the Premises is in default under or is not in compliance with any of the foregoing, or notice of any proceeding initiated under or with respect to any of the foregoing, Trustor will promptly furnish a copy of such notice to Beneficiary.
+True Label: compliance with laws
+BERT Prediction: compliance with laws (conf: 0.3881), Correct? True
+RoBERTa Prediction: compliance with laws (conf: 0.4495), Correct? True
+Ensemble Prediction: compliance with laws, Correct? True
+================================================================================
+
+Clause #23:
+Clause Text: The Borrower and its Subsidiaries have complied with all applicable statutes, rules, regulations, orders and restrictions of any domestic or foreign government or any instrumentality or agency thereof having jurisdiction over the conduct of their respective businesses or the ownership of their respective Property except for any failure to comply with any of the foregoing which could not reasonably be expected to have a Material Adverse Effect.
+True Label: compliance with laws
+BERT Prediction: compliance with laws (conf: 0.4508), Correct? True
+RoBERTa Prediction: compliance with laws (conf: 0.5554), Correct? True
+Ensemble Prediction: compliance with laws, Correct? True
+================================================================================
+
+Clause #24:
+Clause Text: The Borrower will, and will cause each Subsidiary to, comply with all laws, rules, regulations, orders, writs, judgments, injunctions, decrees or awards to which it may be subject including, without limitation, all Environmental Laws except for immaterial violations which in the aggregate could not reasonably be expected to have a Material Adverse Effect.
+True Label: compliance with laws
+BERT Prediction: compliance with laws (conf: 0.4561), Correct? True
+RoBERTa Prediction: compliance with laws (conf: 0.5729), Correct? True
+Ensemble Prediction: compliance with laws, Correct? True
+================================================================================
+
+Clause #25:
+Clause Text: The parties hereto will maintain the substance of any proceedings hereunder in confidence and make disclosures to others only to the extent necessary to properly conduct the proceedings.
+True Label: confidentiality
+BERT Prediction: confidentiality (conf: 0.2138), Correct? True
+RoBERTa Prediction: confidentiality (conf: 0.3245), Correct? True
+Ensemble Prediction: confidentiality, Correct? True
+================================================================================
+
+Clause #26:
+Clause Text: During the term of this Agreement and thereafter, Employee shall not at any time, other than for the benefit of the Employer: (i ) divulge, furnish, disclose, or make accessible to any person, firm, or corporation, or use for his own purposes, any Confidential Information; (ii) make or cause to be made any copies, facsimiles, or other reproductions of any Confidential Information without Employer's express written consent; or (iii) remove any Confidential Information from Employer's premises or fail or refuse to surrender (notwithstanding the failure of Employer to make demands for such materials) the same to Employer immediately upon termination of Employee's employment with Employer or at any time upon Employer's request.
+True Label: confidentiality
+BERT Prediction: non-solicitation (conf: 0.1375), Correct? False
+RoBERTa Prediction: confidentiality (conf: 0.4054), Correct? True
+Ensemble Prediction: confidentiality, Correct? True
+================================================================================
+
+Clause #27:
+Clause Text: In order to facilitate the Research Program, either Party may disclose confidential or proprietary information owned or controlled by it to the other.  It is hereby understood and agreed that such information shall be deemed “ Confidential Information ” as defined in Article 10 and treated as such.
+True Label: confidentiality
+BERT Prediction: confidentiality (conf: 0.2250), Correct? True
+RoBERTa Prediction: confidentiality (conf: 0.5093), Correct? True
+Ensemble Prediction: confidentiality, Correct? True
+================================================================================
+
+Clause #28:
+Clause Text: Each of the Shareholder will treat and hold as such all Confidential Information, refrain from using any of the Confidential Information except in connection with this Agreement, and deliver promptly to the Buyer or destroy, at the request and option of the Purchaser, all tangible embodiments (and all copies) of the Confidential Information which are in his or its possession. In the event that any of the Selling Parties is requested or required (by oral question or request for information or documents in any legal proceeding, interrogatory, subpoena, civil investigative demand, or similar process) to disclose any Confidential Information, that Selling Party will notify the Purchaser promptly of the request or requirement so that the Purchaser may seek an appropriate protective order or waive compliance with the provisions of this Section 10.5. If, in the absence of a protective order or the receipt of a waiver hereunder, any of the Selling Parties is, on the advice of counsel, compelled to disclose any Confidential Information to any tribunal or else stand liable for contempt, that Selling Party may disclose the Confidential Information to the tribunal; provided, however, that the disclosing Selling Party shall use his or its best efforts to obtain, at the request of the Purchaser, an order or other assurance that confidential treatment will be accorded to such portion of the Confidential Information required to be disclosed as the Buyer shall designate.
+True Label: confidentiality
+BERT Prediction: confidentiality (conf: 0.2678), Correct? True
+RoBERTa Prediction: confidentiality (conf: 0.5445), Correct? True
+Ensemble Prediction: confidentiality, Correct? True
+================================================================================
+
+Clause #29:
+Clause Text: Each Lender agrees to hold any confidential information which it may receive from the Borrower or any of its Subsidiaries or Affiliates pursuant to this Agreement in confidence and for use in connection with this Agreement, including without limitation, for use in connection with its rights and remedies hereunder, except for disclosure (a) to other Lenders and their respective Affiliates, (b) to legal counsel, accountants, and other professional advisors to such Lender, (c) to regulatory officials, (d) as requested pursuant to or as required by law, regulation, or legal process, (e) in connection with any legal proceeding to which such Lender is a party and (f) to a proposed assignee or participant permitted under Section 8.06 which shall have agreed in writing for the benefit of the Borrower and its Subsidiaries and Affiliates to keep such disclosed confidential information confidential in accordance with this Section.
+True Label: confidentiality
+BERT Prediction: confidentiality (conf: 0.3349), Correct? True
+RoBERTa Prediction: confidentiality (conf: 0.5678), Correct? True
+Ensemble Prediction: confidentiality, Correct? True
+================================================================================
+
+Clause #30:
+Clause Text: Each Lender agrees to hold any confidential information which it may receive from the Borrower pursuant to this Agreement in confidence, except for disclosure (i) to its Affiliates and to other Lenders and their respective Affiliates, (ii) to legal counsel, accountants, and other professional advisors to such Lender or to a Transferee, (iii) to regulatory officials, (iv) to any Person as requested pursuant to or as required by law, regulation, or legal process, (v) to any Person in connection with any legal proceeding to which such Lender is a party, (vi) to such Lender’s direct or indirect contractual counterparties in swap agreements or to legal counsel, accountants and other professional advisors to such counterparties, and (vii) permitted by Section 13.4.
+True Label: confidentiality
+BERT Prediction: confidentiality (conf: 0.3278), Correct? True
+RoBERTa Prediction: confidentiality (conf: 0.5676), Correct? True
+Ensemble Prediction: confidentiality, Correct? True
+================================================================================
+
+Clause #31:
+Clause Text: Except to the extent that such information (i) is already known to the receiving party when received, (ii) thereafter becomes lawfully obtainable from other sources, (iii) is required to be disclosed pursuant to any law or regulation or rule of any national securities quotation system such as Nasdaq National Market, or (iv) is excepted from this confidentiality requirement by the express mutual consent of Seller, Purchasers, the Portfolio Partnership and the General Partner, (a) all information furnished by and among the parties in connection with this Agreement and the transactions contemplated hereby shall be kept confidential by the receiving party and shall be used by the receiving party only in connection with this Agreement and the transactions contemplated hereby; provided, however , that a party may disclose such information (x) to its attorneys’ accountants, consultants, and other professionals; or (y) to any affiliate of such party or to a partner, member, employee, stockholder, or subsidiary of such party, so long as such party notifies such partner, member, employee, stockholder or subsidiary that such information is confidential.
+True Label: confidentiality
+BERT Prediction: confidentiality (conf: 0.3021), Correct? True
+RoBERTa Prediction: confidentiality (conf: 0.5671), Correct? True
+Ensemble Prediction: confidentiality, Correct? True
+================================================================================
+
+Clause #32:
+Clause Text: Each Lender agrees to hold any confidential information which it may receive from the Borrower or any of its Subsidiaries or Affiliates pursuant to this Agreement in confidence and for use in connection with this Agreement, including without limitation, for use in connection with its rights and remedies hereunder, except for disclosure (a) to other Lenders and their respective Affiliates, (b) to legal counsel, accountants, and other professional advisors to such Lender, (c) to regulatory officials, (d) as requested pursuant to or as required by law, regulation, or legal process, (e) in connection with any legal proceeding to which such Lender is a party and (f) to a proposed assignee or participant permitted under Section 8.06 which shall have agreed in writing for the benefit of the Borrower and its Subsidiaries and Affiliates to keep such disclosed confidential information confidential in accordance with this Section.
+True Label: confidentiality
+BERT Prediction: confidentiality (conf: 0.3349), Correct? True
+RoBERTa Prediction: confidentiality (conf: 0.5678), Correct? True
+Ensemble Prediction: confidentiality, Correct? True
+================================================================================
+
+Clause #33:
+Clause Text: For any Person, any claims, losses, damages, penalties, fines, forfeitures, reasonable and necessary legal fees and related costs, judgments, and other costs and expenses of such Person.
+True Label: costs
+BERT Prediction: costs (conf: 0.4730), Correct? True
+RoBERTa Prediction: costs (conf: 0.6962), Correct? True
+Ensemble Prediction: costs, Correct? True
+================================================================================
+
+Clause #34:
+Clause Text: The Parties shall each bear their own costs, attorneys' fees and other fees incurred in connection with the preparation of this Agreement.
+True Label: costs
+BERT Prediction: costs (conf: 0.2303), Correct? True
+RoBERTa Prediction: costs (conf: 0.4596), Correct? True
+Ensemble Prediction: costs, Correct? True
+================================================================================
+
+Clause #35:
+Clause Text: Contemporaneous with the execution and delivery hereof, Borrower shall pay, or cause to be paid, all costs and expenses incident to the preparation hereof and the consummation of the transactions specified herein, including without limitation title insurance policy and/or endorsement charges, recording fees, and reasonable fees and expenses of legal counsel to Lender. Release . Alterra and Borrower hereby release, remise, acquit and forever discharge Lender, together with its employees, agents, representatives, consultants, attorneys, fiduciaries, participants, servants, officers, directors, partners, predecessors, successors and assigns, subsidiary corporations, parent corporations, and related corporate divisions (all of the foregoing hereinafter called the " Released Parties "), from any and all actions and causes of action, judgments, executions, suits, debts, claims, demands, liabilities, obligations, damages and expenses of any and every character, known or unknown, direct and/or indirect, at law or in equity, of whatsoever kind or nature, whether heretofore or hereafter accruing, for or because of any matter or things done, omitted or suffered to be done by any of the Released Parties prior to and including the date hereof, and in any way directly or indirectly arising out of or in any way connected to this Agreement, the Master Loan Agreement, t he Notes, the Mortgages, the Assignments, or any other Loan Document, or any of the transactions associated therewith, or the Mortgaged Properties, including specifically but not limited to claims of usury, REGARDLESS OF WHETHER THE MATTER RELEASED IS THE RESULT OF THE NEGLIGENCE OF ONE OR MORE OF THE RELEASED PARTIES.
+True Label: costs
+BERT Prediction: indemnity (conf: 0.1782), Correct? False
+RoBERTa Prediction: indemnity (conf: 0.3118), Correct? False
+Ensemble Prediction: indemnity, Correct? False
+================================================================================
+
+Clause #36:
+Clause Text: The Purchaser shall pay any commissions due its salesmen and the legal fees and expenses of its attorneys and expenses of its custodian. All other costs and expenses incurred in connection with the transfer and delivery of the Mortgage Loans, including recording fees, fees for title policy endorsements and continuations and the Seller's attorney's fees, shall be paid by the Seller.
+True Label: costs
+BERT Prediction: costs (conf: 0.3937), Correct? True
+RoBERTa Prediction: costs (conf: 0.6100), Correct? True
+Ensemble Prediction: costs, Correct? True
+================================================================================
+
+Clause #37:
+Clause Text: The Purchaser shall pay any commissions due its salesmen and the legal fees and expenses of its attorneys and expenses of its custodian. All other costs and expenses incurred in connection with the transfer and delivery of the Mortgage Loans, including recording fees, fees for title policy endorsements and continuations and the Seller's attorney's fees, shall be paid by the Seller.
+True Label: costs
+BERT Prediction: costs (conf: 0.3937), Correct? True
+RoBERTa Prediction: costs (conf: 0.6100), Correct? True
+Ensemble Prediction: costs, Correct? True
+================================================================================
+
+Clause #38:
+Clause Text: For any Person, any claims, losses, damages, penalties, fines, forfeitures, reasonable and necessary legal fees and related costs, judgments, and other costs and expenses of such Person.
+True Label: costs
+BERT Prediction: costs (conf: 0.4730), Correct? True
+RoBERTa Prediction: costs (conf: 0.6962), Correct? True
+Ensemble Prediction: costs, Correct? True
+================================================================================
+
+Clause #39:
+Clause Text: For any Person, any claims, losses, damages, penalties, fines, forfeitures, reasonable and necessary legal fees and related costs, judgments, and other costs and expenses of such Person.
+True Label: costs
+BERT Prediction: costs (conf: 0.4730), Correct? True
+RoBERTa Prediction: costs (conf: 0.6962), Correct? True
+Ensemble Prediction: costs, Correct? True
+================================================================================
+
+Clause #40:
+Clause Text: The Parties shall each bear their own costs, attorneys’ fees and any other fees incurred in connection with the preparation of this Agreement.   15.     ARBITRATION .    THE PARTIES AGREE THAT ANY AND ALL DISPUTES ARISING OUT OF THE TERMS OF THIS AGREEMENT, THEIR INTERPRETATION, AND ANY OF THE MATTERS HEREIN RELEASED, SHALL BE SUBJECT TO ARBITRATION IN SANTA CLARA COUNTY, BEFORE THE AMERICAN ARBITRATION ASSOCIATION UNDER ITS NATIONAL RULES FOR THE RESOLUTION OF EMPLOYMENT DISPUTES AND CALIFORNIA LAW, OR BY A JUDGE TO BE MUTUALLY AGREED UPON. THE ARBITRATOR MAY GRANT INJUNCTIONS AND OTHER RELIEF IN SUCH DISPUTES. THE DECISION OF THE ARBITRATOR SHALL BE FINAL, CONCLUSIVE AND BINDING ON THE PARTIES TO THE ARBITRATION. THE PARTIES AGREE THAT THE PREVAILING PARTY IN ANY ARBITRATION SHALL BE ENTITLED TO INJUNCTIVE RELIEF IN ANY COURT OF COMPETENT JURISDICTION TO ENFORCE THE ARBITRATION AWARD. THE PARTIES EXPRESSLY ACKNOWLEDGE THAT THEY ARE WAIVING ANY RIGHT TO A JURY TRIAL FOR ANY AND ALL CLAIMS COVERED BY THIS AGREEMENT.   16.     Authority .    The Company represents and warrants that the undersigned has the authority to act on behalf of the Company and to bind the Company and all who may claim through it to the terms and conditions of this Agreement. Employee represents and warrants that he has the capacity to act on his own behalf and on behalf of all who might claim through him to bind them to the terms and conditions of this Agreement. Each Party warrants and represents that there are no liens or claims of lien or assignments in law or equity or otherwise of or against any of the claims or causes of action released herein.   17.     Returning Company Property .    Employee agrees that no later than the Effective Date, he will deliver to the Company (and will not keep in his possession, recreate or deliver to anyone else) any and all devices, records, data, notes, reports, proposals, lists, correspondence, specifications, drawings, blueprints, sketches, materials, equipment, other documents or property, or reproductions of any aforementioned items developed or acquired by him or provided to him in connection with his employment with the Company or otherwise belonging to the Company, its successors or assigns.   18.     No Representations .    Each Party represents that it has consulted with an attorney, and has carefully read and understands the scope and effect of the provisions of this Agreement. In entering into this Agreement, neither Party has relied upon any representations or statements made by the other Party hereto which are not specifically set forth in this Agreement.   19.     Severability .    In the event that any provision, or any portion thereof, becomes or is declared by a court of competent jurisdiction to be illegal, unenforceable or void, this Agreement shall continue in full force and effect without the provision or portion of the provision.
+True Label: costs
+BERT Prediction: governing law and jurisdiction (conf: 0.0893), Correct? False
+RoBERTa Prediction: governing law and jurisdiction (conf: 0.1132), Correct? False
+Ensemble Prediction: governing law and jurisdiction, Correct? False
+================================================================================
+
+Clause #41:
+Clause Text: This Agreement may be executed simultaneously in any number of counterparts, each of which counterparts shall be deemed to be an original and such counterparts shall constitute but one and the same instrument.
+True Label: counterparts
+BERT Prediction: counterparts (conf: 0.4655), Correct? True
+RoBERTa Prediction: counterparts (conf: 0.7439), Correct? True
+Ensemble Prediction: counterparts, Correct? True
+================================================================================
+
+Clause #42:
+Clause Text: This Agreement may be executed simultaneously in any number of counterparts, each of which counterparts shall be deemed to be an original and such counterparts shall constitute but one and the same instrument.
+True Label: counterparts
+BERT Prediction: counterparts (conf: 0.4655), Correct? True
+RoBERTa Prediction: counterparts (conf: 0.7439), Correct? True
+Ensemble Prediction: counterparts, Correct? True
+================================================================================
+
+Clause #43:
+Clause Text: This Agreement may be executed simultaneously in any number of counterparts, each of which counterparts shall be deemed to be an original and such counterparts shall constitute but one and the same instrument.
+True Label: counterparts
+BERT Prediction: counterparts (conf: 0.4655), Correct? True
+RoBERTa Prediction: counterparts (conf: 0.7439), Correct? True
+Ensemble Prediction: counterparts, Correct? True
+================================================================================
+
+Clause #44:
+Clause Text: This Agreement may be executed simultaneously in any number of counterparts, each of which counterparts shall be deemed to be an original and such counterparts shall constitute but one and the same instrument.
+True Label: counterparts
+BERT Prediction: counterparts (conf: 0.4655), Correct? True
+RoBERTa Prediction: counterparts (conf: 0.7439), Correct? True
+Ensemble Prediction: counterparts, Correct? True
+================================================================================
+
+Clause #45:
+Clause Text: This Agreement may be executed simultaneously in any number of counterparts, each of which counterparts shall be deemed to be an original and such counterparts shall constitute but one and the same instrument.
+True Label: counterparts
+BERT Prediction: counterparts (conf: 0.4655), Correct? True
+RoBERTa Prediction: counterparts (conf: 0.7439), Correct? True
+Ensemble Prediction: counterparts, Correct? True
+================================================================================
+
+Clause #46:
+Clause Text: This Agreement may be executed simultaneously in any number of counterparts, each of which counterparts shall be deemed to be an original and such counterparts shall constitute but one and the same instrument.
+True Label: counterparts
+BERT Prediction: counterparts (conf: 0.4655), Correct? True
+RoBERTa Prediction: counterparts (conf: 0.7439), Correct? True
+Ensemble Prediction: counterparts, Correct? True
+================================================================================
+
+Clause #47:
+Clause Text: This Agreement may be executed simultaneously in any number of counterparts, each of which counterparts shall be deemed to be an original and such counterparts shall constitute but one and the same instrument.
+True Label: counterparts
+BERT Prediction: counterparts (conf: 0.4655), Correct? True
+RoBERTa Prediction: counterparts (conf: 0.7439), Correct? True
+Ensemble Prediction: counterparts, Correct? True
+================================================================================
+
+Clause #48:
+Clause Text: This Agreement may be executed simultaneously in any number of counterparts, each of which counterparts shall be deemed to be an original and such counterparts shall constitute but one and the same instrument.
+True Label: counterparts
+BERT Prediction: counterparts (conf: 0.4655), Correct? True
+RoBERTa Prediction: counterparts (conf: 0.7439), Correct? True
+Ensemble Prediction: counterparts, Correct? True
+================================================================================
+
+Clause #49:
+Clause Text: In the event the Subscriber is entitled to receive any liquidated damages pursuant to the Transactions, the Subscriber may elect to receive the greater of actual damages or such liquidated damages.
+True Label: damages
+BERT Prediction: damages (conf: 0.0916), Correct? True
+RoBERTa Prediction: indemnity (conf: 0.1233), Correct? False
+Ensemble Prediction: indemnity, Correct? False
+================================================================================
+
+Clause #50:
+Clause Text: Executive acknowledges that damages for any breach of Sections 9 through 11 of this Agreement may be difficult to determine and inadequate to remedy the harm which may be caused and, therefore, consents that such Sections may be enforced by temporary or permanent injunction. Such injunctive relief shall be in addition to and not in place of any other remedies available at law or equity, including damages. Should any court or tribunal decline to enforce such sections of this Agreement on the basis that such provisions are overly restrictive of activities of Executive as to time, scope or geography, such provisions shall be deemed to be modified to restrict Executive’s activities to the maximum extent of time, scope and geography which such court or tribunal shall find enforceable, and such provisions shall be so enforced.
+True Label: damages
+BERT Prediction: severability (conf: 0.1108), Correct? False
+RoBERTa Prediction: severability (conf: 0.1354), Correct? False
+Ensemble Prediction: severability, Correct? False
+================================================================================
+
+Clause #51:
+Clause Text: Employee agrees that upon any material breach of this Agreement, in addition to any other legal or equitable remedies available to QuadraMed in respect of the breach, Employee shall pay over to QuadraMed any and all gains from any stock options, if any, issued by QuadraMed to Employee, as may have been realized at any time during the breach or within six (6) months prior to the commencement of the breach and QuadraMed shall have the right to require the forfeiture of out-of-the-money stock options and the exercise of in-the-money stock options and the sale of stock as to which gains have not yet been realized and to require that such gains be paid over to QuadraMed. In such event, QuadraMed shall bear no responsibility to Employee for any losses or damages ensuing therefrom, including without limitation losses on the stock sale or taxes.
+True Label: damages
+BERT Prediction: indemnity (conf: 0.0992), Correct? False
+RoBERTa Prediction: indemnity (conf: 0.1348), Correct? False
+Ensemble Prediction: indemnity, Correct? False
+================================================================================
+
+Clause #52:
+Clause Text: Cowlitz shall indemnify, hold harmless and defend Executive against (i) any tax penalties or increased tax liability of Executive due to Cowlitz’s failure to comply with the terms of this Agreement or breach of this Agreement, and (ii) costs, including legal fees and expenses, incurred by Executive in connection with or arising out of any action, suit or proceeding (including any tax controversy) in which Executive may be involved, as a result of Executive’s efforts, in good faith, to defend or enforce the terms of this Agreement. For purposes of this Agreement, any settlement agreement that provides for payment of any amounts in settlement of Cowlitz’s obligations hereunder shall be conclusive evidence of Executive’s entitlement to indemnification hereunder, and any such indemnification payments shall be in addition to amounts payable pursuant to such settlement agreement, unless such settlement agreement expressly provides otherwise. Cowlitz’s obligation to make the payments provided for in this Agreement and otherwise to perform its obligations hereunder shall not be affected by any set-off, counterclaim, recoupment, defense or other claim, right or action which Cowlitz may have against Executive or others. In no event shall Executive be obligated to seek other employment or take any other action by way of mitigation of the amounts payable to Executive under any of the provisions of this Agreement and such amounts shall not be reduced whether or not Executive obtains other employment. Unless it is determined that Executive has acted in bad faith, Cowlitz shall pay as incurred, to the full extent permitted by law, all legal fees and expenses that Executive may reasonably incur as a result of or in connection with his consultation with legal counsel or arising out of any action, suit, proceeding, tax controversy or contest (regardless of the outcome thereof) by Cowlitz, Executive or others regarding the validity or enforceability of, or liability under, any provision of this Agreement or any guarantee of performance thereof (including as a result of any contest by Executive about the amount of any payment pursuant to this Agreement), plus in each case interest on any delayed payment (except a six-month delay required under Section 22 of this Agreement, which shall bear interest as set forth therein), all payments due and outstanding shall bear interest at the rate of 1  1 / 2 % per month until such payment is made.
+True Label: damages
+BERT Prediction: indemnity (conf: 0.1865), Correct? False
+RoBERTa Prediction: indemnity (conf: 0.3819), Correct? False
+Ensemble Prediction: indemnity, Correct? False
+================================================================================
+
+Clause #53:
+Clause Text: Neither (a) the termination of this Lease, (b) the repossession of the Leased Property, (c) the failure of Lessor to relet the Leased Property, nor (d) the reletting of all or any portion thereof, shall relieve Lessee of its liability and obligations hereunder, all of which shall survive any such termination, repossession or reletting. In the event of any such termination, Lessee shall forthwith pay to Lessor all Rent due and payable with respect to the Leased Property to and including the date of such termination. Damages shall also consist of all reasonable and documented legal expenses and other related reasonable and documented out-of-pocket costs incurred by Lessor following the Event of Default, all reasonable and documented out-of-pocket costs incurred by Lessor in restoring the Leased Property to good order and condition; and any other damages available to Lessor under applicable law.
+True Label: damages
+BERT Prediction: costs (conf: 0.1027), Correct? False
+RoBERTa Prediction: indemnity (conf: 0.1419), Correct? False
+Ensemble Prediction: indemnity, Correct? False
+================================================================================
+
+Clause #54:
+Clause Text: In order to enable the Company to properly administer the Plan and the RSUs received by the Participant pursuant to the Plan, Participant hereby gives explicit consent to the Company, any Subsidiary or Parent of the Company, and/or any delegates to collect and process (electronically or otherwise) personal data, including sensitive and financial data, about himself or herself necessary to administer the Plan and RSUs received by Participant pursuant to the Plan. Such data may include, but is not limited to, Participant's name, work authorization, government or tax identification number, date of birth, beneficiaries' contact information, RSU grant history, and compensation information. Participant also hereby gives explicit consent to the Company and related entities to transfer (electronically or otherwise) any such data outside the country in which Participant is living or employed (including to the United States), as well as to third-party providers (in Participant’s home country or the United States or other countries) of legal, tax, benefits, administration or other services to the Company, related entities, or employees. The legal person for whom such personal data is intended to be used is the Company and/or its related entities. Participant further understands that the Company and/or its Subsidiary or Parent may report information regarding the Participant and/or the RSU to tax authorities or other governmental agencies as may be required to comply with applicable laws.
+True Label: data protection
+BERT Prediction: assignment (conf: 0.0725), Correct? False
+RoBERTa Prediction: confidentiality (conf: 0.2981), Correct? False
+Ensemble Prediction: confidentiality, Correct? False
+================================================================================
+
+Clause #55:
+Clause Text: This Agreement represents the entire agreement of the parties with respect to the subject matter hereof and shall supersede any and all previous contracts, arrangements or understandings between the parties hereto with respect to the subject matter hereof.
+True Label: entire agreement
+BERT Prediction: entire agreement (conf: 0.4423), Correct? True
+RoBERTa Prediction: entire agreement (conf: 0.5840), Correct? True
+Ensemble Prediction: entire agreement, Correct? True
+================================================================================
+
+Clause #56:
+Clause Text: This Agreement comprises the entire understanding between the parties with respect to its subject matters and supersedes any previous communications, representations, or agreements, whether oral or written. For purposes of construction, this Agreement will be deemed to have been drafted by both parties.  No modification of this Agreement will be binding on either party unless in writing and signed by an authorized representative of each party.
+True Label: entire agreement
+BERT Prediction: entire agreement (conf: 0.4343), Correct? True
+RoBERTa Prediction: entire agreement (conf: 0.5415), Correct? True
+Ensemble Prediction: entire agreement, Correct? True
+================================================================================
+
+Clause #57:
+Clause Text: This Agreement, together with the Exhibits hereto, sets forth the entire agreement and understanding between the parties as to the subject matter hereof and merges all prior discussions and negotiations between them. Neither of the parties shall be bound by any conditions, definitions, warranties, understandings or representations with respect to such subject matter other than as expressly provided herein or as duly set forth on or subsequent to the date hereof in writing and signed by a proper and duly authorized officer or representative of each party.
+True Label: entire agreement
+BERT Prediction: entire agreement (conf: 0.4747), Correct? True
+RoBERTa Prediction: entire agreement (conf: 0.5404), Correct? True
+Ensemble Prediction: entire agreement, Correct? True
+================================================================================
+
+Clause #58:
+Clause Text: This agreement supersedes any and all other oral or written agreements or policies made relating to the subject matter hereof and constitutes the entire agreement of the parties relating to the subject matter hereof.
+True Label: entire agreement
+BERT Prediction: entire agreement (conf: 0.4511), Correct? True
+RoBERTa Prediction: entire agreement (conf: 0.6103), Correct? True
+Ensemble Prediction: entire agreement, Correct? True
+================================================================================
+
+Clause #59:
+Clause Text: This Agreement constitutes the entire understanding and agreement of the parties hereto with respect to the subject matter hereof.
+True Label: entire agreement
+BERT Prediction: entire agreement (conf: 0.4441), Correct? True
+RoBERTa Prediction: entire agreement (conf: 0.5985), Correct? True
+Ensemble Prediction: entire agreement, Correct? True
+================================================================================
+
+Clause #60:
+Clause Text: This Agreement constitutes the entire agreement among the Family Shareholders, the Investors and the Company relative to the subject matter hereof and supersedes any previous agreements or negotiations among the parties, provided that the "lock-up" letter agreements delivered by the Family Shareholders to Inter-Him, N.V. shall not be superseded by this Agreement.
+True Label: entire agreement
+BERT Prediction: entire agreement (conf: 0.4309), Correct? True
+RoBERTa Prediction: entire agreement (conf: 0.5360), Correct? True
+Ensemble Prediction: entire agreement, Correct? True
+================================================================================
+
+Clause #61:
+Clause Text: This Agreement and any agreements referred to in this Agreement, sets forth the entire understanding and agreement between the parties with respect to the subject matter hereof and supersedes all other oral or written representations and understandings. This Agreement may only be modified by a writing signed by Randall and TeraGlobal.
+True Label: entire agreement
+BERT Prediction: entire agreement (conf: 0.4498), Correct? True
+RoBERTa Prediction: entire agreement (conf: 0.6011), Correct? True
+Ensemble Prediction: entire agreement, Correct? True
+================================================================================
+
+Clause #62:
+Clause Text: This Agreement constitutes the entire agreement of the parties hereto and supersedes in their entirety all prior representations, understandings, undertakings or agreements (whether oral or written and whether expressed or implied) of the parties with respect to the subject matter hereof.
+True Label: entire agreement
+BERT Prediction: entire agreement (conf: 0.4652), Correct? True
+RoBERTa Prediction: entire agreement (conf: 0.5961), Correct? True
+Ensemble Prediction: entire agreement, Correct? True
+================================================================================
+
+Clause #63:
+Clause Text: The Pledgor shall execute and deliver such further documents and do such other acts and things as the Beneficiary may reasonably request in order to fulfil the obligations of the Pledgor under this Agreement and protect the Beneficiary’s interests.
+True Label: further assurance
+BERT Prediction: further assurance (conf: 0.2867), Correct? True
+RoBERTa Prediction: further assurance (conf: 0.3513), Correct? True
+Ensemble Prediction: further assurance, Correct? True
+================================================================================
+
+Clause #64:
+Clause Text: The Borrower agrees to execute and deliver such further documents and do such other acts and things as the Lender may reasonably request in order to fulfil the obligations of the Borrower under this Agreement and protect the Lender’s interests.
+True Label: further assurance
+BERT Prediction: further assurance (conf: 0.2892), Correct? True
+RoBERTa Prediction: further assurance (conf: 0.3611), Correct? True
+Ensemble Prediction: further assurance, Correct? True
+================================================================================
+
+Clause #65:
+Clause Text: The Pledgor shall execute and deliver such further documents and do such other acts and things as the Beneficiary may reasonably request in order to fulfill the obligations of the Pledgor under this Agreement and protect the Beneficiary’s interests.
+True Label: further assurance
+BERT Prediction: further assurance (conf: 0.2950), Correct? True
+RoBERTa Prediction: further assurance (conf: 0.3476), Correct? True
+Ensemble Prediction: further assurance, Correct? True
+================================================================================
+
+Clause #66:
+Clause Text: The Pledgor shall execute and deliver such further documents and do such other acts and things as the Beneficiary may reasonably request in order to fulfill the obligations of the Pledgor under this Agreement and protect the Beneficiary’s interests.
+True Label: further assurance
+BERT Prediction: further assurance (conf: 0.2950), Correct? True
+RoBERTa Prediction: further assurance (conf: 0.3476), Correct? True
+Ensemble Prediction: further assurance, Correct? True
+================================================================================
+
+Clause #67:
+Clause Text: Each Party agrees to execute and deliver such further documents and do such other acts and things as the other Party may reasonably request in order to fulfil the obligations of the Parties under this Agreement.
+True Label: further assurance
+BERT Prediction: further assurance (conf: 0.2762), Correct? True
+RoBERTa Prediction: further assurance (conf: 0.3412), Correct? True
+Ensemble Prediction: further assurance, Correct? True
+================================================================================
+
+Clause #68:
+Clause Text: This Agreement has been delivered to and accepted by the Administrative Agent and will be deemed to be made in the State of Pennsylvania. THIS AGREEMENT WILL BE INTERPRETED AND THE RIGHTS AND LIABILITIES OF THE PARTIES HERETO DETERMINED IN ACCORDANCE WITH THE LAWS OF THE STATE OF PENNSYLVANIA, EXCLUDING ITS CONFLICT OF LAWS RULES. The Indemnitor hereby irrevocably consents to the exclusive jurisdiction of any state or federal court in the county or judicial district where the Administrative Agent’s office indicated above is located; provided that nothing contained in this Agreement will prevent the Administrative Agent from bringing any action, enforcing any award or judgment or exercising any rights against the Indemnitor individually, against any security or against any property of the Indemnitor within any other county, state or other foreign or domestic jurisdiction. The Administrative Agent and the Indemnitor agree that the venue provided above is the most convenient forum for both the Administrative Agent and the Indemnitor. The Indemnitor waives any objection to venue and any objection based on a more convenient forum in any action instituted under this Agreement.
+True Label: governing law and jurisdiction
+BERT Prediction: governing law and jurisdiction (conf: 0.4444), Correct? True
+RoBERTa Prediction: governing law and jurisdiction (conf: 0.6416), Correct? True
+Ensemble Prediction: governing law and jurisdiction, Correct? True
+================================================================================
+
+Clause #69:
+Clause Text: This Delegation Schedule shall be construed in accordance with the laws of the State of New York. The parties hereby submit to the exclusive jurisdiction of the Federal courts sitting in the State of New York, Maryland or the Commonwealth of Massachusetts or of the state courts of either such State or such Commonwealth.
+True Label: governing law and jurisdiction
+BERT Prediction: governing law and jurisdiction (conf: 0.4332), Correct? True
+RoBERTa Prediction: governing law and jurisdiction (conf: 0.6674), Correct? True
+Ensemble Prediction: governing law and jurisdiction, Correct? True
+================================================================================
+
+Clause #70:
+Clause Text: This Agreement shall be governed by and construed in accordance with the laws of Switzerland (Canton Zurich), regardless of the laws that might otherwise govern under applicable principles of conflicts of laws thereof. In no event shall choice of law analysis lead to the application of any laws other than the laws of Switzerland.
+True Label: governing law and jurisdiction
+BERT Prediction: governing law and jurisdiction (conf: 0.4250), Correct? True
+RoBERTa Prediction: governing law and jurisdiction (conf: 0.6233), Correct? True
+Ensemble Prediction: governing law and jurisdiction, Correct? True
+================================================================================
+
+Clause #71:
+Clause Text: Any questions, claims, disputes or litigation concerning or arising from the Agreement shall be governed by the laws of California without giving effect to the conflicts of laws principles of that state or any nation state. Each of the Parties agrees to submit to the exclusive jurisdiction of the courts in Orange County, California for any matter arising out of or relating to this Agreement. Notwithstanding the foregoing, in actions seeking to enforce any order or any judgment of any such courts located in California, personal jurisdiction shall be nonexclusive. The Parties agree that the United Nations Convention on Contracts for the International Sale of Goods is specifically excluded from application to this Agreement.
+True Label: governing law and jurisdiction
+BERT Prediction: governing law and jurisdiction (conf: 0.4488), Correct? True
+RoBERTa Prediction: governing law and jurisdiction (conf: 0.6480), Correct? True
+Ensemble Prediction: governing law and jurisdiction, Correct? True
+================================================================================
+
+Clause #72:
+Clause Text: This Release Agreement shall be governed by and construed in accordance with the laws and judicial decisions of the State of Pennsylvania, without regard to its principles of conflicts of laws.
+True Label: governing law and jurisdiction
+BERT Prediction: governing law and jurisdiction (conf: 0.4373), Correct? True
+RoBERTa Prediction: governing law and jurisdiction (conf: 0.6391), Correct? True
+Ensemble Prediction: governing law and jurisdiction, Correct? True
+================================================================================
+
+Clause #73:
+Clause Text: This Agreement, including the validity hereof and the rights and obligations of the Parties hereunder, will be construed in accordance with and all disputes hereunder will be governed by the laws of the State of New York, U.S.A., applicable to contracts made and to be performed entirely in such state (without giving effect to the conflicts of laws provisions thereof). Each of the Parties hereby submits unconditionally to jurisdiction of, and agrees that venue will lie exclusively in, the federal and state courts located in the City of New York for purposes of the resolution of any disputes arising under this Agreement.
+True Label: governing law and jurisdiction
+BERT Prediction: governing law and jurisdiction (conf: 0.4466), Correct? True
+RoBERTa Prediction: governing law and jurisdiction (conf: 0.6356), Correct? True
+Ensemble Prediction: governing law and jurisdiction, Correct? True
+================================================================================
+
+Clause #74:
+Clause Text: This Release Agreement shall be governed by and construed in accordance with the laws and judicial decisions of the State of Pennsylvania, without regard to its principles of conflicts of laws.
+True Label: governing law and jurisdiction
+BERT Prediction: governing law and jurisdiction (conf: 0.4373), Correct? True
+RoBERTa Prediction: governing law and jurisdiction (conf: 0.6391), Correct? True
+Ensemble Prediction: governing law and jurisdiction, Correct? True
+================================================================================
+
+Clause #75:
+Clause Text: This Release Agreement shall be governed by and construed in accordance with the laws and judicial decisions of the State of Pennsylvania, without regard to its principles of conflicts of laws.
+True Label: governing law and jurisdiction
+BERT Prediction: governing law and jurisdiction (conf: 0.4373), Correct? True
+RoBERTa Prediction: governing law and jurisdiction (conf: 0.6391), Correct? True
+Ensemble Prediction: governing law and jurisdiction, Correct? True
+================================================================================
+
+Clause #76:
+Clause Text: Tenant shall keep the Premises and Tenant’s interest therein free from any liens arising out of any work performed on the Premises, materials furnished thereto or obligations incurred by Tenant and shall cause the same to be released or bonded off within thirty (30 ) days of the filing of the same.  Tenant shall indemnify, defend and hold Landlord harmless against liability, loss, damage, cost, and all other expenses (including without limitation, reasonable attorney’s fees) arising out of claims of liens for obligations incurred by, or work performed or materials or supplies furnished to or for the benefit of, Tenant or persons claiming under Tenant or with regard to Tenant’s failure to comply with Sections 10.1.4 and 10.1.5 above.
+True Label: indemnity
+BERT Prediction: indemnity (conf: 0.2358), Correct? True
+RoBERTa Prediction: indemnity (conf: 0.3985), Correct? True
+Ensemble Prediction: indemnity, Correct? True
+================================================================================
+
+Clause #77:
+Clause Text: (a)  The Grantors (except AMC) hereby jointly and severally agree to indemnify and hold harmless the Trustee and the Shared Payment and Collateral Agent and its respective officers, directors and employees (collectively, the “ Indemnified Persons ”) for all damages that may result from the non-performance of the obligations of the Grantors herein set forth, in any manner relating to, in connection with, or arising from this Agreement, or that arise from or in connection with any transaction derived from this Agreement, as well as for damages that may arise in case a claim, proceeding, judgment or complaint is filed or presented against any of the Indemnified Persons in connection with this Agreement, or the transactions contemplated herein or the Assets (collectively, the “ Claims ”), except when such damages are the consequence of the negligence or willful misconduct of the Indemnified Person.  As a result, the Grantors (except AMC) hereby jointly and severally agree to reimburse the Indemnified Persons for any expense of any nature incurred (including attorney’s fees and expenses), if such expense is reasonable and duly documented, and to repair any damages that any Indemnified Person may have suffered as a result of its participation in any of the transactions contemplated herein.
+True Label: indemnity
+BERT Prediction: indemnity (conf: 0.2785), Correct? True
+RoBERTa Prediction: indemnity (conf: 0.3959), Correct? True
+Ensemble Prediction: indemnity, Correct? True
+================================================================================
+
+Clause #78:
+Clause Text: Sections 11.01 and 11.02 of the Common Agreement shall be deemed to be incorporated herein as if the same were set out in full herein.
+True Label: indemnity
+BERT Prediction: amendment (conf: 0.1043), Correct? False
+RoBERTa Prediction: counterparts (conf: 0.1472), Correct? False
+Ensemble Prediction: counterparts, Correct? False
+================================================================================
+
+Clause #79:
+Clause Text: Company shall indemnify, defend, and hold harmless Medical School and its trustees, officers, faculty, students, employees, and agents and their respective successors, heirs and assigns (the “Indemnitees”), against any liability, damage, loss, or expense (including reasonable attorneys fees and expenses of litigation) incurred by or imposed upon any of the Indemnitees in connection with any claims, suits, actions, demands or judgments arising out of any theory of liability (including without limitation actions in the form of tort, warranty, or strict liability and regardless of whether such action has any factual basis) concerning any product, process, or service that is made, used, or sold pursuant to any right or license granted under this Agreement; provided, however, that such indemnification shall not apply to any liability, damage, loss, or expense to the extent directly attributable to (i) the negligent activities or intentional misconduct of the Indemnitees or (ii) the settlement of a claim, suit, action, or demand by Indemnitees without the prior written approval of Company.
+True Label: indemnity
+BERT Prediction: indemnity (conf: 0.2646), Correct? True
+RoBERTa Prediction: indemnity (conf: 0.4236), Correct? True
+Ensemble Prediction: indemnity, Correct? True
+================================================================================
+
+Clause #80:
+Clause Text: (a) The Borrower shall pay (i) all reasonable out-of-pocket expenses incurred by the Administrative Agent and its Affiliates, including the reasonable fees, charges and disbursements of counsel for the Administrative Agent, in connection with the syndication of the credit facilities provided for herein, the preparation and administration of this Agreement or any amendments, modifications or waivers of the provisions hereof (whether or not the transactions contemplated hereby or thereby shall be consummated) and (ii) all out-of-pocket expenses incurred by the Administrative Agent or any Lender, including the fees, charges and disbursements of any counsel for the Administrative Agent or any Lender, in connection with the enforcement or protection of its rights in connection with this Agreement, including its rights under this Section, or in connection with the Loans made hereunder, including all such out-of-pocket expenses incurred during any workout, restructuring or negotiations in respect of such Loans.
+True Label: indemnity
+BERT Prediction: costs (conf: 0.1996), Correct? False
+RoBERTa Prediction: costs (conf: 0.2994), Correct? False
+Ensemble Prediction: costs, Correct? False
+================================================================================
+
+Clause #81:
+Clause Text: Each Grantor shall indemnify, defend, and hold harmless Lender and each of Lender’s Subsidiaries, Affiliates, directors, officers, employees and agents (collectively, the “ Indemnified Persons ”), and reimburse the Indemnified Persons for, from, and against all demands, claims, actions or causes of action, assessments, losses, damages, liabilities, costs and expenses, including, without limitation, interest, penalties and reasonable attorneys’ fees, disbursements and expenses, arising out of or in connection with (i) any willful, material breach by any Grantor of any of the representations and warranties contained in this Agreement or the other Loan Documents, (ii) any material failure by a Grantor to perform any covenant, undertaking or obligation hereunder, (iii) any matter arising out of any use by any Grantor of any proceeds of the Loans, (iv) any licensing fees relating to any item of Collateral, or (v) any matter arising out of any use by any Grantor of any item of Collateral, except, in each case, to the extent such liability arises from the gross negligence or willful misconduct of the Indemnified Person seeking indemnity hereunder.
+True Label: indemnity
+BERT Prediction: indemnity (conf: 0.2950), Correct? True
+RoBERTa Prediction: indemnity (conf: 0.4393), Correct? True
+Ensemble Prediction: indemnity, Correct? True
+================================================================================
+
+Clause #82:
+Clause Text: Each party (the “indemnitor”) agrees fully and forever to indemnify, defend and hold harmless the other party (the “indemnitee”) from and against any and all claims, demands, damages, losses, liabilities, actions, causes of actions, suits, judgments, costs and expenses (including litigation costs and reasonable attorneys’ fees) arising out of, relating to, or connected with, (i) any act or omission of the indemnitor taken (or omitted) in connection with indemnitor’s performance under this Agreement, (ii) any breach of any covenant or obligation on the part of indemnitor to be paid, performed or observed hereunder, or (iii) any breach of any warranty or representation made or given by indemnitor hereunder. Nothing in the preceding sentences gives Company any right or claim against Supplier arising out of, relating to, or connected with Supplier’s performance or failure to perform any human resource administrative service or any human resource Supplementary Service at the direction of the Company under Section 4 above. In addition, Company shall similarly indemnify, defend and hold Supplier harmless from and against any demand, claim, suit, action, loss, damage, liability, judgment, costs and expenses (including litigation costs and reasonable attorneys’ fees) arising out of, relating to, or connected with Supplier’s performance or failure to perform any Basic Service or Supplementary Service. Nothing herein is in any way intended to abrogate or otherwise affect any right of Company to seek indemnity from Supplier for any product liability with respect to Products sold by Supplier to Company, whether such right arises at common law, by statute or otherwise.
+True Label: indemnity
+BERT Prediction: indemnity (conf: 0.2761), Correct? True
+RoBERTa Prediction: indemnity (conf: 0.4221), Correct? True
+Ensemble Prediction: indemnity, Correct? True
+================================================================================
+
+Clause #83:
+Clause Text: Each Pledgor agrees to indemnify, pay and hold harmless the Collateral Agent and each of the other Secured Parties and the officers, directors, employees, agents and Affiliates of the Collateral Agent and each of the other Secured Parties (collectively, the “ Indemnitees ”) from and against any and all other liabilities, obligations, losses, damages, penalties, actions, judgments, suits, claims, costs (including, without limitation, settlement costs), reasonable expenses or disbursements of any kind or nature whatsoever (including, without limitation, the reasonable fees and disbursements of counsel for such Indemnitees in connection with any investigative, administrative or judicial proceeding, commenced or threatened, whether or not such Indemnitee shall be designated a party thereto) which may be imposed on, incurred by, or asserted against that Indemnitee, in any manner relating to or arising out of this Agreement, the Credit Agreement, any other Security Document or any other document evidencing the Secured Obligations (including, without limitation, any misrepresentation by any Pledgor in this Agreement, the Credit Agreement, other Security Document or any other document evidencing the Secured Obligations) (the “ Indemnified Liabilities ”); provided , however , that no Pledgor shall have any obligation to an Indemnitee hereunder with respect to Indemnified Liabilities if (i) it has been determined by a final decision (after all appeals and the expiration of time to appeal) of a court of competent jurisdiction that such Indemnified Liabilities arose from the gross negligence or willful misconduct of that Indemnitee or (ii) such Indemnified Liabilities result from litigation commenced by any Pledgor against the Collateral Agent or any other Secured Party which seeks enforcement of any of the rights of such Pledgor hereunder or under any other Credit Document and is determined adversely to any Indemnitee in a final non-appealable judgment.  To the extent that the undertaking to indemnify, pay and hold harmless set forth in the preceding sentence may be unenforceable because it is violative of any law or public policy, each Pledgor shall contribute the maximum portion which it is permitted to pay and satisfy under applicable law to the payment and satisfaction of all Indemnified Liabilities incurred by the Indemnitees or any of them.
+True Label: indemnity
+BERT Prediction: indemnity (conf: 0.2573), Correct? True
+RoBERTa Prediction: indemnity (conf: 0.4248), Correct? True
+Ensemble Prediction: indemnity, Correct? True
+================================================================================
+
+Clause #84:
+Clause Text: From and subsequent to the date when Tenant shall commence improvements upon the Leased Premises, or from and subsequent to any earlier date when Tenant shall make any actual use or occupancy of the Leased Premises, Tenant shall cause to be written a policy or policies of insurance in a form generally known as Public Liability and/or Owners’, Landlord and Tenant policies, insuring Landlord and Tenant against any and all claims and demands made by any person or persons whomsoever for injuries received in connection with the operation and maintenance of the improvements and building situated on the Leased Premises, or for any other risk insured against by such policies, each class of which policy shall be written within limits of not less than $1,000,000.00 for damages incurred or claimed by any one person, and for not less than $2,000,000.00 for damages incurred or claimed by more than one person. All such policies shall name Tenant and Landlord, as their respective interests may appear, as the insured under such policies, and the original or true copy of such policy or policies shall be delivered by Tenant to Landlord promptly upon the writing of said policy or policies, together with adequate evidence that the premiums therefor have been paid. Tenant hereby covenants and agrees with Landlord that it will at all times during the term of this lease keep insured the building and improvements situated upon the Leased Premises, and all personal property which may be subject to Landlord’s lien hereunder, in good and reputable insurance companies authorized to do business in the state where the Leased Premises are located, insuring against all loss or damage by fire, lightning, water, riot, explosion, breakage, windstorm or other casualty, the insurance to be maintained upon the improvements to be in no less than the full replacement value of the Leased Premises, to the extent that such insurance is available at commercially reasonable costs. All insurance proceeds payable under the terms of the above-described policy or policies shall be payable to Landlord. Notwithstanding anything herein to the contrary, Landlord and Tenant shall cause their respective insurance carriers to waive any and all rights of recovery, claim, action or causes of action against the other and their respective trustees, principals, beneficiaries, partners, members, officers, directors, agents, advisors, shareholders, and employees, for any loss or damage that may occur to Landlord or Tenant or any party claiming by, through or under Landlord or Tenant, as the case may be, with respect to Tenant’s property, the Leased Premises, any additions or improvements to the Leased Premises, or any contents thereof.
+True Label: insurance
+BERT Prediction: insurance (conf: 0.2907), Correct? True
+RoBERTa Prediction: insurance (conf: 0.4916), Correct? True
+Ensemble Prediction: insurance, Correct? True
+================================================================================
+
+Clause #85:
+Clause Text: Sublessee shall provide, as to the Subleased Premises, all liability insurance coverage as required under the terms of the Lease, and Landlord and Sublessor shall be named as loss payees, as their interest may appear. Sublessee shall furnish appropriate certificate of insurance to Sublessor and Landlord. In the event Sublessee fails or refuses to carry such insurance, Sublessor shall be entitled to purchase such insurance on Sublessee’s behalf, the cost of which shall be paid to Sublessor with the next monthly rent payment due. Each insurance policy shall contain a clause prohibiting it from being terminated or amended without providing at least thirty (30) days’prior written notice of same to Sublessor.
+True Label: insurance
+BERT Prediction: insurance (conf: 0.3683), Correct? True
+RoBERTa Prediction: insurance (conf: 0.5466), Correct? True
+Ensemble Prediction: insurance, Correct? True
+================================================================================
+
+Clause #86:
+Clause Text: Seller maintains adequate policies of fire, liability, title, professional liability, theft, employee fidelity workers' compensation and all other forms of casualty and liability insurance. All of such policies are sufficient for compliance with all requirements of law and of all contracts, commitments and agreements of any nature to which Seller is a party, and provide coverage for property in limits of not less than the amounts sufficient to replace all property owned by Seller upon loss, with no co-insurance penalties applicable thereto. Seller is not in default under any of such policies or binders, and Seller has not failed to give any notice or to present any claim under any such policy or binder in a due and timely fashion. There are no facts upon which an insurer might be justified in reducing coverage or increasing premiums on existing policies or binders. There are no outstanding unpaid claims under any such policies or binders.
+True Label: insurance
+BERT Prediction: insurance (conf: 0.4145), Correct? True
+RoBERTa Prediction: insurance (conf: 0.6112), Correct? True
+Ensemble Prediction: insurance, Correct? True
+================================================================================
+
+Clause #87:
+Clause Text: Obligor shall, at its own expense, maintain liability and casualty insurance with respect to its business and property with responsible and reputable insurance companies or associations satisfactory to Secured Party in such amounts and covering such risks as are acceptable to or specified by Secured Party, taking into account, among other factors, such amounts and risks as are usually carried by persons engaged in similar businesses and owning similar properties in the same general areas in which Obligor operates.
+True Label: insurance
+BERT Prediction: insurance (conf: 0.3636), Correct? True
+RoBERTa Prediction: insurance (conf: 0.5733), Correct? True
+Ensemble Prediction: insurance, Correct? True
+================================================================================
+
+Clause #88:
+Clause Text: Seller maintains adequate policies of fire, liability, title, professional liability, theft, employee fidelity workers' compensation and all other forms of casualty and liability insurance. All of such policies are sufficient for compliance with all requirements of law and of all contracts, commitments and agreements of any nature to which Seller is a party, and provide coverage for property in limits of not less than the amounts sufficient to replace all property owned by Seller upon loss, with no co-insurance penalties applicable thereto. Seller is not in default under any of such policies or binders, and Seller has not failed to give any notice or to present any claim under any such policy or binder in a due and timely fashion. There are no facts upon which an insurer might be justified in reducing coverage or increasing premiums on existing policies or binders. There are no outstanding unpaid claims under any such policies or binders.
+True Label: insurance
+BERT Prediction: insurance (conf: 0.4145), Correct? True
+RoBERTa Prediction: insurance (conf: 0.6112), Correct? True
+Ensemble Prediction: insurance, Correct? True
+================================================================================
+
+Clause #89:
+Clause Text: Attached hereto as Schedule 4.11 is a complete and correct list and summary description of all policies of insurance relating to any of the Purchased Assets or the Business in which the Company is an insured party, beneficiary or loss payable payee. Such policies are in full force and effect, all premiums due and payable with respect thereto have been paid, and no notice of cancellation or termination has been received by the Company with respect to any such policy. In the opinion of the Company, such policies cover risks normally insured against, and are in amounts normally carried, by companies engaged in similar businesses. The Company has not sustained any material loss or interference with its business from fire, storm, explosion, flood or other casualty, whether or not covered by insurance, or from any labor dispute or court of governmental action, order or decree.
+True Label: insurance
+BERT Prediction: insurance (conf: 0.3978), Correct? True
+RoBERTa Prediction: insurance (conf: 0.5496), Correct? True
+Ensemble Prediction: insurance, Correct? True
+================================================================================
+
+Clause #90:
+Clause Text: Employee agrees to cooperate with the Company in obtaining insurance on the life of Employee by submitting to physical examinations and other required procedures.  In addition to any key man insurance the Company may obtain, the Company shall obtain and keep current a life insurance policy in the amount of not less than $l,000,000 with the beneficiary to be named by the Employee.
+True Label: insurance
+BERT Prediction: insurance (conf: 0.3244), Correct? True
+RoBERTa Prediction: insurance (conf: 0.5076), Correct? True
+Ensemble Prediction: insurance, Correct? True
+================================================================================
+
+Clause #91:
+Clause Text: Executive shall be entitled to the perquisites and benefits generally available to other executive employees or their families through group insurance programs sponsored by the Company.
+True Label: insurance
+BERT Prediction: non-competition (conf: 0.0911), Correct? False
+RoBERTa Prediction: insurance (conf: 0.3621), Correct? True
+Ensemble Prediction: insurance, Correct? True
+================================================================================
+
+Clause #92:
+Clause Text: The Executive agrees that all the Intellectual Property (as defined below) will be considered “works made for hire” as that term is defined in Section 101 of the Copyright Act (17 U.S.C. § 101) and that all right, title and interest in such Intellectual Property will be the sole and exclusive property of the Company. To the extent that any of the Intellectual Property may not by law be considered a work made for hire, or to the extent that, notwithstanding the foregoing, the Executive retains any interest in the Intellectual Property, the Executive hereby irrevocably assigns and transfers to the Company any and all right, title, or interest that the Executive may now or in the future have in the Intellectual Property under patent, copyright, trade secret, trademark or other law, in perpetuity or for the longest period otherwise permitted by law, without the necessity of further consideration. The Company will be entitled to obtain and hold in its own name all copyrights, patents, trade secrets, trademarks and other similar registrations with respect to such Intellectual Property. The Executive further agrees to execute any and all documents and provide any further cooperation or assistance reasonably required by the Company to perfect, maintain or otherwise protect its rights in the Intellectual Property. If the Company is unable after reasonable efforts to secure the Executive’s signature, cooperation or assistance in accordance with the preceding sentence, whether because of the Executive’s incapacity or any other reason whatsoever, the Executive hereby designates and appoints the Company or its designee as the Executive’s agent and attorney-in-fact, to act on his behalf, to execute and file documents and to do all other lawfully permitted acts necessary or desirable to perfect, maintain or otherwise protect the Company’s rights in the Intellectual Property. The Executive acknowledges and agrees that such appointment is coupled with an interest and is therefore irrevocable.
+True Label: intellectual property
+BERT Prediction: intellectual property (conf: 0.2231), Correct? True
+RoBERTa Prediction: intellectual property (conf: 0.2835), Correct? True
+Ensemble Prediction: intellectual property, Correct? True
+================================================================================
+
+Clause #93:
+Clause Text: Schedule 5.15 lists all material items of the Intellectual Property and the Intellectual Property is sufficient for the conduct of Seller's business as presently conducted. Seller has the right to use all its Intellectual Property as presently used and to convey the Intellectual Property to Purchaser without violation of any right of any third party or any applicable law, regulation or privacy policy. Purchaser's use of the Intellectual Property following the Closing will not infringe any intellectual property or other right of any third party or any applicable law, regulation or privacy policy. Any agreement by which Seller is the licensee of any Intellectual Property is in full force and effect, not the subject of any encumbrance or any breach by any party to that agreement and is assignable to Purchaser without the prior consent of any party. No trademark, trade name, service mark, logotype, copyright, patent, trade secret or other Intellectual Property used by the Seller in the Business is the subject of any pending or, to the knowledge of Seller, threatened infringement action, or action seeking to deny, modify or revoke any registration or application therefor or renewal thereof, and, to the knowledge of the Seller, no other Person is currently infringing upon any of the Intellectual Property. Seller is entitled to use all designs, processes, licenses and all other Intellectual Property used by it, and the Seller has not granted to any third party any right, title or interest in or to any such Intellectual Property. The employee handbook of Seller provides that all employees are obligated to assign to Seller all their ownership interest in any patentable or unpatentable inventions or developments, trade secrets and copyrightable works created in the course of their employment. Seller has listed all inventions, patentable or otherwise, of which Seller is aware, that are used by Seller in its business ("Seller Inventions"), on Schedule 5.15 and, except as disclosed on Schedule 5.15, Seller has obtained assignments of all rights, title and interest in and to any Seller Inventions.
+True Label: intellectual property
+BERT Prediction: intellectual property (conf: 0.4132), Correct? True
+RoBERTa Prediction: intellectual property (conf: 0.4594), Correct? True
+Ensemble Prediction: intellectual property, Correct? True
+================================================================================
+
+Clause #94:
+Clause Text: (a) Section 3.11(a)(i) of the Disclosure Schedule sets forth a true and complete list of all (x) registered Copyrights, registered Trademarks, and Patent Rights owned by each of the Company and the Insurance Subsidiaries (“ Registered Intellectual Property ”) and (y) proprietary Software owned by each of the Company and the Insurance Subsidiaries that is material to the operation by the Company and the Insurance Subsidiaries of their respective businesses as conducted on the date of this Agreement. Except as set forth in Section 3.11(a)(ii) of the Disclosure Schedule, each of the Company and the Insurance Subsidiaries either owns, free and clear of any Liens, or has the perpetual right to use without payment of any material amount to a third party, all Intellectual Property in use by it that is material to the operation of its business as conducted on the date of this Agreement. Section 3.11(a)(ii) of the Disclosure Schedule sets forth a true and complete list of all written agreements to which the Company or any of the Insurance Subsidiaries is a party that relate to the use by it of any Intellectual Property that is material to its business as conducted on the date of this Agreement, excluding (A) written agreements from any current or former employee and any written agreements from agents, consultants, contractors or others who have provided products or performed services as works for hire and (B) any shrink wrap agreements or click wrap agreements licensing rights in commercially available Software.
+True Label: intellectual property
+BERT Prediction: intellectual property (conf: 0.4172), Correct? True
+RoBERTa Prediction: intellectual property (conf: 0.4426), Correct? True
+Ensemble Prediction: intellectual property, Correct? True
+================================================================================
+
+Clause #95:
+Clause Text: The Company, directly or through its Subsidiaries, owns or possesses sufficient legal rights to all Intellectual Property necessary for the conduct of its business as described in the Exchange Act Documents.  Except as described in the Exchange Act Documents, there are no outstanding options, licenses, or agreements of any kind relating to any such Intellectual Property, nor is the Company bound by or a party to any options, licenses, or agreements of any kind with respect to the Intellectual Property of any other Person.  Neither the Company nor any of its Subsidiaries is infringing, or has received any notice or has any knowledge of, any asserted infringement by the Company or any of its Subsidiaries of, any rights of a third party with respect to any Intellectual Property that, if the subject of an unfavorable decision, ruling or finding, would reasonably be expected to have, individually or in the aggregate, a Material Adverse Effect. Neither the Company nor any of its Subsidiaries has any knowledge of any infringement by a third party with respect to any Intellectual Property rights of the Company or of any Subsidiary that would reasonably be expected to have, individually or in the aggregate, a Material Adverse Effect.
+True Label: intellectual property
+BERT Prediction: intellectual property (conf: 0.4071), Correct? True
+RoBERTa Prediction: intellectual property (conf: 0.4647), Correct? True
+Ensemble Prediction: intellectual property, Correct? True
+================================================================================
+
+Clause #96:
+Clause Text: Except as set forth in the U.S. Prospectus and the Canadian Prospectus, (i) the Company and each of its subsidiaries hold all material licenses, certificates and permits from governmental authorities which are necessary to the conduct of their businesses in all material respects; (ii) the Company and its subsidiaries each own or possess the right to use all patents, patent rights, trademarks, trade names, service marks, service names, copyrights, license rights, know-how (including trade secrets and other unpatented and unpatentable proprietary or confidential information, systems or procedures) and other intellectual property rights ("Intellectual Property") necessary to carry on their business in all material respects as described in the U.S. Prospectus, the Canadian Prospectus and the Registration Statement; (iii) to the best of the Company's knowledge, neither the Company nor any of its subsidiaries has infringed any Intellectual Property of any other person or entity, other than an infringement of invalid Intellectual Property of any other person or entity that would not result in a Material Adverse Effect; and (iv) neither the Company nor any of its subsidiaries has received notice of conflict or is otherwise aware of any conflict with any Intellectual Property of any other person or entity, other than a conflict of invalid Intellectual Property of any other person or entity that would not result in a Material Adverse Effect. The Company has taken all reasonable steps necessary to secure interests in such Intellectual Property from its contractors. There are no material outstanding options, licenses or agreements of any kind relating to the Intellectual Property of the Company that are required to be described in the U.S. Prospectus and the Canadian Prospectus and are not described in all material respects. The Company is not a party to or bound by any material outstanding options, licenses or agreements with respect to the Intellectual Property of any other person or entity that are required to be set forth in the U.S. Prospectus and the Canadian Prospectus and are not described in all material respects. None of the technology employed by the Company has been obtained or is being used by the Company in violation of any contractual obligation binding on the Company or, to the knowledge of the Company, any of its officers, directors or employees or otherwise in violation of the rights of any persons; the Company has not received any written or oral communications from third parties or their advisors alleging that the Company has violated, infringed or conflicted with, or, by conducting its business as set forth in the U.S. Prospectus and the Canadian Prospectus, would violate, infringe or conflict with, any of the Intellectual Property of such third parties. The Company knows of no infringement by others of Intellectual Property owned by or licensed to the Company which might reasonably be expected to result in a Material Adverse Effect or to prevent the consummation of the transactions contemplated hereby. The patents and patent applications listed on Schedules A and B of the opinions rendered by S EED Intellectual Property Law Group PLLC and Reed & Eberle LLP pursuant to Section 5(d) hereof constitute all of the material patents and patent applications owned by the Company.
+True Label: intellectual property
+BERT Prediction: intellectual property (conf: 0.4063), Correct? True
+RoBERTa Prediction: intellectual property (conf: 0.4376), Correct? True
+Ensemble Prediction: intellectual property, Correct? True
+================================================================================
+
+Clause #97:
+Clause Text: As a condition precedent to EMPLOYER’S hiring of EXECUTIVE and EMPLOYER’S performance of its obligations hereunder, EXECUTIVE shall execute and deliver to EMPLOYER the Employee Invention, Copyright and Trade Secret Agreement in the form attached hereto as Exhibit A (the “Employee Invention Agreement”).
+True Label: intellectual property
+BERT Prediction: intellectual property (conf: 0.1860), Correct? True
+RoBERTa Prediction: intellectual property (conf: 0.1959), Correct? True
+Ensemble Prediction: intellectual property, Correct? True
+================================================================================
+
+Clause #98:
+Clause Text: (a) Section 3.11(a)(i) of the Disclosure Schedule sets forth a true and complete list of all (x) registered Copyrights, registered Trademarks, and Patent Rights owned by each of the Transferred Companies (“ Registered Intellectual Property ”) and (y) proprietary Software owned by each of the Transferred Companies that is material to the operation by the Transferred Companies of their respective businesses as conducted on the date of this Agreement. Except as set forth in Section 3.11(a)(ii) of the Disclosure Schedule, each of the Transferred Companies either owns, free and clear of any Liens, or has the perpetual right to use without payment of any material amount to a third party, all Intellectual Property in use by it that is material to the operation of its business as conducted on the date of this Agreement. Section 3.11(a)(ii) of the Disclosure Schedule sets forth a true and complete list of all written agreements to which any of the Transferred Companies is a party that relate to the use by it of any Intellectual Property that is material to its business as conducted on the date of this Agreement, excluding (A) written agreements from any current or former employee and any written agreements from agents, consultants, contractors or others who have provided products or performed services as works for hire and (B) any shrink wrap agreements or click wrap agreements licensing rights in commercially available Software.
+True Label: intellectual property
+BERT Prediction: intellectual property (conf: 0.4158), Correct? True
+RoBERTa Prediction: intellectual property (conf: 0.4480), Correct? True
+Ensemble Prediction: intellectual property, Correct? True
+================================================================================
+
+Clause #99:
+Clause Text: The Company and each of its Subsidiaries owns, or is licensed to use, all trademarks, tradenames, patents, copyrights, technology, know-how and processes necessary for the conduct of its business as currently conducted except for those the failure to own or license which could not reasonably be expected to have a Material Adverse Effect (the “ Intellectual Property ”).  Except as set forth in Schedule 5.10 , no claim has been asserted and is pending by any Person challenging or questioning the use of any such Intellectual Property or the validity or effectiveness of any such Intellectual Property, nor does the Company know of any valid basis for any such claim.  The use of such Intellectual Property by the Company and its Subsidiaries does not infringe on the rights of any Person, except for such claims and infringements that, in the aggregate, could not reasonably be expected to have a Material Adverse Effect.
+True Label: intellectual property
+BERT Prediction: intellectual property (conf: 0.3935), Correct? True
+RoBERTa Prediction: intellectual property (conf: 0.4615), Correct? True
+Ensemble Prediction: intellectual property, Correct? True
+================================================================================
+
+Clause #100:
+Clause Text: Guarantor’s liability shall be primary and joint and several with that of Tenant, notwithstanding the fact that Guarantor has had no prior notice of any default or of any forbearance or extension. Landlord may proceed against Guarantor under this Guaranty without initiating or exhausting any legal remedy against Tenant and may proceed against Tenant and Guarantor separately or concurrently. This is a guaranty of payment and not of collection.
+True Label: joint and several liability
+BERT Prediction: joint and several liability (conf: 0.3151), Correct? True
+RoBERTa Prediction: joint and several liability (conf: 0.4180), Correct? True
+Ensemble Prediction: joint and several liability, Correct? True
+================================================================================
+
+Clause #101:
+Clause Text: In the event that this Promissory Note is made by more than one Borrower, the promises and agreements herein shall be construed to be and are hereby declared to be the joint and several promises and agreements of all Borrowers and shall constitute the joint and several obligations of each of Borrowers and shall be fully binding upon and enforceable against each of Borrowers. Neither the death nor release of any person or party to this Promissory Note shall affect or release the joint and several liability of any other person or party. Lender may at its option enforce this Promissory Note against one or all of Borrowers, and Lender shall not be required to resort to enforcement against each of Borrowers and the failure to proceed against or join any Borrower shall not affect the joint and several liability of any other Borrower.
+True Label: joint and several liability
+BERT Prediction: joint and several liability (conf: 0.3732), Correct? True
+RoBERTa Prediction: joint and several liability (conf: 0.4287), Correct? True
+Ensemble Prediction: joint and several liability, Correct? True
+================================================================================
+
+Clause #102:
+Clause Text: Except for the Guarantor, the liability of all persons and entities obligated in any manner under this Agreement and any of the Loan Documents shall be joint and several.
+True Label: joint and several liability
+BERT Prediction: joint and several liability (conf: 0.4043), Correct? True
+RoBERTa Prediction: joint and several liability (conf: 0.5034), Correct? True
+Ensemble Prediction: joint and several liability, Correct? True
+================================================================================
+
+Clause #103:
+Clause Text: In the event that this Promissory Note is made by more than one Borrower, the promises and agreements herein shall be construed to be and are hereby declared to be the joint and several promises and agreements of all Borrowers and shall constitute the joint and several obligations of each of Borrowers and shall be fully binding upon and enforceable against each of Borrowers. Neither the death nor release of any person or party to this Promissory Note shall affect or release the joint and several liability of any other person or party. Lender may at its option enforce this Promissory Note against one or all of Borrowers, and Lender shall not be required to resort to enforcement against each of Borrowers and the failure to proceed against or join any Borrower shall not affect the joint and several liability of any other Borrower.
+True Label: joint and several liability
+BERT Prediction: joint and several liability (conf: 0.3732), Correct? True
+RoBERTa Prediction: joint and several liability (conf: 0.4287), Correct? True
+Ensemble Prediction: joint and several liability, Correct? True
+================================================================================
+
+Clause #104:
+Clause Text: In the event that this Promissory Note is made by more than one Borrower, the promises and agreements herein shall be construed to be and are hereby declared to be the joint and several promises and agreements of all Borrowers and shall constitute the joint and several obligations of each of Borrowers and shall be fully binding upon and enforceable against each of Borrowers. Neither the death nor release of any person or party to this Promissory Note shall affect or release the joint and several liability of any other person or party. Lender may at its option enforce this Promissory Note against one or all of Borrowers, and Lender shall not be required to resort to enforcement against each of Borrowers and the failure to proceed against or join any Borrower shall not affect the joint and several liability of any other Borrower.
+True Label: joint and several liability
+BERT Prediction: joint and several liability (conf: 0.3732), Correct? True
+RoBERTa Prediction: joint and several liability (conf: 0.4287), Correct? True
+Ensemble Prediction: joint and several liability, Correct? True
+================================================================================
+
+Clause #105:
+Clause Text: Except for the Guarantor, the liability of all persons and entities obligated in any manner under this Agreement and any of the Loan Documents shall be joint and several.
+True Label: joint and several liability
+BERT Prediction: joint and several liability (conf: 0.4043), Correct? True
+RoBERTa Prediction: joint and several liability (conf: 0.5034), Correct? True
+Ensemble Prediction: joint and several liability, Correct? True
+================================================================================
+
+Clause #106:
+Clause Text: In the event that this Promissory Note is made by more than one Borrower, the promises and agreements herein shall be construed to be and are hereby declared to be the joint and several promises and agreements of all Borrowers and shall constitute the joint and several obligations of each of Borrowers and shall be fully binding upon and enforceable against each of Borrowers. Neither the death nor release of any person or party to this Promissory Note shall affect or release the joint and several liability of any other person or party. Lender may at its option enforce this Promissory Note against one or all of Borrowers, and Lender shall not be required to resort to enforcement against each of Borrowers and the failure to proceed against or join any Borrower shall not affect the joint and several liability of any other Borrower.
+True Label: joint and several liability
+BERT Prediction: joint and several liability (conf: 0.3732), Correct? True
+RoBERTa Prediction: joint and several liability (conf: 0.4287), Correct? True
+Ensemble Prediction: joint and several liability, Correct? True
+================================================================================
+
+Clause #107:
+Clause Text: In the event that this Promissory Note is made by more than one Borrower, the promises and agreements herein shall be construed to be and are hereby declared to be the joint and several promises and agreements of all Borrowers and shall constitute the joint and several obligations of each of Borrowers and shall be fully binding upon and enforceable against each of Borrowers. Neither the death nor release of any person or party to this Promissory Note shall affect or release the joint and several liability of any other person or party. Lender may at its option enforce this Promissory Note against one or all of Borrowers, and Lender shall not be required to resort to enforcement against each of Borrowers and the failure to proceed against or join any Borrower shall not affect the joint and several liability of any other Borrower.
+True Label: joint and several liability
+BERT Prediction: joint and several liability (conf: 0.3732), Correct? True
+RoBERTa Prediction: joint and several liability (conf: 0.4287), Correct? True
+Ensemble Prediction: joint and several liability, Correct? True
+================================================================================
+
+Clause #108:
+Clause Text: The Sub-Advisor is hereby expressly put on notice of the limitation of shareholder liability as set forth in the Declaration of Trust or other organizational document of the Trust and agrees that any obligations of the Trust or the Portfolio arising in connection with this Agreement shall be limited in all cases to the Portfolio and its assets, and the Sub-Advisor shall not seek satisfaction of any such obligation from the shareholders or any shareholder of the Portfolio. Nor shall the Sub-Advisor seek satisfaction of any such obligation from the Trustees or any individual Trustee.
+True Label: limitation of liability
+BERT Prediction: limitation of liability (conf: 0.5239), Correct? True
+RoBERTa Prediction: limitation of liability (conf: 0.6081), Correct? True
+Ensemble Prediction: limitation of liability, Correct? True
+================================================================================
+
+Clause #109:
+Clause Text: The Japan Sub-Advisor is hereby expressly put on notice of the limitation of shareholder liability as set forth in the Declaration of Trust or other organizational document of the Trust and agrees that any obligations of the Trust or the Portfolio arising in connection with this Agreement shall be limited in all cases to the Portfolio and its assets, and the Japan Sub-Advisor shall not seek satisfaction of any such obligation from the shareholders or any shareholder of the Portfolio. Nor shall the Japan Sub-Advisor seek satisfaction of any such obligation from the Trustees or any individual Trustee.
+True Label: limitation of liability
+BERT Prediction: limitation of liability (conf: 0.5296), Correct? True
+RoBERTa Prediction: limitation of liability (conf: 0.6053), Correct? True
+Ensemble Prediction: limitation of liability, Correct? True
+================================================================================
+
+Clause #110:
+Clause Text: The Japan Sub-Advisor is hereby expressly put on notice of the limitation of shareholder liability as set forth in the Declaration of Trust or other organizational document of the Trust and agrees that any obligations of the Trust or the Portfolio arising in connection with this Agreement shall be limited in all cases to the Portfolio and its assets, and the Japan Sub-Advisor shall not seek satisfaction of any such obligation from the shareholders or any shareholder of the Portfolio. Nor shall the Japan Sub-Advisor seek satisfaction of any such obligation from the Trustees or any individual Trustee.
+True Label: limitation of liability
+BERT Prediction: limitation of liability (conf: 0.5296), Correct? True
+RoBERTa Prediction: limitation of liability (conf: 0.6053), Correct? True
+Ensemble Prediction: limitation of liability, Correct? True
+================================================================================
+
+Clause #111:
+Clause Text: The Sub-Advisor is hereby expressly put on notice of the limitation of shareholder liability as set forth in the Declaration of Trust or other organizational document of the Trust and agrees that any obligations of the Trust or the Portfolio arising in connection with this Agreement shall be limited in all cases to the Portfolio and its assets, and the Sub-Advisor shall not seek satisfaction of any such obligation from the shareholders or any shareholder of the Portfolio. Nor shall the Sub-Advisor seek satisfaction of any such obligation from the Trustees or any individual Trustee.
+True Label: limitation of liability
+BERT Prediction: limitation of liability (conf: 0.5239), Correct? True
+RoBERTa Prediction: limitation of liability (conf: 0.6081), Correct? True
+Ensemble Prediction: limitation of liability, Correct? True
+================================================================================
+
+Clause #112:
+Clause Text: The Sub-Advisor is hereby expressly put on notice of the limitation of shareholder liability as set forth in the Declaration of Trust or other organizational document of the Trust and agrees that any obligations of the Trust or the Portfolio arising in connection with this Agreement shall be limited in all cases to the Portfolio and its assets, and the Sub-Advisor shall not seek satisfaction of any such obligation from the shareholders or any shareholder of the Portfolio. Nor shall the Sub-Advisor seek satisfaction of any such obligation from the Trustees or any individual Trustee.
+True Label: limitation of liability
+BERT Prediction: limitation of liability (conf: 0.5239), Correct? True
+RoBERTa Prediction: limitation of liability (conf: 0.6081), Correct? True
+Ensemble Prediction: limitation of liability, Correct? True
+================================================================================
+
+Clause #113:
+Clause Text: The Japan Sub-Advisor is hereby expressly put on notice of the limitation of shareholder liability as set forth in the Declaration of Trust or other organizational document of the Trust and agrees that any obligations of the Trust or the Portfolio arising in connection with this Agreement shall be limited in all cases to the Portfolio and its assets, and the Japan Sub-Advisor shall not seek satisfaction of any such obligation from the shareholders or any shareholder of the Portfolio. Nor shall the Japan Sub-Advisor seek satisfaction of any such obligation from the Trustees or any individual Trustee.
+True Label: limitation of liability
+BERT Prediction: limitation of liability (conf: 0.5296), Correct? True
+RoBERTa Prediction: limitation of liability (conf: 0.6053), Correct? True
+Ensemble Prediction: limitation of liability, Correct? True
+================================================================================
+
+Clause #114:
+Clause Text: The Japan Sub-Advisor is hereby expressly put on notice of the limitation of shareholder liability as set forth in the Declaration of Trust or other organizational document of the Trust and agrees that any obligations of the Trust or the Portfolio arising in connection with this Agreement shall be limited in all cases to the Portfolio and its assets, and the Japan Sub-Advisor shall not seek satisfaction of any such obligation from the shareholders or any shareholder of the Portfolio. Nor shall the Japan Sub-Advisor seek satisfaction of any such obligation from the Trustees or any individual Trustee.
+True Label: limitation of liability
+BERT Prediction: limitation of liability (conf: 0.5296), Correct? True
+RoBERTa Prediction: limitation of liability (conf: 0.6053), Correct? True
+Ensemble Prediction: limitation of liability, Correct? True
+================================================================================
+
+Clause #115:
+Clause Text: The Sub-Advisor is hereby expressly put on notice of the limitation of shareholder liability as set forth in the Declaration of Trust or other organizational document of the Trust and agrees that any obligations of the Trust or the Portfolio arising in connection with this Agreement shall be limited in all cases to the Portfolio and its assets, and the Sub-Advisor shall not seek satisfaction of any such obligation from the shareholders or any shareholder of the Portfolio. Nor shall the Sub-Advisor seek satisfaction of any such obligation from the Trustees or any individual Trustee.
+True Label: limitation of liability
+BERT Prediction: limitation of liability (conf: 0.5239), Correct? True
+RoBERTa Prediction: limitation of liability (conf: 0.6081), Correct? True
+Ensemble Prediction: limitation of liability, Correct? True
+================================================================================
+
+Clause #116:
+Clause Text: The Seller and the Purchaser understand and agree that the Purchaser may introduce prospective buyers of the Mortgage Loans to the Seller, that such buyers are customers of the Purchaser and that relationships of the Purchaser to such buyers are confidential. The Seller agrees with respect to a particular buyer of the Mortgage Loans, the Seller will not, for the purpose of buying and selling other mortgage loans communicate with or sell such other mortgage loans to such buyer unless such buyer is or has been independently introduced to the Seller or the Seller has had previous dealings (other than any transactions involving the Purchaser) with such buyer.
+True Label: non-circumvention
+BERT Prediction: non-solicitation (conf: 0.1102), Correct? False
+RoBERTa Prediction: confidentiality (conf: 0.1363), Correct? False
+Ensemble Prediction: confidentiality, Correct? False
+================================================================================
+
+Clause #117:
+Clause Text: During the Restricted Period, Employee will not, on her own behalf or on behalf of any person or entity engaged in the Business, engage in or perform within the Territory any of the activities which she performed as Senior Vice President of the Bank, or which are substantially similar to those which she performed for the Bank. Nothing in this Section 7(d) shall be construed to prohibit Employee from performing activities which she did not perform for the Bank.
+True Label: non-competition
+BERT Prediction: non-competition (conf: 0.3244), Correct? True
+RoBERTa Prediction: non-competition (conf: 0.2859), Correct? True
+Ensemble Prediction: non-competition, Correct? True
+================================================================================
+
+Clause #118:
+Clause Text: The Officer covenants and agrees that the Officer will not, during the Officer’s employment hereunder and for a period of one (1) year thereafter (to the extent permitted by law), at any time and in any state or other jurisdiction in which the Company or Subsidiary is engaged or has reasonably firm plans to engage in business, (i) compete with the Company or any Subsidiaries on behalf of the officer or any third party; (ii) participate as a director, agent, representative, stockholder or partner or have any direct or indirect financial interest in any enterprise in which engages in the alcohol production distribution business or any other business in which the Company or Subsidiaries are engaged; or (iii) participate as an employee of officer in any enterprise in which the Officer’s responsibility relates to alcohol production distribution business or any other business in which the Company or Subsidiaries are engaged.
+True Label: non-competition
+BERT Prediction: non-competition (conf: 0.3320), Correct? True
+RoBERTa Prediction: non-competition (conf: 0.3449), Correct? True
+Ensemble Prediction: non-competition, Correct? True
+================================================================================
+
+Clause #119:
+Clause Text: In consideration of this Agreement, the Employee agrees that, during the Employment Term, and for one year thereafter, the Employee shall not act as a proprietor, investor, director, officer, employee, substantial stockholder, consultant, or partner in any mattress retailer which does not sell Sealy products or with any of the following mattress manufacturing companies or their affiliates: Simmons, Serta, Spring Air, and Kingsdown. The Employee understands that the foregoing restrictions may limit the Employee’s ability to engage in certain business pursuits during the period provided for above, but acknowledges that the Employee will receive sufficiently higher remuneration and other benefits from the Company hereunder than the Employee would otherwise receive to justify such restriction. The Employee acknowledges that the Employee understands the effect of the provisions of this Section 9, and that the Employee has had reasonable time to consider the effect of these provisions, and that the Employee was encouraged to and had an opportunity to consult an attorney with respect to these provisions. The Company and the Employee consider the restrictions contained in this Section 9 to be reasonable and necessary. Nevertheless, if any aspect of these restrictions is found to be unreasonable or otherwise unenforceable by a court of competent jurisdiction, the Parties intend for such restrictions to be modified by such court so as to be reasonable and enforceable and, as so modified by the court, to be fully enforced. In the event of a breach or threatened breach of this Section 9 by the Employee, the Company will be entitled to preliminary and permanent injunctive relief, without bond or security, sufficient to enforce the provisions hereof and the Company will be entitled to pursue such other remedies at law or in equity which it deems appropriate.
+True Label: non-competition
+BERT Prediction: non-competition (conf: 0.2068), Correct? True
+RoBERTa Prediction: non-competition (conf: 0.2755), Correct? True
+Ensemble Prediction: non-competition, Correct? True
+================================================================================
+
+Clause #120:
+Clause Text: For a period of one year after your employment with SHG terminates or for so long as SHG or any portion thereof continues to engage in the an institutional pharmacy business serving long term care facilities, whichever period is shorter, you agree not to, directly or indirectly, serve as an employee, officer or director of, or consult with or otherwise assist or act in the service of, any institutional pharmacy company servicing long term care facilities which does business in the United States of America and which has operations in the any one or more of the States of Alabama, California, Connecticut, Georgia, Massachusetts, New Jersey, North Carolina, Ohio, Tennessee, Washington or West Virginia; provided, however, that this Section 6(e) shall be for the sole and exclusive benefit of SHG and, accordingly, shall not be enforceable by and shall not inure to the benefit of any successor to the institutional pharmacy business currently operated by SHG unless expressly hereafter agreed to in a subsequent written document you execute and deliver to that successor as determined in your sole and absolute discretion..
+True Label: non-competition
+BERT Prediction: non-competition (conf: 0.2857), Correct? True
+RoBERTa Prediction: non-competition (conf: 0.3399), Correct? True
+Ensemble Prediction: non-competition, Correct? True
+================================================================================
+
+Clause #121:
+Clause Text: During the Restricted Period, Employee will not, on his own behalf or on behalf of any person or entity engaged in the Business, engage in or perform within the Territory any of the activities which he performed as Senior Vice President of the Bank, or which are substantially similar to those which he performed for the Bank. Nothing in this Section 7(d) shall be construed to prohibit Employee from performing activities which he did not perform for the Bank.
+True Label: non-competition
+BERT Prediction: non-competition (conf: 0.3164), Correct? True
+RoBERTa Prediction: non-competition (conf: 0.2748), Correct? True
+Ensemble Prediction: non-competition, Correct? True
+================================================================================
+
+Clause #122:
+Clause Text: During the Restricted Period, Employee will not, on her own behalf or on behalf of any person or entity engaged in the Business, engage in or perform within the Territory any of the activities which she performed as Senior Vice President of the Bank, or which are substantially similar to those which she performed for the Bank. Nothing in this Section 7(d) shall be construed to prohibit Employee from performing activities which she did not perform for the Bank.
+True Label: non-competition
+BERT Prediction: non-competition (conf: 0.3244), Correct? True
+RoBERTa Prediction: non-competition (conf: 0.2859), Correct? True
+Ensemble Prediction: non-competition, Correct? True
+================================================================================
+
+Clause #123:
+Clause Text: During the Restricted Period, Employee will not, on his own behalf or on behalf of any person or entity engaged in the Business, engage in or perform within the Territory any of the activities which he performed as Senior Vice President of the Bank, or which are substantially similar to those which he performed for the Bank. Nothing in this Section 7(d) shall be construed to prohibit Employee from performing activities which he did not perform for the Bank.
+True Label: non-competition
+BERT Prediction: non-competition (conf: 0.3164), Correct? True
+RoBERTa Prediction: non-competition (conf: 0.2748), Correct? True
+Ensemble Prediction: non-competition, Correct? True
+================================================================================
+
+Clause #124:
+Clause Text: In consideration of this Agreement, the Employee agrees that, during the Employment Term, and for one year thereafter, the Employee shall not act as a proprietor, investor, director, officer, employee, substantial stockholder, consultant, or partner in any mattress retailer which does not sell Sealy products or with any of the following mattress manufacturing companies or their affiliates: Simmons, Serta, Spring Air, and Kingsdown. The Employee understands that the foregoing restrictions may limit the Employee’s ability to engage in certain business pursuits during the period provided for above, but acknowledges that the Employee will receive sufficiently higher remuneration and other benefits from the Company hereunder than the Employee would otherwise receive to justify such restriction. The Employee acknowledges that the Employee understands the effect of the provisions of this Section 9, and that the Employee has had reasonable time to consider the effect of these provisions, and that the Employee was encouraged to and had an opportunity to consult an attorney with respect to these provisions. The Company and the Employee consider the restrictions contained in this Section 9 to be reasonable and necessary. Nevertheless, if any aspect of these restrictions is found to be unreasonable or otherwise unenforceable by a court of competent jurisdiction, the Parties intend for such restrictions to be modified by such court so as to be reasonable and enforceable and, as so modified by the court, to be fully enforced. In the event of a breach or threatened breach of this Section 9 by the Employee, the Company will be entitled to preliminary and permanent injunctive relief, without bond or security, sufficient to enforce the provisions hereof and the Company will be entitled to pursue such other remedies at law or in equity which it deems appropriate.
+True Label: non-competition
+BERT Prediction: non-competition (conf: 0.2068), Correct? True
+RoBERTa Prediction: non-competition (conf: 0.2755), Correct? True
+Ensemble Prediction: non-competition, Correct? True
+================================================================================
+
+Clause #125:
+Clause Text: During the Employment Period and for one (1) year following termination of Executive’s employment, Executive shall not encourage or solicit any of the Company’s employees to leave the Company’s employ for any reason or interfere in any other manner with employment relationships at the time existing between the Company and its employees; or solicit any client of the Company, induce any of the Company’s clients to terminate its existing business relationship with the Company or interfere in any other manner with any existing business relationship between the Company and any client or other third party. Executive acknowledges that monetary damages may not be sufficient to compensate the Company for any economic loss that may be incurred by reason of his breach of the foregoing restrictive covenants. Accordingly, in the event of any such breach, the Company shall, in addition to any remedies available to the Company at law, be entitled to obtain equitable relief in the form of an injunction precluding Executive from continuing such breach.
+True Label: non-solicitation
+BERT Prediction: non-solicitation (conf: 0.3147), Correct? True
+RoBERTa Prediction: non-solicitation (conf: 0.4949), Correct? True
+Ensemble Prediction: non-solicitation, Correct? True
+================================================================================
+
+Clause #126:
+Clause Text: Employee agrees that for a period of twelve (12) months immediately following the Effective Date of this Agreement, Employee shall not either directly or indirectly solicit, induce, recruit or encourage any of the Company’s employees or consultants to leave their employment or service relationship, or attempt to do so, either for himself or any other person or entity.
+True Label: non-solicitation
+BERT Prediction: non-solicitation (conf: 0.3728), Correct? True
+RoBERTa Prediction: non-solicitation (conf: 0.5394), Correct? True
+Ensemble Prediction: non-solicitation, Correct? True
+================================================================================
+
+Clause #127:
+Clause Text: Employee agrees that, for a period of twelve (12) months immediately following the Effective Date of this Agreement, Employee shall not either directly or indirectly solicit, induce, recruit or encourage any of the Company’s employees or consultants to leave their employment, or attempt to do so, either for himself or any other person or entity.
+True Label: non-solicitation
+BERT Prediction: non-solicitation (conf: 0.3681), Correct? True
+RoBERTa Prediction: non-solicitation (conf: 0.5403), Correct? True
+Ensemble Prediction: non-solicitation, Correct? True
+================================================================================
+
+Clause #128:
+Clause Text: You hereby agree that, for the one (1) year period immediately following the Date of Termination, you shall not, either on your own account or jointly with or as a manager, agent, officer, employee, consultant, partner, joint venturer, owner or shareholder or otherwise on behalf of any other person, firm or corporation, directly or indirectly solicit or attempt to solicit away from the Corporation any of its officers or employees or offer employment to any person who, on or during the six (6) months immediately preceding the date of such solicitation or offer, is or was an officer or employee of the Corporation; provided, however , that a general advertisement to which an employee of the Corporation responds shall in no event be deemed to result in a breach of this Section 7(ii).
+True Label: non-solicitation
+BERT Prediction: non-solicitation (conf: 0.3136), Correct? True
+RoBERTa Prediction: non-solicitation (conf: 0.4273), Correct? True
+Ensemble Prediction: non-solicitation, Correct? True
+================================================================================
+
+Clause #129:
+Clause Text: For a period of one (1) year following the Executive’s termination of employment with the Corporation, whether or not in connection with a Change in Control, the Executive shall not encourage or solicit any of the Corporation’s employees to leave the Corporation’s employ for any reason or interfere in any other manner with employment relationships at the time existing between the Corporation and its employees.
+True Label: non-solicitation
+BERT Prediction: non-solicitation (conf: 0.3466), Correct? True
+RoBERTa Prediction: non-solicitation (conf: 0.5156), Correct? True
+Ensemble Prediction: non-solicitation, Correct? True
+================================================================================
+
+Clause #130:
+Clause Text: For so long as the Employee remains an employee of the Company and for a period of twelve months after the termination of employment with Company for any reason, Employee shall not directly or indirectly (as a principal, shareholder, partner, director, officer, agent, employee, consultant or otherwise) induce or attempt to influence any employee, customer, independent contractor or supplier of Company to terminate employment or any other relationship with Company.
+True Label: non-solicitation
+BERT Prediction: non-solicitation (conf: 0.3402), Correct? True
+RoBERTa Prediction: non-solicitation (conf: 0.5018), Correct? True
+Ensemble Prediction: non-solicitation, Correct? True
+================================================================================
+
+Clause #131:
+Clause Text: Attached hereto as Exhibit A is a certain Employee Non-Competition Nondisclosure and Assignment of Inventions Agreement which is hereby incorporated herein by reference (the “Noncompetition Agreement”). The Executive shall execute and deliver to the Company the Noncompetition Agreement simultaneously with the execution of this Agreement.
+True Label: non-solicitation
+BERT Prediction: intellectual property (conf: 0.0804), Correct? False
+RoBERTa Prediction: confidentiality (conf: 0.1354), Correct? False
+Ensemble Prediction: confidentiality, Correct? False
+================================================================================
+
+Clause #132:
+Clause Text: For a period of one (1) year following the Executive’s termination of employment with the Corporation, whether or not in connection with a Change in Control, the Executive shall not encourage or solicit any of the Corporation’s employees to leave the Corporation’s employ for any reason or interfere in any other manner with employment relationships at the time existing between the Corporation and its employees.
+True Label: non-solicitation
+BERT Prediction: non-solicitation (conf: 0.3466), Correct? True
+RoBERTa Prediction: non-solicitation (conf: 0.5156), Correct? True
+Ensemble Prediction: non-solicitation, Correct? True
+================================================================================
+
+Clause #133:
+Clause Text: Any notice that is required to be given by the parties to each other under the terms of this Agreement shall be in writing, addressed and delivered, or mailed post paid to the other party at the principal place of business of such party.
+True Label: notice
+BERT Prediction: notice (conf: 0.2567), Correct? True
+RoBERTa Prediction: notice (conf: 0.5587), Correct? True
+Ensemble Prediction: notice, Correct? True
+================================================================================
+
+Clause #134:
+Clause Text: Invacare shall give UPP written notice of any breach of warranty with respect to Motors as soon as reasonably possible after Invacare's discovery of any such breach.
+True Label: notice
+BERT Prediction: insurance (conf: 0.0802), Correct? False
+RoBERTa Prediction: notice (conf: 0.1432), Correct? True
+Ensemble Prediction: notice, Correct? True
+================================================================================
+
+Clause #135:
+Clause Text: If an Indemnitee receives notice of the assertion of any claim or of the commencement of any Third Party Claim with respect to which indemnification is to be sought from the Indemnifying Party, the Indemnitee will give such Indemnifying Party reasonable prompt notice thereof. In no event shall such notice be given later than ten (10) days after the Indemnitee's receipt of notice of such Third Party Claim. However, the failure to give timely notice will not affect the rights or obligations of the Indemnifying Party except and only to the extent that, as a result of such failure, the Indemnifying Party was prejudiced. Such notice shall describe the nature of the Third Party Claim in reasonable detail and will indicate the estimated amount, if practicable, of the Loss that has been or may be sustained by the Indemnitee. The Indemnifying Party will have the right to participate in or, by giving notice to the Indemnitee, to elect to assume the defense of, any Third Party Claim at such Indemnifying Party's own expense and by such Indemnifying Party's own counsel, and the Indemnitee will cooperate in good faith in such defense at such Indemnitee's own expense.
+True Label: notice
+BERT Prediction: indemnity (conf: 0.0785), Correct? False
+RoBERTa Prediction: notice (conf: 0.1428), Correct? True
+Ensemble Prediction: notice, Correct? True
+================================================================================
+
+Clause #136:
+Clause Text: For purposes of this Agreement, notices and all other communications must be in writing and are effective when delivered or mailed by United States registered mail, return receipt requested, postage prepaid, addressed to the Executive or his personal representative at his last known address. All notices to the Company must be directed to the attention of the Chairman of the Committee. Such other addresses may be used as either party may have furnished to the other in writing. Notices of change of address are effective only upon receipt.
+True Label: notice
+BERT Prediction: notice (conf: 0.2279), Correct? True
+RoBERTa Prediction: notice (conf: 0.5459), Correct? True
+Ensemble Prediction: notice, Correct? True
+================================================================================
+
+Clause #137:
+Clause Text: Upon the discovery by the Seller, the Depositor, the Servicer, the Indenture Trustee, the Issuer, or any Custodian of a breach of any of the representations and warranties made in the Loan Purchase Agreement, in respect of any Loan which materially and adversely affects the interests of the Securityholders, the party discovering such breach or existence shall give prompt written notice to the other parties. The Servicer shall promptly notify the Seller of such breach and request that, pursuant to the terms of the Loan Purchase Agreement, the Seller either (i) cure such breach in all material respects within 90 days from the date the Seller was notified of such breach or (ii) repurchase such Loan from the Issuer at the price and in the manner set forth in Section 1 or Section 3 of the Loan Purchase Agreement; provided that the Seller shall, subject to compliance with all the conditions set forth in the Loan Purchase Agreement, have the option to substitute an Eligible Substitute Loan or Loans for such Loan. In the event that the Seller elects to substitute one or more Eligible Substitute Loans pursuant to Section 1 or Section 3 of the Loan Purchase Agreement, the Seller shall deliver to the Issuer with respect to such Eligible Substitute Loans, the original Mortgage Note, the Mortgage, and such other documents and agreements as are required by the Loan Purchase Agreement. Payments due with respect to Eligible Substitute Loans in the month of substitution shall not be transferred to the Issuer and will be retained by the Servicer and remitted by the Servicer to the Seller on the next succeeding Payment Date provided a payment at least equal to the applicable Monthly Payment has been received by the Issuer for such month in respect of the Loan to be removed. The Servicer shall amend or cause to be amended the Loan Schedule to reflect the removal of such Loan and the substitution of the Eligible Substitute Loans and the Servicer shall promptly deliver the amended Loan Schedule to the Owner Trustee and the Indenture Trustee.
+True Label: notice
+BERT Prediction: termination (conf: 0.1317), Correct? False
+RoBERTa Prediction: notice (conf: 0.2136), Correct? True
+Ensemble Prediction: notice, Correct? True
+================================================================================
+
+Clause #138:
+Clause Text: The Borrowers herby notify the Agent and the Lenders that the Borrowers, based on current projections, will not be in compliance with the financial covenants set forth in Sections 7.1 and 7.2 of the Credit Agreement for the Reference Periods ending closest to March 31, 2002 and June 30, 2002.
+True Label: notice
+BERT Prediction: insurance (conf: 0.0951), Correct? False
+RoBERTa Prediction: compliance with laws (conf: 0.1871), Correct? False
+Ensemble Prediction: compliance with laws, Correct? False
+================================================================================
+
+Clause #139:
+Clause Text: All notices and other communications given pursuant to this Agreement shall be deemed to have been properly given if hand delivered or mailed addressed to the appropriate party at the address of such party as shown at the beginning of this Agreement, postage prepaid, by certified or registered mail, return receipt requested. Any party may from time to time designate by written notice given in accordance with the provisions of this Section any other address or party to which such notice or communication or copies thereof shall be sent.
+True Label: notice
+BERT Prediction: notice (conf: 0.2624), Correct? True
+RoBERTa Prediction: notice (conf: 0.5678), Correct? True
+Ensemble Prediction: notice, Correct? True
+================================================================================
+
+Clause #140:
+Clause Text: Promptly after receipt by either party hereto seeking indemnification pursuant to Section 7.2 (an "Indemnified Party") of written notice of any investigation, claim, proceeding or other action in respect of which indemnification is being sought (each, a "Claim"), the Indemnified Party promptly shall notify the party against whom indemnification pursuant to Section 7.2 is being sought (the "Indemnifying Party") of the commencement thereof; but the omission to so notify the Indemnifying Party shall not relieve it from any liability that it otherwise may have to the Indemnified Party, except to the extent that the Indemnifying Party is materially prejudiced and forfeits substantive rights and defenses by reason of such failure. In connection with any Claim as to which both the Indemnifying Party and the Indemnified Party are parties, the Indemnifying Party shall be entitled to assume the defense thereof. Notwithstanding the assumption of the defense of any Claim by the Indemnifying Party, the Indemnified Party shall have the right to employ separate legal counsel and to participate in the defense of such Claim, and the Indemnifying Party shall bear the reasonable fees, out-of-pocket costs and expenses of such separate legal counsel to the Indemnified Party if (and only if): (x) the Indemnifying Party shall have agreed to pay such fees, out-of-pocket costs and expenses, (y) the Indemnified Party and the Indemnifying Party reasonably shall have concluded that representation of the Indemnified Party and the Indemnifying Party by the same legal counsel would not be appropriate due to actual or, as reasonably determined by legal counsel to the Indemnified Party, potentially differing interests between such parties in the conduct of the defense of such Claim, or if there may be legal defenses available to the Indemnified Party that are in addition to or disparate from those available to the Indemnifying Party, or (z) the Indemnifying Party shall have failed to employ legal counsel reasonably satisfactory to the Indemnified Party within a reasonable period of time after notice of the commencement of such Claim. If the Indemnified Party employs separate legal counsel in circumstances other than as described in clauses (x), (y) or (z) above, the fees, costs and expenses of such legal counsel shall be borne exclusively by the Indemnified Party. Except as provided above, the Indemnifying Party shall not, in connection with any Claim in the same jurisdiction, be liable for the fees and expenses of more than one firm of legal counsel for the Indemnified Party (together with appropriate local counsel). The Indemnifying Party shall not, without the prior written consent of the Indemnified Party (which consent shall not unreasonably be withheld), settle or compromise any Claim or consent to the entry of any judgment that does not include an unconditional release of the Indemnified Party from all liabilities with respect to such Claim or judgment.
+True Label: notice
+BERT Prediction: indemnity (conf: 0.0937), Correct? False
+RoBERTa Prediction: indemnity (conf: 0.1471), Correct? False
+Ensemble Prediction: indemnity, Correct? False
+================================================================================
+
+Clause #141:
+Clause Text: FMR Corp. (“FMR”) is the parent corporation of the Trustee.
+True Label: relationship
+BERT Prediction: limitation of liability (conf: 0.0734), Correct? False
+RoBERTa Prediction: non-competition (conf: 0.1042), Correct? False
+Ensemble Prediction: non-competition, Correct? False
+================================================================================
+
+Clause #142:
+Clause Text: Seller is an independent contractor and the relationship between the Parties shall be limited to performance of this Purchase Agreement in accordance with its terms. Neither Party shall have any responsibility with respect to the services to be provided or contractual benefits assumed by the other Party. Nothing in this Purchase Agreement shall be deemed to constitute either Party a partner, agent or legal representative of the other Party. No liability or benefits, such as workers’ compensation, pension rights or liabilities, other provisions or liabilities arising out of or related to a contract for hire or employer/employee relationship, shall arise or accrue to any Party’s agent or employee as a result of this Purchase Agreement or its performance.
+True Label: relationship
+BERT Prediction: relationship (conf: 0.1880), Correct? True
+RoBERTa Prediction: relationship (conf: 0.0805), Correct? True
+Ensemble Prediction: relationship, Correct? True
+================================================================================
+
+Clause #143:
+Clause Text: FMR Corp. (“FMR”) is the parent corporation of the Trustee.
+True Label: relationship
+BERT Prediction: limitation of liability (conf: 0.0734), Correct? False
+RoBERTa Prediction: non-competition (conf: 0.1042), Correct? False
+Ensemble Prediction: non-competition, Correct? False
+================================================================================
+
+Clause #144:
+Clause Text: In making and performing this Agreement, the parties are acting and shall act as independent contractors. Nothing in this Agreement shall be deemed to create an agency, joint venture or partnership relationship between the parties hereto. Neither ComTec nor Clients shall hold themselves out as having any authority to enter into any contract or create any obligation or liability on behalf of or binding upon the other party.
+True Label: relationship
+BERT Prediction: relationship (conf: 0.2080), Correct? True
+RoBERTa Prediction: relationship (conf: 0.1220), Correct? True
+Ensemble Prediction: relationship, Correct? True
+================================================================================
+
+Clause #145:
+Clause Text: The representations and warranties of each of the Guarantors and the Borrower contained in the Credit Agreement and the other Loan Documents were true and correct in all material respects as of the date when made and continue to be true and correct in all material respects on the date hereof, except to the extent of changes resulting from transactions contemplated or permitted by the Credit Agreement and the other Loan Documents and changes occurring in the ordinary course of business that singly or in the aggregate are not materially adverse to the Guarantors and the Borrower, taken as a whole, or to the extent that such representations and warranties relate expressly to an earlier date.
+True Label: representation and warranties
+BERT Prediction: compliance with laws (conf: 0.0816), Correct? False
+RoBERTa Prediction: indemnity (conf: 0.0668), Correct? False
+Ensemble Prediction: compliance with laws, Correct? False
+================================================================================
+
+Clause #146:
+Clause Text: The Company represents and warrants that, after giving effect to the provisions of this Amendment, (a) each of the representations and warranties made by the Company in Article VI of the Credit Agreement are true in all material respects on and as of the date hereof as if made on and as of such date, except to the extent that such representations and warranties refer to an earlier date, in which case they were true in all material respects as of such earlier date and except that for this purpose only the date “December 31, 2005” in the last sentence of Section 6.02 of the Credit Agreement shall be changed to “December 31, 2007”, and (b) no Default or Event of Default has occurred and is continuing.
+True Label: representation and warranties
+BERT Prediction: waiver (conf: 0.0825), Correct? False
+RoBERTa Prediction: notice (conf: 0.0765), Correct? False
+Ensemble Prediction: waiver, Correct? False
+================================================================================
+
+Clause #147:
+Clause Text: During the term of this Agreement and not more than once per year (unless circumstances warrant additional audits as described below), Servicer may audit the Asset Representations Reviewer’s policies, procedures and records that relate to the performance of the Asset Representation Reviewer under this Agreement to ensure compliance with this Agreement upon at least ten (10) Business Days’ notice. Notwithstanding the foregoing, the parties agree that Servicer may conduct an audit at any time, in the event of (i) audits required by Servicer’s governmental or regulatory authorities, (ii) investigations of claims of misappropriation, fraud, or business irregularities of a potentially criminal nature, or (iii) Servicer reasonably believes that an audit is necessary to address a material operational problem or issue that poses a threat to Servicer’s business.
+True Label: right to audit
+BERT Prediction: non-competition (conf: 0.0850), Correct? False
+RoBERTa Prediction: non-competition (conf: 0.1272), Correct? False
+Ensemble Prediction: non-competition, Correct? False
+================================================================================
+
+Clause #148:
+Clause Text: Whenever possible, each provision of this Agreement will be interpreted in such manner as to be effective and valid under applicable law, but if any provision of this Agreement is held to be invalid, illegal or unenforceable in any respect under any applicable law or rule in any jurisdiction, such invalidity, illegality or unenforceability will not affect any other provision or any other jurisdiction, but this Agreement will be reformed, construed and enforced in such jurisdiction as if such invalid, illegal or unenforceable provisions had never been contained herein.
+True Label: severability
+BERT Prediction: severability (conf: 0.3642), Correct? True
+RoBERTa Prediction: severability (conf: 0.5965), Correct? True
+Ensemble Prediction: severability, Correct? True
+================================================================================
+
+Clause #149:
+Clause Text: If any provision in this Agreement is held invalid or unenforceable by a body of competent jurisdiction, such provision will be construed, limited or, if necessary, severed to the extent necessary to eliminate such invalidity or unenforceability.  The parties agree to negotiate in good faith a valid, enforceable substitute provision that most nearly effects the parties’ original intent in entering into this Agreement or to provide an equitable adjustment in the event no such provision can be added.  The other provisions of this Agreement will remain in full force and effect.
+True Label: severability
+BERT Prediction: severability (conf: 0.3433), Correct? True
+RoBERTa Prediction: severability (conf: 0.4685), Correct? True
+Ensemble Prediction: severability, Correct? True
+================================================================================
+
+Clause #150:
+Clause Text: If any provision in this Agreement is held invalid or unenforceable by a body of competent jurisdiction, such provision will be modified or, if necessary, severed to the extent necessary to eliminate such invalidity or unenforceability.  The parties agree to negotiate in good faith a valid, enforceable substitute provision that most nearly effects the parties' original intent in entering into this Agreement or to provide an equitable adjustment in the event no such provision can be added.  The other provisions of this Agreement will remain in full force and effect.
+True Label: severability
+BERT Prediction: severability (conf: 0.3453), Correct? True
+RoBERTa Prediction: severability (conf: 0.4535), Correct? True
+Ensemble Prediction: severability, Correct? True
+================================================================================
+
+Clause #151:
+Clause Text: If one or more provisions of this Agreement are held to be unenforceable under applicable law, the parties agree to renegotiate such provision in good faith. In the event that the parties cannot reach a mutually agreeable and enforceable replacement for such provision, then (a) such provision shall be excluded from this Agreement, (b) the balance of the Agreement shall be interpreted as if such provision were so excluded and (c) the balance of the Agreement shall be enforceable in accordance with its terms.
+True Label: severability
+BERT Prediction: severability (conf: 0.3215), Correct? True
+RoBERTa Prediction: severability (conf: 0.4480), Correct? True
+Ensemble Prediction: severability, Correct? True
+================================================================================
+
+Clause #152:
+Clause Text: If any term, condition or provision of this Agreement is held to be unenforceable for any reason, it shall, if possible, be interpreted to achieve the intent of the parties to this Agreement to the extent possible rather than voided.  In any event, all other terms, conditions and provision of this Agreement shall be deemed valid and enforceable to the full extent.
+True Label: severability
+BERT Prediction: severability (conf: 0.3465), Correct? True
+RoBERTa Prediction: severability (conf: 0.5639), Correct? True
+Ensemble Prediction: severability, Correct? True
+================================================================================
+
+Clause #153:
+Clause Text: The parties hereto agree that each provision of this Agreement shall be interpreted in such a manner as to be effective and valid under applicable law. If any provision of this Agreement shall nonetheless be held to be prohibited by or invalid under applicable law (a) such provision shall be ineffective only to the extent of such prohibition or invalidity, without invalidating the remainder of such provision or the remaining provisions of this Agreement, and (b) the parties shall, to the extent permissible by applicable law, amend this Agreement, or enter into a voting trust agreement under which shares of the Investors and the Family Shareholders shall be transferred to the voting trust created thereby, so as to make effective and enforceable the intent of this Agreement.
+True Label: severability
+BERT Prediction: severability (conf: 0.3406), Correct? True
+RoBERTa Prediction: severability (conf: 0.5129), Correct? True
+Ensemble Prediction: severability, Correct? True
+================================================================================
+
+Clause #154:
+Clause Text: The parties agree that this Agreement is severable and that in the event any provision of this Agreement is held to be illegal, invalid or unenforceable, the legality, validity and enforceability of the remaining provisions will not be affected or impaired.  Additionally, the parties expressly grant to any court or other entity interpreting this Agreement the power and authority to modify the terms of this Agreement to extent necessary to allow enforcement of this Agreement to the fullest extent allowed by law, consistent with the intent of the parties as evidenced by this Agreement.
+True Label: severability
+BERT Prediction: severability (conf: 0.3537), Correct? True
+RoBERTa Prediction: severability (conf: 0.3485), Correct? True
+Ensemble Prediction: severability, Correct? True
+================================================================================
+
+Clause #155:
+Clause Text: The invalidity or unenforceability of any provision or provisions of this Agreement shall not affect the validity or enforceability of any other provision hereof, which shall remain in full force and effect.
+True Label: severability
+BERT Prediction: severability (conf: 0.3516), Correct? True
+RoBERTa Prediction: severability (conf: 0.6187), Correct? True
+Ensemble Prediction: severability, Correct? True
+================================================================================
+
+Clause #156:
+Clause Text: Any provision of this Agreement may be amended or waived if, but only if, such amendment or waiver is in writing and is signed, in the case of an amendment, by each party to this Agreement or in the case of a waiver, by the party against whom the waiver is to be effective. This Agreement shall terminate upon the termination of the Merger Agreement in accordance with its terms.
+True Label: termination
+BERT Prediction: amendment (conf: 0.3164), Correct? False
+RoBERTa Prediction: waiver (conf: 0.3536), Correct? False
+Ensemble Prediction: waiver, Correct? False
+================================================================================
+
+Clause #157:
+Clause Text: This Agreement shall terminate forthwith upon termination of the Master Agreement or may be terminated by any party hereto on ten Valuation Days' written notice to the other parties; provided, however, that any such termination shall not affect any repurchase transaction then outstanding or any rights or obligations under this Agreement or the Master Agreement with respect to any actions or omissions of any party hereto prior to termination. In the event of termination, Repo Custodian will deliver any Securities, Cash Collateral or cash held by it or any agent to Custodian or to such successor custodian or custodian or subcustodian as the Participating Funds shall instruct.
+True Label: termination
+BERT Prediction: termination (conf: 0.3581), Correct? True
+RoBERTa Prediction: termination (conf: 0.4413), Correct? True
+Ensemble Prediction: termination, Correct? True
+================================================================================
+
+Clause #158:
+Clause Text: This Agreement shall survive and be in full force and effect so long as any Obligation is outstanding and has not been indefeasibly paid in full in cash, and so long as the LC Exposure has not been reduced to zero or any of the commit ments to make Loans or issue Letters of Credit under the Credit Agreement have not been terminated, and shall continue to be effective or be reinstated, as the case may be, if at any time payment, or any part thereof, of any Obligation is rescinded or must otherwise be restored by any Secured Creditor or any Guarantor upon the bankruptcy or reorganization of any Borrower, any Guarantor or otherwise.
+True Label: termination
+BERT Prediction: termination (conf: 0.1576), Correct? True
+RoBERTa Prediction: termination (conf: 0.2376), Correct? True
+Ensemble Prediction: termination, Correct? True
+================================================================================
+
+Clause #159:
+Clause Text: This Plan of Reorganization and Merger Agreement may be terminated and the Merger abandoned by mutual consent of the respective Boards of Directors of the Banks at any time prior to the Closing Date.
+True Label: termination
+BERT Prediction: termination (conf: 0.1710), Correct? True
+RoBERTa Prediction: termination (conf: 0.2189), Correct? True
+Ensemble Prediction: termination, Correct? True
+================================================================================
+
+Clause #160:
+Clause Text: (a) This Agreement may be terminated at any time prior to the Closing Date by mutual written consent of Sellers and Buyer.
+True Label: termination
+BERT Prediction: termination (conf: 0.1552), Correct? True
+RoBERTa Prediction: amendment (conf: 0.1725), Correct? False
+Ensemble Prediction: amendment, Correct? False
+================================================================================
+
+Clause #161:
+Clause Text: (a) If the Company terminates the Employee's employment during the term of this Agreement other than for "Cause," as defined below, the Employee shall continue to receive the salary stated in this Agreement for the remainder of the term hereof.
+True Label: termination
+BERT Prediction: termination (conf: 0.1423), Correct? True
+RoBERTa Prediction: non-solicitation (conf: 0.2836), Correct? False
+Ensemble Prediction: non-solicitation, Correct? False
+================================================================================
+
+Clause #162:
+Clause Text: The term of this Agreement shall be twenty-four (24) months from the Effective Date.
+True Label: termination
+BERT Prediction: termination (conf: 0.1307), Correct? True
+RoBERTa Prediction: termination (conf: 0.1354), Correct? True
+Ensemble Prediction: termination, Correct? True
+================================================================================
+
+Clause #163:
+Clause Text: This Agreement shall terminate forthwith upon termination of the Master Agreement or may be terminated by any party hereto on ten Valuation Days' written notice to the other parties; provided, however, that any such termination shall not affect any repurchase transaction then outstanding or any rights or obligations under this Agreement or the Master Agreement with respect to any actions or omissions of any party hereto prior to termination. In the event of termination, Repo Custodian will deliver any Securities, Cash Collateral or cash held by it or any agent to Custodian or to such successor custodian or custodian or subcustodian as the Participating Funds shall instruct.
+True Label: termination
+BERT Prediction: termination (conf: 0.3581), Correct? True
+RoBERTa Prediction: termination (conf: 0.4413), Correct? True
+Ensemble Prediction: termination, Correct? True
+================================================================================
+
+Clause #164:
+Clause Text: Except as set forth in Articles IX or X, nothing herein shall in any manner create any obligations or establish any rights against the Reinsurer in favor of any Person not a party to this Agreement.
+True Label: third party rights
+BERT Prediction: relationship (conf: 0.1314), Correct? False
+RoBERTa Prediction: waiver (conf: 0.1192), Correct? False
+Ensemble Prediction: relationship, Correct? False
+================================================================================
+
+Clause #165:
+Clause Text: Notwithstanding the foregoing, the Parties acknowledge that the Third Parties set forth in Schedule 2.1(b) have certain distribution and other rights in the Field regarding the CoSeal Sealant Unit or the CoSeal Sealant Product in portions of the Sealant Territory and Japan as of the Effective Date, as described in Schedule 2.1(b) (“Third Party Rights”).  The parties acknowledge that these Third Party Rights do not include research use only rights and limited non-commercial rights granted to Third Parties pursuant to material transfer agreements or feasibility study agreements.  To the extent permitted under such Third Party Rights, and without breaching any agreements governing such Third Party Rights, AAC shall use its Commercially Reasonable Efforts to exercise its termination rights under such Third Party Rights; provided that such Third Party Rights shall be terminated no later than seven (7) months after the Effective Date.  Baxter recognizes and agrees that AAC may need to conduct a “winding down” process with respect to such terminated Third Party Rights, which may include (for instance) the right to sell inventory on hand and the like; provided, however, that such “winding down” process shall be completed not later than twelve (12) months after the Effective Date.  In the event that such Third Party Rights are terminated, AAC shall promptly transfer the corresponding rights to Baxter. The Parties shall determine procedures and activities to be undertaken by the Parties to ensure a transition of such CoSeal Sealant Unit distribution, sales and marketing rights to Baxter with minimal detrimental effect to the supply of CoSeal Sealant Unit(s) in the market place.  If such Third Party Rights cannot be terminated as set forth herein, then Baxter, at its option, may require AAC to assign all rights and benefits under such Third Party Rights to Baxter; provided, however, that Baxter will not assume, and AAC will retain, all duties and obligations owing under such Third Party Rights.
+True Label: third party rights
+BERT Prediction: intellectual property (conf: 0.1475), Correct? False
+RoBERTa Prediction: intellectual property (conf: 0.1239), Correct? False
+Ensemble Prediction: intellectual property, Correct? False
+================================================================================
+
+Clause #166:
+Clause Text: The provisions of this Agreement may be waived only in a writing signed by the party against whom such waiver is sought to be enforced. The failure of either party, at any time or times, to require performance of any provision hereof shall in no manner affect such party's right to enforce the same provision at a later time. No waiver by either party of any condition, or the breach of any term, agreement or covenant in this Agreement, whether by conduct or otherwise, in any one or more instances, shall be construed as a further or continuing waiver of any such condition or breach or waiver of any other condition or breach of any other term, agreement or covenant of this Agreement.
+True Label: waiver
+BERT Prediction: waiver (conf: 0.4236), Correct? True
+RoBERTa Prediction: waiver (conf: 0.5488), Correct? True
+Ensemble Prediction: waiver, Correct? True
+================================================================================
+
+Clause #167:
+Clause Text: This Agreement may be modified or amended only by a writing signed by both parties hereto. No delay or failure on the part of either party in exercising any right or remedy under this Agreement or any other Loan Document will operate as a waiver of such right or any other right. A waiver given on one occasion will not be construed as a bar to, or as a waiver of, any right or remedy on any future occasion.
+True Label: waiver
+BERT Prediction: waiver (conf: 0.3826), Correct? True
+RoBERTa Prediction: waiver (conf: 0.5035), Correct? True
+Ensemble Prediction: waiver, Correct? True
+================================================================================
+
+Clause #168:
+Clause Text: The validity, construction and performance of this Note will be governed by the internal laws of the State of California, excluding that body of law pertaining to conflicts of law. Borrower hereby waives presentment, notice of non-payment, notice of dishonor, protest, demand and diligence.
+True Label: waiver
+BERT Prediction: governing law and jurisdiction (conf: 0.4080), Correct? False
+RoBERTa Prediction: governing law and jurisdiction (conf: 0.5491), Correct? False
+Ensemble Prediction: governing law and jurisdiction, Correct? False
+================================================================================
+
+Clause #169:
+Clause Text: The provisions of this Agreement may be waived only in a writing signed by the party against whom such waiver is sought to be enforced. The failure of either party, at any time or times, to require performance of any provision hereof shall in no manner affect such party's right to enforce the same provision at a later time. No waiver by either party of any condition, or the breach of any term, agreement or covenant in this Agreement, whether by conduct or otherwise, in any one or more instances, shall be construed as a further or continuing waiver of any such condition or breach or waiver of any other condition or breach of any other term, agreement or covenant of this Agreement.
+True Label: waiver
+BERT Prediction: waiver (conf: 0.4236), Correct? True
+RoBERTa Prediction: waiver (conf: 0.5488), Correct? True
+Ensemble Prediction: waiver, Correct? True
+================================================================================
+
+Clause #170:
+Clause Text: Any waiver by either Party of a breach of any provision of this Consulting Agreement shall not operate as or be construed to be a waiver of any other breach of that provision or of any breach of any other provision of this Consulting Agreement. The failure of a Party to insist upon strict adherence to any term of this Consulting Agreement on one or more occasions will not be considered a waiver or deprive that Party of the right thereafter to insist upon adherence to that term of any other term of this Consulting Agreement.
+True Label: waiver
+BERT Prediction: waiver (conf: 0.3944), Correct? True
+RoBERTa Prediction: waiver (conf: 0.5105), Correct? True
+Ensemble Prediction: waiver, Correct? True
+================================================================================
+
+Clause #171:
+Clause Text: Purchaser or Seller, as the case may be, reserves the right to waive, in whole or in part, any provision hereof which is for the benefit of the party so waiving, including without limitation any condition precedent under Paragraph 12 hereof.
+True Label: waiver
+BERT Prediction: waiver (conf: 0.3163), Correct? True
+RoBERTa Prediction: waiver (conf: 0.3268), Correct? True
+Ensemble Prediction: waiver, Correct? True
+================================================================================
+
+Clause #172:
+Clause Text: Failure of either party to insist, in one or more instances, on performance by the other in strict accordance with the terms and conditions of this Agreement shall not be deemed a waiver or relinquishment of any right granted in this Agreement or the future performance of any such term or condition or of any other term or condition of this Agreement, unless such waiver is contained in a writing signed by the party making the waiver.
+True Label: waiver
+BERT Prediction: waiver (conf: 0.3804), Correct? True
+RoBERTa Prediction: waiver (conf: 0.5283), Correct? True
+Ensemble Prediction: waiver, Correct? True
+================================================================================
+
+Clause #173:
+Clause Text: This Agreement constitutes the entire agreement between the Parties pertaining to the subject matter contained in it and supersedes all prior and contemporaneous agreements, representations, and understandings of the Parties. The Recitals are incorporated as part of the Agreement. No supplement, modification, or amendment of this Agreement shall be binding unless executed in writing by all the Parties. No waiver of any of the provisions of this Agreement shall be deemed, or shall constitute, a waiver of any other provision, whether or not similar, nor shall any waiver constitute a continuing waiver. No waiver shall be binding unless executed in writing by the Party making the waiver.
+True Label: waiver
+BERT Prediction: entire agreement (conf: 0.3679), Correct? False
+RoBERTa Prediction: entire agreement (conf: 0.4873), Correct? False
+Ensemble Prediction: entire agreement, Correct? False
+================================================================================
+
+BERT Accuracy: 144/174 = 82.76%
+RoBERTa Accuracy: 143/174 = 82.18%
+Ensemble Accuracy: 146/174 = 83.91%

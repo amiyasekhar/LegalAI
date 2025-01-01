@@ -115,7 +115,6 @@ def generate_constituent_parts(contract):
     # Potentially you might want some error handling here
     response = openai.chat.completions.create(
         model="gpt-4o",
-        #model="o1"
         temperature=0,
         top_p=1,
         messages=[
@@ -126,117 +125,75 @@ def generate_constituent_parts(contract):
     generated_answer = response.choices[0].message.content
     return generated_answer
 
-def process_docx_file(docx_path, output_base_dir):
+def docx_to_formatted_txt_with_right_spacing(path):
     """
-    Process a single DOCX file.
-    Returns True if processing was successful, False otherwise.
+    If path is a file and ends with .docx, process it.
+    Otherwise, do nothing (return empty string).
     """
-    try:
-        # Validate input file
-        if not os.path.isfile(docx_path):
-            debug_log(f"Error: {docx_path} is not a file")
-            return False
-            
-        if not docx_path.endswith('.docx'):
-            debug_log(f"Error: {docx_path} is not a DOCX file")
-            return False
-            
-        # Create contract-specific output directory
-        contract_name = Path(docx_path).stem
-        contract_dir = os.path.join(output_base_dir, contract_name)
-        os.makedirs(contract_dir, exist_ok=True)
-        
-        debug_log(f"\nProcessing contract: {docx_path}")
-
-        # Convert DOCX to text
-        try:
-            with open(docx_path, 'rb') as infile:
-                doc = docx2txt.process(infile)
-                txt_path = os.path.join(contract_dir, f"{contract_name}.txt")
-                with open(txt_path, 'w', encoding='utf-8') as outfile:
-                    outfile.write(doc)
-        except Exception as e:
-            debug_log(f"Error converting DOCX to text: {str(e)}")
-            return False
-
-        # Split into chunks
-        try:
-            chunks = split_into_chunks(txt_path)
-            chunks_dir = os.path.join(contract_dir, "chunks")
-            write_chunks_to_files(chunks, chunks_dir)
-        except Exception as e:
-            debug_log(f"Error splitting into chunks: {str(e)}")
-            return False
-
-        # Generate legal clause breakdown
-        constituent_parts = []
-        try:
-            for filename in sorted(os.listdir(chunks_dir)):
-                if filename.startswith('chunk_'):
-                    file_path = os.path.join(chunks_dir, filename)
-                    with open(file_path, "r", encoding="utf-8") as chunk_file:
-                        chunk_content = chunk_file.read()
-                        result = generate_constituent_parts(chunk_content)
-                        constituent_parts.append(result)
-        except Exception as e:
-            debug_log(f"Error generating clause breakdown: {str(e)}")
-            return False
-
-        # Write final breakdown
-        try:
-            broken_down_file = os.path.join(contract_dir, f"{contract_name}_broken_down.txt")
-            with open(broken_down_file, "w", encoding="utf-8") as out_file:
-                for parts in constituent_parts:
-                    debug_log(parts)
-                    out_file.write(parts + "\n")
-        except Exception as e:
-            debug_log(f"Error writing final breakdown: {str(e)}")
-            return False
-
-        debug_log(f"Successfully processed: {docx_path}")
-        return True
-
-    except Exception as e:
-        debug_log(f"Unexpected error processing {docx_path}: {str(e)}")
-        return False
-
-def process_directory(input_dir, output_dir):
-    """Process all DOCX files in a directory."""
-    os.makedirs(output_dir, exist_ok=True)
+    if os.path.isfile(path) and path.endswith('.docx'):
+        docx_files = [path]
+    else:
+        # If path is just a directory (or anything else),
+        # then do not collect any docx files:
+        docx_files = []
     
-    # Get all DOCX files in the directory
-    docx_files = glob.glob(os.path.join(input_dir, "*.docx"))
+    debug_log(f"docx_files = {docx_files}")
     
     if not docx_files:
-        debug_log(f"No DOCX files found in {input_dir}")
-        return
+        debug_log("No files to process because path is a directory or not a .docx file.")
+        return ""
     
-    debug_log(f"Found {len(docx_files)} DOCX files to process")
+    accumulated_text = []
+    for file_name in docx_files:
+        with open(file_name, 'rb') as infile:
+            doc = docx2txt.process(infile)
+            out_txt_filename = file_name[:-5] + ".txt"
+            with open(out_txt_filename, 'w', encoding='utf-8') as outfile:
+                outfile.write(doc)
+            accumulated_text.append(doc)
     
-    # Process each file
-    successful = 0
-    failed = 0
-    
-    for i, docx_path in enumerate(docx_files, 1):
-        print(f"Processing file {i}/{len(docx_files)}: {Path(docx_path).name}")
-        if process_docx_file(docx_path, output_dir):
-            successful += 1
-        else:
-            failed += 1
-    
-    debug_log(f"\nProcessing complete!")
-    debug_log(f"Successfully processed: {successful} files")
-    debug_log(f"Failed to process: {failed} files")
-    
-    print(f"\nProcessing complete!")
-    print(f"Successfully processed: {successful} files")
-    print(f"Failed to process: {failed} files")
+    return "\n".join(accumulated_text)
 
+
+# --------------------------
+# Main script logic
+# --------------------------
 if __name__ == "__main__":
-    # Directory containing DOCX files
-    contracts_dir = "/Users/amiyasekhar/CLM/contracts"
-    
-    # Base output directory
-    output_dir = "/Users/amiyasekhar/CLM/processed_contracts"
-    
-    process_directory(contracts_dir, output_dir)
+    # 1. Extract text from docx (if a single file was given)
+    contract_text = docx_to_formatted_txt_with_right_spacing(
+        "/Users/amiyasekhar/CLM/contracts/1.Contract.docx"
+    )
+
+    # 2. Split into chunks
+    chunks = split_into_chunks(
+        file_path="/Users/amiyasekhar/CLM/contracts/1.Contract.txt", 
+        chunk_size=128000, 
+        model="gpt-4o"
+    )
+    output_directory = "/Users/amiyasekhar/CLM/chunks"
+    broken_down_contract_file = "/Users/amiyasekhar/CLM/broken_down_contract.txt"
+
+    # 3. Write chunk files
+    write_chunks_to_files(chunks, output_directory)
+
+    # 4. Generate legal clause breakdown
+    constituent_parts = []
+    itr = 0
+    for filename in os.listdir(output_directory):
+        file_path = os.path.join(output_directory, filename)
+        if os.path.isfile(file_path):
+            with open(file_path, "r", encoding="utf-8") as chunk_file:
+                chunk_content = chunk_file.read()
+                # is_continuation_chunk = False if itr == 0 else True
+                # itr += 1
+                # Grab the GPT response
+                result = generate_constituent_parts(chunk_content)
+                constituent_parts.append(result)
+
+    # 5. Write final breakdown to a single file
+    with open(broken_down_contract_file, "w", encoding="utf-8") as out_file:
+        for parts in constituent_parts:
+            debug_log(parts)  # Also store the GPT output in debug file
+            out_file.write(parts + "\n")
+
+    debug_log("=== END OF SCRIPT ===")
