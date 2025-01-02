@@ -115,7 +115,6 @@ def generate_constituent_parts(contract):
     # Potentially you might want some error handling here
     response = openai.chat.completions.create(
         model="gpt-4o",
-        #model="o1"
         temperature=0,
         top_p=1,
         messages=[
