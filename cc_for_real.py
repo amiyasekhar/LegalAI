@@ -101,9 +101,10 @@ def main():
         validation_df = pd.concat(validation_df_list).reset_index(drop=True)
 
         # Build Hugging Face datasets
-        train_dataset = Dataset.from_pandas(train_df[['Clause Content', 'labels']])
-        val_dataset = Dataset.from_pandas(validation_df[['Clause Content', 'labels']])
-        dataset = DatasetDict({"train": train_dataset, "validation": val_dataset})
+        dataset = DatasetDict({
+            "train": Dataset.from_pandas(train_df[['Clause Content', 'labels']]),
+            "validation": Dataset.from_pandas(validation_df[['Clause Content', 'labels']])
+        })
 
         # Load base models + tokenizers
         print("Loading base 'legal-bert-base-uncased'...")
@@ -297,7 +298,78 @@ def main():
     write_to_file(output_file, summary)
     print(summary)
     print("Now we will be doing this to real test clauses")
-    
+
+    # ----------------------------------------------------------------
+    # Process real ./processed_contracts to run the model on each clause
+    # ----------------------------------------------------------------
+    real_test_output = os.path.join(output_directory, "real_test.txt")
+    with open(real_test_output, "w", encoding="utf-8") as f:
+        f.write("=== REAL TEST CLAUSES PREDICTIONS ===\n\n")
+
+    # Root directory for processed contracts
+    processed_contracts_dir = "./processed_contracts"
+    # If your code expects an absolute path, adjust accordingly
+
+    # Delimiter used in the *_broken_down.txt files
+    delimiter = "-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-"
+
+    # Traverse each contract directory in ./processed_contracts
+    if os.path.exists(processed_contracts_dir):
+        for contract_dir in os.listdir(processed_contracts_dir):
+            contract_path = os.path.join(processed_contracts_dir, contract_dir)
+            if os.path.isdir(contract_path):
+                # (Optional) If you want just the folder name without extension:
+                # contract_name = contract_dir.replace(".Contract", "")
+                contract_name = contract_dir  # or parse as needed
+
+                # Find the _broken_down.txt file
+                for fname in os.listdir(contract_path):
+                    if fname.endswith("_broken_down.txt"):
+                        broken_down_file = os.path.join(contract_path, fname)
+
+                        with open(broken_down_file, "r", encoding="utf-8") as fd:
+                            content = fd.read()
+
+                        # Split by the delimiter to get individual clauses
+                        clauses = content.split(delimiter)
+
+                        # For each clause, get predictions
+                        for i, clause_text in enumerate(clauses):
+                            clause_text = clause_text.strip()
+                            if not clause_text:
+                                continue
+
+                            # Run BERT predictions
+                            bert_pred_id, bert_conf = get_predictions(
+                                legal_bert_model, legal_bert_tokenizer, clause_text
+                            )
+                            bert_pred_str = id2label.get(bert_pred_id, "UNKNOWN")
+
+                            # Run RoBERTa predictions
+                            roberta_pred_id, roberta_conf = get_predictions(
+                                legal_roberta_model, legal_roberta_tokenizer, clause_text
+                            )
+                            roberta_pred_str = id2label.get(roberta_pred_id, "UNKNOWN")
+
+                            # Confidence-based ensemble
+                            predictions = [bert_pred_id, roberta_pred_id]
+                            confidences = [bert_conf, roberta_conf]
+                            final_pred_id = predictions[np.argmax(confidences)]
+                            final_pred_str = id2label.get(final_pred_id, "UNKNOWN")
+
+                            # Log results to real_test.txt, including contract name
+                            write_to_file(real_test_output, f"Contract Name: {contract_name}\n")
+                            write_to_file(real_test_output, f"Clause #{i}\n")
+                            write_to_file(real_test_output, f"Clause Text:\n{clause_text}\n")
+                            write_to_file(real_test_output, f"BERT Prediction: {bert_pred_str} (conf: {bert_conf:.4f})\n")
+                            write_to_file(real_test_output, f"RoBERTa Prediction: {roberta_pred_str} (conf: {roberta_conf:.4f})\n")
+                            write_to_file(real_test_output, f"Ensemble Prediction: {final_pred_str}\n")
+                            write_to_file(real_test_output, "=" * 80 + "\n\n")
+    else:
+        print(f"Directory not found: {processed_contracts_dir}")
+
+    print("Done processing real test clauses!")
+
 
 if __name__ == "__main__":
     main()
