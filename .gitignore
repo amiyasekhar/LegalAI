@@ -3,6 +3,7 @@
 /fine_tuned_legal_roberta/
 /fine_tuned_legal_bert/
 /results/
-/AI-Contract-Review/results/checkpoint-255/model.safetensors
+/AI-Contract-Review/
 /results/checkpoint-255/optimizer.pt
 /results_optuna/
+/word_Addin/
