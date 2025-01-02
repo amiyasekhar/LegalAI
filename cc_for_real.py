@@ -296,7 +296,8 @@ def main():
 
     write_to_file(output_file, summary)
     print(summary)
-    print("Done with the main() function!")
+    print("Now we will be doing this to real test clauses")
+    
 
 if __name__ == "__main__":
     main()
