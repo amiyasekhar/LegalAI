@@ -273,6 +273,9 @@ def main():
         "train": Dataset.from_pandas(train_df[['Clause Content', 'labels']]),
         "validation": Dataset.from_pandas(val_df[['Clause Content', 'labels']])
     })
+    '''
+    hi
+    '''
 
     # Tokenizers
     bert_tokenizer = BertTokenizer.from_pretrained("nlpaueb/legal-bert-base-uncased")
