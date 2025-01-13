@@ -2,7 +2,10 @@
 /Dhananjay/
 /fine_tuned_legal_roberta/
 /fine_tuned_legal_bert/
+/fine_tuned_legal_roberta_tokenizer/
+/fine_tuned_legal_bert_tokenizer/
 /results/
 /AI-Contract-Review/
 /results/checkpoint-255/optimizer.pt
 /results_optuna/
+/bert_results/
