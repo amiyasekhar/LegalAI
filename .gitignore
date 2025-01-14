@@ -10,3 +10,13 @@
 /results_optuna/
 /bert_results/
 /roberta_results/
+/fine_tuned_legal_roberta_v2/
+/fine_tuned_legal_roberta_tokenizer_v2/
+/fine_tuned_legal_bert_v2/
+/fine_tuned_legal_bert_tokenizer_v2/
+/bert_results_v2/
+/roberta_results_v2/
+/bert_distill_ewc_results/
+/roberta_distill_ewc_results/
+/bert_distill_ewc_results_80_20/
+/roberta_distill_ewc_results_80_20/

@@ -1,19 +1,31 @@
+#!/usr/bin/env python3
+
 import os
+import copy
 import torch
 import numpy as np
 import pandas as pd
+import torch.nn as nn
+import torch.nn.functional as F
+
+from torch.utils.data import DataLoader
 from transformers import (
     BertForSequenceClassification,
     RobertaForSequenceClassification,
     Trainer,
     TrainingArguments,
-    BertTokenizer,
-    RobertaTokenizer
+    BertTokenizer,      # <--- Imported globally
+    RobertaTokenizer,   # <--- Imported globally
+    TrainerCallback,
+    TrainerState,
+    TrainerControl,
+    default_data_collator
 )
-from datasets import Dataset, DatasetDict
+from datasets import Dataset
+from sklearn.model_selection import train_test_split
 
 # -------------------------------------------------------------------------
-# Helper functions to freeze layers
+# 1) Freeze Layers
 # -------------------------------------------------------------------------
 def freeze_bert_layers(model, freeze_until=0):
     """Freezes the first `freeze_until` encoder layers in a BERT model."""
@@ -30,21 +42,17 @@ def freeze_roberta_layers(model, freeze_until=0):
                 param.requires_grad = False
 
 # -------------------------------------------------------------------------
-# Custom TrainerCallback to log more info each epoch
+# 2) Extended Logging Callback
 # -------------------------------------------------------------------------
-from transformers import TrainerCallback, TrainerState, TrainerControl
-
 class ExtendedLoggingCallback(TrainerCallback):
     """
-    Logs epoch-by-epoch val loss, val accuracy, LR, etc. 
-    Also can log gradient norms on_log if needed.
+    Logs epoch-by-epoch training loss, LR, etc. to a file.
     """
     def __init__(self, logfile):
         super().__init__()
-        self.logfile = logfile  # file path for logging
+        self.logfile = logfile
 
     def on_log(self, args, state: TrainerState, control: TrainerControl, logs=None, **kwargs):
-        """Called after each logging step. We can log epoch, loss, val_acc, LR, etc."""
         if logs is None:
             return
         epoch = state.epoch or 0
@@ -53,78 +61,58 @@ class ExtendedLoggingCallback(TrainerCallback):
             f.write(f"[Step={step}, Epoch={epoch:.2f}] {logs}\n")
 
 # -------------------------------------------------------------------------
-# Helper functions to expand classifier heads
+# 3) Expand BERT & RoBERTa Classifiers
 # -------------------------------------------------------------------------
-import torch.nn as nn
-
 def expand_bert_classifier(model, new_labels):
-    """
-    Expands the final classification layer in a BertForSequenceClassification
-    to accommodate new labels, preserving old weights and biases.
-    """
     old_label2id = model.config.label2id
-    old_id2label = model.config.id2label
-
-    # Count how many labels we had
     old_num_labels = len(old_label2id)
-    hidden_size = model.classifier.in_features  # BERT's final layer is model.classifier (nn.Linear)
 
-    # Expand label2id/id2label
+    hidden_size = model.classifier.in_features
+    old_classifier = model.classifier
+    W_old = old_classifier.weight.data.clone()
+    b_old = old_classifier.bias.data.clone()
+
+    # Add new labels if missing
     start_index = old_num_labels
     for lbl in new_labels:
-        old_label2id[lbl] = start_index
-        start_index += 1
+        if lbl not in old_label2id:
+            old_label2id[lbl] = start_index
+            start_index += 1
 
-    # Build updated id2label
-    new_id2label = {idx: lbl for lbl, idx in old_label2id.items()}
+    new_num_labels = len(old_label2id)
     model.config.label2id = old_label2id
-    model.config.id2label = new_id2label
-
-    # Create a new classifier layer
-    new_num_labels = old_num_labels + len(new_labels)
-    old_classifier = model.classifier  # This is nn.Linear
-    W_old = old_classifier.weight.data
-    b_old = old_classifier.bias.data
+    model.config.id2label = {v: k for k, v in old_label2id.items()}
+    model.config.num_labels = new_num_labels
+    model.num_labels = new_num_labels
 
     new_classifier = nn.Linear(hidden_size, new_num_labels)
-    # Copy old weights/bias into new
     with torch.no_grad():
         new_classifier.weight[:old_num_labels, :] = W_old
         new_classifier.bias[:old_num_labels] = b_old
 
     model.classifier = new_classifier
 
-
 def expand_roberta_classifier(model, new_labels):
-    """
-    Expands the final classification layer in a RobertaForSequenceClassification
-    to accommodate new labels, preserving old weights and biases.
-    By default in HF, the final Linear is model.classifier.out_proj.
-    """
     old_label2id = model.config.label2id
-    old_id2label = model.config.id2label
-
-    # Count how many labels we had
     old_num_labels = len(old_label2id)
-    # For RoBERTa, the final linear layer is model.classifier.out_proj
-    old_classifier = model.classifier.out_proj
-    hidden_size = old_classifier.in_features
 
-    # Expand label2id/id2label
+    out_proj = model.classifier.out_proj
+    hidden_size = out_proj.in_features
+    W_old = out_proj.weight.data.clone()
+    b_old = out_proj.bias.data.clone()
+
+    # Add new labels
     start_index = old_num_labels
     for lbl in new_labels:
-        old_label2id[lbl] = start_index
-        start_index += 1
+        if lbl not in old_label2id:
+            old_label2id[lbl] = start_index
+            start_index += 1
 
-    # Build updated id2label
-    new_id2label = {idx: lbl for lbl, idx in old_label2id.items()}
+    new_num_labels = len(old_label2id)
     model.config.label2id = old_label2id
-    model.config.id2label = new_id2label
-
-    # Create a new classifier layer
-    new_num_labels = old_num_labels + len(new_labels)
-    W_old = old_classifier.weight.data
-    b_old = old_classifier.bias.data
+    model.config.id2label = {v: k for k, v in old_label2id.items()}
+    model.config.num_labels = new_num_labels
+    model.num_labels = new_num_labels
 
     new_out_proj = nn.Linear(hidden_size, new_num_labels)
     with torch.no_grad():
@@ -134,387 +122,533 @@ def expand_roberta_classifier(model, new_labels):
     model.classifier.out_proj = new_out_proj
 
 # -------------------------------------------------------------------------
-def main():
+# 4) Compute Fisher for EWC
+# -------------------------------------------------------------------------
+def compute_fisher_diagonal(model, dataloader, device):
     """
-    1) Loads existing fine-tuned BERT & RoBERTa.
-    2) Expands their classifier heads with 4 new labels.
-    3) Continues training them using the new Excel clauses.
-    4) Versions the updated models to *_v2 folders.
-    5) Builds an 80-20 split from the entire data for 'validation' & 'test'.
-    6) Evaluates updated models on validation set, test set, and real contracts.
-    7) Logs predictions & accuracies similarly to your existing script.
+    Approx. diag(Fisher) for EWC. We'll do forward-backward for each batch,
+    accumulate grad^2, then average over all batches.
     """
-    ############################################################################
-    # Basic setup
-    ############################################################################
-    output_directory = './'
-    debug_file_path = "./debugging_cc_for_real.txt"
-    training_log_file = "./training_log.txt"
+    model.eval()
+    fisher = {}
+    for n, p in model.named_parameters():
+        if p.requires_grad:
+            fisher[n] = torch.zeros_like(p.data)
 
-    # Clean old logs if desired
-    if os.path.exists(training_log_file):
-        os.remove(training_log_file)
-    if os.path.exists(debug_file_path):
-        os.remove(debug_file_path)
-        print(f"Deleted: {debug_file_path}")
+    for batch in dataloader:
+        for k, v in batch.items():
+            batch[k] = v.to(device)
 
-    # Device
-    device = torch.device("mps" if torch.backends.mps.is_available() else "cpu")
+        model.zero_grad()
+        outputs = model(**batch)
+        loss = outputs.loss
+        loss.backward()
 
-    # Paths to your already fine-tuned models
-    old_bert_model_path = "./fine_tuned_legal_bert"
-    old_bert_tokenizer_path = "./fine_tuned_legal_bert_tokenizer"
-    old_roberta_model_path = "./fine_tuned_legal_roberta"
-    old_roberta_tokenizer_path = "./fine_tuned_legal_roberta_tokenizer"
+        for n, p in model.named_parameters():
+            if p.requires_grad and p.grad is not None:
+                fisher[n] += p.grad.data**2
 
-    # Where we'll save the *updated* models (versioning)
-    new_bert_model_path = "./fine_tuned_legal_bert_v2"
-    new_bert_tokenizer_path = "./fine_tuned_legal_bert_tokenizer_v2"
-    new_roberta_model_path = "./fine_tuned_legal_roberta_v2"
-    new_roberta_tokenizer_path = "./fine_tuned_legal_roberta_tokenizer_v2"
+    # average
+    for n in fisher:
+        fisher[n] /= len(dataloader)
 
-    ############################################################################
-    # 1) Load existing (already fine-tuned) BERT & RoBERTa
-    ############################################################################
-    if (not os.path.exists(old_bert_model_path)) or (not os.path.exists(old_roberta_model_path)):
-        raise FileNotFoundError(
-            "Could not find existing fine-tuned model folders. "
-            "Make sure you have fine_tuned_legal_bert/ and fine_tuned_legal_roberta/ first."
-        )
+    model.train()
+    return fisher
 
-    print("Loading existing fine-tuned BERT & RoBERTa...")
-    legal_bert_model = BertForSequenceClassification.from_pretrained(old_bert_model_path).to(device)
-    legal_bert_tokenizer = BertTokenizer.from_pretrained(old_bert_tokenizer_path)
+# -------------------------------------------------------------------------
+# 5) Distill+EWC Trainer
+# -------------------------------------------------------------------------
+class DistillEWCTrainer(Trainer):
+    """
+    A custom Trainer that does partial-slice EWC + Distillation
+    (only for old-labeled batches).
+    """
+    def __init__(
+        self,
+        old_model=None,
+        fisher=None,
+        ewc_lambda=500.0,
+        distil_alpha=0.3,
+        old_params=None,
+        old_label_ids=None,
+        *args, **kwargs
+    ):
+        super().__init__(*args, **kwargs)
+        self.old_model = old_model
+        self.fisher = fisher
+        self.ewc_lambda = ewc_lambda
+        self.distil_alpha = distil_alpha
+        self.old_params = old_params if old_params else {}
+        self.old_label_ids = set(old_label_ids) if old_label_ids else set()
 
-    legal_roberta_model = RobertaForSequenceClassification.from_pretrained(old_roberta_model_path).to(device)
-    legal_roberta_tokenizer = RobertaTokenizer.from_pretrained(old_roberta_tokenizer_path)
+        if old_model is not None and not self.old_params:
+            for n, p in old_model.named_parameters():
+                self.old_params[n] = p.data.clone()
 
-    ############################################################################
-    # 2) Expand classifier heads for new labels
-    ############################################################################
-    # Suppose your original model had N labels; now we add 4 new ones:
-    new_labels = ["dispute resolution", "fee", "invoice", "price and payment"]
+    def compute_loss(self, model, inputs, return_outputs=False, **kwargs):
+        import torch.nn.functional as F
+        labels = inputs["labels"].to(model.device)
+        outputs = model(**{k: v for k, v in inputs.items() if k != "labels"})
+        logits = outputs.logits
+        ce_loss = nn.CrossEntropyLoss()(logits, labels)
 
-    # Expand BERT's final layer
-    print("Expanding BERT classifier for new labels...")
-    expand_bert_classifier(legal_bert_model, new_labels)
+        # Distill only if entire batch is old-labeled
+        unique_labels = labels.unique().cpu().tolist()
+        do_distill = all(lbl_id in self.old_label_ids for lbl_id in unique_labels)
 
-    # Expand RoBERTa's final layer
-    print("Expanding RoBERTa classifier for new labels...")
-    expand_roberta_classifier(legal_roberta_model, new_labels)
+        distill_loss = 0.0
+        if do_distill and self.old_model is not None:
+            with torch.no_grad():
+                old_out = self.old_model(**{k: v for k, v in inputs.items() if k != "labels"})
+                old_logits = old_out.logits
+            old_dim = old_logits.shape[1]
+            student_logits_for_old = logits[:, :old_dim]
 
-    # (Optional) Freeze layers if desired
-    freeze_bert_layers(legal_bert_model, freeze_until=1)
-    freeze_roberta_layers(legal_roberta_model, freeze_until=1)
+            T = 1.0
+            new_log_probs = F.log_softmax(student_logits_for_old / T, dim=-1)
+            old_probs = F.softmax(old_logits / T, dim=-1)
+            kd = F.kl_div(new_log_probs, old_probs, reduction="batchmean") * (T**2)
+            distill_loss = kd * self.distil_alpha
 
-    ############################################################################
-    # 3) Read all data: Clauses 1.csv, Clauses 2.csv, and the new .xlsx
-    ############################################################################
-    df1 = pd.read_csv("Clauses 1.csv")
-    df2 = pd.read_csv("Clauses 2.csv")
-    df_xls = pd.read_excel("clause_content_variety_latest_clauses.xlsx")
+        # EWC penalty
+        ewc_loss = 0.0
+        if self.fisher and self.old_params:
+            for n, p in model.named_parameters():
+                if n not in self.fisher or not p.requires_grad:
+                    continue
+                old_p = self.old_params[n]
+                fisher_p = self.fisher[n]
+                if p.shape == old_p.shape:
+                    ewc_loss += torch.sum(fisher_p * (p - old_p)**2)
+                else:
+                    # partial slice final layer
+                    min_dims = [min(o, n_) for o, n_ in zip(old_p.shape, p.shape)]
+                    slice_args = tuple(slice(0, md) for md in min_dims)
+                    overlap_fisher = fisher_p[slice_args]
+                    overlap_old = old_p[slice_args]
+                    overlap_new = p[slice_args]
+                    ewc_loss += torch.sum(overlap_fisher * (overlap_new - overlap_old)**2)
+            ewc_loss *= self.ewc_lambda
 
-    # Merge them all
-    combined_df = pd.concat([df1, df2, df_xls], ignore_index=True)
+        total_loss = ce_loss + distill_loss + ewc_loss
+        if return_outputs:
+            return (total_loss, outputs)
+        else:
+            return total_loss
 
-    # Label column
-    label_column = 'Clause Heading'
-    text_column = 'Clause Content'
+# -------------------------------------------------------------------------
+def evaluate_and_log(model_bert, model_roberta, ds_bert, ds_roberta, output_txt, set_name="VAL"):
+    """
+    Evaluate on a dataset => logs BERT, RoBERTa, and ensemble predictions
+    *with the actual clause text* to a text file.
+    """
+    device = next(model_bert.parameters()).device
+    total = len(ds_bert)
+    if len(ds_bert) != len(ds_roberta):
+        print(f"Warning: {set_name} ds_bert vs ds_roberta mismatch in length.")
+    max_len = min(len(ds_bert), len(ds_roberta))
 
-    # Collect all unique labels
-    all_unique_labels = combined_df[label_column].unique()
+    bert_correct = 0
+    roberta_correct = 0
+    ensemble_correct = 0
 
-    # Updated label2id from the model config
-    # (Now includes the newly added 4 classes)
-    label2id = legal_bert_model.config.label2id
-    id2label = legal_bert_model.config.id2label
+    with open(output_txt, "a", encoding="utf-8") as f:
+        f.write(f"\n=== {set_name} SET PREDICTIONS ===\n\n")
 
-    # Check if any truly unknown labels exist in the data:
-    # (Because we *did* just add 4 new ones, but if there are others not in label2id, that’s a problem)
-    new_label_set = set(all_unique_labels) - set(label2id.keys())
-    if new_label_set:
-        raise ValueError(
-            f"Found new label(s) that the expanded model doesn't support: {new_label_set}.\n"
-            "You must handle them (add them to new_labels or re-check data)."
-        )
+        for i in range(max_len):
+            ex_b = ds_bert[i]
+            ex_r = ds_roberta[i]
 
-    # Convert to IDs
-    combined_df['labels'] = combined_df[label_column].map(label2id)
+            # The dataset includes "Clause Content" text
+            clause_text = ex_b["Clause Content"]  # from the original column
+            true_label_id = ex_b["labels"].item()
 
-    ############################################################################
-    # 4) Continue training on *just the XLSX* data (or combined, your choice)
-    ############################################################################
-    # Here we only fine-tune on the new Excel data again:
-    df_train = df_xls.copy()
-    df_train['labels'] = df_train[label_column].map(label2id)
+            # Build batch
+            input_b = {}
+            input_r = {}
+            for k, v in ex_b.items():
+                if k not in ["labels", "Clause Content"]:
+                    input_b[k] = v.unsqueeze(0).to(device)
+            for k, v in ex_r.items():
+                if k not in ["labels", "Clause Content"]:
+                    input_r[k] = v.unsqueeze(0).to(device)
 
-    from datasets import Dataset
+            # BERT forward
+            with torch.no_grad():
+                out_b = model_bert(**input_b)
+                logits_b = out_b.logits
+                probs_b = torch.softmax(logits_b, dim=-1)
+                conf_b, pred_b = torch.max(probs_b, dim=-1)
+            b_pred_id = pred_b.item()
+            b_conf = conf_b.item()
 
-    def preprocess_fn_bert(examples):
-        return legal_bert_tokenizer(
-            examples[text_column],
-            truncation=True,
-            padding='max_length',
-            max_length=512
-        )
+            # RoBERTa forward
+            with torch.no_grad():
+                out_r = model_roberta(**input_r)
+                logits_r = out_r.logits
+                probs_r = torch.softmax(logits_r, dim=-1)
+                conf_r, pred_r = torch.max(probs_r, dim=-1)
+            r_pred_id = pred_r.item()
+            r_conf = conf_r.item()
 
-    def preprocess_fn_roberta(examples):
-        return legal_roberta_tokenizer(
-            examples[text_column],
-            truncation=True,
-            padding='max_length',
-            max_length=512
-        )
+            # ensemble
+            predictions = [b_pred_id, r_pred_id]
+            confidences = [b_conf, r_conf]
+            final_pred_id = predictions[torch.argmax(torch.tensor(confidences))]
 
-    ds_bert_train = Dataset.from_pandas(df_train[[text_column, 'labels']])
-    ds_bert_train = ds_bert_train.map(preprocess_fn_bert, batched=True)
-
-    ds_roberta_train = Dataset.from_pandas(df_train[[text_column, 'labels']])
-    ds_roberta_train = ds_roberta_train.map(preprocess_fn_roberta, batched=True)
-
-    # Setup training args
-    bert_training_args = TrainingArguments(
-        output_dir="./bert_results_v2",
-        evaluation_strategy="no",
-        learning_rate=2e-5,
-        per_device_train_batch_size=8,
-        num_train_epochs=3,
-        weight_decay=0.01,
-        logging_dir="./logs_bert_v2",
-        logging_steps=50,
-        report_to=[],
-    )
-    roberta_training_args = TrainingArguments(
-        output_dir="./roberta_results_v2",
-        evaluation_strategy="no",
-        learning_rate=2e-5,
-        per_device_train_batch_size=8,
-        num_train_epochs=3,
-        weight_decay=0.01,
-        logging_dir="./logs_roberta_v2",
-        logging_steps=50,
-        report_to=[],
-    )
-
-    # Optional extended logger
-    ext_logger = ExtendedLoggingCallback(training_log_file)
-
-    # Train BERT
-    trainer_bert = Trainer(
-        model=legal_bert_model,
-        args=bert_training_args,
-        train_dataset=ds_bert_train,
-        tokenizer=legal_bert_tokenizer,
-        callbacks=[ext_logger],
-    )
-    print("\nContinuing training BERT on XLSX data...")
-    trainer_bert.train()
-
-    # Train RoBERTa
-    trainer_roberta = Trainer(
-        model=legal_roberta_model,
-        args=roberta_training_args,
-        train_dataset=ds_roberta_train,
-        tokenizer=legal_roberta_tokenizer,
-        callbacks=[ext_logger],
-    )
-    print("\nContinuing training RoBERTa on XLSX data...")
-    trainer_roberta.train()
-
-    # Save updated models to v2
-    print("\nSaving updated BERT to fine_tuned_legal_bert_v2...")
-    legal_bert_model.save_pretrained(new_bert_model_path)
-    legal_bert_tokenizer.save_pretrained(new_bert_tokenizer_path)
-
-    print("Saving updated RoBERTa to fine_tuned_legal_roberta_v2...")
-    legal_roberta_model.save_pretrained(new_roberta_model_path)
-    legal_roberta_tokenizer.save_pretrained(new_roberta_tokenizer_path)
-
-    ############################################################################
-    # 5) Build an 80-20 split (Val/Test) from *all* data, evaluate & log
-    ############################################################################
-    from sklearn.model_selection import train_test_split
-
-    # Shuffle combined_df, then split
-    combined_shuffled = combined_df.sample(frac=1.0, random_state=42).reset_index(drop=True)
-    val_size = int(0.8 * len(combined_shuffled))
-    validation_df = combined_shuffled[:val_size].copy()
-    test_df = combined_shuffled[val_size:].copy()
-
-    print(f"Validation set: {len(validation_df)} clauses")
-    print(f"Test set: {len(test_df)} clauses")
-
-    # Reload your new v2 models for inference
-    bert_v2 = BertForSequenceClassification.from_pretrained(new_bert_model_path).to(device)
-    bert_tok_v2 = BertTokenizer.from_pretrained(new_bert_tokenizer_path)
-
-    roberta_v2 = RobertaForSequenceClassification.from_pretrained(new_roberta_model_path).to(device)
-    roberta_tok_v2 = RobertaTokenizer.from_pretrained(new_roberta_tokenizer_path)
-
-    # For logging predictions
-    val_log_file = os.path.join(output_directory, "validation_predictions.txt")
-    test_log_file = os.path.join(output_directory, "test_predictions.txt")
-
-    # Overwrite logs
-    with open(val_log_file, "w", encoding="utf-8") as f:
-        f.write("=== VALIDATION SET (80%) PREDICTIONS ===\n\n")
-    with open(test_log_file, "w", encoding="utf-8") as f:
-        f.write("=== TEST SET (20%) PREDICTIONS ===\n\n")
-
-    def write_to_file(filename, text, mode='a'):
-        with open(filename, mode, encoding="utf-8") as file:
-            file.write(text)
-
-    # Prediction helper
-    def get_predictions(model, tokenizer, text):
-        inputs = tokenizer(
-            text,
-            return_tensors="pt",
-            truncation=True,
-            padding='max_length',
-            max_length=512
-        ).to(device)
-        with torch.no_grad():
-            outputs = model(**inputs)
-            logits = outputs.logits
-            softmax = torch.nn.functional.softmax(logits, dim=-1)
-            confidence, predicted_class = torch.max(softmax, dim=1)
-        return predicted_class.item(), confidence.item()
-
-    # Evaluate function
-    def evaluate_and_log(df, out_file):
-        total = len(df)
-        bert_correct = 0
-        roberta_correct = 0
-        ensemble_correct = 0
-
-        for idx, row in df.iterrows():
-            clause_text = row[text_column]
-            true_label_id = row['labels']
-            true_label_str = id2label[true_label_id]
-
-            # BERT v2
-            bert_pred_id, bert_conf = get_predictions(bert_v2, bert_tok_v2, clause_text)
-            bert_pred_str = id2label[bert_pred_id]
-            is_bert_correct = (bert_pred_str == true_label_str)
-            if is_bert_correct:
+            # Check correctness
+            is_b_correct = (b_pred_id == true_label_id)
+            is_r_correct = (r_pred_id == true_label_id)
+            is_ensemble_correct = (final_pred_id == true_label_id)
+            if is_b_correct:
                 bert_correct += 1
-
-            # RoBERTa v2
-            roberta_pred_id, roberta_conf = get_predictions(roberta_v2, roberta_tok_v2, clause_text)
-            roberta_pred_str = id2label[roberta_pred_id]
-            is_roberta_correct = (roberta_pred_str == true_label_str)
-            if is_roberta_correct:
+            if is_r_correct:
                 roberta_correct += 1
-
-            # Confidence-based ensemble
-            predictions = [bert_pred_id, roberta_pred_id]
-            confidences = [bert_conf, roberta_conf]
-            final_pred_id = predictions[np.argmax(confidences)]
-            final_pred_str = id2label[final_pred_id]
-            is_ensemble_correct = (final_pred_str == true_label_str)
             if is_ensemble_correct:
                 ensemble_correct += 1
 
             # Log
-            write_to_file(out_file, f"Clause #{idx}\n")
-            write_to_file(out_file, f"Clause Text:\n{clause_text}\n")
-            write_to_file(out_file, f"** True Label: {true_label_str} **\n")
-            write_to_file(out_file, f"BERT => {bert_pred_str} (conf={bert_conf:.4f}), Correct? {is_bert_correct}\n")
-            write_to_file(out_file, f"RoBERTa => {roberta_pred_str} (conf={roberta_conf:.4f}), Correct? {is_roberta_correct}\n")
-            write_to_file(out_file, f"Ensemble => {final_pred_str}, Correct? {is_ensemble_correct}\n")
-            write_to_file(out_file, "=" * 80 + "\n\n")
+            f.write(f"Clause #{i}\n")
+            f.write(f"Clause Text:\n{clause_text}\n")
+            f.write(f"True Label ID: {true_label_id}\n")
+            f.write(f"BERT => pred_id={b_pred_id}, conf={b_conf:.4f}, correct? {is_b_correct}\n")
+            f.write(f"RoBERTa => pred_id={r_pred_id}, conf={r_conf:.4f}, correct? {is_r_correct}\n")
+            f.write(f"Ensemble => pred_id={final_pred_id}, correct? {is_ensemble_correct}\n")
+            f.write("=" * 80 + "\n\n")
 
-        # Accuracy
-        if total > 0:
-            b_acc = 100.0 * bert_correct / total
-            r_acc = 100.0 * roberta_correct / total
-            e_acc = 100.0 * ensemble_correct / total
-        else:
-            b_acc = r_acc = e_acc = 0.0
+    # Summaries
+    b_acc = 100.0 * bert_correct / max_len if max_len else 0.0
+    r_acc = 100.0 * roberta_correct / max_len if max_len else 0.0
+    e_acc = 100.0 * ensemble_correct / max_len if max_len else 0.0
 
-        summary = (f"BERT Accuracy: {bert_correct}/{total} = {b_acc:.2f}%\n"
-                   f"RoBERTa Accuracy: {roberta_correct}/{total} = {r_acc:.2f}%\n"
-                   f"Ensemble Accuracy: {ensemble_correct}/{total} = {e_acc:.2f}%\n")
-        write_to_file(out_file, summary)
-        print(summary)
+    print(f"[{set_name}] BERT Accuracy: {b_acc:.2f}%  ({bert_correct}/{max_len})")
+    print(f"[{set_name}] RoBERTa Accuracy: {r_acc:.2f}%  ({roberta_correct}/{max_len})")
+    print(f"[{set_name}] Ensemble Accuracy: {e_acc:.2f}%  ({ensemble_correct}/{max_len})")
 
-    # Evaluate on Validation
-    print("\n=== Evaluating on Validation (80%) ===\n")
-    evaluate_and_log(validation_df, val_log_file)
 
-    # Evaluate on Test
-    print("\n=== Evaluating on Test (20%) ===\n")
-    evaluate_and_log(test_df, test_log_file)
+def main():
+    """
+    1) 80/20 => train & val
+    2) Distill+EWC partial-slice training
+    3) Evaluate on validation => log predictions
+    4) (For demo) reuse val as "test", log again
+    5) Evaluate real contracts
+    """
 
-    ############################################################################
-    # 6) Evaluate on real contracts (same code as your original approach)
-    ############################################################################
-    real_log_file = os.path.join(output_directory, "real_contracts_predictions.txt")
+    debug_file = "./debugging_80_20.txt"
+    training_log_file = "./training_log_80_20.txt"
+    if os.path.exists(training_log_file):
+        os.remove(training_log_file)
+    if os.path.exists(debug_file):
+        os.remove(debug_file)
+
+    device = torch.device("mps" if torch.backends.mps.is_available() else "cpu")
+
+    old_bert_path = "./fine_tuned_legal_bert"
+    old_roberta_path = "./fine_tuned_legal_roberta"
+
+    if not os.path.exists(old_bert_path) or not os.path.exists(old_roberta_path):
+        raise FileNotFoundError("Could not find old teacher models: fine_tuned_legal_bert or fine_tuned_legal_roberta")
+
+    print("Loading old teacher BERT & RoBERTa...")
+    old_bert_teacher = BertForSequenceClassification.from_pretrained(old_bert_path).to(device)
+    old_roberta_teacher = RobertaForSequenceClassification.from_pretrained(old_roberta_path).to(device)
+
+    # Use the globally imported BERT & RoBERTa tokenizers
+    old_bert_tokenizer = BertTokenizer.from_pretrained("./fine_tuned_legal_bert_tokenizer")
+    old_roberta_tokenizer = RobertaTokenizer.from_pretrained("./fine_tuned_legal_roberta_tokenizer")
+
+    # Student
+    new_labels = ["dispute resolution", "fee", "invoice", "price and payment"]
+    print("Cloning student & expanding for new labels...")
+    bert_student = BertForSequenceClassification.from_pretrained(old_bert_path).to(device)
+    expand_bert_classifier(bert_student, new_labels)
+
+    roberta_student = RobertaForSequenceClassification.from_pretrained(old_roberta_path).to(device)
+    expand_roberta_classifier(roberta_student, new_labels)
+
+    freeze_bert_layers(bert_student, freeze_until=1)
+    freeze_roberta_layers(roberta_student, freeze_until=1)
+
+    # Load data
+    df1 = pd.read_csv("Clauses 1.csv")
+    df2 = pd.read_csv("Clauses 2.csv")
+    df_xls = pd.read_excel("clause_content_variety_latest_clauses.xlsx")
+    combined_df = pd.concat([df1, df2, df_xls], ignore_index=True)
+
+    label_col = "Clause Heading"
+    text_col = "Clause Content"
+
+    all_labels = set(combined_df[label_col].unique())
+    label2id = bert_student.config.label2id
+    missing = all_labels - set(label2id.keys())
+    if missing:
+        raise ValueError(f"Found new label(s) not in expanded model: {missing}")
+    combined_df["labels"] = combined_df[label_col].map(label2id)
+
+    # 80/20
+    train_df, val_df = train_test_split(combined_df, test_size=0.2, random_state=42)
+    print(f"Train set: {len(train_df)}, Validation set: {len(val_df)}")
+
+    from datasets import Dataset
+    ds_train = Dataset.from_pandas(train_df)
+    ds_val = Dataset.from_pandas(val_df)
+
+    # Preprocessing
+    def preprocess_bert(examples):
+        tokenized = old_bert_tokenizer(
+            examples[text_col],
+            truncation=True,
+            padding="max_length",
+            max_length=512
+        )
+        return {**examples, **tokenized}
+
+    def preprocess_roberta(examples):
+        tokenized = old_roberta_tokenizer(
+            examples[text_col],
+            truncation=True,
+            padding="max_length",
+            max_length=512
+        )
+        return {**examples, **tokenized}
+
+    ds_bert_train = ds_train.map(preprocess_bert, batched=True)
+    ds_bert_val = ds_val.map(preprocess_bert, batched=True)
+    ds_roberta_train = ds_train.map(preprocess_roberta, batched=True)
+    ds_roberta_val = ds_val.map(preprocess_roberta, batched=True)
+
+    # remove columns we don't need except 'labels' + 'Clause Content' + token keys
+    remove_cols_bert = set(ds_bert_train.column_names) - set(
+        ["labels", text_col, "input_ids", "attention_mask", "token_type_ids"]
+    )
+    remove_cols_roberta = set(ds_roberta_train.column_names) - set(
+        ["labels", text_col, "input_ids", "attention_mask"]
+    )
+
+    ds_bert_train = ds_bert_train.remove_columns(list(remove_cols_bert))
+    ds_bert_val = ds_bert_val.remove_columns(list(remove_cols_bert))
+    ds_roberta_train = ds_roberta_train.remove_columns(list(remove_cols_roberta))
+    ds_roberta_val = ds_roberta_val.remove_columns(list(remove_cols_roberta))
+
+    ds_bert_train.set_format("torch")
+    ds_bert_val.set_format("torch")
+    ds_roberta_train.set_format("torch")
+    ds_roberta_val.set_format("torch")
+
+    # EWC => old-labeled data
+    old_label2id = old_bert_teacher.config.label2id
+    old_label_ids = set(old_label2id.values())
+
+    def is_old_label(x):
+        return x["labels"].item() in old_label_ids
+
+    ds_bert_old = ds_bert_train.filter(is_old_label)
+    ds_roberta_old = ds_roberta_train.filter(is_old_label)
+
+    from torch.utils.data import DataLoader
+    old_loader_bert = DataLoader(ds_bert_old, batch_size=8, shuffle=False, collate_fn=default_data_collator)
+    old_loader_roberta = DataLoader(ds_roberta_old, batch_size=8, shuffle=False, collate_fn=default_data_collator)
+
+    print("Computing EWC fisher for old BERT teacher on old-labeled data...")
+    fisher_bert = compute_fisher_diagonal(old_bert_teacher, old_loader_bert, device)
+    print("Computing EWC fisher for old RoBERTa teacher on old-labeled data...")
+    fisher_roberta = compute_fisher_diagonal(old_roberta_teacher, old_loader_roberta, device)
+
+    # Distill+EWC train
+    from transformers import TrainingArguments
+
+    bert_args = TrainingArguments(
+        output_dir="./bert_distill_ewc_results_80_20",
+        evaluation_strategy="no",
+        learning_rate=2.64e-5,
+        per_device_train_batch_size=8,
+        num_train_epochs=10,
+        weight_decay=0.01,
+        logging_dir="./logs_bert_distill_ewc",
+        logging_steps=50,
+        report_to=[],
+    )
+    old_params_bert = {n: p.data.clone() for n, p in old_bert_teacher.named_parameters()}
+
+    from transformers import Trainer
+    bert_trainer = DistillEWCTrainer(
+        model=bert_student,
+        old_model=old_bert_teacher,
+        fisher=fisher_bert,
+        ewc_lambda=500.0,
+        distil_alpha=0.3,
+        old_params=old_params_bert,
+        old_label_ids=old_label_ids,
+        args=bert_args,
+        train_dataset=ds_bert_train,
+        tokenizer=old_bert_tokenizer,
+        callbacks=[ExtendedLoggingCallback("./training_log_80_20.txt")]
+    )
+    print("\n--- Fine-tuning BERT (Distill+EWC) on 80% training set ---\n")
+    bert_trainer.train()
+
+    # Save
+    new_bert_path = "./fine_tuned_legal_bert_v2"
+    new_bert_tok_path = "./fine_tuned_legal_bert_tokenizer_v2"
+    bert_student.save_pretrained(new_bert_path)
+    old_bert_tokenizer.save_pretrained(new_bert_tok_path)
+
+    roberta_args = TrainingArguments(
+        output_dir="./roberta_distill_ewc_results_80_20",
+        evaluation_strategy="no",
+        learning_rate=9e-5,
+        per_device_train_batch_size=8,
+        num_train_epochs=4,
+        weight_decay=0.01,
+        logging_dir="./logs_roberta_distill_ewc",
+        logging_steps=50,
+        report_to=[],
+    )
+    old_params_roberta = {n: p.data.clone() for n, p in old_roberta_teacher.named_parameters()}
+
+    roberta_trainer = DistillEWCTrainer(
+        model=roberta_student,
+        old_model=old_roberta_teacher,
+        fisher=fisher_roberta,
+        ewc_lambda=500.0,
+        distil_alpha=0.3,
+        old_params=old_params_roberta,
+        old_label_ids=old_label_ids,
+        args=roberta_args,
+        train_dataset=ds_roberta_train,
+        tokenizer=old_roberta_tokenizer,
+        callbacks=[ExtendedLoggingCallback("./training_log_80_20.txt")]
+    )
+    print("\n--- Fine-tuning RoBERTa (Distill+EWC) on 80% training set ---\n")
+    roberta_trainer.train()
+
+    new_roberta_path = "./fine_tuned_legal_roberta_v2"
+    new_roberta_tok_path = "./fine_tuned_legal_roberta_tokenizer_v2"
+    roberta_student.save_pretrained(new_roberta_path)
+    old_roberta_tokenizer.save_pretrained(new_roberta_tok_path)
+
+    # Reload for inference
+    bert_v2 = BertForSequenceClassification.from_pretrained(new_bert_path).to(device)
+    roberta_v2 = RobertaForSequenceClassification.from_pretrained(new_roberta_path).to(device)
+
+    val_and_test_logfile = "./val_and_test_predictions_80_20.txt"
+    if os.path.exists(val_and_test_logfile):
+        os.remove(val_and_test_logfile)
+
+    print("\n=== Evaluating on Validation Set (20%) ===")
+    evaluate_and_log(
+        bert_v2, 
+        roberta_v2, 
+        ds_bert_val, 
+        ds_roberta_val, 
+        val_and_test_logfile, 
+        set_name="VALIDATION"
+    )
+
+    print("\n=== Evaluating on 'Test Set' (the same 20%) ===")
+    evaluate_and_log(
+        bert_v2, 
+        roberta_v2, 
+        ds_bert_val,  # same data for demonstration
+        ds_roberta_val, 
+        val_and_test_logfile, 
+        set_name="TEST"
+    )
+
+    # Evaluate on real contracts
+    processed_contracts_dir = "./processed_contracts"
+    delimiter = "-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-"
+    real_log_file = "./real_contracts_predictions_updated_80_20.txt"
+
+    if os.path.exists(real_log_file):
+        os.remove(real_log_file)
     with open(real_log_file, "w", encoding="utf-8") as f:
         f.write("=== REAL CONTRACTS PREDICTIONS ===\n\n")
 
     def write_real_log(msg):
-        with open(real_log_file, "a", encoding="utf-8") as f:
-            f.write(msg)
+        with open(real_log_file, "a", encoding="utf-8") as ff:
+            ff.write(msg)
 
-    processed_contracts_dir = "./processed_contracts"
-    delimiter = "-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-"
-
+    print("\n=== Real Contracts Evaluation ===\n")
     if os.path.exists(processed_contracts_dir):
+        # NO local re-import of BertTokenizer or RobertaTokenizer
+        bert_tok_v2 = BertTokenizer.from_pretrained(new_bert_tok_path)
+        roberta_tok_v2 = RobertaTokenizer.from_pretrained(new_roberta_tok_path)
+
         for contract_dir in os.listdir(processed_contracts_dir):
-            contract_path = os.path.join(processed_contracts_dir, contract_dir)
-            if os.path.isdir(contract_path):
+            cpath = os.path.join(processed_contracts_dir, contract_dir)
+            if os.path.isdir(cpath):
                 contract_name = contract_dir
-                for fname in os.listdir(contract_path):
+                for fname in os.listdir(cpath):
                     if fname.endswith("_broken_down.txt"):
-                        broken_down_file = os.path.join(contract_path, fname)
+                        broken_down_file = os.path.join(cpath, fname)
                         with open(broken_down_file, "r", encoding="utf-8") as fd:
                             content = fd.read()
 
                         clauses = content.split(delimiter)
-                        for i, clause_text in enumerate(clauses):
-                            clause_text = clause_text.strip()
-                            if not clause_text:
+                        for i, c_text in enumerate(clauses):
+                            c_text = c_text.strip()
+                            if not c_text:
                                 continue
 
                             # BERT
-                            bert_pred_id, bert_conf = get_predictions(bert_v2, bert_tok_v2, clause_text)
-                            bert_pred_str = id2label.get(bert_pred_id, "UNKNOWN")
+                            inputs_b = bert_tok_v2(
+                                c_text, 
+                                return_tensors="pt",
+                                truncation=True,
+                                padding="max_length",
+                                max_length=512
+                            ).to(device)
+                            with torch.no_grad():
+                                out_b = bert_v2(**inputs_b)
+                                prob_b = torch.softmax(out_b.logits, dim=-1)
+                                cb, pb = torch.max(prob_b, dim=-1)
+                            b_pred_str = bert_v2.config.id2label.get(pb.item(), "UNKNOWN")
+                            conf_b = cb.item()
 
                             # RoBERTa
-                            roberta_pred_id, roberta_conf = get_predictions(roberta_v2, roberta_tok_v2, clause_text)
-                            roberta_pred_str = id2label.get(roberta_pred_id, "UNKNOWN")
+                            inputs_r = roberta_tok_v2(
+                                c_text,
+                                return_tensors="pt",
+                                truncation=True,
+                                padding="max_length",
+                                max_length=512
+                            ).to(device)
+                            with torch.no_grad():
+                                out_r = roberta_v2(**inputs_r)
+                                prob_r = torch.softmax(out_r.logits, dim=-1)
+                                cr, pr = torch.max(prob_r, dim=-1)
+                            r_pred_str = roberta_v2.config.id2label.get(pr.item(), "UNKNOWN")
+                            conf_r = cr.item()
 
-                            # Confidence-based
-                            if bert_conf <= 0.50 and roberta_conf <= 0.50:
+                            # Ensemble
+                            if conf_b <= 0.50 and conf_r <= 0.50:
                                 final_pred_str = "UNKNOWN"
-                            elif bert_conf > 0.50 and roberta_conf > 0.50:
-                                # If both are confident, pick the higher confidence
-                                if bert_conf > roberta_conf:
-                                    final_pred_str = bert_pred_str
-                                else:
-                                    final_pred_str = roberta_pred_str
-                            elif bert_conf > 0.50:
-                                final_pred_str = bert_pred_str
-                            elif roberta_conf > 0.50:
-                                final_pred_str = roberta_pred_str
+                            elif conf_b > 0.50 and conf_r > 0.50:
+                                final_pred_str = b_pred_str if conf_b > conf_r else r_pred_str
+                            elif conf_b > 0.50:
+                                final_pred_str = b_pred_str
+                            elif conf_r > 0.50:
+                                final_pred_str = r_pred_str
                             else:
                                 final_pred_str = "UNKNOWN"
 
-                            write_real_log(f"Contract Name: {contract_name}\n")
+                            write_real_log(f"Contract: {contract_name}\n")
                             write_real_log(f"Clause #{i}\n")
-                            write_real_log(f"Clause Text:\n{clause_text}\n")
-                            write_real_log(f"BERT Prediction: {bert_pred_str} (conf: {bert_conf:.4f})\n")
-                            write_real_log(f"RoBERTa Prediction: {roberta_pred_str} (conf: {roberta_conf:.4f})\n")
-                            write_real_log(f"Ensemble Prediction: {final_pred_str}\n")
+                            write_real_log(f"Clause Text:\n{c_text}\n")
+                            write_real_log(f"BERT => {b_pred_str} (conf={conf_b:.4f})\n")
+                            write_real_log(f"RoBERTa => {r_pred_str} (conf={conf_r:.4f})\n")
+                            write_real_log(f"Ensemble => {final_pred_str}\n")
                             write_real_log("=" * 80 + "\n\n")
     else:
-        print(f"Directory not found: {processed_contracts_dir}")
+        print(f"No processed_contracts_dir found at: {processed_contracts_dir}")
 
-    print("\nFinished! Validation results in 'validation_predictions.txt', "
-          "test results in 'test_predictions.txt', "
-          "and real-contract predictions in 'real_contracts_predictions.txt'.\n")
+    print("\nALL DONE!")
+    print(f"Train logs => {training_log_file}")
+    print(f"Val+Test predictions => {val_and_test_logfile}")
+    print(f"Real-contract logs => {real_log_file}")
+
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,16 @@
+[Step=50, Epoch=1.00] {'loss': 0.6429, 'grad_norm': 1.106950044631958, 'learning_rate': 2.3760000000000003e-05, 'epoch': 1.0}
+[Step=100, Epoch=2.00] {'loss': 0.0861, 'grad_norm': 0.19674649834632874, 'learning_rate': 2.112e-05, 'epoch': 2.0}
+[Step=150, Epoch=3.00] {'loss': 0.0511, 'grad_norm': 0.0762300193309784, 'learning_rate': 1.848e-05, 'epoch': 3.0}
+[Step=200, Epoch=4.00] {'loss': 0.0304, 'grad_norm': 0.08044621348381042, 'learning_rate': 1.584e-05, 'epoch': 4.0}
+[Step=250, Epoch=5.00] {'loss': 0.0143, 'grad_norm': 0.07873212546110153, 'learning_rate': 1.32e-05, 'epoch': 5.0}
+[Step=300, Epoch=6.00] {'loss': 0.0111, 'grad_norm': 0.05710279569029808, 'learning_rate': 1.056e-05, 'epoch': 6.0}
+[Step=350, Epoch=7.00] {'loss': 0.0081, 'grad_norm': 0.03596098721027374, 'learning_rate': 7.92e-06, 'epoch': 7.0}
+[Step=400, Epoch=8.00] {'loss': 0.0073, 'grad_norm': 0.045435626059770584, 'learning_rate': 5.28e-06, 'epoch': 8.0}
+[Step=450, Epoch=9.00] {'loss': 0.0062, 'grad_norm': 0.03738963231444359, 'learning_rate': 2.64e-06, 'epoch': 9.0}
+[Step=500, Epoch=10.00] {'loss': 0.006, 'grad_norm': 0.3579046130180359, 'learning_rate': 0.0, 'epoch': 10.0}
+[Step=500, Epoch=10.00] {'train_runtime': 207.7682, 'train_samples_per_second': 19.204, 'train_steps_per_second': 2.407, 'total_flos': 1050095886336000.0, 'train_loss': 0.08634876084327697, 'epoch': 10.0}
+[Step=50, Epoch=1.00] {'loss': 0.4265, 'grad_norm': 0.0603492446243763, 'learning_rate': 6.75e-05, 'epoch': 1.0}
+[Step=100, Epoch=2.00] {'loss': 0.0994, 'grad_norm': 0.041925206780433655, 'learning_rate': 4.5e-05, 'epoch': 2.0}
+[Step=150, Epoch=3.00] {'loss': 0.0292, 'grad_norm': 0.016534825786948204, 'learning_rate': 2.25e-05, 'epoch': 3.0}
+[Step=200, Epoch=4.00] {'loss': 0.0083, 'grad_norm': 0.014152663759887218, 'learning_rate': 0.0, 'epoch': 4.0}
+[Step=200, Epoch=4.00] {'train_runtime': 84.3203, 'train_samples_per_second': 18.928, 'train_steps_per_second': 2.372, 'total_flos': 420038354534400.0, 'train_loss': 0.1408388213813305, 'epoch': 4.0}

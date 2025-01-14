@@ -1,0 +1,103 @@
+[Step=50, Epoch=0.40] {'loss': 0.3636, 'grad_norm': 1.4247326850891113, 'learning_rate': 2.5344e-05, 'epoch': 0.4}
+[Step=100, Epoch=0.80] {'loss': 0.207, 'grad_norm': 0.47072890400886536, 'learning_rate': 2.4288000000000002e-05, 'epoch': 0.8}
+[Step=150, Epoch=1.20] {'loss': 0.108, 'grad_norm': 0.20253321528434753, 'learning_rate': 2.3232e-05, 'epoch': 1.2}
+[Step=200, Epoch=1.60] {'loss': 0.1081, 'grad_norm': 0.17400667071342468, 'learning_rate': 2.2176e-05, 'epoch': 1.6}
+[Step=250, Epoch=2.00] {'loss': 0.0995, 'grad_norm': 5.7102484703063965, 'learning_rate': 2.112e-05, 'epoch': 2.0}
+[Step=300, Epoch=2.40] {'loss': 0.0572, 'grad_norm': 3.5840260982513428, 'learning_rate': 2.0064e-05, 'epoch': 2.4}
+[Step=350, Epoch=2.80] {'loss': 0.0611, 'grad_norm': 1.1104849576950073, 'learning_rate': 1.9008e-05, 'epoch': 2.8}
+[Step=400, Epoch=3.20] {'loss': 0.0487, 'grad_norm': 0.11791040003299713, 'learning_rate': 1.7952000000000004e-05, 'epoch': 3.2}
+[Step=450, Epoch=3.60] {'loss': 0.0799, 'grad_norm': 0.32648441195487976, 'learning_rate': 1.6896000000000002e-05, 'epoch': 3.6}
+[Step=500, Epoch=4.00] {'loss': 0.0448, 'grad_norm': 0.15835142135620117, 'learning_rate': 1.584e-05, 'epoch': 4.0}
+[Step=550, Epoch=4.40] {'loss': 0.0371, 'grad_norm': 0.07990589737892151, 'learning_rate': 1.4784000000000003e-05, 'epoch': 4.4}
+[Step=600, Epoch=4.80] {'loss': 0.0412, 'grad_norm': 0.05957109481096268, 'learning_rate': 1.3728000000000001e-05, 'epoch': 4.8}
+[Step=650, Epoch=5.20] {'loss': 0.0323, 'grad_norm': 0.17518781125545502, 'learning_rate': 1.2672e-05, 'epoch': 5.2}
+[Step=700, Epoch=5.60] {'loss': 0.0297, 'grad_norm': 2.2958507537841797, 'learning_rate': 1.1616e-05, 'epoch': 5.6}
+[Step=750, Epoch=6.00] {'loss': 0.0467, 'grad_norm': 0.11497148871421814, 'learning_rate': 1.056e-05, 'epoch': 6.0}
+[Step=800, Epoch=6.40] {'loss': 0.0392, 'grad_norm': 0.0606347881257534, 'learning_rate': 9.504e-06, 'epoch': 6.4}
+[Step=850, Epoch=6.80] {'loss': 0.0377, 'grad_norm': 0.05673262104392052, 'learning_rate': 8.448000000000001e-06, 'epoch': 6.8}
+[Step=900, Epoch=7.20] {'loss': 0.0368, 'grad_norm': 1.1863548755645752, 'learning_rate': 7.392000000000001e-06, 'epoch': 7.2}
+[Step=950, Epoch=7.60] {'loss': 0.016, 'grad_norm': 0.05794346332550049, 'learning_rate': 6.336e-06, 'epoch': 7.6}
+[Step=1000, Epoch=8.00] {'loss': 0.0418, 'grad_norm': 0.03720029443502426, 'learning_rate': 5.28e-06, 'epoch': 8.0}
+[Step=1050, Epoch=8.40] {'loss': 0.0188, 'grad_norm': 0.06030896678566933, 'learning_rate': 4.2240000000000006e-06, 'epoch': 8.4}
+[Step=1100, Epoch=8.80] {'loss': 0.0396, 'grad_norm': 0.05478265509009361, 'learning_rate': 3.168e-06, 'epoch': 8.8}
+[Step=1150, Epoch=9.20] {'loss': 0.0299, 'grad_norm': 0.28379493951797485, 'learning_rate': 2.1120000000000003e-06, 'epoch': 9.2}
+[Step=1200, Epoch=9.60] {'loss': 0.0371, 'grad_norm': 0.27034905552864075, 'learning_rate': 1.0560000000000001e-06, 'epoch': 9.6}
+[Step=1250, Epoch=10.00] {'loss': 0.0225, 'grad_norm': 0.04675872623920441, 'learning_rate': 0.0, 'epoch': 10.0}
+[Step=1250, Epoch=10.00] {'train_runtime': 631.1141, 'train_samples_per_second': 15.829, 'train_steps_per_second': 1.981, 'total_flos': 2629187444736000.0, 'train_loss': 0.06737619214057923, 'epoch': 10.0}
+[Step=50, Epoch=0.40] {'loss': 0.4918, 'grad_norm': 0.5101404190063477, 'learning_rate': 8.1e-05, 'epoch': 0.4}
+[Step=100, Epoch=0.80] {'loss': 0.3108, 'grad_norm': 3.1497247219085693, 'learning_rate': 7.2e-05, 'epoch': 0.8}
+[Step=150, Epoch=1.20] {'loss': 0.1632, 'grad_norm': 0.13679896295070648, 'learning_rate': 6.3e-05, 'epoch': 1.2}
+[Step=200, Epoch=1.60] {'loss': 0.1522, 'grad_norm': 0.18144433200359344, 'learning_rate': 5.4000000000000005e-05, 'epoch': 1.6}
+[Step=250, Epoch=2.00] {'loss': 0.1644, 'grad_norm': 53.76673889160156, 'learning_rate': 4.5e-05, 'epoch': 2.0}
+[Step=300, Epoch=2.40] {'loss': 0.1105, 'grad_norm': 3.9231603145599365, 'learning_rate': 3.6e-05, 'epoch': 2.4}
+[Step=350, Epoch=2.80] {'loss': 0.0624, 'grad_norm': 0.1883610337972641, 'learning_rate': 2.7000000000000002e-05, 'epoch': 2.8}
+[Step=400, Epoch=3.20] {'loss': 0.0907, 'grad_norm': 0.06800719350576401, 'learning_rate': 1.8e-05, 'epoch': 3.2}
+[Step=450, Epoch=3.60] {'loss': 0.0834, 'grad_norm': 0.18904507160186768, 'learning_rate': 9e-06, 'epoch': 3.6}
+[Step=500, Epoch=4.00] {'loss': 0.0504, 'grad_norm': 0.06698985397815704, 'learning_rate': 0.0, 'epoch': 4.0}
+[Step=500, Epoch=4.00] {'train_runtime': 256.1799, 'train_samples_per_second': 15.598, 'train_steps_per_second': 1.952, 'total_flos': 1051674977894400.0, 'train_loss': 0.16795963048934937, 'epoch': 4.0}
+
+amiyasekhar@Amiyas-MacBook-Pro-2 CLM % python3 cc_update.py
+Loading old teacher BERT & RoBERTa...
+Cloning student & expanding for new labels...
+Train set: 999, Validation set: 250
+Map: 100%|███████████████████████████████████████████████████████████████████████████████| 999/999 [00:00<00:00, 1006.44 examples/s]
+Map: 100%|███████████████████████████████████████████████████████████████████████████████| 250/250 [00:00<00:00, 1126.71 examples/s]
+Map: 100%|███████████████████████████████████████████████████████████████████████████████| 999/999 [00:00<00:00, 1553.56 examples/s]
+Map: 100%|███████████████████████████████████████████████████████████████████████████████| 250/250 [00:00<00:00, 1809.01 examples/s]
+Filter: 100%|███████████████████████████████████████████████████████████████████████████| 999/999 [00:00<00:00, 76230.94 examples/s]
+Filter: 100%|███████████████████████████████████████████████████████████████████████████| 999/999 [00:00<00:00, 95588.22 examples/s]
+Computing EWC fisher for old BERT teacher on old-labeled data...
+Computing EWC fisher for old RoBERTa teacher on old-labeled data...
+/opt/homebrew/lib/python3.11/site-packages/transformers/training_args.py:1575: FutureWarning: `evaluation_strategy` is deprecated and will be removed in version 4.46 of 🤗 Transformers. Use `eval_strategy` instead
+  warnings.warn(
+/Users/amiyasekhar/CLM/cc_update.py:176: FutureWarning: `tokenizer` is deprecated and will be removed in version 5.0.0 for `DistillEWCTrainer.__init__`. Use `processing_class` instead.
+  super().__init__(*args, **kwargs)
+
+--- Fine-tuning BERT (Distill+EWC) on 80% training set ---
+
+{'loss': 0.3636, 'grad_norm': 1.4247326850891113, 'learning_rate': 2.5344e-05, 'epoch': 0.4}                                        
+{'loss': 0.207, 'grad_norm': 0.47072890400886536, 'learning_rate': 2.4288000000000002e-05, 'epoch': 0.8}                            
+{'loss': 0.108, 'grad_norm': 0.20253321528434753, 'learning_rate': 2.3232e-05, 'epoch': 1.2}                                        
+{'loss': 0.1081, 'grad_norm': 0.17400667071342468, 'learning_rate': 2.2176e-05, 'epoch': 1.6}                                       
+{'loss': 0.0995, 'grad_norm': 5.7102484703063965, 'learning_rate': 2.112e-05, 'epoch': 2.0}                                         
+{'loss': 0.0572, 'grad_norm': 3.5840260982513428, 'learning_rate': 2.0064e-05, 'epoch': 2.4}                                        
+{'loss': 0.0611, 'grad_norm': 1.1104849576950073, 'learning_rate': 1.9008e-05, 'epoch': 2.8}                                        
+{'loss': 0.0487, 'grad_norm': 0.11791040003299713, 'learning_rate': 1.7952000000000004e-05, 'epoch': 3.2}                           
+{'loss': 0.0799, 'grad_norm': 0.32648441195487976, 'learning_rate': 1.6896000000000002e-05, 'epoch': 3.6}                           
+{'loss': 0.0448, 'grad_norm': 0.15835142135620117, 'learning_rate': 1.584e-05, 'epoch': 4.0}                                        
+{'loss': 0.0371, 'grad_norm': 0.07990589737892151, 'learning_rate': 1.4784000000000003e-05, 'epoch': 4.4}                           
+{'loss': 0.0412, 'grad_norm': 0.05957109481096268, 'learning_rate': 1.3728000000000001e-05, 'epoch': 4.8}                           
+{'loss': 0.0323, 'grad_norm': 0.17518781125545502, 'learning_rate': 1.2672e-05, 'epoch': 5.2}                                       
+{'loss': 0.0297, 'grad_norm': 2.2958507537841797, 'learning_rate': 1.1616e-05, 'epoch': 5.6}                                        
+{'loss': 0.0467, 'grad_norm': 0.11497148871421814, 'learning_rate': 1.056e-05, 'epoch': 6.0}                                        
+{'loss': 0.0392, 'grad_norm': 0.0606347881257534, 'learning_rate': 9.504e-06, 'epoch': 6.4}                                         
+{'loss': 0.0377, 'grad_norm': 0.05673262104392052, 'learning_rate': 8.448000000000001e-06, 'epoch': 6.8}                            
+{'loss': 0.0368, 'grad_norm': 1.1863548755645752, 'learning_rate': 7.392000000000001e-06, 'epoch': 7.2}                             
+{'loss': 0.016, 'grad_norm': 0.05794346332550049, 'learning_rate': 6.336e-06, 'epoch': 7.6}                                         
+{'loss': 0.0418, 'grad_norm': 0.03720029443502426, 'learning_rate': 5.28e-06, 'epoch': 8.0}                                         
+{'loss': 0.0188, 'grad_norm': 0.06030896678566933, 'learning_rate': 4.2240000000000006e-06, 'epoch': 8.4}                           
+{'loss': 0.0396, 'grad_norm': 0.05478265509009361, 'learning_rate': 3.168e-06, 'epoch': 8.8}                                        
+{'loss': 0.0299, 'grad_norm': 0.28379493951797485, 'learning_rate': 2.1120000000000003e-06, 'epoch': 9.2}                           
+{'loss': 0.0371, 'grad_norm': 0.27034905552864075, 'learning_rate': 1.0560000000000001e-06, 'epoch': 9.6}                           
+{'loss': 0.0225, 'grad_norm': 0.04675872623920441, 'learning_rate': 0.0, 'epoch': 10.0}                                             
+{'train_runtime': 631.1141, 'train_samples_per_second': 15.829, 'train_steps_per_second': 1.981, 'train_loss': 0.06737619214057923, 'epoch': 10.0}
+100%|███████████████████████████████████████████████████████████████████████████████████████████| 1250/1250 [10:31<00:00,  1.98it/s]
+/opt/homebrew/lib/python3.11/site-packages/transformers/training_args.py:1575: FutureWarning: `evaluation_strategy` is deprecated and will be removed in version 4.46 of 🤗 Transformers. Use `eval_strategy` instead
+  warnings.warn(
+/Users/amiyasekhar/CLM/cc_update.py:176: FutureWarning: `tokenizer` is deprecated and will be removed in version 5.0.0 for `DistillEWCTrainer.__init__`. Use `processing_class` instead.
+  super().__init__(*args, **kwargs)
+
+--- Fine-tuning RoBERTa (Distill+EWC) on 80% training set ---
+
+{'loss': 0.4918, 'grad_norm': 0.5101404190063477, 'learning_rate': 8.1e-05, 'epoch': 0.4}                                           
+{'loss': 0.3108, 'grad_norm': 3.1497247219085693, 'learning_rate': 7.2e-05, 'epoch': 0.8}                                           
+{'loss': 0.1632, 'grad_norm': 0.13679896295070648, 'learning_rate': 6.3e-05, 'epoch': 1.2}                                          
+{'loss': 0.1522, 'grad_norm': 0.18144433200359344, 'learning_rate': 5.4000000000000005e-05, 'epoch': 1.6}                           
+{'loss': 0.1644, 'grad_norm': 53.76673889160156, 'learning_rate': 4.5e-05, 'epoch': 2.0}                                            
+{'loss': 0.1105, 'grad_norm': 3.9231603145599365, 'learning_rate': 3.6e-05, 'epoch': 2.4}                                           
+{'loss': 0.0624, 'grad_norm': 0.1883610337972641, 'learning_rate': 2.7000000000000002e-05, 'epoch': 2.8}                            
+{'loss': 0.0907, 'grad_norm': 0.06800719350576401, 'learning_rate': 1.8e-05, 'epoch': 3.2}                                          
+{'loss': 0.0834, 'grad_norm': 0.18904507160186768, 'learning_rate': 9e-06, 'epoch': 3.6}                                            
+{'loss': 0.0504, 'grad_norm': 0.06698985397815704, 'learning_rate': 0.0, 'epoch': 4.0}                                              
+{'train_runtime': 256.1799, 'train_samples_per_second': 15.598, 'train_steps_per_second': 1.952, 'train_loss': 0.16795963048934937, 'epoch': 4.0}
+100%|█████████████████████████████████████████████████████████████████████████████████████████████| 500/500 [04:16<00:00,  1.95it/s]
